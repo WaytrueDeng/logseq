@@ -1,0 +1,78 @@
+:PROPERTIES:
+:file: [[../assets/生理学.pdf][生理学.pdf]]
+:file-path: ../assets/生理学.pdf
+:END:
+
+* 横纹肌肌质网Ca²⁺释放机制
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 61decce3-a0c8-4dd7-950c-ee38c899169e
+:END:
+* 纹肌的收缩机制 肌丝滑行理论
+:PROPERTIES:
+:hl-page: 62
+:ls-type: annotation
+:id: 61ded316-5bec-42d5-9a09-366ce37ac28f
+:END:
+* 肌丝的分子结构示意图
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 61ded3da-e8cd-42ef-b5e3-60e519731503
+:END:
+*
+* 钠钾泵,钠钾泵（sodium・potassiumDump）是哺乳动物细胞膜中普遍存在的离子泵，简称钠泵.
+:PROPERTIES:
+:hl-page: 37
+:ls-type: annotation
+:id: 61dfd1e6-ebb4-41ea-8bcb-6ed6848c6b18
+:END:
+* 哺乳动物骨骼肌细胞胞内和胞外主要离子的浓度及各种离子的平衡电位(温度：37P)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 61dfd422-667e-451f-9436-16aded3933ff
+:END:
+* 出胞指胞质内的大分子物质以分泌'囊泡"的形式排出体外的过程,例如外分泌腺细胞排放黏液,内分泌腺细胞分泌激素、神绎纤维末梢释放神经递质等过程都属于出胞。
+:PROPERTIES:
+:hl-page: 40
+:ls-type: annotation
+:id: 61dfe9c5-0e29-4025-836b-6ff3a4ae701d
+:END:
+* 膜两侧溶液中的离子还有Cl•和Ca?•和有机负离子等,但它们对静息电位的形成均无明显作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 61dff208-fbbc-4f6e-bc89-321681b68d26
+:END:
+* 若将细胞外液中的Na⁺用其他物质取代或给与钠通道阻断剂TTX后，神经纤维动作电位的幅度将下降或消失
+:PROPERTIES:
+:hl-page: 53
+:ls-type: annotation
+:id: 61e0074f-f984-4ac4-8eea-120c4770651a
+:END:
+* “人们推测神经细胞膜中的电压门控钾通道没有失活门，而只有一个激活门（n门）；通道可有两种功能状态，即安静时激活门关闭的‘静息态’和去极化时激活门开放，K⁺外流的‘激活态’”
+:PROPERTIES:
+:hl-page: 54
+:ls-type: annotation
+:id: 61e00934-06ab-4543-b59f-2c38be1df43c
+:END:
+* 这是一类兼有通道和受体功能的蛋白分子，也称配体门控通道，如骨骼肌终板膜中的N₂型乙酰胆碱受体
+:PROPERTIES:
+:hl-page: 35
+:ls-type: annotation
+:id: 61e00efd-59cf-4381-ab2e-bff5d1ca2805
+:END:
+* “N₂型ACh受体阳离子通道直径约0.65nm，可允许Na⁺、K⁺和Ca²⁺跨膜移动（C错），但主要是Na⁺内流和K⁺外流；在静息状态下，Na⁺内向驱动力大于K⁺外向驱动力（D对）（见本章第三节），故以Na⁺内流为主，其速度最高可达每毫秒3×l0⁴个Na⁺。Na⁺的净内流使终板膜发生去极化反应，称为终板电位（EPP）”。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 61e0140f-3fad-46c3-a4a1-5ad94bdfd4af
+:END:
+* 通常可将前负荷与初长度看成同义词,在肌肉收缩实验中常用初长度来表示前负荷。例如，在等长收缩实验中，可测定不同初长度条件下肌肉主动收缩产生的张力（即主动张力随初长度的增大而增大)
+:PROPERTIES:
+:hl-page: 65
+:ls-type: annotation
+:id: 61e01a06-dcf3-476c-8b50-1d0ed68cf1be
+:END:
