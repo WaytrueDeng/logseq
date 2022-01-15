@@ -61,7 +61,8 @@
 :id: 61e2be56-16e7-48c5-8cf3-2002dcbd37d2
 :END:
 **** 凝血酶调节蛋白→将凝血酶由促凝转为抗凝→激活PC + 蛋白S(PS 辅因子)→灭活5,8
-*** TFPI(血管内皮C): 抑制
+*** TFPI(血管内皮C): 抑制3a.7a
+*** [[肝素]]
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
