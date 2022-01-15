@@ -76,3 +76,9 @@
 :ls-type: annotation
 :id: 61e01a06-dcf3-476c-8b50-1d0ed68cf1be
 :END:
+* 除寸球蛋白来自浆细胞外，白蛋白和大多数球蛋白主要由肝脏产生。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 61e23987-4f6b-4676-a934-a588267f9b83
+:END:
