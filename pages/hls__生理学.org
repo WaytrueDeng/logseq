@@ -82,3 +82,9 @@
 :hl-page: 68
 :id: 61e23987-4f6b-4676-a934-a588267f9b83
 :END:
+* 可塑变形性:正常红细胞在外力作用下具有变形的能力
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 61e26468-7246-42b7-8a25-182842d36839
+:END:

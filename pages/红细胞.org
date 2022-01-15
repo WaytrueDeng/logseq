@@ -1,3 +1,16 @@
 * 红细胞的生理特性
 ** 双凹原碟状 本质是增大表面积和体积的比值
-** 可塑变形性
+** 可塑变形性 (生存所需最重要)保证RBC可通过口径比它小的CA
+:PROPERTIES:
+:id: 61e2643a-7c58-4774-b0c1-a7984c7f6f35
+:END:
+* [[Comments]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[Jan 15th, 2022]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((61e2643a-7c58-4774-b0c1-a7984c7f6f35))
+**** ((61e26468-7246-42b7-8a25-182842d36839))
