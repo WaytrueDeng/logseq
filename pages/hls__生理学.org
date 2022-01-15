@@ -148,3 +148,9 @@
 :hl-page: 81
 :id: 61e2b3f0-afe1-448c-9a50-4ef38bd851ea
 :END:
+* 丝氨酸蛋白酶抑制物:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:id: 61e2bc83-c760-456f-8136-b57a0c9e82df
+:END:
