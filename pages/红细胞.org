@@ -38,7 +38,9 @@
 ** 辅因子
 *** [[叶酸]]
 *** [[内因子]]
-*** 也算
+*** 叶酸,内因子↓→一碳单位→核苷酸↓→DNA/RNA↓
+**** Hb→贫血
+**** RBC不能分裂
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
