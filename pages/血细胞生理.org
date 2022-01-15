@@ -15,6 +15,12 @@
 *** 嗜酸系
 *** 嗜碱系
 *** 红系
+:PROPERTIES:
+:id: 61e25bb0-fc2c-4010-b231-5c81c3caaad4
+:END:
 *** 巨核(不要与巨噬混为一谈)
+:PROPERTIES:
+:id: 61e25ba6-14dc-452c-945b-df485ae6ac01
+:END:
 ** 淋巴系
 * [[白血病]]
