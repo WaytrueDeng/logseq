@@ -58,6 +58,9 @@
 ***** [[肝硬化]]→脾亢→RBC,WBC,PLC数量减少 三系减少
 **** 血管里
 ***** 输血血型不符
+* 红细胞的功能'
+** Hb: 运输O2与CO2(主要)
+** 缓冲对 维持酸碱平衡 HbK
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
