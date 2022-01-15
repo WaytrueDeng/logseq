@@ -73,6 +73,8 @@
 *** u-PA
 *** 12a
 *** K
+* 小知识点总结
+** [[抗血小板药]]: 阿司匹林,氯吡格雷]]
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
