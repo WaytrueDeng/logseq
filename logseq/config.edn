@@ -90,7 +90,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:ui/toggle-right-sidebar "alt+right", :ui/toggle-left-sidebar "alt+left", :editor/highlight "meta+ctrl+h", :editor/cycle-todo "meta+ctrl+enter"}
+ :shortcuts {:ui/toggle-right-sidebar "alt+right", :ui/toggle-left-sidebar "alt+left", :editor/highlight "alt+ctrl+h", :editor/cycle-todo "meta+ctrl+enter", :editor/bold "alt+b"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
