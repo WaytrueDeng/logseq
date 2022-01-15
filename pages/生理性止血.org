@@ -70,6 +70,10 @@
 *** 温盐水纱布 温盐水:适当加温→促凝. 异物:类似于胶原
 * 纤维蛋白溶解
 ** 纤溶酶原激活物
+*** t-PA(rt-PA)
+*** u-PA
+*** 12a
+*** K
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
