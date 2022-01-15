@@ -136,3 +136,9 @@
 :ls-type: annotation
 :id: 61e285a7-5746-43b2-a43f-2b350d5db434
 :END:
+* 血液凝固后1~2小时，因血凝块中的血小板激活，使血凝块回缩,释出淡毓取弑^酹血清（serum
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 82
+:id: 61e29732-0b45-4cf6-8ba6-12225a07d839
+:END:
