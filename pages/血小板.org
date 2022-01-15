@@ -34,3 +34,16 @@
 * 血小板的生成调节与破坏
 ** 生成:^^TPO(血小板生成素)^^  - 最重要
 ** 破坏: 7-14天,但只有最初两天有生理功能
+:PROPERTIES:
+:id: 61e28556-8334-45d1-a123-8f024ae29749
+:END:
+* [[Comments]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[Jan 15th, 2022]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((61e28556-8334-45d1-a123-8f024ae29749))
+**** ((61e285a7-5746-43b2-a43f-2b350d5db434))

@@ -130,3 +130,9 @@
 :hl-page: 76
 :id: 61e27b81-2f95-4ac4-859e-0b99e79fc241
 :END:
+* 血小板进入血液后,其寿命为7~14天，但只在最初两天具有生理功能
+:PROPERTIES:
+:hl-page: 78
+:ls-type: annotation
+:id: 61e285a7-5746-43b2-a43f-2b350d5db434
+:END:
