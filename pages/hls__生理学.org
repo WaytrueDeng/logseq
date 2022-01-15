@@ -142,3 +142,9 @@
 :hl-page: 82
 :id: 61e29732-0b45-4cf6-8ba6-12225a07d839
 :END:
+* 在正常情况下，血浆中FV1B与 VWF以非共价形式结合成复合物，该复合物可避免FVHI被活化的蛋白C降解，提高其稳定性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 61e2b3f0-afe1-448c-9a50-4ef38bd851ea
+:END:
