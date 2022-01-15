@@ -34,6 +34,7 @@
 *** 血红素
 ** 基本原料
 *** 蛋白质 ((61e26dd8-4b0a-46d1-bfa5-4e58ef3a4d43))
+*** Fe²⁺→[[缺铁性贫血]]
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
