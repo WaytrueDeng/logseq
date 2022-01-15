@@ -94,3 +94,39 @@
 :hl-page: 71
 :id: 61e26663-c067-4461-9a68-887181f2ca36
 :END:
+* GPnb/ma
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b61-5524-4eba-9f99-47b12e9298e9
+:END:
+* GPnb/ma
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b64-2d1e-4310-b007-f24e72703ad9
+:END:
+* 上GPnb/ma的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b6a-9821-4b1a-ae54-a6f15d0ec66e
+:END:
+* 之间的相互黏
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b70-2c68-4028-acfa-1d00c36c3fbb
+:END:
+* 能在高剪切力条件下（如小动脉和狭窄的血管等）黏附于受损局部。正常情况下，由于
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b76-3f36-4388-8b83-310966e2f4a4
+:END:
+* 板能在高剪切力条件下（
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e27b81-2f95-4ac4-859e-0b99e79fc241
+:END:
