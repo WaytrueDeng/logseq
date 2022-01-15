@@ -43,7 +43,7 @@
 **** RBC不能分裂
 ** 调节因子
 *** 促进因素
-**** EPO(促红素)
+**** ^^[[EPO]](促红素)^^←肾脏产生 最重要的调节因子 → 肾性贫血
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
