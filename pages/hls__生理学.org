@@ -88,3 +88,9 @@
 :hl-page: 71
 :id: 61e26468-7246-42b7-8a25-182842d36839
 :END:
+* 红细胞内的黏度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 61e26663-c067-4461-9a68-887181f2ca36
+:END:
