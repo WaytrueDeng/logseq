@@ -1,2 +1,7 @@
 * AL急性
-* CL
+:PROPERTIES:
+:id: 61e25ca2-cf19-4115-921b-0dbc2b504e04
+:END:
+** AML(急髓/粒)
+* CL慢性
+*
