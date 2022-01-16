@@ -37,6 +37,10 @@
 :PROPERTIES:
 :id: 61e28556-8334-45d1-a123-8f024ae29749
 :END:
+* 血小板三大功能之
+** ①中最重要的就是保持血管内皮完整性 
+②参与生理性止血
+③修复受损血管分泌VEGF,PDGF
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
