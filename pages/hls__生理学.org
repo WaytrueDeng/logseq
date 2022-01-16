@@ -202,3 +202,9 @@
 :hl-page: 74
 :id: 61e3bec8-4b5f-4ef9-8aed-22f0db306e55
 :END:
+* 临床上也可通过测定血浆。•血小板球蛋白和PF,的含量来了解体内血小板的活化情况。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 61e3c6ed-96ca-467b-a59b-c8302163e3a3
+:END:
