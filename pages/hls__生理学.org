@@ -238,3 +238,9 @@
 :ls-type: annotation
 :id: 61e3e284-d371-44d0-aadb-f9c5fdfd21b2
 :END:
+* 全身血液的大部分在心血管系统中快速循环流动,称为循环血量,小部分血液滞留在肝、肺、腹腔静脉和皮下静脉丛内，流动很慢，称为储存血量。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 88
+:id: 61e3f599-d785-4028-aff2-3e7113ff1190
+:END:
