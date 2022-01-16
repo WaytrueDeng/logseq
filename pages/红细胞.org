@@ -40,13 +40,34 @@
 *** 血红素
 ** 基本原料
 *** 蛋白质 ((61e26dd8-4b0a-46d1-bfa5-4e58ef3a4d43))
+:PROPERTIES:
+:id: 61e26e02-5af9-4d35-bb0c-201d91a486d3
+:END:
 *** Fe²⁺→缺铁性贫血 {{embed [[缺铁性贫血]] }}
 ** 辅因子
+:PROPERTIES:
+:id: 61e27022-fe7a-4ce6-be89-bb2e1a1c2e78
+:END:
 *** [[叶酸]]
+:PROPERTIES:
+:id: 61e2702f-df5b-4c5c-a082-697be84685b2
+:END:
 *** [[内因子]]
+:PROPERTIES:
+:id: 61e27036-af6f-418e-b08b-6acfa562dc14
+:END:
 *** 叶酸,内因子↓→一碳单位→核苷酸↓→DNA/RNA↓ → [[巨幼贫]]←[[末端回肠切除]]
+:PROPERTIES:
+:id: 61e27060-1bbe-4f83-9bb0-ce3128f2e791
+:END:
 **** Hb→贫血
+:PROPERTIES:
+:id: 61e270dd-674c-430e-a45e-9e140b1ec0b0
+:END:
 **** RBC不能分裂
+:PROPERTIES:
+:id: 61e270e3-9768-47d6-a264-2ddae7e502d9
+:END:
 ** 调节因子
 *** 促进因素
 **** {{embed [[EPO]] }} (促红素)←肾脏产生 最重要的调节因子 → 肾性贫血
