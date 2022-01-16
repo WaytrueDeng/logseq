@@ -226,3 +226,9 @@
 :ls-type: annotation
 :id: 61e3dec7-9d72-47f2-b40b-63698b926096
 :END:
+* “故血清与血浆的区别在于前者缺乏纤维蛋白原和FⅡ、FⅤ、FⅧ、FⅩⅢ等凝血因子，但也增添了少量凝血过程中由血小板释放的物质”
+:PROPERTIES:
+:hl-page: 82
+:ls-type: annotation
+:id: 61e3e02c-34c6-452f-a9bf-ba88ecca102e
+:END:
