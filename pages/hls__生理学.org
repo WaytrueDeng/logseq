@@ -208,3 +208,9 @@
 :ls-type: annotation
 :id: 61e3c6ed-96ca-467b-a59b-c8302163e3a3
 :END:
+* 。黏附的血小板进一步激活血小板内信号途径导致血小板的活化并释放内源蠢'dp和TXA,,进而激活血液中其他血小板，募集更多的血小板相互黏着而发生不可逆聚集
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 61e3cf7e-e7ff-4ac8-b46a-a26ac0eed8a7
+:END:
