@@ -1,0 +1,18 @@
+* {{renderer :kanban_kowvhp}}
+** data
+:PROPERTIES:
+:collapsed: true
+:END:
+*** longterm
+**** 学习rust
+**** 学习javascript
+**** 学习lua
+**** 学习html
+**** 学习TLS
+*** middleterm
+**** 学习curl
+**** 政治
+*** shortterm
+**** 西综
+**** 英语
+****
