@@ -2,13 +2,13 @@
 ** data
 *** longterm
 **** 学习rust
-:LOGBOOK:
-CLOCK: [2022-01-16 Sun 21:42:57]--[2022-01-16 Sun 21:42:58] =>  00:00:01
-CLOCK: [2022-01-16 Sun 21:43:22]--[2022-01-16 Sun 21:43:23] =>  00:00:01
-:END:
 **** 学习javascript
 **** 学习lua
 **** 学习html
 *** middleterm
-****
+**** 学习curl
+**** 政治
 *** shortterm
+**** 西综
+**** 英语
+****
