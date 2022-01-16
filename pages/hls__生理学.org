@@ -166,3 +166,8 @@
 :hl-page: 72
 :id: 61e3ba55-32df-4c75-b2cc-356012ab51cf
 :END:
+* :PROPERTIES:
+:hl-page: 73
+:ls-type: annotation
+:id: 61e3bded-083e-4649-b953-9e0fc6c81499
+:END:
