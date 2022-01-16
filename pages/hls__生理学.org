@@ -214,3 +214,9 @@
 :ls-type: annotation
 :id: 61e3cf7e-e7ff-4ac8-b46a-a26ac0eed8a7
 :END:
+* FⅫa还能通过激活前激肽释放酶为激肽释放酶而正反馈促进FⅫa的形成
+:PROPERTIES:
+:hl-page: 81
+:ls-type: annotation
+:id: 61e3dc30-e066-4782-b422-e066402acbbe
+:END:
