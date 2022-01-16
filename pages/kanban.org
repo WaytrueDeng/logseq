@@ -1,2 +1,10 @@
-* /k
-*
+* {{renderer :kanban_kowvhp}}
+** data
+*** longterm
+**** 学习rust
+**** 学习javascript
+**** 学习lua
+**** 学习html
+*** middleterm
+****
+*** shortterm
