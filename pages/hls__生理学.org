@@ -154,3 +154,9 @@
 :hl-page: 83
 :id: 61e2bc83-c760-456f-8136-b57a0c9e82df
 :END:
+* 在某些疾病时(如活动性肺结核、风湿热等)，由于炎症因子促进肝脏纤维蛋白原的合成,可引起红细胞沉降率加快
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 61e3b5f1-020a-41c1-a411-8c847c2062d6
+:END:
