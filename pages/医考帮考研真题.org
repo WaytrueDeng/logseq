@@ -1,4 +1,7 @@
 * TODO 生理 ((61deca5a-121d-4f2e-9d1d-aac362e9bb4e))
+:PROPERTIES:
+:collapsed: true
+:END:
 :LOGBOOK:
 CLOCK: [2022-01-13 Thu 19:07:23]--[2022-01-13 Thu 19:07:26] =>  00:00:03
 CLOCK: [2022-01-13 Thu 19:07:27]--[2022-01-13 Thu 19:07:35] =>  00:00:08
@@ -18,11 +21,15 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 :END:
 ** :PROPERTIES:
 :id: 61dfcf29-75cd-46bc-a663-47027dac8649
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 [[../assets/image_1642057872283_0.png]] 
 #+END_IMPORTANT
 ** [[../assets/image_1642058154336_0.png]]
+:PROPERTIES:
+:collapsed: true
+:END:
 *** ((61dfd1e6-ebb4-41ea-8bcb-6ed6848c6b18))
 ** [[../assets/image_1642058725476_0.png]]
 :PROPERTIES:
@@ -34,6 +41,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 :END:
 ** :PROPERTIES:
 :id: 61dfdcad-ea74-4731-8a15-25e92baa8dc5
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 [[../assets/image_1642061723906_0.png]] 
@@ -41,6 +49,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 **
 ** :PROPERTIES:
 :id: 61dfda54-0b9e-420b-967b-47c8415865eb
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 29. 1989N148X 心肌细胞外Na 浓度增高时
@@ -51,6 +60,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 *** D. 细胞内K浓度升高
 ** :PROPERTIES:
 :id: 61dfe524-e50b-42ed-8114-28ed1687b1a8
+:collapsed: true
 :END:
 34. 2016N151X 下面的物质转运中属于出胞
 的是 
@@ -61,6 +71,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 ** 45.2009N156× 与发生细胞生物电有关的跨膜物质转运形式有
 :PROPERTIES:
 :id: 61dfeb32-e66c-41c3-8e75-7c166adb9400
+:collapsed: true
 :END:
 - [ ] A.经载体易化扩散
 - [x] B.经化学门控通道易化扩散
@@ -69,6 +80,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 ** 50.2021N2A 实际测量神经细胞静息电位略小干钾离子平衡电位的主要原因是
 :PROPERTIES:
 :id: 61dfefa6-680e-40ce-9991-8a43817c0618
+:collapsed: true
 :END:
 - [x] A. 在钾离子外流的背景下存在少量的钠离子内流 
 - [ ] B.在钾离子外流的背景下存在少量的钙离子内流 
@@ -76,6 +88,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.在钾离子外流的背景下存在钠泵的生电作用
 ** :PROPERTIES:
 :id: 61dff32c-a530-42eb-95a9-4fc16ce0e4fd
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 53. 2010N121B 当神经细胞处于静息电位时电化学驱动力最小的离子是 
@@ -86,6 +99,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [X] D. Cl⁻
 ** :PROPERTIES:
 :id: 61dff44d-debd-49a5-85ad-c35bbe84961b
+:collapsed: true
 :END:
 55. 2001N3A 细胞外液的K+浓度明显降低时
 将引起
@@ -97,6 +111,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 ** 61.1997N1A 下列有关同一细胞兴奋传导的叙述，哪一项是错误的
 :PROPERTIES:
 :id: 61dff639-15c3-4258-a85a-12c4abe5487a
+:collapsed: true
 :END:
 - [ ] A. 动作电位可沿细胞膜传导到整个细胞
 - [ ] B. 传导方式是通过产生局部电流刺激末兴奋部位，使之出现动作电位
@@ -106,6 +121,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 ** 72.2019N116B 增加神经细胞外K＋浓度，神经细胞跨膜电位的改变
 :PROPERTIES:
 :id: 61dff854-a532-42dd-98ed-8d11c30fb0a9
+:collapsed: true
 :END:
 - [x] A.静息电位減小，动作电位幅度减小 
 - [ ] B.静息电位增大，动作电位幅度增大
@@ -113,6 +129,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.静息电位增大，动作电位幅度滅小
 ** :PROPERTIES:
 :id: 61e00689-98fb-4e27-a899-c1de092b6846
+:collapsed: true
 :END:
 73. 2019N117B 增加细胞外液中Na 浓度后神经细胞跨膜电位的改变是
 - [ ]A静息电位减小，动作电位幅度减小
@@ -121,6 +138,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ]D.静息电位增大，动作电位幅度滅小
 ** :PROPERTIES:
 :id: 61e00637-570d-4fdb-a65e-b8b70bdac82e
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 75.1999N4A 神经纤维电压门控的Nat通道与K通道的共同点中，错误的是
@@ -132,6 +150,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] E.都有静息状态
 ** :PROPERTIES:
 :id: 61e00ab3-aa15-4d90-b7ff-8ca5e55d891b
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 83. 1993N130X 与神经元兴奋具有同样意义的是
@@ -142,6 +161,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ]D.突触后电位
 ** :PROPERTIES:
 :id: 61e00bff-b954-4af1-9e6d-91bccbba585f
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 90.2003N129x 局部电位的特点是
@@ -152,6 +172,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.传导较慢
 ** :PROPERTIES:
 :id: 61e00cc4-6f1c-4a0a-8944-888fbb67a4b9
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 93.1996N3A 下列关于生物电的叙述中，哪项是错误的
@@ -167,6 +188,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 位
 ** :PROPERTIES:
 :id: 61e00e21-6c3a-4f9e-a691-b5c73a3460ff
+:collapsed: true
 :END:
 95. 1999N5A 在神经-骨骼肌接点的终板膜处
 - [ ] A.受体和离子通道是两个独立的蛋白质分子
@@ -176,6 +198,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] E.受体通过第二信使触发肌膜兴奋
 ** :PROPERTIES:
 :id: 61e011a7-19f0-46d5-8489-e59e9662323b
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 96.2001N5A 下列有关神经-肌肉接点处终板膜上离子通道的叙述，错误的是
@@ -187,6 +210,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] E 受体和通道是一个大分子
 ** :PROPERTIES:
 :id: 61e01294-0b3b-408c-b7fb-35030b5e6ea7
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 97.2021N3A 骨骼肌终板电位以钠离子内流为主，主要是因为
@@ -198,18 +222,23 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 ** 103.2010N151× 下列选项中，可使骨骼肌松弛的途径有
 :PROPERTIES:
 :id: 61e015a4-bbf0-4d7d-bfc7-27c5a47763bf
+:collapsed: true
 :END:
 - [ ] A.促使Ca2进入运动神经木梢
 - [x] B.抑制运动神经末梢释放递质
 - [x] C.阻断终板膜上一价非选择性阳离子通道
 - [ ] D.抑制胆碱酯酶活性
 ** 104.2021N11A 临床上使用新斯的明治疗重症肌无力的机制是
+:PROPERTIES:
+:collapsed: true
+:END:
 - [ ] A.模拟乙酰胆碱
 - [x] B.抑制胆碱酯酶
 - [ ] C.激活ACh受体通道
 - [ ] D.增大终板电位幅度
 ** :PROPERTIES:
 :id: 61e01722-a26c-4180-b830-8bc5aa9c00f9
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 106.2019N2A 动作电位引起骨骼肌收缩的关键因素是
@@ -220,6 +249,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.肌质网膜 上rvanodine受体激活
 ** :PROPERTIES:
 :id: 61e0188e-5295-47fa-a474-0cd9e21f915e
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 109.2015N121B 具有ATP酶活性，属于分子马达的肌丝成分是
@@ -230,6 +260,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.原肌球蛋白
 ** :PROPERTIES:
 :id: 61e0184a-99e4-41ae-bed5-804c6745b48f
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 116.2016N121B 在一定范围内增加骨骼肌收缩的前负荷，则骨骼肌的收缩力的力学改变
@@ -240,6 +271,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] D.缩短起始时间提前
 ** :PROPERTIES:
 :id: 61e01acf-c718-436d-bb95-08de4e448c4b
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 117. 2016N122B 在一定范围内增加骨骼肌收缩的后负荷，则骨骼肌的收缩力的力学改变
