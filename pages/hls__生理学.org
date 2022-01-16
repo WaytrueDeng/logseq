@@ -172,3 +172,33 @@
 :ls-type: annotation
 :id: 61e3bded-083e-4649-b953-9e0fc6c81499
 :END:
+* 雌激骚降低红系品话胞对EPO的反应•抑制红细胞的生成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 61e3beaf-2a29-41c5-a385-2167ecfdec65
+:END:
+* 雌激骚降低红
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 61e3beb4-1457-4ab9-8b24-eb6cfc15ab6a
+:END:
+* 骨髓红系祖细胞增殖的效应
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 61e3beb6-48ae-4bfe-ad71-041712e92f08
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 61e3bec1-2f3c-45c3-bb2b-d9458708ad87
+:END:
+:雄激素可提高/凌中EPO的浓度，促进红细胞的生成
+* ，血浆中血红蛋白浓度过高而超出触珠蛋白的结合能力时，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 61e3bec8-4b5f-4ef9-8aed-22f0db306e55
+:END:
