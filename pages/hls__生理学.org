@@ -250,3 +250,9 @@
 :hl-page: 93
 :id: 61eba94d-f57b-4344-b00f-d2b13e3979ca
 :END:
+* 体内几乎所有的血管都受交感缩血管神经纤维的支配
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:id: 61ec021c-573f-420f-933c-3e5121238eab
+:END:
