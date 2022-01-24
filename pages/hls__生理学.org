@@ -286,3 +286,9 @@
 :ls-type: annotation
 :id: 61ee53da-7a66-4447-89f3-5338cff35df0
 :END:
+* 心室肌细胞动作电位各时相的离子流在心房肌细胞上也都具备，主要的不同是心房肌细胞膜上存在乙酰胆碱敏感的钾电流（IK-ACh）,在ACh作用下，IK-ACh通道大量激活开放，膜对K⁺的通透性增加，K⁺外流增强而出现超极化，导致心房肌细胞动作电位时程明显缩短
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:id: 61ee56df-9b23-4af3-a49a-f16da67381ea
+:END:
