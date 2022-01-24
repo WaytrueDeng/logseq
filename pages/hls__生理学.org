@@ -292,3 +292,9 @@
 :hl-page: 103
 :id: 61ee56df-9b23-4af3-a49a-f16da67381ea
 :END:
+* 心交感神经和心迷走神经平时都具有紧张性，均主要起源于延髓心血管中枢。两者作用相互拮抗,共同调节心脏活动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 61ee58d8-7477-4629-ac01-d85b718fe6d3
+:END:
