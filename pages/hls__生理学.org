@@ -387,3 +387,9 @@
 :ls-type: annotation
 :id: 61ee7217-5ba6-4247-8fbf-ace80d89cd8b
 :END:
+* 在舒张期开始后，心肌对冠脉的压迫减弱或解除，冠脉血流阻力减小，CBF迅速增加，并在舒张早期达到高峰，然后逐渐减少
+:PROPERTIES:
+:hl-page: 137
+:ls-type: annotation
+:id: 61ee7278-53c5-4fb5-92e2-120a388fa62a
+:END:
