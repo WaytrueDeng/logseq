@@ -375,3 +375,9 @@
 :ls-type: annotation
 :id: 61ee70bb-a2ca-4750-be28-8e79eb93488b
 :END:
+* 人在安静状态下，冠状动脉血中的氧含量约20ml/100ml血液，冠状窦静脉血中的氧含量约6ml/100ml血液，动、静脉血样差达14ml/100ml血液，摄氧率可达70%左右，远高于其他器官组织
+:PROPERTIES:
+:hl-page: 136
+:ls-type: annotation
+:id: 61ee7162-8de6-44d7-aeaa-64f8de9e2e4d
+:END:
