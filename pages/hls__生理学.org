@@ -317,3 +317,9 @@
 :ls-type: annotation
 :id: 61ee5b06-9862-4b1c-931e-17412a03fb7f
 :END:
+* 慢性高血压患者或实验性高血压动物中，压力感受性反射功能曲线可向右上方移位,使调定点升高，这一现象称为压力感受性反射的重调定(resetting)，提示在高血压的情况下压力感受性反射的工作范围发生改变，即在较正常高的血压水平上保持血压相对稳定
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 130
+:id: 61ee5fcf-cee2-42a6-9efa-370f1b50b43c
+:END:
