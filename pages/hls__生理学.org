@@ -280,3 +280,9 @@
 :ls-type: annotation
 :id: 61ee134f-823e-4283-bb83-0a27a71af738
 :END:
+* 在窦房结P细胞，4期Ca²⁺内流减少和If通道介导的Na⁺内流减少，使4期去极化速度减慢，自律性降低，引起负性变时作用。此外，IK-Ach的激活使K⁺外流增加，最大复极电位增大，也导致自律性降低
+:PROPERTIES:
+:hl-page: 126
+:ls-type: annotation
+:id: 61ee53da-7a66-4447-89f3-5338cff35df0
+:END:
