@@ -393,3 +393,11 @@
 :ls-type: annotation
 :id: 61ee7278-53c5-4fb5-92e2-120a388fa62a
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 137
+:id: 61ee738a-f5db-4043-b894-aa2df45c1e3c
+:hl-type: area
+:hl-stamp: 1643017133927
+:END:
