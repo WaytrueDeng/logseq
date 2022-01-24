@@ -268,3 +268,8 @@
 :ls-type: annotation
 :id: 61ee0fba-4ffd-4bde-9511-52cb33e923ee
 :END:
+* :PROPERTIES:
+:hl-page: 122
+:ls-type: annotation
+:id: 61ee11a3-4d00-4647-87c7-caf5a2c56e9e
+:END:
