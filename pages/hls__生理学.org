@@ -393,11 +393,11 @@
 :ls-type: annotation
 :id: 61ee7278-53c5-4fb5-92e2-120a388fa62a
 :END:
-* [:span]
+* [:span]当体循环外周阻力增大时，动脉舒张压升高，CBF将增加；而当心率加快时，由于心舒期明显缩短，CBF则减少。可见，CBF的多少主要取决于动脉舒张压的高低和心舒期的长短。在某些病理状态（如主动脉瓣关闭不全时，常因动脉舒张压过低而发生心肌供血不足”。
 :PROPERTIES:
-:ls-type: annotation
-:hl-page: 137
-:id: 61ee738a-f5db-4043-b894-aa2df45c1e3c
 :hl-type: area
-:hl-stamp: 1643017133927
+:hl-stamp: 1643017138742
+:hl-page: 137
+:ls-type: annotation
+:id: 61ee738a-f5db-4043-b894-aa2df45c1e3c
 :END:
