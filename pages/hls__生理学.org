@@ -311,3 +311,9 @@
 :ls-type: annotation
 :id: 61ee5a4f-4a62-4ba9-8f45-47cdad6d8312
 :END:
+* 如当切除狗的压力感受器传入神经后，其动脉血压经常出现很大波动，即血压变得不稳定，但全天的血压平均值并不升高
+:PROPERTIES:
+:hl-page: 130
+:ls-type: annotation
+:id: 61ee5b06-9862-4b1c-931e-17412a03fb7f
+:END:
