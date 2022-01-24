@@ -342,3 +342,9 @@
 :ls-type: annotation
 :id: 61ee635c-4a72-4874-824c-009b5c802aa5
 :END:
+* 当交感神经兴奋（D错）、各种原因引起肾血流量减少（A对）或血浆中Na⁺浓度降低（B对）时，肾素分泌增多，并经肾静脉进入血液循环，以启动RAS的链式反应
+:PROPERTIES:
+:hl-page: 131
+:ls-type: annotation
+:id: 61ee6824-08c5-4cfb-9609-b942b0208af7
+:END:
