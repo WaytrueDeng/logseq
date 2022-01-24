@@ -298,3 +298,16 @@
 :hl-page: 126
 :id: 61ee58d8-7477-4629-ac01-d85b718fe6d3
 :END:
+* 压力感觉器并不直接感受血压变化，而是感受血管壁所受到的机械牵张刺激
+:PROPERTIES:
+:hl-page: 129
+:ls-type: annotation
+:id: 61ee5a1b-7e94-4f01-a369-9127aa37f236
+:END:
+**
+* 颈动脉蛊压力感受器的传入神经纤维组成窦神经(carotidsinusnerve).加I入舌咽神经后湃入茹船-主动脉弓压力感等黑的传入神经纤维行击于迷击神经干内并隘力号金嬲｛(参母的主动昧弓压力感辱器传入纤维在颈部单独成为一束.与迷击神经伴行.称为主云册艇甥rticnerve)或降压神经(depressornerve)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 61ee5a4f-4a62-4ba9-8f45-47cdad6d8312
+:END:
