@@ -274,3 +274,9 @@
 :ls-type: annotation
 :id: 61ee11a3-4d00-4647-87c7-caf5a2c56e9e
 :END:
+* 毛细血管有效流体静压即毛细血管血压与组织液静水压的差值，是促进组织液生成的主要因素
+:PROPERTIES:
+:hl-page: 124
+:ls-type: annotation
+:id: 61ee134f-823e-4283-bb83-0a27a71af738
+:END:
