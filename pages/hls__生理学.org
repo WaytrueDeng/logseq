@@ -268,7 +268,8 @@
 :ls-type: annotation
 :id: 61ee0fba-4ffd-4bde-9511-52cb33e923ee
 :END:
-* :PROPERTIES:
+* “而聚集的代谢产物和低氧状态，尤其是后者可反过来引起局部后微动脉（A对）和毛细血管前括约肌（C对）舒张，于是毛细血管开放，局部组织集聚的代谢产物被血流清除。接着后微动脉和毛细血管前括约肌又收缩，使毛细血管关闭，如此周而复始”
+:PROPERTIES:
 :hl-page: 122
 :ls-type: annotation
 :id: 61ee11a3-4d00-4647-87c7-caf5a2c56e9e
