@@ -401,3 +401,9 @@
 :ls-type: annotation
 :id: 61ee738a-f5db-4043-b894-aa2df45c1e3c
 :END:
+* 交感神经兴奋时,可通过激活冠脉平滑肌a受体使之收缩:但也激活心肌β1受体使心脏活动增强，耗氧量增加，代谢加强而使代谢产物增多.继发性引起冠脉舒张°
+:PROPERTIES:
+:hl-page: 137
+:ls-type: annotation
+:id: 61ee7480-f239-4ab1-bbd7-a5a8b10d650f
+:END:
