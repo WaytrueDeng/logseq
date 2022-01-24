@@ -348,3 +348,10 @@
 :ls-type: annotation
 :id: 61ee6824-08c5-4cfb-9609-b942b0208af7
 :END:
+* 其中PGE₂由肾脏产生，具有舒血管作用
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 61ee68f1-db92-4932-a20c-736676171222
+:END:
+**
