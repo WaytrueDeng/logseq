@@ -407,11 +407,11 @@
 :ls-type: annotation
 :id: 61ee7480-f239-4ab1-bbd7-a5a8b10d650f
 :END:
-* [:span]
+* [:span]气体扩散速率公式
 :PROPERTIES:
-:ls-type: annotation
-:hl-page: 152
-:id: 61efae6c-4c12-41f8-868c-5d380faf17e7
 :hl-type: area
 :hl-stamp: 1643097704306
+:hl-page: 152
+:ls-type: annotation
+:id: 61efae6c-4c12-41f8-868c-5d380faf17e7
 :END:
