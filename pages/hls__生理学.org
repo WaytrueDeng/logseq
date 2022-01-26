@@ -423,3 +423,9 @@
 :ls-type: annotation
 :id: 61f0e6f4-3da5-4f49-b4bf-16475d7d3f02
 :END:
+* 因此，呼吸肌的收缩和舒张所引起的胸廓节律性扩张和缩小，即呼吸运动是实现肺通气的原动力
+:PROPERTIES:
+:hl-page: 141
+:ls-type: annotation
+:id: 61f0f398-a25a-48c1-9946-dde8030cb516
+:END:
