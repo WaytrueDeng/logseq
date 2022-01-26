@@ -415,11 +415,11 @@
 :ls-type: annotation
 :id: 61efae6c-4c12-41f8-868c-5d380faf17e7
 :END:
-* [:span]钙离子浓度升高引起递质释放→窦神经AP
+* [:span]动脉血中氢离子↑→钙离子浓度升高引起递质释放→窦神经AP
 :PROPERTIES:
-:ls-type: annotation
-:hl-page: 162
-:id: 61f0e6f4-3da5-4f49-b4bf-16475d7d3f02
 :hl-type: area
 :hl-stamp: 1643177714956
+:hl-page: 162
+:ls-type: annotation
+:id: 61f0e6f4-3da5-4f49-b4bf-16475d7d3f02
 :END:
