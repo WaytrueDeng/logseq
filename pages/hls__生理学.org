@@ -453,3 +453,9 @@
 :ls-type: annotation
 :id: 61f0f7fc-1870-4897-bffc-3a5e3166ffa5
 :END:
+* 肺泡表面张力是肺弹性阻力的主要来源，约占2/3，而由肺的弹性成分所形成的弹性阻力约占1/3
+:PROPERTIES:
+:hl-page: 145
+:ls-type: annotation
+:id: 61f0f900-3abd-4a17-bd51-fb3e501e21a4
+:END:
