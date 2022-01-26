@@ -415,7 +415,7 @@
 :ls-type: annotation
 :id: 61efae6c-4c12-41f8-868c-5d380faf17e7
 :END:
-* [:span]
+* [:span]钙离子浓度升高引起递质释放→窦神经AP
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 162
