@@ -447,7 +447,8 @@
 :ls-type: annotation
 :id: 61f0f5a9-7c03-43bf-96dc-a4d04a93b5b3
 :END:
-* :PROPERTIES:
+* 平静呼吸时，弹性阻力约占肺通气总阻力的70%，非弹性阻力约占30%
+:PROPERTIES:
 :hl-page: 144
 :ls-type: annotation
 :id: 61f0f7fc-1870-4897-bffc-3a5e3166ffa5
