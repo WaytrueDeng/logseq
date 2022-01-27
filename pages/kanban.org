@@ -12,11 +12,12 @@
 **** 学习lua
 **** 学习html
 **** 学习TLS
+**** 学习ip命令
 *** middleterm
 **** 学习curl
 **** 政治
 *** shortterm
 **** 西综
 **** 英语
-**** 学习ZFS
-****
+*** Done
+**** 学习ZFS [[Jan 27th, 2022]]
