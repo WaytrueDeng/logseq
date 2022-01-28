@@ -513,3 +513,9 @@
 :ls-type: annotation
 :id: 61f34913-0428-4432-af0e-e3ed2b00f88f
 :END:
+* 若以健康成年人的血液中Hb浓度为15g/100ml为计，则Hb的氧容量为1.34x15=20.1ml/100ml（血液）.....当动脉血PO₂为100mmHg时，Hb氧含量为19.4ml/100ml，而当静脉血PO₂为40mmHg时，Hb氧含量约为14.4ml/100ml......如果PO₂达150mmHg，动脉血的Hb氧含量也可达20.1ml/100ml，与Hb氧容量相等，则Hb氧饱和度是100%，也称氧饱和；如果静脉血的Hb氧含量是15ml，则Hb氧饱和度约为75%
+:PROPERTIES:
+:hl-page: 156
+:ls-type: annotation
+:id: 61f34b04-d5d0-427d-a9c5-74c33b672189
+:END:
