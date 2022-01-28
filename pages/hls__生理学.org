@@ -483,7 +483,8 @@
 :ls-type: annotation
 :id: 61f33c3b-b22a-48e8-a9a5-27a9544080c5
 :END:
-* :PROPERTIES:
+* 功能余气量：是指平静呼吸末尚存留于肺内的气体量。…肺气肿患者的功能余气量增多，而肺实质病变时则减少
+:PROPERTIES:
 :hl-page: 149
 :ls-type: annotation
 :id: 61f33d48-e5b0-4515-ab54-cfaae4bfd072
