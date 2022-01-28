@@ -483,3 +483,8 @@
 :ls-type: annotation
 :id: 61f33c3b-b22a-48e8-a9a5-27a9544080c5
 :END:
+* :PROPERTIES:
+:hl-page: 149
+:ls-type: annotation
+:id: 61f33d48-e5b0-4515-ab54-cfaae4bfd072
+:END:
