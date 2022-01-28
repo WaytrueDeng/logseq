@@ -532,3 +532,9 @@
 :id: 61f355d6-19de-4795-88fd-cbda9831d823
 :END:
 **
+* 切断迷走神经后，上述反应消失，说明这是由迷走神经参与的反射性反应
+:PROPERTIES:
+:hl-page: 165
+:ls-type: annotation
+:id: 61f356c9-4fd0-4bcd-b950-93fa2060e07e
+:END:
