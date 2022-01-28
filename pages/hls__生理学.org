@@ -538,3 +538,9 @@
 :ls-type: annotation
 :id: 61f356c9-4fd0-4bcd-b950-93fa2060e07e
 :END:
+* 感受器位于从气管到细支气管的平滑肌中，属于牵张感受器，其阈值低，适应慢
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 165
+:id: 61f356f5-c7c2-4ca0-af7a-119157f299ba
+:END:
