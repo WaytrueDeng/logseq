@@ -501,3 +501,9 @@
 :ls-type: annotation
 :id: 61f3403b-ae37-45f6-b414-07256c4d05af
 :END:
+* 体重为70kg的成年人，其解剖无效腔约为150m
+:PROPERTIES:
+:hl-page: 150
+:ls-type: annotation
+:id: 61f341eb-90cc-475d-84b4-c9a10945df6b
+:END:
