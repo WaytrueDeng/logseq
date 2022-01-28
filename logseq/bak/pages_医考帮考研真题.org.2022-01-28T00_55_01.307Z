@@ -1142,16 +1142,6 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 - [ ] c.余气量
 - [X] D.机能余气量
 - [ ] E.补呼气量
-** :PROPERTIES:
-:id: 61f33ee5-e221-4d87-a0bb-316a4b91b284
-:END:
-#+BEGIN_IMPORTANT
-36.2015N8A [[肺纤维化]]病人，1秒用力呼气量(FEv1）/用力肺活量 (FVC)的检查结果是
-#+END_IMPORTANT
-- [ ] A.FEV1减少，FVC基本不变，FEV1/FVC减小
-- [ ] B.FEV1基本不变，FVC减小，FEv1/FVC增大
-- [X] C.FEV1和FVC均减小，FEV1/FVC基本不变
-- [ ] D.FEV1和FVC均增大，FEv1/FVC基本不变
 * [[Comments]]
 ** [[Jan 13th, 2022]]
 :PROPERTIES:
@@ -1549,5 +1539,3 @@ d 明白肺表面张力来源是肺泡内表面的液气面，当充生理盐水
 **** 功能余气量——缓冲CO2
 余气量——防止肺泡塌陷   P161
 ****
-*** ((61f33ee5-e221-4d87-a0bb-316a4b91b284))
-**** ((61f33f1a-a1f7-4d0d-b019-bf1545313bbb))

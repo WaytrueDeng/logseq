@@ -489,3 +489,9 @@
 :ls-type: annotation
 :id: 61f33d48-e5b0-4515-ab54-cfaae4bfd072
 :END:
+* 而在肺纤维化等限制性肺疾病患者，FEV₁和FVC均下降，但FEV₁/FVC可基本正常，此外还显示余气量减少
+:PROPERTIES:
+:hl-page: 149
+:ls-type: annotation
+:id: 61f33f1a-a1f7-4d0d-b019-bf1545313bbb
+:END:
