@@ -519,3 +519,9 @@
 :ls-type: annotation
 :id: 61f34b04-d5d0-427d-a9c5-74c33b672189
 :END:
+* 2，3-DPG浓度升高时，Hb对氧气的亲和力降低
+:PROPERTIES:
+:hl-page: 158
+:ls-type: annotation
+:id: 61f34d94-ce57-4f20-aade-a0443ba80813
+:END:
