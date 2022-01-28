@@ -525,3 +525,10 @@
 :ls-type: annotation
 :id: 61f34d94-ce57-4f20-aade-a0443ba80813
 :END:
+* 颈动脉体和主动脉体虽都参与呼吸和循环的调节，但颈动脉体主要参与呼吸调节，而主动脉体在循环调节方面较为重要
+:PROPERTIES:
+:hl-page: 161
+:ls-type: annotation
+:id: 61f355d6-19de-4795-88fd-cbda9831d823
+:END:
+**
