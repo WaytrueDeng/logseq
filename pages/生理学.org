@@ -1,5 +1,5 @@
 * [[../assets/生理学.pdf][生理学]]
-* [[../assets/生理学full.pdf][生理学ful]]
+* [[../assets/生理学full.pdf][生理学full]]
 * 细胞
 :PROPERTIES:
 :id: 61deca5a-121d-4f2e-9d1d-aac362e9bb4e
