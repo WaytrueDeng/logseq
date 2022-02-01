@@ -544,3 +544,9 @@
 :hl-page: 165
 :id: 61f356f5-c7c2-4ca0-af7a-119157f299ba
 :END:
+* 产生慢波的离子机制尚不清楚，目前认为与细胞内的钙波有关，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 166
+:id: 61f906b0-cead-4883-b48d-3e3f8905c57b
+:END:
