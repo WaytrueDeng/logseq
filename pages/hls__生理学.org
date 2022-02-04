@@ -568,9 +568,9 @@
 :ls-type: annotation
 :id: 61fd0d7d-84e2-40fa-b863-fa0c1023b002
 :END:
-* 有机物液婆为黏蛋白，还有免疫球蛋白、疑基酸、尿素、尿酸、唾液淀粉酶(saliva罗累容%溶菌酶等。
+* 有机物主要为黏蛋白，还有免疫球蛋白、氨基酸、尿素、尿酸、唾液淀粉酶和溶菌酶
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 169
+:ls-type: annotation
 :id: 61fd0ee3-8973-48d9-84d2-799d3ce42be8
 :END:
