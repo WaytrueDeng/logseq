@@ -562,3 +562,9 @@
 :ls-type: annotation
 :id: 61fd0b8f-1d59-4956-9d9d-85bac58aaf66
 :END:
+* 消化道平滑肌细胞动作电位的去极化主要依赖Ca²⁺内流，因此锋电位上升较慢，持续时间较长；复极化也由K⁺外流所致，且K⁺的外向电流与Ca²⁺的内向电流在时间过程上几乎相同，因此，锋电位的幅度较低，且大小不等
+:PROPERTIES:
+:hl-page: 166
+:ls-type: annotation
+:id: 61fd0d7d-84e2-40fa-b863-fa0c1023b002
+:END:
