@@ -556,9 +556,9 @@
 :ls-type: annotation
 :id: 61fd089b-fec9-4a74-a100-4fd24e610e2d
 :END:
-* 博波的蝠庠昇?般辑湘.
+* 慢波的幅度为10~15mv
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 166
+:ls-type: annotation
 :id: 61fd0b8f-1d59-4956-9d9d-85bac58aaf66
 :END:
