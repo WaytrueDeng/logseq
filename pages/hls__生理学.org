@@ -574,3 +574,9 @@
 :ls-type: annotation
 :id: 61fd0ee3-8973-48d9-84d2-799d3ce42be8
 :END:
+* 。基础胃酸分泌量受迷走神经的紧张性和少量促胃液素自发释放的影响。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 172
+:id: 61fd1313-1f08-4dee-bb86-038690261fc3
+:END:
