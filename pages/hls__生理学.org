@@ -550,3 +550,9 @@
 :hl-page: 166
 :id: 61f906f7-3bf4-453b-8957-c30c708ba571
 :END:
+* 之间的Cajal间质细胞（interstitialcellofCajal,ICC）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 166
+:id: 61fd089b-fec9-4a74-a100-4fd24e610e2d
+:END:
