@@ -550,9 +550,9 @@
 :hl-page: 166
 :id: 61f906f7-3bf4-453b-8957-c30c708ba571
 :END:
-* 之间的Cajal间质细胞（interstitialcellofCajal,ICC）。
+* 慢波起源于消化道纵行肌和环形肌之间的Cajal间质细胞（ICC）。ICC既不属于神经细胞，也不属于平滑肌细胞，而是一种兼有成纤维细胞和平滑肌细胞特性的间质细胞
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 166
+:ls-type: annotation
 :id: 61fd089b-fec9-4a74-a100-4fd24e610e2d
 :END:
