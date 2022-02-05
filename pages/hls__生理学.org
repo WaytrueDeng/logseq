@@ -586,3 +586,9 @@
 :ls-type: annotation
 :id: 61fd2737-8e29-4093-9c01-f3b627bb8c30
 :END:
+* G细胞，分泌促胃液素和促肾上腺皮质激素(ACTH)样物质，分布于胃窦
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 172
+:id: 61fdcb99-e348-4ca4-bd23-daf2897e95cf
+:END:
