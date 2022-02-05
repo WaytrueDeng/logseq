@@ -836,3 +836,9 @@
 :ls-type: annotation
 :id: 61fe2938-c268-4b18-ab77-c1c7c18c7215
 :END:
+* 钙盐只有在水溶液状态（如CaCl₂、葡萄糖酸钙溶液）（A对），而且在不被肠腔中任何其他物质沉淀的情况下，才能被吸收
+:PROPERTIES:
+:hl-page: 188
+:ls-type: annotation
+:id: 61fe2b86-6f3a-4db2-9264-0232bd23a4fa
+:END:
