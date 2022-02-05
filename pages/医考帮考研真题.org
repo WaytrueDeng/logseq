@@ -1485,6 +1485,18 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 :END:
 *** ✅C.[[维生素B₁₂]]吸收障碍
 *** D.脂肪吸收不良
+** :PROPERTIES:
+:id: 61fdd4d5-d6a6-425f-86e0-7385f5cd29e0
+:END:
+27. 2016N12A 在胃黏膜壁细胞完全缺乏时，病人不会出现的表现是
+*** A.维生素B₁₂吸收障碍
+*** B.肠道内细菌加速生长
+*** C.胰腺分泌HCO₃⁻减少
+*** ✅D.食物蛋白质消化不良
+:PROPERTIES:
+:id: 61fdd4e1-e6c8-4eae-9f8a-9f0dfa6efb13
+:END:
+**** ((61fdd1d3-52d4-4a34-80c4-69b499a1ea30))
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
