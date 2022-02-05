@@ -1774,6 +1774,7 @@ D.头期、胃期和肠期分泌都有自身调节
 **** ((61fe279e-1f6d-4582-8b18-aab08773b780))
 *** D.十二指肠、空肠及回肠
 *** E.回肠
+** ((61fe253c-dfcb-49dd-966e-e7c93187eaf5))
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
