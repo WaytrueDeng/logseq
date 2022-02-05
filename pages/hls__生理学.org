@@ -646,9 +646,10 @@
 :hl-page: 175
 :id: 61fdd9ee-9b15-4620-940a-fac48b4352a3
 :END:
-* 其中支配ECL细漩的纤绯大梢怒故ACh.而寺对G细晌的纤维释放促胃液素释放肽(gastrin・releasingpeptide,GRP,又称铃蟾紧?8盐晨
+* 其中支配[[ECL细胞]]的纤维末梢释放Ach,而支配G细胞的纤维释放促胃液素释放肽（[[GRP]]，又称[[铃蟾素]]）
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 176
+:ls-type: annotation
 :id: 61fdddab-e21f-418d-9884-cecbb78e4c72
 :END:
+**
