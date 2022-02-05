@@ -722,8 +722,15 @@
 :ls-type: annotation
 :id: 61fdfc27-e5ce-4fcd-8ae6-a0333500df0b
 :END:
-* :PROPERTIES:
-:ls-type: annotation
+* 迷走神经可通过其末梢释放ACh直接作用于胰腺，也可通过引起促胃液素的释放，间接引起胰腺分泌
+:PROPERTIES:
 :hl-page: 181
+:ls-type: annotation
 :id: 61fdfe65-6b4e-47bb-bc5b-1059d6bed79b
+:END:
+* 迷走神经主要作用于胰腺的腺泡细胞,对小导管细胞的作用较弱.因此,迷走神经兴奋的特点是水和碳酸氢盐含量少，而酶的含量却很丰富。
+:PROPERTIES:
+:hl-page: 181
+:ls-type: annotation
+:id: 61fdfeb6-3198-4ef9-8b9e-d377a04a48de
 :END:
