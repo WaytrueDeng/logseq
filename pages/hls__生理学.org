@@ -696,11 +696,11 @@
 :ls-type: annotation
 :id: 61fdeee7-9f37-4eb8-a85e-b336a39b8acb
 :END:
-* [:span]
+* [:span]另一方面，食糜中的酸和脂肪还可刺激小肠黏膜释放促胰液素、抑胃肽等，抑制胃运动，延缓胃排空”。
 :PROPERTIES:
-:ls-type: annotation
-:hl-page: 179
-:id: 61fdf2c0-ca40-466d-b6b0-b0ad528abd67
 :hl-type: area
 :hl-stamp: 1644032702382
+:hl-page: 179
+:ls-type: annotation
+:id: 61fdf2c0-ca40-466d-b6b0-b0ad528abd67
 :END:
