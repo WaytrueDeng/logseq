@@ -771,3 +771,9 @@
 :ls-type: annotation
 :id: 61fe18f0-a6c8-4e9a-b6ba-6fbccce05a1c
 :END:
+* 期.寿BV括•约肌收缩而胆舞舒张,因而肝胆汁经胆囊管流入胆囊内储存;在储存期，胆囊黏膜能吸收其中的水和翼啜集X儡如汁浓缩4~io倍
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 183
+:id: 61fe1daa-328a-4f4a-a920-b8e721d45ec8
+:END:
