@@ -1745,13 +1745,18 @@ D.头期、胃期和肠期分泌都有自身调节
 **** ((61fe21f7-d4c3-4aff-9540-05b68879695c))
 *** ✅D.有利于肠壁内血液和淋巴回流
 **** ((61fe21f1-0ec2-42e2-8b09-ca99945aae23))
-** #+BEGIN_IMPORTANT
+** :PROPERTIES:
+:id: 61fe22fc-71d9-4407-a4be-c318459d9e86
+:END:
+#+BEGIN_IMPORTANT
 98. 2017N137X 小肠运动的形式
 #+END_IMPORTANT
 *** ✅A.紧张性收缩
 *** ✅B.分节运动
 *** C.集团蠕动
+**** ((61fe23c1-837e-43a7-9a01-f6ea043bc7c1))
 *** ✅D.[[逆蠕动]]
+**** ((61fe2356-dcf6-427e-aa68-749e74082dd3))
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
