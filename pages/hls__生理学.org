@@ -794,3 +794,15 @@
 :hl-page: 184
 :id: 61fe216b-6dca-4323-aaef-2576aa5262da
 :END:
+* 分节运动本身对食糜的推进作用很小,但分节运动存在由上而下的频率梯度.汶种梯度对食糜有一定推进作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 184
+:id: 61fe21f1-0ec2-42e2-8b09-ca99945aae23
+:END:
+* 增加食糜与小肠黏膜的接触，并不断挤压肠壁以促进血液和淋巴回流，有助于吸收
+:PROPERTIES:
+:hl-page: 184
+:ls-type: annotation
+:id: 61fe21f7-d4c3-4aff-9540-05b68879695c
+:END:
