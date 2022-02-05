@@ -716,3 +716,9 @@
 :ls-type: annotation
 :id: 61fdfa98-8214-4aa1-8d71-282b849c07bd
 :END:
+* 当胰液分泌障碍时，即使其他消化液分泌都正常，食物中的脂肪和蛋白质仍不能完全消化和吸收，常可引起脂肪泻，但糖的消化和吸收一般不受影响
+:PROPERTIES:
+:hl-page: 181
+:ls-type: annotation
+:id: 61fdfc27-e5ce-4fcd-8ae6-a0333500df0b
+:END:
