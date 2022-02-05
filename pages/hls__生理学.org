@@ -592,3 +592,9 @@
 :hl-page: 172
 :id: 61fdcb99-e348-4ca4-bd23-daf2897e95cf
 :END:
+* ①[[贲门腺]]，为黏液腺，位于胃与食管连接处宽1~4cm的环状区;②[[泌酸腺]]，为混合腺，存在于胃底的大部及胃体的全部，包括壁细胞(parietalcell)、主细胞(chiefcell)和颈黏液细胞(neckmu­couscell)；③[[幽门腺]],分泌碱性黏液，分布于幽门部。
+:PROPERTIES:
+:hl-page: 172
+:ls-type: annotation
+:id: 61fdcbd4-02d1-4ed6-aa53-6e910c5a3b46
+:END:
