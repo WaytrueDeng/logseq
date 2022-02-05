@@ -1672,6 +1672,14 @@ D.头期、胃期和肠期分泌都有自身调节
 **** ((61fdfc27-e5ce-4fcd-8ae6-a0333500df0b))
 *** C.胰腺炎
 *** D.恶性贫血
+** #+BEGIN_IMPORTANT
+65. 1988N140X 调节胰液分泌的神经体液因素有
+#+END_IMPORTANT
+*** ✅A.迷走神经兴奋
+**** ((61fdfe65-6b4e-47bb-bc5b-1059d6bed79b))
+*** ✅B.胃泌素
+*** ✅C.促胰液素
+*** ✅D.支配胰腺的内脏大神经
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
