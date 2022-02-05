@@ -598,3 +598,27 @@
 :ls-type: annotation
 :id: 61fdcbd4-02d1-4ed6-aa53-6e910c5a3b46
 :END:
+* 壁细胞在分泌盐酸的同时，也分泌一种被称为内因子的糖蛋白。内因子有两个活性部位，一个活性部位与进入胃内的维生素B₁₂结合，形成内因子-维生素B₁₂复合物，可保护维生素B₁₂免遭肠内水解酶的破坏，当内因子-维生素B₁₂复合物运行至远端回肠后，内因子的另一活性部位与远侧回肠黏膜上的受体结合，促进维生素B₁₂的吸收肠内水解酶的破坏
+:PROPERTIES:
+:hl-page: 173
+:ls-type: annotation
+:id: 61fdd082-6929-4aed-952a-fc912592e1c0
+:END:
+* 当内因子-维生素合物运彳薯舞翡简鬼后.内因子的另
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 61fdd08b-b3c5-4ba9-98bf-62cfdcb521f4
+:END:
+* K赡限旬膜的刘酉9'奇摭糖.饵浒维牛素Br的吸收C若缺于内因子•可因维牛素
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 61fdd092-076d-4fbb-9611-189a8ce64252
+:END:
+* b.吸收障碍而圈生成质笑戳般修胞性贫血。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 61fdd096-0236-4049-8f75-f35a445eee4a
+:END:
