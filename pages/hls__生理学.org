@@ -628,3 +628,9 @@
 :ls-type: annotation
 :id: 61fdd65e-66a1-4124-9b76-b8e90fd285ba
 :END:
+* 食物直接扩张胃，刺激胃底、胃体的感受器，冲动沿迷走神经中的传入纤维传至中枢，再通过迷走神经中的传出纤维引起胃液分泌，这一反射称为迷走-迷走反射；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 175
+:id: 61fdd988-7c3d-4817-b489-b3f23fac2c65
+:END:
