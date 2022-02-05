@@ -634,3 +634,15 @@
 :hl-page: 175
 :id: 61fdd988-7c3d-4817-b489-b3f23fac2c65
 :END:
+* 食物扩张胃也能引起壁内神经丛短反射，直接或通过促胃液素间接引起胃腺分泌
+:PROPERTIES:
+:hl-page: 175
+:ls-type: annotation
+:id: 61fdd9e5-96b9-4920-b4df-7b1bfab770b6
+:END:
+* 直襄留鞘皤液素间接引起胃腺分泌(图
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 175
+:id: 61fdd9ee-9b15-4620-940a-fac48b4352a3
+:END:
