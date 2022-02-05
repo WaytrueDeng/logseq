@@ -1659,6 +1659,7 @@ D.头期、胃期和肠期分泌都有自身调节
 **** ((61fdfa98-8214-4aa1-8d71-282b849c07bd))
 *** D.内因子
 *** E.Ca²⁺
+** ((61fdfa98-8214-4aa1-8d71-282b849c07bd))
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
