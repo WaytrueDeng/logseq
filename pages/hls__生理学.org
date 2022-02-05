@@ -758,3 +758,10 @@
 :ls-type: annotation
 :id: 61fe03dc-419f-465b-a697-e00e22ee8294
 :END:
+* 有些胃肠激素可促进消化系统组织的生长，例如，[[促胃液素]]和[[缩胆囊素]]分别能促进胃黏膜上皮和胰腺外分泌部组织的生长
+:PROPERTIES:
+:hl-page: 169
+:ls-type: annotation
+:id: 61fe04b2-8610-479b-8d22-85f5098a664f
+:END:
+**
