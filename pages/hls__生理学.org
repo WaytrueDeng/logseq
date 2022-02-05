@@ -684,3 +684,9 @@
 :ls-type: annotation
 :id: 61fdeb9b-e5ed-4b43-b936-005d0b8707e5
 :END:
+* 通过肠-胃反射抑制胃的运动，使胃排空减慢
+:PROPERTIES:
+:hl-page: 179
+:ls-type: annotation
+:id: 61fded29-9852-4ed3-8303-c2e5f728cb6d
+:END:
