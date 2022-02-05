@@ -842,3 +842,9 @@
 :ls-type: annotation
 :id: 61fe2b86-6f3a-4db2-9264-0232bd23a4fa
 :END:
+* 大部分维生素在小肠上段被吸收，只有维生素B₁₂是在回肠被吸收的。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 189
+:id: 61fe2f5f-2ecc-4183-98d9-f28ad359c04b
+:END:
