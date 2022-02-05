@@ -678,3 +678,9 @@
 :ls-type: annotation
 :id: 61fdeb08-0951-4e33-8f4b-3286ef6f1e2a
 :END:
+* 迷走神经中有传出纤维直接到达胃黏膜泌酸腺中的壁细胞，通过末梢释放ACh而引起胃酸分泌
+:PROPERTIES:
+:hl-page: 176
+:ls-type: annotation
+:id: 61fdeb9b-e5ed-4b43-b936-005d0b8707e5
+:END:

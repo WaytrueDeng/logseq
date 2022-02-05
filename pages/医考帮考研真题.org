@@ -1597,7 +1597,7 @@ D.头期、胃期和肠期分泌都有自身调节
 *** B.[[低张溶液]]
 *** C.高pH
 *** D.氨基酸
-*** E.ACh
+*** E.[[ACh]]
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
