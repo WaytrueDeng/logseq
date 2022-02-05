@@ -653,3 +653,9 @@
 :id: 61fdddab-e21f-418d-9884-cecbb78e4c72
 :END:
 **
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 321
+:id: 61fde69c-2ef6-4834-a99a-2aee498748d1
+:END:
+:GC可促进胃腺分泌盐酸和胃蛋白酶原，也可增高胃腺细胞对迷走神经与促胃液素的反应性，故长期大量应用GC易诱发或加重消化性溃疡。
