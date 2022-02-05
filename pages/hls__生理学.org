@@ -690,7 +690,7 @@
 :ls-type: annotation
 :id: 61fded29-9852-4ed3-8303-c2e5f728cb6d
 :END:
-* 容受性舒张是通过迷走-迷走反射而实现的,其节后
+* 容受性舒张是通过迷走-迷走反射而实现的,其节后纤维释放的可能是[[NO]]和[[VIP]]
 :PROPERTIES:
 :hl-page: 179
 :ls-type: annotation
