@@ -812,9 +812,9 @@
 :hl-page: 184
 :id: 61fe2356-dcf6-427e-aa68-749e74082dd3
 :END:
-* 在大肠还有一种进行很快且前进很远的蠕动.漾黑瞿窗谓毋(massperistalsis),它通常始于横结肠•可将一部分肠内容物推送至降结肠或乙状结肠。
+* 在大肠还有一种进行很快且前进很远的蠕动，称为集团蠕动
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 185
+:ls-type: annotation
 :id: 61fe23c1-837e-43a7-9a01-f6ea043bc7c1
 :END:
