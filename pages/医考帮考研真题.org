@@ -1512,9 +1512,15 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 *** #+BEGIN_IMPORTANT
 D.头期、胃期和肠期分泌都有自身调节
 #+END_IMPORTANT
-**** :PROPERTIES:
+**** 头期、胃期和肠期分泌均不存在自身调节
+:PROPERTIES:
 :id: 61fdd761-6945-47cb-b190-b3662d3f46cd
 :END:
+** 30. 1989N105C 食物经咀嚼由咽而进入胃所引起的胃液分泌
+*** A.头期的胃液分泌
+*** B.胃期的胃液分泌
+*** ✅C.两者兼有
+*** D.两者均无
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
