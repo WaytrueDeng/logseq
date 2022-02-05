@@ -1680,6 +1680,7 @@ D.头期、胃期和肠期分泌都有自身调节
 *** ✅B.胃泌素
 *** ✅C.促胰液素
 *** ✅D.支配胰腺的内脏大神经
+**
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
