@@ -704,3 +704,9 @@
 :ls-type: annotation
 :id: 61fdf2c0-ca40-466d-b6b0-b0ad528abd67
 :END:
+* 此外，正常胰液中还含有梭基肽酶,,核糖核酸酶,脱氧核糖核酸酶等水解酶
+:PROPERTIES:
+:hl-page: 180
+:ls-type: annotation
+:id: 61fdf86c-e4f2-423b-8dcd-4130c16c09a7
+:END:
