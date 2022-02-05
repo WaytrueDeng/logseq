@@ -734,3 +734,15 @@
 :ls-type: annotation
 :id: 61fdfeb6-3198-4ef9-8b9e-d377a04a48de
 :END:
+* 另一方面，由于肾上腺素能纤维可促使胰腺血管收缩，导致胰液分泌的水源明显不足而影响胰液分泌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 61fdff85-ddd4-42f2-83e8-4c89e90239bb
+:END:
+* 内脏大神经（属交感神经）对胰液分泌的影响不很明显。一方面，内脏大神经中的胆碱能纤维可促进胰液分泌，另一方面，由于肾上腺素能纤维可促使胰腺血管收缩，导致胰液分泌的水源 明显不足而影响胰液分泌”
+:PROPERTIES:
+:hl-page: 181
+:ls-type: annotation
+:id: 61fdff8f-a9eb-4e8a-8fe9-107c5cbb8378
+:END:
