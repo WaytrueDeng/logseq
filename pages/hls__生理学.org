@@ -842,9 +842,15 @@
 :ls-type: annotation
 :id: 61fe2b86-6f3a-4db2-9264-0232bd23a4fa
 :END:
-* 大部分维生素在小肠上段被吸收，只有维生素B₁₂是在回肠被吸收的。
+* 大部分维生素在小肠上段被吸收，只有[[维生素B₁₂]]是在回肠被吸收的。
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 189
+:ls-type: annotation
 :id: 61fe2f5f-2ecc-4183-98d9-f28ad359c04b
+:END:
+* 游离胆固醇通过形成混合微胶粒・在小肠上段被吸收
+:PROPERTIES:
+:hl-page: 189
+:ls-type: annotation
+:id: 61fe2fc1-4970-4fec-9944-3cf90aa6bff4
 :END:
