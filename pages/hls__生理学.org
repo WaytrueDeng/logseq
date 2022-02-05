@@ -860,3 +860,9 @@
 :ls-type: annotation
 :id: 61fe2ffb-b8e2-423a-ae51-89ad6bab5fc8
 :END:
+* 铁主要在小肠上部被吸收。
+:PROPERTIES:
+:hl-page: 187
+:ls-type: annotation
+:id: 61fe3086-638c-4cd4-97d0-53e0eeb4cd8c
+:END:
