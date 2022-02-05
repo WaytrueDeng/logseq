@@ -854,3 +854,9 @@
 :ls-type: annotation
 :id: 61fe2fc1-4970-4fec-9944-3cf90aa6bff4
 :END:
+* “十二指肠是跨上皮细胞主动吸收Ca²⁺的主要部位，小肠各段都可通过细胞旁途径被动吸收Ca²⁺。从Ca²⁺的吸收量来看，可能以后一种形式吸收的Ca²⁺更多，部位以空肠和回肠更为主要”。
+:PROPERTIES:
+:hl-page: 188
+:ls-type: annotation
+:id: 61fe2ffb-b8e2-423a-ae51-89ad6bab5fc8
+:END:
