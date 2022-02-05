@@ -746,9 +746,9 @@
 :ls-type: annotation
 :id: 61fdff8f-a9eb-4e8a-8fe9-107c5cbb8378
 :END:
-* 促臼波素、促胰液素、缩胆囊素、抑胃
+* [[促胃液素]]、[[促胰液素]]、[[缩胆囊素]]和[[抑胃肽]]（GIP）等胃肠激素均可促进[[胰岛素]]分泌
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 318
+:ls-type: annotation
 :id: 61fe0143-73a2-4f58-b450-c7db2178b0ef
 :END:
