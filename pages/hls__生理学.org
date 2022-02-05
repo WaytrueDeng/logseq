@@ -765,9 +765,9 @@
 :id: 61fe04b2-8610-479b-8d22-85f5098a664f
 :END:
 **
-* 『梁溯潞消微财醐嚣嚣鎏it
+* 胆汁是唯一不含消化酶的消化液。胆汁中最重要的成分是胆盐，其主要作用是促进脂肪的消化和吸收
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 182
+:ls-type: annotation
 :id: 61fe18f0-a6c8-4e9a-b6ba-6fbccce05a1c
 :END:
