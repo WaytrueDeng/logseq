@@ -1801,6 +1801,14 @@ D.头期、胃期和肠期分泌都有自身调节
 :PROPERTIES:
 :id: 61fe2ca5-0810-4189-94df-77dbcc161090
 :END:
+** :PROPERTIES:
+:id: 61fe2db1-6aac-466f-bd75-4c01f6285c11
+:END:
+111. 1990N106C 脂肪分解产物在小肠的吸收途径
+*** A.通过毛细血管吸收
+*** B.通过毛细淋巴管吸收
+*** ✅C.两都兼有
+*** D.两者均无
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
