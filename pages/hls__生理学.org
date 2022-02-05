@@ -665,3 +665,10 @@
 :hl-page: 177
 :id: 61fde946-13ee-4a1e-97af-db35c06f6a10
 :END:
+* 生长抑素是由胃肠黏膜δ细胞分泌的一种胃肠激素，分泌后通过[[旁分泌]]的方式作用于壁细胞、ECL细胞和G细胞，对胃的分泌和运动都有很强的抑制作用
+:PROPERTIES:
+:hl-page: 178
+:ls-type: annotation
+:id: 61fdea77-974a-4f8b-b9bf-28564a201dc2
+:END:
+**
