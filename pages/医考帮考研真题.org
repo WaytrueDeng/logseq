@@ -1632,6 +1632,14 @@ D.头期、胃期和肠期分泌都有自身调节
 *** C.[[胃酸]]
 **** ((61fdf2c0-ca40-466d-b6b0-b0ad528abd67))
 *** D.促胰液素
+** :PROPERTIES:
+:id: 61fdf3bf-7cb4-4746-bbb6-3bfd9efcbd52
+:END:
+57. 2012N126B 加强胃运动和胆囊收缩的激素是
+*** A. [[胃泌素]]
+*** B.促胰液素
+*** C.[[缩胆囊素]]
+*** D.蛙皮素
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
