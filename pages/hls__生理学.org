@@ -824,3 +824,9 @@
 :ls-type: annotation
 :id: 61fe2537-5435-49b7-85a4-7fdcef86da7b
 :END:
+* 小肠是吸收的主要部位，糖类、蛋白质和脂肪的消化产物大部分在十二指肠和空肠被吸收
+:PROPERTIES:
+:hl-page: 186
+:ls-type: annotation
+:id: 61fe279e-1f6d-4582-8b18-aab08773b780
+:END:
