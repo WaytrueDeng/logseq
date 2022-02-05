@@ -818,3 +818,9 @@
 :ls-type: annotation
 :id: 61fe23c1-837e-43a7-9a01-f6ea043bc7c1
 :END:
+* 此外，大肠内的细菌还能利用肠内较为简单的物质来合成维生素B复合物和维生素K，这些维生素可被人体吸收利用
+:PROPERTIES:
+:hl-page: 186
+:ls-type: annotation
+:id: 61fe2537-5435-49b7-85a4-7fdcef86da7b
+:END:
