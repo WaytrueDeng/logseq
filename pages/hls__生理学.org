@@ -866,3 +866,9 @@
 :ls-type: annotation
 :id: 61fe3086-638c-4cd4-97d0-53e0eeb4cd8c
 :END:
+* 促进温热性发汗(1)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 281
+:id: 61ffb3c8-1a25-4629-a77d-cd01f7e942e8
+:END:
