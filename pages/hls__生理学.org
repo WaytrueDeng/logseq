@@ -896,3 +896,9 @@
 :hl-page: 194
 :id: 6200ac25-6b0b-445d-baa2-18ddb7d1bcbb
 :END:
+* 其他如[[肾上腺皮质功能减退]]、[[垂体性肥胖]]、[[肾病综合征]]、[[病理性饥饿]]等将出现基础代谢率降低
+:PROPERTIES:
+:hl-page: 196
+:ls-type: annotation
+:id: 6200ac7b-bcda-4d2b-bdae-a8ccbc9f811b
+:END:
