@@ -938,3 +938,9 @@
 :ls-type: annotation
 :id: 6200b960-f17b-4d4b-aab3-e60ab4307c7c
 :END:
+* 运动时院羯湄腕代谢增强•产热量增加，体温升高
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6200baff-e2db-4678-a396-2cec36a30f37
+:END:
