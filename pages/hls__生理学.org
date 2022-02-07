@@ -884,3 +884,9 @@
 :ls-type: annotation
 :id: 6200ab0f-3155-46da-818c-4c9c10d0999b
 :END:
+* 当环境温度低于20℃时，能量代谢率便开始增加；在10℃以下时，则显著增加,
+:PROPERTIES:
+:hl-page: 194
+:ls-type: annotation
+:id: 6200ab8b-4aa0-41b2-994b-ec7c8328e7cf
+:END:
