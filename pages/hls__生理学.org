@@ -962,3 +962,9 @@
 :ls-type: annotation
 :id: 6200c172-1719-47ba-9c29-e92bd4493579
 :END:
+* 人体在21℃的环境中，在裸体情况下约有60%的热量是通过辐射方式发散的
+:PROPERTIES:
+:hl-page: 199
+:ls-type: annotation
+:id: 6200c2aa-7f7d-42cb-a2f4-b544ec971cfc
+:END:

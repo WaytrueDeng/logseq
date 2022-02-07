@@ -2041,10 +2041,18 @@ D.头期、胃期和肠期分泌都有自身调节
 #+END_TIP
 ** 37. 1995N31A 在常温下，机体散热的主要机制是
 *** ✅A.辐射
+
+#+BEGIN_TIP
+{{embed ((6200c2aa-7f7d-42cb-a2f4-b544ec971cfc))}}
+#+END_TIP
 *** B.蒸发
 *** C.出汗
 *** D.不感蒸发
 *** E.传导
+
+#+BEGIN_TIP
+"实际上人体热因传导而散失的热量并不多”
+#+END_TIP
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
