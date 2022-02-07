@@ -956,3 +956,9 @@
 :ls-type: annotation
 :id: 6200be1c-2faa-43d2-be30-ab90e60b7737
 :END:
+* 在安静状态下，当环境温度低于机体表层温度时，大部分体热通过辐射、传导和对流等方式向外界发散，小部分体热随呼出气、尿、粪等排泄物排出体外
+:PROPERTIES:
+:hl-page: 199
+:ls-type: annotation
+:id: 6200c172-1719-47ba-9c29-e92bd4493579
+:END:
