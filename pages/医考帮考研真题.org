@@ -1908,13 +1908,18 @@ D.头期、胃期和肠期分泌都有自身调节
 {{embed ((6200b080-ec7e-4a0b-8b15-e7079d8edca9))}}
 *** E.基础代谢率同体表面积之间具有比例关系
 *** {{embed ((6200b006-354c-496f-b64e-495c43e41417))}}
-** #+BEGIN_IMPORTANT
+** :PROPERTIES:
+:id: 6200b639-ca3d-41a2-bbbc-b0213d6860b1
+:END:
+#+BEGIN_IMPORTANT
 20. 2018N9A 测得某人在基础状态下的耗氧量为14L/h，体表面积为1.6m2，其BMR约是
 #+END_IMPORTANT
 *** A.150 kJ/(m²·h)
 *** B.167 kJ/(m²·h)
 *** C.177 kJ/(m²·h)
 *** D.186 kJ/(m²·h)
+*** {{embed ((6200b670-9eda-4327-a6a5-99aa72b8bf3a))}}
+***
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true

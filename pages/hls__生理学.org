@@ -914,3 +914,9 @@
 :ls-type: annotation
 :id: 6200b080-ec7e-4a0b-8b15-e7079d8edca9
 :END:
+* 某受试者，男性，20岁，在基础状态下1小时的耗氧量为14L，测算出的体表面积为1.6m²，其基础代谢率为20.20kJ/L×14L/h÷1.6m²=176.75kJ/（m²•h）
+:PROPERTIES:
+:hl-page: 196
+:ls-type: annotation
+:id: 6200b670-9eda-4327-a6a5-99aa72b8bf3a
+:END:
