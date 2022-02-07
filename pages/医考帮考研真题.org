@@ -2121,6 +2121,19 @@ A.高热高湿环境下中暑的发生
 {{embed ((6200c75e-6e43-40f1-8b2a-54f0c48b7d27))}}
 *** C.二者都是
 *** D.二者都无
+** :PROPERTIES:
+:id: 6200c959-2ed1-44e0-b9c5-fc45b9d14bad
+:END:
+48. 1988N78B 中枢性温度感受神经元数量较多的部位是
+*** A.视前区-下丘脑前部
+
+#+BEGIN_TIP
+{{embed ((6200c905-c0cb-4b82-8a2c-3237ea80170c))}}
+#+END_TIP
+*** B.下丘脑后部
+*** C.大脑皮层运动区
+*** D.中脑
+*** E.脑干网状结构
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true

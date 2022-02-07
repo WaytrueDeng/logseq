@@ -986,8 +986,9 @@
 :ls-type: annotation
 :id: 6200c75e-6e43-40f1-8b2a-54f0c48b7d27
 :END:
-* :PROPERTIES:
-:ls-type: annotation
+* （P223）&“动物实验表明，下丘脑、脑干网状结构和脊髓等中枢神经系统中都含有温度敏感神经元，其中，在视前区-下丘脑前部（PO/AH）热敏神经元居多；而在脑干网状结构和下丘脑的弓状核，则冷敏神经元较多”。
+:PROPERTIES:
 :hl-page: 202
+:ls-type: annotation
 :id: 6200c905-c0cb-4b82-8a2c-3237ea80170c
 :END:
