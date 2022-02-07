@@ -944,8 +944,9 @@
 :ls-type: annotation
 :id: 6200baff-e2db-4678-a396-2cec36a30f37
 :END:
-* :PROPERTIES:
-:ls-type: annotation
+* 在褐色脂肪组织细胞的线粒体内膜中存在[[解耦联蛋白]]（UCP)，当受到甲状腺激素、肾上腺素作用时，UCP就成为易化质子通道，H⁺顺浓度梯度沿UCP返回到线粒体基质中，使经线粒体呼吸链电子传递建立的质子跨膜电-化学势能以热能的形式释放出来，而不能用于合成ATP
+:PROPERTIES:
 :hl-page: 199
+:ls-type: annotation
 :id: 6200bc5c-97ad-41cd-acdd-dc526adc93c0
 :END:
