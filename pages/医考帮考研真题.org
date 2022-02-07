@@ -1829,6 +1829,8 @@ D.头期、胃期和肠期分泌都有自身调节
 **** ((61fe2f5f-2ecc-4183-98d9-f28ad359c04b))
 *** D.Fe²⁺
 **** ((61fe3086-638c-4cd4-97d0-53e0eeb4cd8c))
+* 生理 能量与体温
+**
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
