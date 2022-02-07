@@ -2093,6 +2093,18 @@ B.刚刚分泌的汗液渗透压高于血浆
 #+END_TIP
 *** D.中脑
 *** E.脑干网状结构
+** :PROPERTIES:
+:id: 6200c736-f049-43fb-b093-934b849bd132
+:END:
+45. 2000N119C 参与体温调节的神经元是
+*** A.热敏神经元
+*** B.冷敏神经元
+*** ✅C.二者都是
+
+#+BEGIN_TIP
+{{embed ((6200c75e-6e43-40f1-8b2a-54f0c48b7d27))}}
+#+END_TIP
+*** D.二者都无
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
