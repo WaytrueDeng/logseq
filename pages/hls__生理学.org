@@ -902,3 +902,9 @@
 :ls-type: annotation
 :id: 6200ac7b-bcda-4d2b-bdae-a8ccbc9f811b
 :END:
+* 不同而有差异(表7.4),一般男性的平均值比同年龄组的女性高：儿童比成人高，年龄越大,代谢率越低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6200b006-354c-496f-b64e-495c43e41417
+:END:
