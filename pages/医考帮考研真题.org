@@ -1989,9 +1989,12 @@ D.头期、胃期和肠期分泌都有自身调节
 32. 2015N154X 能促使机体产热活动明显增强的体液因子有
 #+END_IMPORTANT
 *** ✅A.[[肾上腺素]]
-*** B.生长激素
+*** ✅B.生长激素
 *** C.糖皮质激素
 *** ✅D.[[甲状腺激素]]
+*** #+BEGIN_TIP
+{{embed ((6200be1c-2faa-43d2-be30-ab90e60b7737))}}
+#+END_TIP
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
