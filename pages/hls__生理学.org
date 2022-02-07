@@ -944,3 +944,8 @@
 :ls-type: annotation
 :id: 6200baff-e2db-4678-a396-2cec36a30f37
 :END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6200bc5c-97ad-41cd-acdd-dc526adc93c0
+:END:
