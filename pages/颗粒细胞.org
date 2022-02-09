@@ -1,6 +1,6 @@
 #+ALIAS: 球旁细胞
 
-** 刺激因素
+** 颗粒细胞刺激因素
 :PROPERTIES:
 :id: 62034ad8-e866-4ad7-a09d-713c4dd46b2b
 :END:
