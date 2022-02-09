@@ -1,1 +1,1 @@
-#+ALIAS: HCO3
+#+ALIAS: HCO3,HCO₃
