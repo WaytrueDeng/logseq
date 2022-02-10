@@ -9,3 +9,15 @@
 :hl-page: 254
 :id: 6204c29e-3450-475f-94d3-b60fff2954c4
 :END:
+* 近髓肾单位：近髓肾单位的肾小体位于皮质层靠近髓质的位置，占肾单位总数的10%~15%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 254
+:id: 6204c2a2-e1d9-45b1-8622-51ebe018f90c
+:END:
+* 髓
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 254
+:id: 6204c2aa-f878-48c0-8012-832751ddbd04
+:END:

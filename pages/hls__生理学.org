@@ -1005,3 +1005,23 @@
 :id: 6204c038-b173-4b16-8d39-ab12ffd8ae2f
 :END:
 **
+* 近髓肾单位:近髓肾单位的肾小体位于皮质层靠近髓质的位置
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6204c2dd-14f7-4d3e-aacf-f5891240f5bd
+:END:
+* 近髓肾单位:近髓肾单位的肾小体位于皮质层靠近髓质的位置，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6204c2e7-3286-4323-9546-f135523804da
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6204c304-42db-4197-ad39-accd8912ee7c
+:hl-type: area
+:hl-stamp: 1644479235430
+:END:
