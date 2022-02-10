@@ -1,0 +1,11 @@
+:PROPERTIES:
+:file: [[../assets/生理学full.pdf][生理学full.pdf]]
+:file-path: ../assets/生理学full.pdf
+:END:
+
+* 近髓肾单位：近髓肾单位的肾小体位于皮质层靠近髓质的位置，占肾单位总数的10%~15%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 254
+:id: 6204c29e-3450-475f-94d3-b60fff2954c4
+:END:
