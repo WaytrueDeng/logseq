@@ -998,9 +998,10 @@
 :ls-type: annotation
 :id: 6204be78-73bb-4703-b693-8d4327a6f3fa
 :END:
-* 鸳芥皱教常于入球小动脉和出球小动脉之间的一团毛细血管簇,由入球小动脉分支成40~50条平行且相互吻合成网的毛细血管网.最
+* 肾小球是位于入球小动脉和出球小动脉之间的一团毛细血管簇
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 204
+:ls-type: annotation
 :id: 6204c038-b173-4b16-8d39-ab12ffd8ae2f
 :END:
+**
