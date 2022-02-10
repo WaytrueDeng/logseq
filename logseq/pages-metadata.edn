@@ -1,16 +1,4 @@
-[{:block/name "+begin_important",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
- {:block/name "+end_importan",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
- {:block/name "+end_important",
-  :block/created-at 1644303206696,
-  :block/updated-at 1644303206696}
- {:block/name "../assets/image_1641457441120_0.png",
-  :block/created-at 1644303206696,
-  :block/updated-at 1644303206696}
- {:block/name "../assets/image_1641459834095_0.png",
+[{:block/name "../assets/image_1641459834095_0.png",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
  {:block/name "../assets/image_1641991306322_0.png",
@@ -100,9 +88,6 @@
  {:block/name "../assets/image_1642647469566_0.png",
   :block/created-at 1644303206695,
   :block/updated-at 1644303206695}
- {:block/name "../assets/image_1642648897832_0.png",
-  :block/created-at 1644303206695,
-  :block/updated-at 1644303206695}
  {:block/name "../assets/image_1642653558316_0.png",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
@@ -127,12 +112,6 @@
  {:block/name "../assets/image_1643792097938_0.png",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
- {:block/name "../assets/image_1643793215484_0.png",
-  :block/created-at 1644303206695,
-  :block/updated-at 1644303206695}
- {:block/name "../assets/image_1643793285693_0.png",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
  {:block/name "../assets/image_1643943174598_0.png",
   :block/created-at 1644303206692,
   :block/updated-at 1644303206692}
@@ -142,22 +121,10 @@
  {:block/name "../assets/image_1643959479428_0.png",
   :block/created-at 1644303206694,
   :block/updated-at 1644303206694}
- {:block/name "../assets/image_1643961289587_0.png",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
  {:block/name "../assets/image_1643962106995_0.png",
   :block/created-at 1644303206695,
   :block/updated-at 1644303206695}
  {:block/name "../assets/image_1644035833935_0.png",
-  :block/created-at 1644303206690,
-  :block/updated-at 1644303206690}
- {:block/name "../assets/image_1644245754204_0.png",
-  :block/created-at 1644303206695,
-  :block/updated-at 1644303206695}
- {:block/name "../assets/image_1644246107542_0.png",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
- {:block/name "../assets/image_1644246691926_0.png",
   :block/created-at 1644303206690,
   :block/updated-at 1644303206690}
  {:block/name "../assets/image_1644246857625_0.png",
@@ -188,9 +155,6 @@
   "../assets/screenshot_2022-02-04-10-10-11-732_com.hujiang.cctalk_1643940833786_0.jpg",
   :block/created-at 1644303206695,
   :block/updated-at 1644303206695}
- {:block/name "../assets/test_1641469187784_0.excalidraw",
-  :block/created-at 1644303206691,
-  :block/updated-at 1644303206691}
  {:block/name "../assets/untitled-2022-02-08-1334_1644302499693_0.png",
   :block/created-at 1644303206695,
   :block/updated-at 1644303206695}
@@ -209,9 +173,6 @@
  {:block/name "../assets/睫状肌_1641457628190_0.gif",
   :block/created-at 1644303206695,
   :block/updated-at 1644303206695}
- {:block/name "../assets/药理学.excalidraw_1641467766554_0.excalidraw",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
  {:block/name "../assets/药理学.pdf",
   :block/created-at 1644303206692,
   :block/updated-at 1644303206692}
@@ -239,12 +200,6 @@
  {:block/name "../attachments/pasted image 20220112161617.png",
   :block/created-at 1644303206696,
   :block/updated-at 1644303206696}
- {:block/name "../draws/生理血液.svg",
-  :block/created-at 1644303206696,
-  :block/updated-at 1644303206696}
- {:block/name "./assets",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
  {:block/name "100_",
   :block/created-at 1643178320204,
   :block/updated-at 1644294612630}
@@ -398,24 +353,12 @@
  {:block/name "6204cd51-c2a7-43e2-9bc4-28b146586d88",
   :block/created-at 1644493453286,
   :block/updated-at 1644493453286}
- {:block/name "6204f175-06b3-4164-847b-6faf65ed6aeb",
-  :block/created-at 1644493453286,
-  :block/updated-at 1644493453286}
  {:block/name "a",
   :block/created-at 1644303206690,
   :block/updated-at 1644303206690}
  {:block/name "a/e",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
- {:block/name "a/e ",
-  :block/created-at 1644493453286,
-  :block/updated-at 1644493453286}
- {:block/name "a_",
-  :block/created-at 1644493453286,
-  :block/updated-at 1644493453286}
- {:block/name "a_/e",
-  :block/created-at 1644493453286,
-  :block/updated-at 1644493453286}
  {:block/name "acei",
   :block/created-at 1642649187126,
   :block/updated-at 1642649206112}
@@ -497,9 +440,9 @@
  {:block/name "draws",
   :block/created-at 1644303206692,
   :block/updated-at 1644303206692}
- {:block/name "draws/生理血液.svg",
-  :block/created-at 1644303206695,
-  :block/updated-at 1644303206695}
+ {:block/name "draws/2022-01-06-17-50-39.excalidraw",
+  :block/created-at 1644494290531,
+  :block/updated-at 1644494290531}
  {:block/name "du",
   :block/created-at 1644303206692,
   :block/updated-at 1644303206692}
@@ -545,9 +488,6 @@
  {:block/name "feb 9th, 2022",
   :block/created-at 1644364800000,
   :block/updated-at 1644364800000}
- {:block/name "forward",
-  :block/created-at 1644303206692,
-  :block/updated-at 1644303206692}
  {:block/name "frank-starling机制",
   :block/created-at 1644303206696,
   :block/updated-at 1644303206696}
@@ -620,9 +560,6 @@
  {:block/name "jan 13th, 2022",
   :block/created-at 1642032000000,
   :block/updated-at 1642032000000}
- {:block/name "jan 14th, 2022",
-  :block/created-at 1642118400000,
-  :block/updated-at 1642118400000}
  {:block/name "jan 15th, 2022",
   :block/created-at 1642204800000,
   :block/updated-at 1642204800000}
@@ -713,12 +650,6 @@
  {:block/name "now",
   :block/created-at 1644303206696,
   :block/updated-at 1644303206696}
- {:block/name "outputs",
-  :block/created-at 1644303206696,
-  :block/updated-at 1644303206696}
- {:block/name "outputs/物质的跨膜转运",
-  :block/created-at 1644303206696,
-  :block/updated-at 1644303206696}
  {:block/name "pge₂",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
@@ -746,6 +677,9 @@
  {:block/name "tsh",
   :block/created-at 1644303206691,
   :block/updated-at 1644303206691}
+ {:block/name "txa2",
+  :block/created-at 1644494290531,
+  :block/updated-at 1644494290531}
  {:block/name "txa₂",
   :block/created-at 1642233712441,
   :block/updated-at 1642233782351}
@@ -1268,6 +1202,9 @@
  {:block/name "激肽",
   :block/created-at 1644493453285,
   :block/updated-at 1644493453285}
+ {:block/name "激肽释放酶",
+  :block/created-at 1644494290531,
+  :block/updated-at 1644494290531}
  {:block/name "烧伤",
   :block/created-at 1642604788246,
   :block/updated-at 1642604793242}
@@ -1832,6 +1769,9 @@
  {:block/name "阿托品",
   :block/created-at 1641457437933,
   :block/updated-at 1641457630190}
+ {:block/name "降钙素",
+  :block/created-at 1644494290531,
+  :block/updated-at 1644494290531}
  {:block/name "集合管",
   :block/created-at 1644493453285,
   :block/updated-at 1644493453285}
