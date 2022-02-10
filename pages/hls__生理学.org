@@ -1037,3 +1037,9 @@
 :ls-type: annotation
 :id: 6204c4d9-e2c4-4d50-ac4d-097e61359993
 :END:
+* 全身各部位的组织细胞几乎都含有生成[[前列腺素]]的前体和酶
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 6204c619-fc61-4a92-b3e6-42acd03c626e
+:END:
