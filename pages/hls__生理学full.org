@@ -35,3 +35,15 @@
 :hl-page: 256
 :id: 62050919-fb4f-43ce-b899-1150354238fc
 :END:
+* 单位时间内（每分钟）两肾生成的超滤液量称为肾小球滤过率（glomerularfiltrationrate,[[GFR]]）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 258
+:id: 62050a1b-f13d-4dce-9645-277691069d10
+:END:
+* 肾小球滤过率与肾血浆流量的比值称为滤过分数（filtrationfraction,FF）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 258
+:id: 62050a6e-0ad6-4c68-a2fd-0641561f94c9
+:END:
