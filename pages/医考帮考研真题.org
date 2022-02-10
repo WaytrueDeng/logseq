@@ -2135,7 +2135,13 @@ A.高热高湿环境下中暑的发生
 *** D.中脑
 *** E.脑干网状结构
 * 生理 尿的生成与排出
-**
+** #+BEGIN_IMPORTANT
+1. 1988N117X 肾脏产生的内分泌素包括
+#+END_IMPORTANT
+*** ✅A.肾素
+*** ✅B.促红细胞生成因子
+*** ✅C.[[前列腺素]]
+*** D.降钙素
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
