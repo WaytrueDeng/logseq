@@ -49,7 +49,7 @@ CLOCK: [2022-01-13 Thu 19:07:36]--[2022-01-13 Thu 21:09:50] =>  02:02:14
 **
 ** :PROPERTIES:
 :id: 61dfda54-0b9e-420b-967b-47c8415865eb
-:col    lapsed: true
+:collapsed: true
 :END:
 #+BEGIN_IMPORTANT
 29. 1989N148X 心肌细胞外Na 浓度增高时
@@ -2258,9 +2258,7 @@ A.高热高湿环境下中暑的发生
 {{embed ((62050a6e-0ad6-4c68-a2fd-0641561f94c9))}} 
 #+END_TIP
 ** 18. 2020N11A 能调节滤过膜有效滤过面积和有效通透系数的肾小球功能活动是
-#+BEGIN_IMPORTANT
 A.血管内皮细胞间隙的收放
-#+END_IMPORTANT
 B.基膜的更新和网孔改建
 C.球内系膜细胞的舒缩
 D.足细胞足突的伸缩

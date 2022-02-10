@@ -41,7 +41,7 @@
 :hl-page: 258
 :id: 62050a1b-f13d-4dce-9645-277691069d10
 :END:
-* 肾小球滤过率与肾血浆流量的比值称为滤过分数（filtrationfraction,FF）
+* 肾小球滤过率与肾血浆流量的比值称为滤过分数（filtrationfraction,[[FF]]）
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 258
