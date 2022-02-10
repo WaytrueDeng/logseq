@@ -65,3 +65,9 @@
 :ls-type: annotation
 :id: 62051028-379d-4cfa-8580-feabdcd0f480
 :END:
+* 当肾[[交感神经]]强烈兴奋引起入球小动脉阻力明显增加时(如[[剧烈运动]]、大失血、[[缺氧]]和[[中毒性休克]]等)，肾血流量和肾血浆流量明显减少，肾小球滤过率也显著降低。
+:PROPERTIES:
+:hl-page: 260
+:ls-type: annotation
+:id: 6205164e-43ce-4699-9fb3-c7b9e8d2e39e
+:END:
