@@ -1025,3 +1025,9 @@
 :hl-type: area
 :hl-stamp: 1644479235430
 :END:
+* 嚷鉴盈的)也称瀛盟蜜簌/4ular cell).是入球小动脉管壁中一些特殊分化的平滑肌细胞.细晌内含分泌颗粒.能合成、储存和释放肾素小叶间景二二直小血管集合管一(renin)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6204c3f2-99a1-416c-b661-5ae8c4d85c3d
+:END:
