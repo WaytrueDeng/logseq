@@ -53,3 +53,9 @@
 :hl-page: 259
 :id: 62050d58-0028-4530-b03a-2ee1dc44c082
 :END:
+* 肾血浆流量对肾小球滤过率的影响是通过改变滤过平衡点而非有效滤过压实现的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 260
+:id: 62050ede-49a1-41f0-86ea-ca528db578c1
+:END:
