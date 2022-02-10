@@ -992,3 +992,9 @@
 :ls-type: annotation
 :id: 6200c905-c0cb-4b82-8a2c-3237ea80170c
 :END:
+* 肾脏还能生成[[激肽]]和[[前列腺素]]参与局部或全身血管活动的调节。
+:PROPERTIES:
+:hl-page: 204
+:ls-type: annotation
+:id: 6204be78-73bb-4703-b693-8d4327a6f3fa
+:END:

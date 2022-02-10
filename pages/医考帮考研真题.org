@@ -2141,7 +2141,13 @@ A.高热高湿环境下中暑的发生
 *** ✅A.肾素
 *** ✅B.促红细胞生成因子
 *** ✅C.[[前列腺素]]
-*** D.降钙素
+**** #+BEGIN_TIP
+((6204be78-73bb-4703-b693-8d4327a6f3fa))
+#+END_TIP
+*** D.[[降钙素]]
+**** #+BEGIN_TIP
+由甲状旁腺细胞
+#+END_TIP
 * [[Comments]]
 :PROPERTIES:
 :collapsed: true
