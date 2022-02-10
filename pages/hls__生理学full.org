@@ -71,3 +71,9 @@
 :ls-type: annotation
 :id: 6205164e-43ce-4699-9fb3-c7b9e8d2e39e
 :END:
+* 近端小管对水的重吸收主要是通过[[水通道蛋白]]l(aquaporin1,AQP1)在渗透压作用下完成的。[[AQP1]]主要分布在近端小管上皮细胞顶端膜和基底侧膜，参与超滤液中60%-70%水的重吸收，具有极高的水渗透通透性，是完成水的跨细胞重吸收的主要通道。
+:PROPERTIES:
+:hl-page: 262
+:ls-type: annotation
+:id: 62051870-dc0b-4632-acce-d0a551405265
+:END:
