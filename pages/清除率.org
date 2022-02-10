@@ -1,1 +1,1 @@
-* = 血浆毫升数 = Cx = Ux * V / Px
+* = 血浆毫升数 =  Cx  = Ux * V / Px  = [[GFR]]*Px+Sx(分泌)-Rx重吸收
