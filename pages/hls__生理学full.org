@@ -59,3 +59,9 @@
 :hl-page: 260
 :id: 62050ede-49a1-41f0-86ea-ca528db578c1
 :END:
+* 这种现象称为[[渗透性利尿]](osmotic duresis)[[糖尿病]]患者由于血糖浓度升高而使超滤液中的葡萄糖量超过近端小管对糖的最大转运率,造成小管液溶质浓度升高,结果使水和NaCl的重吸收减少，尿量增加。
+:PROPERTIES:
+:hl-page: 267
+:ls-type: annotation
+:id: 62051028-379d-4cfa-8580-feabdcd0f480
+:END:
