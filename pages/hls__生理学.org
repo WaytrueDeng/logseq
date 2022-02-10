@@ -1031,9 +1031,9 @@
 :hl-page: 205
 :id: 6204c3f2-99a1-416c-b661-5ae8c4d85c3d
 :END:
-* 肾是产生EPO的主要部位。肾皮质肾小管周围的间质细胞(如成纤维细胞、肉皮细胞)可产牛
+* “肾是产生 [[EPO]] 的主要部位。肾皮质肾小管周围的间质细胞（如成纤维细胞、内皮细胞）可产生EPO”。
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 73
+:ls-type: annotation
 :id: 6204c4d9-e2c4-4d50-ac4d-097e61359993
 :END:
