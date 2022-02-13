@@ -171,6 +171,7 @@
  :graph/settings {:orphan-pages? false, :builtin-pages? false}
  :publishing/all-pages-public? false
  :feature/enable-journals? false
+ :zotero/settings-v2 {"default" {:zotero-linked-attachment-base-directory "/Users/waytrue/PDFs", :zotero-data-directory "/Users/waytrue/zotero", :type-id "6626953"}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

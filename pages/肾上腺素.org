@@ -1,3 +1,6 @@
 #+ALIAS: A/E
 
-*
+* 所有的肾上腺素能均作用于 [[GPCR]]
+:PROPERTIES:
+:id: 6204fa8e-c021-43fd-88e6-919bb5cbc912
+:END:

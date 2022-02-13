@@ -1,0 +1,507 @@
+:PROPERTIES:
+:file: [[file:///Users/waytrue/zotero/storage/5CG83YHN/Wang - 2018 - Sheng li xue = Physiology.pdf][Wang - 2018 - Sheng li xue = Physiology.pdf]]
+:file-path: file:///Users/waytrue/zotero/storage/5CG83YHN/Wang - 2018 - Sheng li xue = Physiology.pdf
+:END:
+
+* 远曲小管对水仍不通透，因而随着NaCl的重吸收小管液渗透压继续降低
+:PROPERTIES:
+:hl-page: 263
+:ls-type: annotation
+:id: 6205fbbb-5e76-4a87-ad2a-ea92873ae461
+:END:
+* 在正常情况下，从肾小球滤过的 [[HCO₃⁻]] 约80%由近端小管重吸收。
+:PROPERTIES:
+:hl-page: 264
+:ls-type: annotation
+:id: 6205fe32-4957-48e1-9aea-408e27156f6b
+:END:
+* 可见，近端小管重吸收HCO3-是以CO₂的形式进行的，故HCO3-的重吸收优先于Cl⁻的重吸收。
+:PROPERTIES:
+:hl-page: 264
+:ls-type: annotation
+:id: 6205fed5-85d0-4d9e-9eb2-153fb68b1e83
+:END:
+* NH₄⁺通过上皮细胞顶端膜[[Na⁺-H⁺交换体]]进入小管液（由NH₄⁺代替H⁺）；NH₃是脂溶性分子，可以单纯扩散的方式进入小管腔，也可通过基底侧膜进入细胞间液
+:PROPERTIES:
+:hl-page: 264
+:ls-type: annotation
+:id: 6206024e-8b80-47a8-9839-9e9f106f90d3
+:END:
+* 近端小管是分泌H⁺的主要部位，并以Na⁺-H⁺交换的方式为主
+:PROPERTIES:
+:hl-page: 264
+:ls-type: annotation
+:id: 620602d2-58ba-451b-9f70-3b4b782a1142
+:END:
+* 肾小管和集合管上皮细胞的碳酸酊酶活性受pH的影响，当pH降低时，其活性增加，可生成更多的H+,有利于肾的排W保碱。碳酸酊酶抑制剂乙酰哇胺（acetazolamide）可抑制H*的分泌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 264
+:id: 6206031d-fb91-4e28-9e95-7a93ee4e01e4
+:END:
+* 因此，1分子[[谷氨酰胺]]被代谢时，可生成2个NH₄⁺进入小管液，同时回收2个HCO₃⁻。这一反应过程主要发生在[[近端小管]]
+:PROPERTIES:
+:hl-page: 264
+:ls-type: annotation
+:id: 62060415-d865-4a41-8331-93d08a35bef1
+:END:
+* 在集合管，氨的分泌机制有所不同。集合管上皮细胞膜对NH₃高度通透，而对NH₄⁺的通透性则较低，故细胞内生成的NH₃以扩散方式进入小管液,与小管液中的H⁺结合形成NH₄⁺,并随尿排出体外。这一反应过程中，尿中每排出1个NH₄⁺可有1个 [[HCO3⁻]] 被重吸收
+:PROPERTIES:
+:hl-page: 265
+:ls-type: annotation
+:id: 62060495-4631-429a-92c6-24eeacaf547d
+:END:
+* NH₃的分泌与H⁺的分泌密切相关。如果集合管分泌H⁺被抑制，则尿中排出的NH₄⁺也减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 265
+:id: 6206050d-6424-44f8-ae09-feb695686d3b
+:END:
+* 在生理情况下，肾脏分泌的H⁺约有50%由NH₃缓冲。慢性酸中毒时可刺激肾小管和集合管上皮细胞[[谷氨酰胺]]的代谢，增加NH₄⁺和NH₃的排泄和生成HCO₃⁻。故氨的分泌也是肾脏调节酸碱平衡的重要机制之一
+:PROPERTIES:
+:hl-page: 265
+:ls-type: annotation
+:id: 620608ac-0120-46f3-beab-d17646c8bb86
+:END:
+* 小管液中[[K⁺]]的将有65%-70%在近端小管被重吸收,25%-30%在髓祥被重吸收,K⁺在这些部位的重吸收比例是比较固定的，但目前对K⁺重吸收的机制未完全了解
+:PROPERTIES:
+:hl-page: 265
+:ls-type: annotation
+:id: 620609bb-e18f-4409-9069-77735e930a00
+:END:
+* 远端小管和皮质集合管可重吸收K⁺，也能分泌K⁺。
+:PROPERTIES:
+:hl-page: 265
+:ls-type: annotation
+:id: 62060a06-1915-4236-ae78-bfaf46f087ad
+:END:
+* 临床上利用渗透性利尿的原理,给患者静脉滴注可经肾小球自由滤过但不被肾小管重吸收的物质，如[[甘露醇]](mannitol)和[[山梨醇]](sorbitol)等,可用作脱水药，如治疗[[脑水肿]]和[[青光眼]]等，以降低颅内压和眼内压,也可用于心肾功能正常的水肿和少尿以及预防肾衰竭。
+:PROPERTIES:
+:hl-page: 267
+:ls-type: annotation
+:id: 62060ebb-6a6b-45c1-b4d3-9e07db5ae6a0
+:END:
+* 肾髓质间液高渗是尿液浓缩的重要条件
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 271
+:id: 620611c8-4802-4ecb-b19d-2b0fcc5cf403
+:END:
+* 影响尿浓缩的另一重要因素是集合管对水的通透性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 271
+:id: 620611f9-3feb-451f-ae09-e70577a238e2
+:END:
+* 一些营养不良、长期蛋白质摄入不足的患者,蛋白质代谢减少，[[尿素]]生成量减少，可影响内髓部高渗的形成，从而降低尿浓缩的功能。
+:PROPERTIES:
+:hl-page: 271
+:ls-type: annotation
+:id: 62061356-5c41-462b-b172-c155ad00fe57
+:END:
+* 尿液的浓缩是因为小管液中的水被重吸收，而溶质仍留在小管液中造成的。机体产生浓缩尿液有两个必要因素:①肾小管特别是集合管对水的通透性。抗利尿激素(ADH)可以增加肾脏集合管上皮细胞顶端膜上水通道蛋白2的表达，促进肾脏对水的重吸收;②肾脏髓质组织间液形成高渗透浓度梯度，进一步促进水的重吸收。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 268
+:id: 62061428-98fd-4138-b245-0a6becb5b920
+:END:
+* 血管升压素(vasopressin,VP)也称抗利尿激素(antidiuretichormone,ADH)，是一种九肽激素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 272
+:id: 620614f3-3b78-4ddb-bc1c-d03d1ad140a4
+:END:
+* 它由位于下丘脑[[视上核]](supraopticnucleus)和[[室旁核]](paraventricularnucleus)的神经内分泌细胞所合成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 272
+:id: 6206151b-e679-4e6f-96a2-a1a7b4517d7c
+:END:
+* 抗利尿激素通过调节集合管主细胞[[AQP2]]的蛋白表达量和转位，调节集合管对水的重吸收，从而影响尿量和尿渗透压
+:PROPERTIES:
+:hl-page: 273
+:ls-type: annotation
+:id: 62061569-140c-4c64-8c20-ea4280eb5377
+:END:
+* 反之，当循环血量增多时，静脉回心血量增加，可刺激[[心肺感受器]]，抑制[[抗利尿激素]]释放。
+:PROPERTIES:
+:hl-page: 273
+:ls-type: annotation
+:id: 620615c1-7943-46ea-b50c-726a9f608257
+:END:
+* 大量[[出汗]]、严重[[腹泻]]、呕吐、[[高热]]等导致机体失水多于溶质的丢失，血浆晶体渗透压升高,视上核及其周围区域渗透压感受器受刺激,使神经垂体释放[[抗利尿激素]]，集合管管腔膜对水通透性增加，水的重吸收增多，尿液浓缩，尿量减少。
+:PROPERTIES:
+:hl-page: 273
+:ls-type: annotation
+:id: 62061df9-6898-4f50-828c-37b7a9f70e8b
+:END:
+* 当大量饮清水后，血液被稀释，血浆晶体渗透压降低，引起抗利尿激素分泌减少，集合管对水的重吸收减少，尿液稀释，尿量增加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 273
+:id: 62061eff-5517-4622-a76d-d147ca13d803
+:END:
+* 合成的激素被包裹在囊泡中，沿下丘脑-垂体束的轴突被转运并储存在[[神经垂体]]中
+:PROPERTIES:
+:hl-page: 272
+:ls-type: annotation
+:id: 620620df-afc1-47ed-a5a1-44e550c0eae9
+:END:
+* 当大量饮清水后，血液被稀释，血浆晶体渗透压降低，引起抗利尿激素分泌减少，集合管对水的重吸收减少，尿液稀释，尿量增加。例如一次饮1000ml清水后，约过30分钟尿量就开始增加，1小时末尿量可达最高峰,2~3小时后尿量恢复到原水平。若饮1000ml生理盐水，则排尿量不出现饮清水后那样的变化(图8-17)。这种大量饮用清水后引起尿量增多的现象，称为[[水利尿]](waterdiuresis)
+:PROPERTIES:
+:hl-page: 273
+:ls-type: annotation
+:id: 620622ae-9a03-4b40-a82a-3d1fa4537466
+:END:
+* 如肾血浆流量增大时，肾小球毛细血管中血浆胶体渗透压上升的速度减缓,滤过平衡点向出球小动脉端移动，甚至不出现滤过平衡的情况,即有效滤过面积增大，故肾小球滤过率增加;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 260
+:id: 62062353-a9d1-4c36-a57b-7fcee2c00e82
+:END:
+* 体液机制:循环血液中的儿茶酚胺（肾上腺素和去甲肾上腺素），肾内生成的 [[PGE₂]] 和 [[PGI₂]] ，均可刺激球旁细胞释放肾素，低盐饮食也可显著增加肾素表达水平。 [[血管紧张素II]] 、[[抗利尿激素]]、[[心房钠尿肽]]、[[内皮素]]和[[NO]]则可抑制肾素的释放。
+:PROPERTIES:
+:hl-page: 274
+:ls-type: annotation
+:id: 620623dd-0326-4255-8211-0476a032b29d
+:END:
+* 这些诱导蛋白包括:①顶端膜上皮钠通道ENaC,有利于小管液中的Na⁺向细胞内扩散;②线粒体中合成ATP的酶,有利于ATP的生成，为基底侧膜钠泵提供生物能;③基底侧膜上的[[钠泵]]加速将Na⁺泵出细胞和K⁺泵入细胞,增大细胞内与小管液之间的K⁺浓度差，有利于促进K⁺的分泌。由于Na⁺的重吸收，小管腔呈负电位，也有利于K+的分泌，同时有利于[[Cl⁻]]和水的重吸收（图8-18）尊。
+:PROPERTIES:
+:hl-page: 274
+:ls-type: annotation
+:id: 620624ff-b78a-487f-b7ab-03f087fdfb21
+:END:
+* 当循环血量减少时，静脉回心血量减少，对[[心肺感受器]]的刺激减弱，经迷走神经传入至下丘脑的冲动减少,对[[抗利尿激素]]释放的抑制作用减弱或消失，故抗利尿激素释放增
+:PROPERTIES:
+:hl-page: 273
+:ls-type: annotation
+:id: 62062636-1d27-4504-a25a-d950d4d8b33f
+:END:
+* [[醛固酮]]主要作用于肾远曲小管和集合管的上皮细胞，增加K⁺的排泄和增加Na⁺、水的重吸收。
+:PROPERTIES:
+:hl-page: 274
+:ls-type: annotation
+:id: 620628e0-60bd-46a9-9b1d-305fd5c63391
+:END:
+* Na⁺的重吸收主要受醛固酮的调节,水的重吸收则主要受[[抗利尿激素]]的调节。
+:PROPERTIES:
+:hl-page: 262
+:ls-type: annotation
+:id: 62062926-a62d-49ec-a953-273c16a6094f
+:END:
+* 当血K⁺浓度升高和（或）血Na⁺浓度降低时，可直接刺激肾上腺皮质球状带分泌醛固酮；而当血K⁺浓度降低和（或）血Na⁺浓度升高时，则醛固酮分泌减少。醛固酮的分泌对血K⁺浓度的变化更为敏感。
+:PROPERTIES:
+:hl-page: 276
+:ls-type: annotation
+:id: 62062970-27df-444a-88ec-9128157a3e4c
+:END:
+* 肾小管和集合管通过Na⁺-H⁺交换（A对）和[[质子泵]]将H⁺主动分泌到小管液中（D对），且泌H⁺与HCO₃⁻的重吸收（B对）相耦联，此外，肾还能分泌NH₃和NH₄⁺（C对），这一过程不仅能使小管液中的H⁺浓度降低，使泌H⁺持续不断地进行，而且也能促进HCO₃⁻的重吸收
+:PROPERTIES:
+:hl-page: 277
+:ls-type: annotation
+:id: 62062d4d-a908-4fa8-ac47-cdc6e4f67f52
+:END:
+* ②升支粗段升支粗段中Na⁺跨管腔膜的迁移是通过Ⅱ型[[Na⁺-K⁺-2Cl⁻同向转运体]]介导的”。NKCC2表达在上皮细胞的顶端膜，同向转运1个Na⁺,1个K⁺和2个Cl⁻。管腔膜上这种同向转运体利用Na⁺顺浓度梯度扩散进入细胞释放的势能驱动K⁺,和Cl⁻逆浓度梯度进入细胞。
+:PROPERTIES:
+:hl-page: 262
+:ls-type: annotation
+:id: 62062ec5-66f2-4cac-9b65-891e8012ceba
+:END:
+* [[自由水清除率]](free-waterclearance,CHj0)是用清除率的方法定量测定肾排水情况的一项指标，即对肾产生无溶质水(又称自由水)能力进行定量分析的一项指标
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 279
+:id: 6206337f-c602-4e16-bcb6-fef2b3b57619
+:END:
+* 类固醇激素因其共同前体是胆固醇而得名，其典型代表是[[孕酮]]、[[醛固酮]]、[[皮质醇]]、[[睾酮]]、[[雌二醇]]和[[胆钙化醇]](图11-3)
+:PROPERTIES:
+:hl-page: 384
+:ls-type: annotation
+:id: 62088f83-3884-4b9b-a967-13ef5a60f692
+:END:
+* 胰高血糖素是胰岛α细胞分泌的含29个氨基酸残基的多肽激素，分子量约3.5kD,其中N末端第1~6位的氨基酸残基为其生物活性所必需
+:PROPERTIES:
+:hl-page: 418
+:ls-type: annotation
+:id: 620893d7-faad-4fc5-b5a6-6c98c8dd30b7
+:END:
+* [[细胞核受体]] 种类繁多,包括[[类固醇激素受体]]、[[甲状腺激素受体]]、[[维生素D受体]]和[[维甲酸受体]]等。
+:PROPERTIES:
+:hl-page: 386
+:ls-type: annotation
+:id: 6208951b-b05f-4b85-b470-dd259460e1b3
+:END:
+* 从组织学角度来看，腺垂体主要包含嗜色细胞和嫌色细胞,嗜色细胞包括:嗜酸性染色的生长激素分泌细胞(somatotrope,占分泌细胞总数的50%)和催乳素分泌细胞(lactotrope)；嗜碱性染色的促甲状腺激素分泌细胞(thyrotrope)、促肾上腺皮质激素分泌细胞(corticotrope)和促性腺激素分泌细胞(gonadotrope)，分别合成和分泌生长激素(growthhormone,GH)、催乳素(prolactin,PRL)、促甲状腺激素(thyroid-stimulatinghormone,TSH)、促肾上腺皮质激素(adrenocorticotropichor­mone,ACTH)、[[卵泡刺激素]](follicle-stimulatinghormone,FSH)和[[黄体生成素]](luteinizinghormone,LH)o曾被认为不具分泌功能的一些嫌色细胞，如滤泡星形细胞(folliculostellatecell),也可分泌多种生长因子和细胞因子，以旁分泌方式调节邻近腺细胞功能。在上述激素中,[[TSH]]、[[ACTH]]、[[FSH]]与[[LH]]均作用于各自的内分泌靶腺，属于[[促激素]](tropichormone),参与构成[[下丘脑-腺垂体-靶腺轴系统]]。而[[GH]]和[[PRL]]等则分别直接作用于其各自的靶细胞或靶组织。
+:PROPERTIES:
+:hl-page: 393
+:ls-type: annotation
+:id: 620899cb-0b90-42ab-8a1e-1de47b64614e
+:END:
+* GH对糖代谢的影响多继发于其对脂肪的动员。血中游离脂肪酸增加可抑制骨骼肌与脂肪组织摄取葡萄糖，减少葡萄糖消耗，使血糖水平升高,表现为“抗胰岛素”效应。GH也可通过降低外周组织对胰岛素的敏感性而升高血糖。GH分泌过多时,可造成垂体性糖尿。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 394
+:id: 62089f92-b77b-4b41-8676-3df3490061b1
+:END:
+* 。[[GH]]可促进脂肪降解,为脂解激素。GH可激活对胰岛素敏感的脂肪酶,促进脂肪分解，增强脂肪酸氧化、提供能量，最终使机体的能量来源由糖代谢向脂肪代谢转移,有助于促进生长发育和组织修复
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 394
+:id: 62089fe4-afc0-45ef-821d-512ba43972ec
+:END:
+* GH对蛋白质代谢的总体效应是促进合成代谢，主要促进氨基酸向细胞内转运，并抑制蛋白质分解，增加蛋白质含量。GH能加速软骨、骨、肌肉、肝、肾、肺、肠、脑及皮肤等组织的蛋白质合成。GH促进蛋白质合成的效应与其促进生长的作用相互协调
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 394
+:id: 6208a02c-ab04-4b80-a50a-1756bd039d2b
+:END:
+* GH对几乎所有组织和器官的生长都有促进作用,尤其是对骨骼、肌肉和内脏器官的作用最为显著，故也被称为[[躯体刺激素]](somatotropin)
+:PROPERTIES:
+:hl-page: 394
+:ls-type: annotation
+:id: 6208ace6-54d6-4036-9a3b-fa82bd787d8e
+:END:
+* 甲状腺激素（TH）是酪氨酸的碘化物，包括四碘甲腺原氨酸（T₄，或称[[甲状腺素]]）、三碘甲腺原氨酸（T₃）和极少量的逆三碘甲腺原氨酸（rT₃），三者分别约占分泌总量的90%、9%和1%。T₄的分泌量虽然最大，但T₃的生物活性最强，约为T₄的5倍”（C对）。rT3不具有TH生物活性。
+:PROPERTIES:
+:hl-page: 400
+:ls-type: annotation
+:id: 6208b0ce-dd63-4b21-8945-e71e35ca4461
+:END:
+* TH具有升高[[血糖]]的作用，主要机制包括:①加速小肠黏膜对葡萄糖的吸收;②促进肝糖原分解;③促进肝脏糖异生作用;④增强肾上腺素、胰高血糖素、皮质醇和生长激素的升糖效应。但由于TH又可以同时加强脂肪、肌肉等外周组织对葡萄糖的利用和葡萄糖的氧化，因而又有降低血糖的作用。因此，甲状腺功能亢进患者常表现为进食后血糖迅速升高,甚至出现糖尿，但随后血糖又能很快降低
+:PROPERTIES:
+:hl-page: 405
+:ls-type: annotation
+:id: 6208b379-7a19-40f1-9272-ed7137a3d88a
+:END:
+[[Q&A]]:一阴一阳该怎么理解?总的来说甲状腺激素应该是加快代谢的,这点久要求它应该是加强外周组织对糖利用的.同时为了保证原料充足它也应该是加强糖的来源的
+* TH对胆固醇的合成与清除也表现为双向调节作用（促清除作用＞促合成作用）。一方面,TH可以促进胆固醇的合成，另一方面由于增加[[低密度脂蛋白]]（LDL）受体的利用，使更多的胆固醇从血中清除,从而降低血清胆固醇水平。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 405
+:id: 6208b3df-1539-49f7-aa1b-86c3dbddf8fc
+:END:
+* 因此，[[甲状腺功能亢进]]时，以骨骼肌为主的外周组织蛋白质分解加速，可引起[[尿酸]]含量增加,尿氮排泄增加，肌肉收缩无力；骨基质蛋白质分解,Ca²⁺析出，导致[[血钙]]升高，骨质疏松;
+:PROPERTIES:
+:hl-page: 405
+:ls-type: annotation
+:id: 6208b46f-3d2c-4412-bf1d-0f6e5f5fd788
+:END:
+* GC能抑制肝外组织细胞内的蛋白质合成，加速其分解,减少氨基酸转运入肌肉等肝外组织,为肝糖异生提供原料.
+:PROPERTIES:
+:hl-page: 420
+:ls-type: annotation
+:id: 6208b8db-3e13-40c1-8446-e1eeb617450e
+:END:
+[[Q&A]]:可以从 [[向心性肥胖]]推出,由于四肢纤细
+* 胰岛素能促进蛋白质的合成，抑制蛋白质的分解。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 415
+:id: 6208b939-4901-44b7-9f40-c61a91586e5c
+:END:
+[[Q&A]] :为什么抑制分解?:我认为可以防止糖异生,达到降糖的目的
+* 生理情况下,TH对脂肪的合成和分解均有调节作用（促分解作用〉促合成作用），甲状腺功能亢进时,过量的TH促脂肪分解作用更明显。
+:PROPERTIES:
+:hl-page: 405
+:ls-type: annotation
+:id: 6208bea3-e4ef-4e28-8f22-00bf16b819c4
+:END:
+[[Q&A]]:促合成作用是我没有想到的,促分解作用可以理解毕竟是加强机体代谢的.只要记住和胆固醇一样促分解大于促合成
+* 对神经系统的影响:TH对已分化成熟的成年人神经系统的活动也有作用，主要表现为兴奋作用。TH能增加神经细胞膜上β肾上腺素能受体([[β受体]])的数量和亲和力，提高神经细胞对[[儿茶酚胺]]的敏感性。
+:PROPERTIES:
+:hl-page: 405
+:ls-type: annotation
+:id: 6208c1fe-b8f9-471d-9870-a429a2aca00d
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 405
+:id: 6208c337-5408-4893-852c-384b2a148afe
+:END:
+:TH对心脏的活动有显著的影响，可使心率增快（正性变时效应）、心肌收缩力增强（正性变力效应）、心输出量和心肌耗氧量增加。
+* ，寒冷刺激的信号传入到中枢神经系统，同时到达下丘脑体温调节中枢以及与其相邻近的TRH神经元，可促进TRH释放，进而使腺垂体分泌TSH增加，血中TH水平升
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 407
+:id: 6208c57b-742c-4119-8ea6-47e5136835fd
+:END:
+* [[PTH]]抑制近端和远端小管对磷的重吸收，促进尿磷的排泄，使血磷降低，这样可防止血钙升高时造成过多的钙磷化合物生成而损害机体，具有保护意义
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 409
+:id: 6208ccd9-134d-42da-b7a5-ece694a63e50
+:END:
+* PTH对肾脏的另一作用是激活肾脏la-羟化酶，催化25-(OH)-D3进一步羟化并转变为活性更高的1,25-二羟维生素D3,通过1,25-二羟维生素D3的作用间接调节钙、磷代谢。
+:PROPERTIES:
+:hl-page: 410
+:ls-type: annotation
+:id: 6208cd15-275f-400f-bb21-ba14a2fa454f
+:END:
+* PTH与靶细胞PTH受体结合后，经AC-cAMP和PLC-IP3/DG信号转导通路而产生调节作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 409
+:id: 6208cd58-0d09-4d60-a367-e7f4009809c7
+:END:
+* 血钙水平降到7.Omg/dl或升至10.5mg/dl时,分别对PTH分泌产生最大兴奋与最大抑制效应。
+:PROPERTIES:
+:hl-page: 411
+:ls-type: annotation
+:id: 6208d04f-c307-42ff-ac9f-423d51bb08e7
+:END:
+* （P384）“维生素D₃也称[[胆钙化醇]]，是胆固醇的开环化合物，可由肝、乳、鱼肝油等含量丰富的食物中获取，也可在紫外线照射下，由皮肤中所含的7-脱氢胆固醇迅速转化成维生素D₃（D错）。维生素D₃分子需经过两次羟化才具有激素的生物活性（A错）。首先，维生素D₃在肝内25-羟化酶催化下生成25-羟维生素D₃；再经近端肾小管上皮细胞内1α-羟化酶的催化（B对C错），生成生物活性最高的1，25-二羟维生素D₃，即[[钙三醇]]”。
+:PROPERTIES:
+:hl-page: 411
+:ls-type: annotation
+:id: 6208d142-052d-4714-92cc-3b01e3f3df83
+:END:
+* 1.25-(OH)2-D3的生物活性为25-(OH)-D3的3倍以上，但后者在血中的浓度是前者的1000倍，因而也表现出一定的生物活性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 411
+:id: 6208d1a1-e724-450f-ab89-890dce665e2b
+:END:
+* CT的分泌主要受血钙水平的调节。血钙浓度增加时,CT分泌增多。当血钙浓度升高10%时，血中CT的浓度可增加1倍。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 413
+:id: 6208d2d1-3feb-4596-a80b-6b0f359a6535
+:END:
+* （P387）“胰岛素的作用是通过胰岛素受体介导的细胞内一系列信号蛋白活化和相互作用的信号转导过程：①胰岛素与靶细胞膜上胰岛素受体α亚单位结合；②胰岛素受体β亚单位的酪氨酸残基磷酸化，激活受体内酪氨酸蛋白激酶；③激活的酪氨酸蛋白激酶使细胞内耦联的胰岛素受体底物（IRS）蛋白的酪氨酸残基磷酸化；④经过[[IRS]]下游信号途径，如磷酸肌醇3激酶（[[PI3-K]]）、丝裂原激活蛋白激酶（[[MAPK]]）等途径逐级信号转导，引发蛋白激酶、磷酸酶的级联反应，最终引起生物学效应，[[IRS]]是介导胰岛素作用的关键蛋白”（A对）
+:PROPERTIES:
+:hl-page: 414
+:ls-type: annotation
+:id: 6208d389-460c-422e-af9b-4ac77673a713
+:END:
+* 胰岛素可促进脂肪的合成与储存，抑制脂肪的分解与利用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 415
+:id: 6208d4ae-e161-4462-8d18-fe7fc3e91952
+:END:
+* 胃肠激素([[促胃液素]]↑;[[缩胆囊素]]↑;[[抑胃肽]]↑;[[促胰液素]]↑)
+:PROPERTIES:
+:hl-page: 416
+:ls-type: annotation
+:id: 6208d57a-e08c-4ba1-b0c5-e2c23dda386b
+:END:
+* 如[[胰高血糖素]]和[[生长抑素]]可以旁分泌的方式分别刺激和抑制胰岛B细胞分泌胰岛素，这些激素的作用相互抗衡、相互制约,共同维持血糖的相对稳定
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 390
+:id: 6208d77a-7d13-49d5-8fe0-da93027edf7e
+:END:
+* 胰岛细胞对血糖变化十分敏感，血糖水平是调节胰岛素分泌最重要的因素
+:PROPERTIES:
+:hl-page: 416
+:ls-type: annotation
+:id: 6208d85e-cc37-4a13-8a97-7bfd6602f2e6
+:END:
+* 胰高血糖素的主要靶器官是肝脏
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 418
+:id: 6208d9e8-0fb1-48f3-a164-cf8053a523f8
+:END:
+* 束状带与网状带分泌以[[皮质醇]](cortisol)为代表的糖皮质激素(glucocorticoid,GC)和极少量的雄激素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 419
+:id: 6208dab8-3cd6-4ae9-8c93-6cc1b75e097d
+:END:
+* GC能抑制肝外组织细胞内的蛋白质合成，加速其分解,减少氨基酸转运入肌肉等肝外组织,为肝糖异生提供原料;相反,却能促进肝外组织产生的氨基酸转运入肝，提高肝内蛋白质合成酶的活性，使肝内蛋白质合成增加,血浆蛋白也相应增加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 420
+:id: 6208db96-4345-453f-b4ad-3b287f4d8abd
+:END:
+* GC对脂肪组织的主要作用是提高四肢部分的[[脂肪酶]]活性,促进脂肪分解，使血浆中脂肪酸浓度增加，并向肝脏转移，增强脂肪酸在肝内的氧化，以利于肝糖原异生。
+:PROPERTIES:
+:hl-page: 420
+:ls-type: annotation
+:id: 6208dc07-b81b-444c-8833-3d0eae6a5589
+:END:
+* GC主要通过减少组织对糖的利用和加速肝糖异生而使血糖升高。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 420
+:id: 6208dc4c-defb-4da9-9c95-288c235d871c
+:END:
+* GC可增强骨髓的造血功能，使血液中红细胞、血小板数量增加。GC还可使附着在血管壁及骨髓中的中性粒细胞进入血液循环,增加外周血液中性粒细胞的数量。GC又能抑制淋巴细胞有丝分裂、促进淋巴细胞凋亡、使淋巴结和胸腺萎缩，并增加淋巴细胞与嗜酸性粒细胞在脾和肺的破坏，使淋巴细胞和嗜酸性粒细胞数量减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 420
+:id: 6208dc8a-9568-467f-a015-4266c0ca56b4
+:END:
+* GC是调节糖代谢的重要激素之一，因能显著升高血糖而得名。GC主要通过减少组织对糖的利用和加速肝糖异生而使血糖升高
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 420
+:id: 6208e158-9aa7-473a-9b81-3edc9966839e
+:END:
+* GC对心血管系统的作用包括:①提高心肌、血管平滑肌对儿茶酚胺类激素的敏感性([[允许作用]])，上调心肌、血管平滑肌细胞肾上腺素能受体的表达，并使这些受体与儿茶酚胺的亲和力增加，加强心肌收缩力，增加血管紧张度，以维持正常血压;
+:PROPERTIES:
+:hl-page: 420
+:ls-type: annotation
+:id: 6208e1c3-7067-4751-ab84-920225b91d1c
+:END:
+* GC有一定的促进肾远曲小管和集合管的保Na⁺排K⁺作用，但这种作用仅约醛固酮的1/500；另一方面，GC能降低入球小动脉的血流阻力，增加肾血浆流量和肾小球滤过率，还能抑制血管升压素的分泌，因而有利于肾排水
+:PROPERTIES:
+:hl-page: 421
+:ls-type: annotation
+:id: 6208e354-f53d-47fa-81c8-b866a678dffc
+:END:
+* 高浓度的雌激素可使体液向组织间隙转移,导致钠、水[[潴留]]。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 436
+:id: 6208e3e8-1959-4c70-b3f0-8e0ba23688ee
+:END:
+* 应激反应机制十分复杂，除[[ACTH.]][[GC]]分泌迅速增多外，[[儿茶酚胺]]、[[催乳素]]、[[生长激素]]、[[血管升压素]]、[[内啡肽]]、[[胰高血糖素]]和[[醛固酮]]等激素的分泌也明显增加。
+:PROPERTIES:
+:hl-page: 420
+:ls-type: annotation
+:id: 6208e535-e9be-45e2-a8a0-9f96faa1dc9d
+:END:
+* 由于受视交叉上核生物钟的影响,下丘脑CRH的分泌具有昼夜节律。CRH的分泌量于清晨觉醒前为最高，随后逐渐降低,至午夜降至最低水平,然后逐渐升高。由于下丘脑CRH的节律性释放，故ACTH和GC的分泌量也发生相应的日周期波动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 421
+:id: 6208e724-2d72-4bb8-9fc2-b048a6a5f8ca
+:END:
+* 在生理情况下,ACTH对醛固酮的分泌无明显影响，但如果ACTH缺乏将显著减少醛固酮的分泌,而在发生[[应激反应时]],ACTH可促进醛固酮分泌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 422
+:id: 6208e778-94c9-4106-9b3b-f0c87e9a5b95
+:END:
+* 在生理情况下，当血中GC浓度增加时，可反馈抑制腺垂体ACTH细胞和下丘脑CRH神经元的活动，使ACTH、CRH的合成和释放减少，且ACTH细胞对CRH的敏感性下降，使血中GC降低,这种长反馈调节有利于维持血液中GC的稳态。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 421
+:id: 6208e7de-b3ec-47fc-b34f-cd7c96c1e722
+:END:
+* [[血管紧张素]](主要是 [[AngII]] )可通过Gq蛋白耦联受体通路促进球状带细胞的生长、提高醛固酮合酶的活性，从而促进醛固酮的合成和分泌。
+:PROPERTIES:
+:hl-page: 422
+:ls-type: annotation
+:id: 6208ebf0-67c3-497f-ae37-ddb35164d346
+:END:
+* [[血K⁺]]水平升高和[[血Na⁺]]水平降低均能刺激醛固酮的分泌
+:PROPERTIES:
+:hl-page: 422
+:ls-type: annotation
+:id: 6208ec2c-fb30-46cb-9359-5ca83ca32910
+:END:
+* 腺垂体分泌的ACTH可直接或间接(通过引起GC分泌)提高嗜铭细胞内催化儿茶酚胺有关合成酶的活性，促进儿茶酚胺的合成及分泌量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 423
+:id: 6208efde-6db9-40e0-a491-01c5d5c43457
+:END:
+* 肾上腺髓质嗜铭细胞中去甲肾上腺素或多巴胺含量增多到一定水平时，可负反馈抑制酪氨酸羟化酶的活性;而当肾上腺素合成增多到一定程度时，则可负反馈抑制PNMT的活性，阻止儿茶酚胺的进一步合成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 423
+:id: 6208f003-59a9-4f15-a78b-6f304ca24c88
+:END:
