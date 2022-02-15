@@ -505,3 +505,275 @@
 :hl-page: 423
 :id: 6208f003-59a9-4f15-a78b-6f304ca24c88
 :END:
+* 男性生殖功能主要是睾丸产生精子及分泌男性激素，输精管道和附属腺体使精子成熟、贮存、运输和排放。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 429
+:id: 620a1299-393b-465c-97a6-eeac1feb275e
+:END:
+* 睾丸间质细胞分泌雄激素，包括脱氢表雄酮(dehydroepiandrosterone,DHEA)、雄烯二酮(andro­stenedione)和睾酮(testosterone,!1),其中[[睾酮]]的分泌量最多，生物活性也最强
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 431
+:id: 620a138c-d9fb-4ed4-b69a-850f786ef5e7
+:END:
+* 游离状态的睾酮进入靶组织可直接发挥作用,或经靶细胞内[[5α-还原酶]]的作用转化为活性更强的[[双氢睾酮]]发挥作用，该酶的抑制剂在临床上被用于治疗前列腺肥大。
+:PROPERTIES:
+:hl-page: 431
+:ls-type: annotation
+:id: 620a13b0-4e78-4e71-848d-67ec6148d40e
+:END:
+*
+* ④促进输卵管上皮中纤毛细胞和分泌细胞的增生，促进输卵管的收缩和纤毛摆动，有利于精子在其中的运行
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 436
+:id: 620a14ed-8b3c-40b6-a4ea-883f84db5989
+:END:
+* ①促进子宫发育,子宫内膜增生，使内膜具有对胚胎的接受性
+:PROPERTIES:
+:hl-page: 436
+:ls-type: annotation
+:id: 620a151f-8c8a-4d9b-88f9-9c94b4c6625a
+:END:
+[[Q&A]]:记住是促进内膜增生而不是内膜腺体的增生,孕激素才刺激内膜腺体的增生和分泌
+* 促进阴道上皮增生和角化，使阴道分泌物呈酸性，增强对感染的抵抗力;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 436
+:id: 620a1590-f553-44f7-8b8d-0b48c0a3ca4a
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 436
+:id: 620a1762-3635-40a4-8414-b4e1ded5e77a
+:END:
+:①抑制子宫内膜细胞增殖，促进子宫内膜上皮的分泌功能及内膜基质细胞的蜕膜化，有利于早期胚胎的发育和着床
+* 月经周期的中期，随优势卵泡成熟,体内雌激素水平进一步增加，此时血中高浓度的雌激素对下丘脑及腺垂体都产生[[正反馈]]调节作用，触发下丘脑[[GnRH]]大量释放，刺激腺垂体分泌的LH和FSH大幅增加达峰值，尤以[[LH]]峰（LH surge）更为明显。
+:PROPERTIES:
+:hl-page: 438
+:ls-type: annotation
+:id: 620a1984-a631-4219-83f2-c5dc8c899b63
+:END:
+* 排卵由月经周期中的[[LH]]峰触发
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 435
+:id: 620a1c1d-f445-435f-bd2d-52d0affb3879
+:END:
+* 人绒毛膜促性腺激素(hCG)：hCG是早期胚泡和胎盘的合体滋养层细胞分泌的一种糖蛋白，它在结构和功能上都与LH相似，除了上述促进胚泡植入的功能外，它还使母体卵巢中的黄体变成妊娠黄体，继续分泌孕激素和雌激素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 442
+:id: 620a1fe3-9d94-4392-8973-31ec4d62b2b9
+:END:
+* 暗电流
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 300
+:id: 620b260e-244c-4ebd-98f4-f5ef8ac5b30d
+:END:
+* 感受器是一种生物换能器，其功能是将作用于它们的特定形式的刺激能量转换为传入神经的动作电位，这种能量转换称为感受器的[[换能作用]]（transducerfunction）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 284
+:id: 620b6efe-8124-403f-b564-efe3bb421009
+:END:
+* ,它们都具有局部电位的性质,即为非“全或无”式的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 620b6f20-ee35-4b92-83d2-a85553ab69c3
+:END:
+* 须指出的是，感觉传入冲动并不全都能引起主观感觉，有些感觉传入只是向中枢提供内外环境中某些因素改变的信息而引起相应的调节反应，如颈动脉窦压力感受器的传入冲动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 283
+:id: 620b6f3c-2673-4db4-8b97-fd3d437e6035
+:END:
+* 痛觉感受器不存在适宜刺激，任何形式(机械、温度、化 学)的刺激只要达到对机体伤害的程度均可使痛觉感受器兴奋,因此痛觉感受器又称伤害性感受器(nociceptor). 痛觉感受器不易发生适应，属于慢适应感受器，因而痛觉可成为机体遭遇危险的警报信号,对机体具有保护意义
+:PROPERTIES:
+:hl-page: 290
+:ls-type: annotation
+:id: 620b6f9b-9ed7-4f5e-910e-b9e119787a1f
+:END:
+* 皮肤触觉感受器如[[环层小体]](Paciniancorpuscle).[[麦斯纳小体]](Meissnercorpuscle)等属于快适应感受器，它们在受到刺激时，仅在刺激作用后的短时间内有传入冲动发放，此后虽然刺激持续存在,但神经冲动的频率迅速降低，甚至消失。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 620b7037-7fd0-4b5f-b2a4-0fd83f06a178
+:END:
+* [[梅克尔盘(]]Merkeldisk)、[[鲁菲尼小体]](Ruffinicoipuscle)、[[肌梭]]、[[关节囊感受器]]、[[颈动脉窦压力感受器]]和[[颈动脉体化学感受器]]等，都属于慢适应感受器。
+:PROPERTIES:
+:hl-page: 286
+:ls-type: annotation
+:id: 620b7097-6d73-4503-87a6-90fc57ade96a
+:END:
+* 痛觉传入纤维有A8有髓纤维和C类无髓纤维两类，由于它们的传导速度不等，因而产生两种不同性质的痛觉,即快痛(fastpain)和慢痛(slowpain
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 290
+:id: 620b718d-b021-44ea-805e-ab8d085bffb5
+:END:
+* 机体组织损伤或发生炎症时，由受损细胞释放的[[内源性致痛物质]]有K⁺、H⁺，5-羟色胺、缓激肽、前列腺素、降钙素基因相关肽和P物质等。这些物质的细胞来源虽不完全相同，但都能激活伤害性感受器，或使其阈值降低。
+:PROPERTIES:
+:hl-page: 290
+:ls-type: annotation
+:id: 620b71b5-9ad4-40bd-bfff-f95e925dcfef
+:END:
+* 浅感觉的传入纤维进入脊髓后在中央灰质后角换元，第二级神经元发出纤维经白质前连合交叉至对侧,在脊髓前外侧部上行，形成前外侧索传入系统。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 345
+:id: 620b7246-8b51-4de1-a203-65e7876762d8
+:END:
+* [[哺乳动物周围神经纤维的分类]]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 322
+:id: 620b731c-60e2-4713-932e-3fe1fa7fb3a7
+:END:
+* ①定位不准确，这是内脏痛最主要的特点，如腹痛时患者常不能说清楚发生疼痛的明确位置,这是因为痛觉感受器在内脏的分布密度要比在躯体的分布稀疏得多
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 291
+:id: 620b7492-b0d6-4592-8fbe-dce830d1cee8
+:END:
+* ②发生缓慢，持续时间较长,常呈渐进性增强，但有时也可迅速转为剧烈疼痛
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 291
+:id: 620b74b4-9d5a-4b35-b4e3-1f19829e93cf
+:END:
+* ③中空内脏器官如胃、肠、胆囊和胆管等,这些器官壁上的感受器对扩张性刺激和牵拉性刺激十分敏感，而对针刺、切割、烧灼等通常易引起体表痛的刺激却不敏感;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 291
+:id: 620b7519-71ad-4c86-8976-723dca2f79e1
+:END:
+* 眼在注视6m以内的近物或被视物体由远移近时，眼将发生一系列调节,其中最主要的是晶状体变凸，同时发生瞳孔缩小和视轴会聚,这一系列调节称为眼的[[近反射]]（near reflex）
+:PROPERTIES:
+:hl-page: 293
+:ls-type: annotation
+:id: 620b75d8-d9c4-4c4c-9175-c1ad8663dfa9
+:END:
+* 当眼视远物时，睫状肌处于松弛状态，此时悬韧带保持一定的紧张度，晶状体受悬韧带的牵引，使其形状相对扁平;当眼视近物时，可反射性地引起睫状肌收缩，导致连接于晶状体囊的悬韧带松弛，晶状体因其自身的弹性而向前和向后凸出，尤以前凸更显著,使其前表面的曲率增力口,折光能力增强，从而使物像前移而成像于视网膜上
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 293
+:id: 620b76d4-1325-4089-ace5-0f3fd549633b
+:END:
+* 临床上进行眼科检查时,常用扩瞳药后马托品点眼，由于睫状肌与虹膜环行肌都受副交感神经支配，后马托品在阻断虹膜环行肌收缩的同时也阻断了睫状肌收缩,因而可影响晶状体变凸而使视网膜成像变模糊。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 294
+:id: 620b77a4-b57e-4bc0-baef-159eb92ae09e
+:END:
+* 晶状体的最大调节能力可用眼能看清物体的最近距离来表示，这个距离称为近点(nearpoint)近点距眼越近，说明晶状体的弹性越好，即眼的调节能力愈强。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 294
+:id: 620b78f4-ca76-4511-b133-de357f8cbd31
+:END:
+* 当双眼注视某一近物或被视物由远移近时，两眼视轴向鼻侧会聚的现象,称为视轴会聚或[[辐辏反射]](convergencereflex)，其意义在于两眼同时看一近物时，物像仍可落在两眼视网膜的对称点上，以避免形成复视。
+:PROPERTIES:
+:hl-page: 294
+:ls-type: annotation
+:id: 620b7ab7-6949-4d13-88ac-9496d4f79f9a
+:END:
+* 瞳孔对光反射的中枢位于中脑，因此临床上常将它用作判断麻醉深度和病情危重程度的一个指标。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 294
+:id: 620b7c7f-a199-4787-bbf0-cc9ee9201bfd
+:END:
+* 由于远视眼不论看近物还是远物都需要进行调节，故易发生调节疲劳，尤其是进行近距离作业或长时间阅读时可因调节疲劳而产生头痛。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 294
+:id: 620b7d7b-33bc-43af-beb4-b3efd99db201
+:END:
+* 已知视杆细胞与双极细胞和神经节细胞之间的联系存在会聚现象;而视锥细胞与双极细胞和神经节细胞之间的会聚程度却少得多。在中央凹处常可见到一个视锥细胞仅与一个双极细胞联系，而该双极细胞也只同一个神经节细胞联系,呈现一对一的“单线联系”方式，这是视网膜中央凹具有高度视敏度的结构基础
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 298
+:id: 620b7ede-0719-4fd3-980a-7c74e577f052
+:END:
+* 它们对光的敏感度较高，能在昏暗环境中感受弱光刺激而引起暗视觉，但无色觉，对被视物细节的分辨能力较低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 298
+:id: 620b7f62-7723-4cd7-86d7-4bbc1494ccbc
+:END:
+* 视杆细胞不能产生动作电位（A对），但在外段膜产生的超极化型感受器电位（B对）能以电紧张的形式扩布至细胞的终足部”。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 301
+:id: 620b7ffe-fe53-40ee-92c0-06d08075d39f
+:END:
+* 当视网膜受到光照时,视杆细胞外段膜盘上的[[视紫红质]]发生光化学反应,分解成视蛋白和全反型视黄醛，由此引起膜盘上的一种称为转导蛋白（transducin.Gt）的G蛋白活化，激活[[磷酸二酯酶]]，后者使外段胞浆中的cGMP分解为无活性的5'-GMP,导致[[cGMP]]浓度降低，外段膜上cGMP门控通道关闭，[[暗电流]]减小或消失;而内段膜中的非门控钾通道仍继续允许K⁺外流，因而出现膜的超极化。
+:PROPERTIES:
+:hl-page: 300
+:ls-type: annotation
+:id: 620b80a2-396a-45af-82d2-1ae04b16fb80
+:END:
+* 鼓膜呈椭圆形，面积为50~90mm2,厚约0.1mm,呈顶点朝向中耳的浅漏斗状。鼓膜很像电话机受话器中的振膜，是一个压力承受装置,其本身没有固有振动，但具有较好频率响应和较小失真度的特性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 308
+:id: 620b8248-30ee-4a4b-9d9e-f40240060837
+:END:
+* 咽鼓管因炎症而被阻塞后，外界空气不能进入鼓室，鼓室内原有空气被吸收，使鼓室内压力下降，引起鼓膜内陷，致使患者出现鼓膜疼痛、听力下降、耳闷等症状
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 308
+:id: 620b826e-1598-4af3-9e07-1b7a9049ef33
+:END:
+* 中耳由鼓膜、听骨链、鼓室和咽鼓管等结构组成(见图9-24)中耳的主要功能是将声波振动能量高效地传给内耳，其中鼓膜和听骨链在声音传递过程中还起增压作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 308
+:id: 620b8315-f050-444b-948b-4fd00a4633e7
+:END:
+* 临床上常用的[[依他尼酸]]和[[呋塞米]]等利尿药可通过抑制 [[Na⁺-K⁺-2Cl⁻同向转运]] ,使内淋巴正电位不能维持，导致听力障碍
+:PROPERTIES:
+:hl-page: 312
+:ls-type: annotation
+:id: 620b83a6-82d8-4b76-a5b6-4c01056f473c
+:END:
+* 不同频率的声波引起的行波都是从基底膜的底部开始，但声波频率不同，行波传播的距离和最大振幅出现的部位有所不同。声波频率越高，行波传播越近，最大振幅出现的部位越靠近蜗底;相反，声波频率越低,行波传播越远，最大振幅出现的部位越靠近蜗顶(图9-26)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 310
+:id: 620b84b3-9cb0-43ae-9cbb-3c84b332ad56
+:END:
+* 耳蜗受到声音刺激时，在耳蜗及其附近结构可记录到一种与声波的频率和幅度完全一致的电位变化,称为[[耳蜗微音器电位]](cochlearmicrophonicpotential,CM)0耳蜗微音器电位呈等级式反应，即其电位随着刺激强度的增加而增大。耳蜗微音器电位无真正的阈值，没有潜伏期和不应期，不易疲劳，不发生适应现象，并在人和动物的听域范围内能重复声波的频率。在低频范围内，耳蜗微音器电位的振幅与声压呈线性关系，当声压超过一定范围时则产生非线性失真。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 312
+:id: 620b856c-fec0-45fe-a5d9-59375c7ce72a
+:END:
+* 椭圆囊(utricle)和球囊(saccule)内各有一个特殊的结构，分别称为椭圆囊囊斑和球囊囊斑，毛细胞位于囊斑上，其纤毛埋植在胶质状的位砂膜中，膜表面有许多细小的^^碳酸钙结晶，称为位砂^^，其比重大于内淋巴，因而具有较大的惯性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 315
+:id: 620b860b-4615-4af2-a46a-5932a6f6651c
+:END:
+* 另一方面，由于不同毛细胞纤毛排列的方向不同，当头的位置发生改变或囊斑受到不同方向的重力及变速运动刺激时，其中有的毛细胞兴奋,有的则抑制。不同毛细胞综合活动的结果，可反射性地引起躯干和四肢不同肌肉的紧张度发生改变,从而使机体在各种姿势和运动情况下保持身体的平衡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 315
+:id: 620b8648-603e-415f-b4da-ef4ca7a3e0b0
+:END:
+* [[眼震颤]]（nystagmus）是指身体做正、负角加速度运动时出现的眼球不自主的节律性运动，是前庭反应中最特殊的一种。在生理情况下，两侧水平半规管受到刺激（如绕身体纵轴旋转）时可引起水平方向的眼震颤
+:PROPERTIES:
+:hl-page: 316
+:ls-type: annotation
+:id: 620b877f-d5ee-4bd2-abe9-0c50a981005e
+:END:
+* 当前庭器官受到过强或过久的刺激时,可通过前庭神经核与网状结构的联系而引起自主神经功能失调，导致皮肤苍白、恶心、呕吐、出汗、心率加快、血压下降、呼吸加快以及唾液分泌增多等现象，称为前庭自主神经反应（vestibularautonomicreaction）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 316
+:id: 620b87c8-a215-41b5-81fb-8a53c18f7db8
+:END:
