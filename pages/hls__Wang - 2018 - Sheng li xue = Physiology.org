@@ -777,3 +777,339 @@
 :hl-page: 316
 :id: 620b87c8-a215-41b5-81fb-8a53c18f7db8
 :END:
+* 非弹性阻力(inelasticresistance)包括惯性阻力、黏滞阻力和气道阻力
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 621360c9-cede-42b5-8ada-a4eea7d51267
+:END:
+* 黏滞阻力(viscousresistance)来自呼吸时组织相对位移所发生的摩擦
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 621360f5-76c3-49a3-9eb4-bcbf227b70ee
+:END:
+* 气道阻力(airwayresistance)是气体流经呼吸道时气体分子之间和气体分子与气道壁之间摩擦产生的阻力，占非弹性阻力的80%-90%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 62136110-778a-4cd2-915c-9ea2a6f04df8
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 179
+:id: 62136145-9455-421f-a112-9e7160cfe0a3
+:END:
+:肺弹性阻力来自肺的弹性成分和肺泡表面张力（surfacetension）o
+* ,主要发生在鼻(约占总气道阻力的50%)、声门(约占25%)及气管和支气管(约占15%)等部位，仅约10%的阻力发生在口径小于2mm的细支气管
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 6213616f-5c2c-4c4f-879b-678050ae0ba2
+:END:
+* 气流速度快、气流呈湍流(如气道内有黏液、渗出物或肿瘤、异物等造成狭窄时)、气道口径减小等都能使气道阻力增大而影响肺通气，其中以气道口径最为重要
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 181
+:id: 6213622c-07c7-4c89-a5db-f650ab90fe14
+:END:
+* 像帐篷的拉线一样对气道壁发挥牵引作用，以保持那些没有软骨支持的细支气管的通畅。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 621363c0-e0de-40ff-99fb-fc1d7f123f7d
+:END:
+* 。副交感神经使气道平滑肌收缩，口径变小，气道阻力增加;而交感神经则使之舒张，口径变大，气道阻力减小。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 621363f3-9e29-4582-9c7b-1e1d5876b0ff
+:END:
+* 呼吸道平滑肌受交感和副交感神经的双重支配，两者均有紧张性作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 621363fa-7102-4e79-9740-812426771672
+:END:
+* 共存递质的调制，如血管活性肠肽、神经肽Y、速激肽等,它们或作用于突触前受体，调制递质的释放,或作用于突触后受体，调制气道平滑肌对递质的反应或直接改变气道平滑肌的活动状态。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 621364a6-b7ef-482f-99e3-ab5e06294ec8
+:END:
+* ;吸入气CO?含量增加可刺激支气管和肺的C类纤维，反射性引起支气管收缩，气道阻力增加。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 6213667b-c071-4a7b-8e74-5bc9412a8316
+:END:
+* 气道上皮细胞还可合成和释放内皮素,使气道平滑肌收缩
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 62136724-ce73-48cb-a89a-9a4716dd9e8e
+:END:
+* 。吸气时，因胸膜腔负压增大而跨壁压增大，因肺的扩展而使弹性成分对小气道的牵引作用增强，以及交感神经紧张性活动增强等，都使气道口径增大，气道阻力减小;呼气时则相反，气道口径变小，气道阻力增大。这也是哮喘患者呼气比吸气更为困难的主要原因。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 62136912-16e3-4a76-88ad-9187ab5dcebc
+:END:
+* )，它们互不重叠，全部相加后等于肺总量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 182
+:id: 62136b1f-61ed-40ea-a73a-24f6b8498cf8
+:END:
+* 是指平静呼气末尚存留于肺内的气体量。它是余气量与补呼气量之和,正常成年人约2500ml。肺气肿患者的功能余气量增多，而肺实质病变时则减小。功能余气量的生理意义是缓冲呼吸过程中肺泡气。2分压(P02)和CO?分压(PCO2)的变化幅度。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 183
+:id: 62136df7-0acd-4536-b9d8-75346e81e2da
+:END:
+* 由于测定肺活量时不限制呼气的时间，在某些肺组织弹性降低或呼吸道狭窄的患者所测得的肺活量仍可正常。因此,为了充分反映肺组织的弹性状态和气道通畅程度等变化，可测量用力肺活量和用力呼气量。用力肺活量(forcedvitalcapacity,FVC)是指一次最大吸气后，尽力尽快呼气所能呼出的最大气体量。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 183
+:id: 62137020-b56c-42d7-aa3e-0da195dd39a8
+:END:
+* 正常人的FEV/FVC.FEV/FVC和FEV3/FVC分别约为83%、96%和99%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 183
+:id: 6213704e-1bdf-4ad5-9429-7fbc63eab78f
+:END:
+* 哮喘等阻塞性肺疾病患者,FEV₁的降低比FVC更明显，因而FEV₁/FVC变小,要呼出相当于FVC的气体量往往需要较长的时间，此外还显示余气量增大;而在肺纤维化等限制性肺疾病患者,FEM和FVC均下降，但FEV/FVC仍可基本正常，此外还显示余气量减少。
+:PROPERTIES:
+:hl-page: 183
+:ls-type: annotation
+:id: 6213714c-a225-45ff-af38-3b540414ea4b
+:END:
+* )肺总量(totallungcapacity,TLC):是指肺所能容纳的最大气体量,它是肺活量与余气量之和，其大小因性别、年龄、身材、运动量和体位改变而异，成年男性平均约为5000ml,女性约为3500ml。在限制性通气不足时肺总量降低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 184
+:id: 621373ac-c839-44b8-9ee7-6f879051641b
+:END:
+* 其解剖无效腔约为150ml
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 184
+:id: 6213766b-f62e-4305-9bab-a1f5d5e7a032
+:END:
+* 每次吸入的气体,有一部分将留在鼻或口至终末细支气管之间的呼吸道内，不参与肺泡与血液之间的气体交换，这部分传导性呼吸道的容积称为解剖无效腔(anatomicaldeadspace)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 184
+:id: 62137672-87c6-414e-bb94-6815d5ad8d8e
+:END:
+* 为了计算真正有效的气体交换量，应以肺泡通气量(alveolarventilation)为准，它是指每分钟吸入肺泡的新鲜空气量,等于潮气量和无效腔气量之差与呼吸频率的乘积。如果潮气量为500ml,无效腔为150ml,则每次吸入肺泡的新鲜空气量为350ml。若功能余气量为2500ml,则每次呼吸仅使肺泡内的气体更新1/7左右。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 184
+:id: 6213784f-7016-45dc-906d-49ef4e743f25
+:END:
+* 直径2mm以下的小气道，其管壁薄，炎症易波及其全层和周围组织;其管腔小，因分泌物或渗出物的增多而易被阻塞;且缺乏软骨的支撑，主要依赖肺组织的弹性纤维牵拉而维持其开放状态;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 185
+:id: 621379ce-6748-4c7d-afa7-4e861682d324
+:END:
+* 其总横截面积大，气道阻力小，仅约占总气道阻力的10%,因而常规肺功能检查不易发现小气道病变。由于小气道阻力受肺组织弹性和小气道病变双重影响，所以当小气道阻力增高时，只有排除肺组织弹性减退才能认为是小气道本身病变所致。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 185
+:id: 62137add-6091-4c72-a930-57d1136aa0cb
+:END:
+* MEFV曲线的降支较平坦,表示呼气过程中不同肺容积时的最大呼气流速。在小气道阻力增高时,在某一给定的肺容积，其最大呼气流速降低，且MEFV曲线降支下移（图5-10）,因此可用于诊断气道堵塞的情况。MEFV曲线降支下移的原因与气道的动态挤压有关。。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 185
+:id: 62137af9-da9a-4718-9b1a-f7be3f3480e5
+:END:
+* 混合气体中各种气体都按其各自的分压差由分压高处向分压低处扩散,直到取得动态平衡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 186
+:id: 62137fc7-c7ba-4070-b9ce-038e6c69e16a
+:END:
+* 它是气体扩散的动力和决定气体扩散方向的关键因素
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 186
+:id: 62138283-182b-44d6-962e-50fb4fcc82a5
+:END:
+* 气体分子的溶解度与分子量的平方根之比称为扩散系数(diffusioncoefficient),它取决于气体分子本身的特性。CO?的扩散系数约为。2的20倍，主要是因为CO?在血浆中的溶解度(51.5)约为的(2.14)24倍，虽然CO?的分子量(44)略大于。2的分子量(32)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 186
+:id: 6213842a-3faf-4b52-b484-0c3c3e4e4603
+:END:
+* 呼出气是无效腔内的吸入气和部分肺泡气的混合气体。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 62138494-475f-4fbc-b0b0-32751b1e3adc
+:END:
+* 所以呼吸道内吸入气的成分已不同于大气，各种气体成分的分压也发生相应的改变
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 621384a2-ea15-4f48-9db2-f4546e044ea7
+:END:
+* 液体中的气体分压也称气体的张力(tension)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 621384ae-054a-45ee-b178-54ee5246eac1
+:END:
+* 。例如空气是混合气体,总压力为760mmHg，其中 [[O₂]] 的容积百分比约为21%,则 [[O₂]] 分压([[PO₂]])为760X21%,即159mmHg;其中 [[CO₂]] 的容积百分比约为0.04%,则 [[CO₂]] 分压([[PO₂]])为760mmHgx0.04%,即0.3mmHg
+:PROPERTIES:
+:hl-page: 186
+:ls-type: annotation
+:id: 62138515-436a-4be3-b845-afb03771f9fc
+:END:
+* 通常，血液流经图5-11肺换气和组织换气示意图[图中数字为气体分压(mmHg)]肺毛细血管的时间约0.7秒，所以当血液流经肺毛细血管全长约1/3时，肺换气过程已基本完成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 6213860a-c64d-4232-bb80-3645cf231642
+:END:
+* 若按心输出量为5L/mi
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 62138634-7bc1-489e-8aaa-d690bd50b94e
+:END:
+* 自支气管静脉
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 6213865b-ba5b-44f4-a74c-395574e8edbd
+:END:
+* 肺泡-毛细血管膜
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 187
+:id: 621387e8-5dbe-4d3e-8542-0f69cc6207eb
+:END:
+* 因此，红细胞膜通常能接触到毛细血管壁，所以O2.CO2不必经过大量的血浆层就可到达红细胞或进入肺泡,扩散距离短,交换速度快。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 6213898b-5f5f-4e78-8199-d266b4fdad84
+:END:
+* 肺不张、肺实变、肺气肿、肺叶切除或肺毛细血管关闭和阻塞等，均可使呼吸膜扩散面积减小而影响肺换气。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 62138a51-b674-4f56-8ec7-b68bbda3595f
+:END:
+* 是指每分钟肺泡通气量（W）和每分钟肺血流量（。）的比值（Va/Q）o正常成年人安静时，队/0约为4.2/5=0.84,意味着两者比例适宜，气体交换率高。如果该比值增大意味着通气过度或血流相对不足，部分肺泡气体未能与血液气体充分交换，致使肺泡无效腔增大。反之，该比值减小则意味着通气不足或血流相对过多，部分血液流经通气不良的肺泡，混合静脉血中的气体不能得到充分更新，犹如发生了功能性动-静脉短路-尊。因此,无论该比值增大或减小,都表明两者匹配不佳，气体交换的效率均会降低，导致机体缺。2或CO?潴留，尤其是缺。2
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 62138ce1-6163-4c52-b221-d224094c48a6
+:END:
+* Va/Q异常时，主要表现为缺的原因在于:①动、静脉血液之间PO2差远大于PC。?差，所以当发生动-静脉短路时,动脉血P02下降的程度大于PCO2升高的程度;②C02的扩散系数约为的20倍，所以co2扩散比。2快，不易潴留;③动脉血P0下降和PCO2升高时，可刺激呼吸，增加肺泡通气量,有助于CO2的排出,却几乎无助于的摄取，这是由解离曲线和CO：解离曲线的特点所决定的（见本章第三节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 62138d18-e481-4477-ac0b-2d6f2a2d9152
+:END:
+* 在肺气肿患者，由于许多细支气管阻塞和肺泡壁的破坏，VA/Q增大或减小的情况都可能发生，致使肺换气效率受到极大影响，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 62138e9c-ac6d-4855-bb44-cccea0f923ac
+:END:
+* 和CO?均以物理溶解和化学结合两种形式进行运输
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 189
+:id: 6213922e-838b-41f8-9ad4-dd912df54e8c
+:END:
+* ,因此，物理溶解于动脉血液中的0?流量仅约15ml/min,物理溶解于静脉血液中的C(\流量约为145ml/min
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 189
+:id: 62139296-478b-4f5a-8bb4-1a57f745ef8e
+:END:
+* 虽然血液中以物理溶解形式存在的。2和CO?很少，但很重要，起着“桥梁”作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 621392eb-ba6d-4298-9443-9fa5923c46b5
+:END:
+* 血液中所含的。2仅约1.5%以物理溶解的形式运输，其余98.5%则以化学结合的形式运输。红细胞内血红蛋白(hemoglobin,Hb)的分子结构特征使之成为有效的运输。2的载体，也参与CO?的运输。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 621393a9-afb3-4600-8e88-94b69a067a8a
+:END:
+* Hb分子由1个珠蛋白和4个血红素组成■，每个血红素基团中心为一个二价铁(Fe2+),Fe2+可与。2结合，使Hb成为氧合血红蛋白(oxyhemoglobin,Hb。?)，没有结合0?的Hb称为去氧血红蛋白(deoxyhemoglobin,通常简写为Hb,因此Hb既可以是血红蛋白的一般称谓，也可以是指去氧血红蛋白Hb)0每个珠蛋白有4条多肽链,每条多肽链与1个血红素相连接构成Hb的单体或亚单位。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 6213949a-fcee-4e55-8ae8-0b78c12601f4
+:END:
+* 结合反应迅速而可逆Hb与的结合反应快，不到。1秒，可逆，解离也很快。结合和解离不需酶的催化，但可受P02的影响。当血液流经P02高的肺部时,Hb与结合，形成HbO2
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 621395f7-0c04-4864-bb29-4aa9b495bdd7
+:END:
+* Fe?+与结合不伴有铁离子价的改变，即Fe眼与。2结合后仍是二价铁，因此，此结合反应是氧合(oxygenation)，而不是氧化(oxidation)，结合0?的Hb称为氧合Hb,而不是氧化Hb；未结合。2的Hb相应称为去氧Hb,而不是还原Hb0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 62139753-cd98-46b5-9ee0-b5ab88f8343e
+:END:
+* 量1分子Hb可结合4分子。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 62139803-2980-48f4-a749-bd35d7098d2f
+:END:
+* (1)Hb氧容量(oxygencapacityofHb)：＞指在100ml血液中,Hb所能结合的最大0?量。若以健康成年人的血液中Hb浓度为15g/100ml为计，则Hb的氧容量为1.34xl5=20.lml/100ml(血液)。(2)Hb氧含量(oxygencontentofHb):是指在100ml血液中,Hb实际结合的O?量。当动脉血PO?为lOOmmHg时,Hb氧含量为19.4ml/100ml,而当静脉血P0?为40mmHg时,Hb氧含量约为14.4ml/100mlo(3)Hb氧饱和度(oxygensaturationofHb):是指Hb氧含量与Hb氧容量的百分比。如果PO?达150mmHg,动脉血的Hb氧含量也可达20.lml/100ml,与Hb氧容量相等，则Hb氧饱和度是100%，也 称氧饱和;如果静脉血的Hb氧含量是15ml,则Hb氧饱和度约为75%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 6213986f-e88a-4717-9381-557d49d2fa98
+:END:
+* 肤、黏膜呈暗紫色，这种现象称为发绡（cyanosis）。出现发绡常表示机体缺氧,但也有例外。例如，红细胞增多时（如高原性红细胞增多症），Hb含量可达5g/100ml（血液）以上，机体可出现发雄但并不一定缺氧;相反，严重贫血或CO中毒时，机体有缺氧但并不出现发绡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139a5d-d59e-4249-abbd-e96a47d4df24
+:END:
+* 氧解离曲线（见下述）呈S形（sigmoidshape）与Hb的变构效应有关
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139b08-ff12-4158-95c0-724a5ec89c57
+:END:
+* 氧解离曲线（oxygendissociationcurve）是表示血液PO?与Hb氧饱和度关系的曲线（图5-14）,也称为氧合血红蛋白解离曲线（oxyhemoglobindissociationcurve）0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139d0e-cbf3-45ef-a5bc-76bfd19b36d6
+:END:
+* 在60〜lOOmmH
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139d98-31c1-4f6b-b6ef-caa2ba54fb47
+:END:
+* PO2对Hb氧饱和度或血氧含量影响不大。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139dab-4f95-4045-be7e-2df0083bec69
+:END:
+* 因此，即使在高原、高空或在某些肺通气或肺换气功能障碍性疾病患者,吸入气PO2有所下降，只要动脉血P02不低于60mmHg,Hb氧饱和度仍能维持在90%以上，血液仍可携带足够量的0?,不致引起明显的低氧血症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 62139e57-c7c3-4654-9be5-55852554419e
+:END:
