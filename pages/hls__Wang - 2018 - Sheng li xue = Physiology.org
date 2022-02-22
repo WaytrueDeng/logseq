@@ -1113,3 +1113,465 @@
 :hl-page: 191
 :id: 62139e57-c7c3-4654-9be5-55852554419e
 :END:
+* 因此，这段曲线可以反映安静状态下血液对组织的供情况。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 6214c884-8a0b-4402-a9ae-364f9a40f240
+:END:
+* 其特点是曲线最为陡直
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 191
+:id: 6214c8d9-5d3c-44dd-843d-febac2343d17
+:END:
+* 因此，这段曲线可以反映血液供°2的储备能力
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214c968-19b9-45a0-9084-3d8ae9c011d7
+:END:
+* P50是使Hb氧饱和度达50%时的P02,正常约为26.5mmHg（图5-15）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214c9e4-7918-48ef-88e3-4ec1be940064
+:END:
+* 血液pH降低或PC。?升高时,Hb对。2的亲和力降低,P50增大，曲线右移;而pH升高或PCO2降低时，则Hb对O2的亲和力增加,P%降低，曲线左移（见图5-15）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214ca3b-3c9a-436f-93c3-c1aa97aa4537
+:END:
+* 但应注意温度下降可增加Hb对的亲和力，此时可因Hb。?对的释放减少而导致组织缺氧，而血液却因氧含量较高而呈红色，因此容易疏忽组织缺氧的情况。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214cbf9-aaf8-4427-982d-89de0e1dd8f2
+:END:
+* 温度升高时,Hb对的亲和力降低,Pso增大，氧解离曲线右移，促进。2的释放;而温度降低时，曲线左移,不利于。2的释放而有利于结合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214cd85-ada8-4fb7-8757-76c49bc18a10
+:END:
+* 2,3-DPG浓度升高时,Hb对O2的亲和力降低,P%增大，氧解离曲线右移;反之，曲线左移
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214cd91-8ff3-4d2d-9aeb-49a66637a450
+:END:
+* 2,3-DPG是红细胞无氧糖酵解的产物。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6214cd95-e5c6-48ce-a63f-9ba6f6b7d137
+:END:
+* 这一方面意味着在极低的PCO下,CO即可从Hb。?中取代。2;另一方面，当CO与Hb分子中一个血红素结合后，可增加其余3个血红素对的亲和力，结果使氧解离曲线左移，妨碍Hb与。2的解离。可见,CO中毒既妨碍Hb对的结合，又妨碍Hb对。2的解离。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 193
+:id: 6214cdc3-2f88-4831-a007-1eb96236633c
+:END:
+* 。此外,CO中毒时，血液PO2可能是正常的，因而机体虽然缺氧，但不会刺激呼吸运动而增加肺通气，相反却可能抑制呼吸中枢(见本章第四节)，减少肺通气，进一步加重缺氧。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 193
+:id: 6214cf1a-7076-48ff-97da-cb9b87ba5b1b
+:END:
+* 血液中所含的CO?约5%以物理溶解的形式运输,其余约95%则以化学结合的形式运输。化学结合的形式主要是碳酸氢盐(bicarbonate,HCO3-,约88%)和氨基甲酰血红蛋白(carbaminohemoglobin,HHbNHCOOH或HbCO?,约7%)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 193
+:id: 6214d16d-ce58-4dcb-bda2-3063f699c9a5
+:END:
+* 该反应是可逆的,并且都需要碳酸酊酶(carbonicanhydrase)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 193
+:id: 6214d1a9-8be5-4ce2-9b14-9ad7f3c7ad45
+:END:
+* 但是,血浆中缺少碳酸酊酶，所以反应过程较缓慢,需要数分钟才能达到平衡。事实上,溶解于血浆的CO?绝大部分扩散进入红细胞，因红细胞内含有较高浓度的碳酸酊酶，在其催化下,CO?与H20结合生成H2CO3的反应极为迅速，其反应速率可增加5000倍，不到1秒即达平衡。在红细胞内,H2CO3S解离生成HCO3-和H+,H+主要与Hb结合而被缓冲，同时释放出02H与Hb结合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 193
+:id: 6214d36e-e3e3-42f0-bbd8-47f8bb7d11fe
+:END:
+* 不仅能促进更多的C（）2转变为hco3-,有利于C（）2的运输，同时还能促使更多。2的释放，有利于组织的供。2；小部分HC03-与K+结合，以khco3的形式运输C02,大部分HCO3-顺浓度梯度通过红细胞膜扩散进入血浆，红细胞内负离子因此而减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d378-db3a-48f1-bc84-3061215ef009
+:END:
+* 。同时，因为动脉血中的一部分液体经淋巴而不是经静脉回流，所以静脉血的血细胞比容要比动脉血的血细胞比容高约3%o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d3bb-2240-4865-9b0d-1397eedd4890
+:END:
+* 样，以NaHCO3和KHCO3形式运输的CO?便在肺部被释放出来
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d3f5-6cf1-43b2-b57b-0f8bd95ab8f3
+:END:
+* 使用碳酸酎酶抑制剂（如乙酰哩胺）时，应注意可能会影响CO?的运输
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d40a-5502-480b-8a5e-50e74759c229
+:END:
+* 进入红细胞的一部分CO?可与Hb的氨基结合，生成HbCO2（见图5-17），这一反应无需酶的催化，而且迅速、可逆，如下式所示
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d4fa-fae0-4629-a4c1-98eb47aa6417
+:END:
+* 氧合作用的调节具有重要意义，虽以HbCO2形式运输的CO?仅占C02总运输量的7%左右，但占肺部CO?释放量的17.5%,提示这种运输形式的高效性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d4fe-c03e-4766-990d-18f7f4d214a4
+:END:
+* 因此,CO?解离曲线的纵坐标不用饱和度而用浓度表示。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d770-fc8a-459f-be6f-8deb99cf377e
+:END:
+* CO?运输障碍可导致机体CO?潴留。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 194
+:id: 6214d7be-e5c4-45ec-b87b-e99714e85623
+:END:
+* Hb是否与。2结合是影响CO?运输的主要因素。Hb与。2结合可促进CO?释放，而释放。2之后的Hb则容易与CO2结合,这一现象称为何尔登效应(Haldaneeffect)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214d872-c320-4ee6-98d5-859639126886
+:END:
+* 因此，在组织中，由于HbO2释出O2而成为去氧Hb,通过何尔登效应促进血液摄取并结合CO?；反之,在肺部，则因Hb与O2结合，何尔登效应促进CO,释放。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214d953-572d-4bf5-900d-362259dfa504
+:END:
+* 综上所述,。O₂和CO₂的运输是相互影响的。CO₂通过波尔效应影响O₂的运输O₂又通过何尔登效应影响CO₂的运输。两者都与Hb的理化特性有关
+:PROPERTIES:
+:hl-page: 195
+:ls-type: annotation
+:id: 6214d96a-eac1-45d5-8316-c51e15a71e48
+:END:
+* 呼吸节律起源于呼吸中枢
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214dd88-4bdd-4a7e-9bd3-2c68c5972d60
+:END:
+* 呼吸中枢(respiratorycenter)是指在中枢神经系统内产生呼吸节律和调节呼吸运动的神经元细胞群。呼吸中枢广泛分布于中枢神经系统各级水平，包括脊髓、延髓、脑桥、间脑和大脑皮层
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214deaf-1e55-4d4e-af19-0b32bf8faa43
+:END:
+* ，提示脊髓本身以及呼吸肌不能产生节律性呼吸，脊髓的呼吸神经元是联系高位呼吸中枢和呼吸肌的中继站，以及整合某些呼吸反射的初级中枢。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214deeb-52a2-4e24-a7bd-22108c3fdfca
+:END:
+* 第3~5颈段(支配膈肌)和胸段(支配肋间肌和腹肌等)脊髓前
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 195
+:id: 6214df02-80c9-407f-b5f0-f26d16e23d87
+:END:
+* 长，仅偶尔出现短暂的呼气，这种形式的呼吸称为长吸式呼吸(apneusis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6214df67-9c9a-4cd4-83aa-27978d3122d0
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6214df88-0dd2-49f7-9436-e7bf1af20809
+:END:
+:脑桥上部为呼吸调整中枢(pneumotaxiccenter,PC),它对长吸中枢产生抑制作用;脑桥下部为长吸中枢(apneusticcenter)，对吸气活动产生紧张性易化作用，使吸气延长;来自肺部的迷走神经传入冲动也有抑制吸气和促进吸气转为呼气的作用
+* 都出现喘息样呼吸(gasping),表现为不规则的呼吸运动,提示延髓为喘息中枢(gaspingcenter),即可产生最基本的呼吸节律
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6214dfea-76e4-445c-bcc8-cc94bc6e7efe
+:END:
+* 前包钦格复合体
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6214e033-62e7-4aed-ace3-978428f9249f
+:END:
+* 脑损伤、脑脊液压力升高、脑膜炎等病理情况下，可出现比奥呼吸(Biotbreathing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e06b-c0ac-4e21-a000-8a81535b968c
+:END:
+* 呼吸运动受大脑皮层随意性和低位脑干自主性的双重调节,这两个系统的下行通路是分开的，临床上有时可观察到自主呼吸和随意呼吸分离的现象
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e0c2-793e-4768-b38d-10d84e0bed75
+:END:
+* 。另外,如果大脑皮层运动区或皮层脊髓束受损时，患者可以进行自主呼吸，但不能完成对呼吸运动的随意调控。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e0fa-e137-41d0-a9d9-05b22f7d7237
+:END:
+* 呼吸器官自身以及血液循环等其他器官感受器传入冲动的反射性调节，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e20d-b975-422b-9b51-30a03b2dab37
+:END:
+* 化学感受性呼吸反射、肺牵张反射、呼吸肌本体感受性反射和防御性呼吸反射
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e218-5ac3-4622-a323-02be096462cb
+:END:
+* 在动脉血PO2降低、PC。?或H*浓度升高时外周化学感受器受到刺激，冲动分别沿窦神经(舌咽神经的分支，分布于颈动脉体)和迷走神经(分支分布于主动脉体)传入延髓孤束核,反射性引起呼吸加深加快和血液循环功能的变化(后者见第四章)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e2bd-ad17-413c-8bf9-fed8789d02df
+:END:
+* 颈动脉体和主动脉体虽都参与呼吸和循环的调节，但颈动脉体主要参与呼吸调节，而主动脉体在循环调节方面较为重要
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 197
+:id: 6214e2f4-d893-4949-bd4c-7bdaa70e9619
+:END:
+* ，通过一定途径使细胞内Ca?+浓度升高，由此触发递质释放，引起传入神经纤维兴奋。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e358-6cc6-450d-895d-5d5366fe10f1
+:END:
+* 颈动脉体和主动脉体的血液供应非常丰富，其每分钟血流量约为其重量的20倍,100g该组织的血流量约为2000ml/min（每100g脑组织血流量约为55ml/min）。一般情况下，其动、静脉PO?差几乎为零，即它们始终处于动脉血液的环境之中,表明其丰富的血供与其敏感的化学感受功能有关，而非自身高代谢率的需要。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e3a6-ed9f-47bb-8354-64b6fc1dc9c8
+:END:
+* 。因此,临床上贫血或CO中毒时，血。2含量虽然下降，但其P02仍正常，只要血流量不减少，则化学感受器传入神经放电频率并不增加。CO?较容易扩散进入外周化学感受器细胞，使细胞内T浓度增加;而血液中H+则不易进入细胞。因此，相对而言,CO?对外周化学感受器的刺激作用较T强。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e3f4-d6ae-49ae-acf1-51fd08cd6e0c
+:END:
+* 在实验中还观察到，上述三种因素对化学感受器的刺激作用有相互增强的现象，两种因素同时作用比单一因素的作用强。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e44b-df54-475c-8fed-1b58c1c31af0
+:END:
+* 这提示在脑内还存在一些不同于呼吸中枢但可影响呼吸活动的化学感受区,这些区域被称为中枢化学感受器
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e4a6-ad8b-4bcb-a845-dbf78f7b1580
+:END:
+* 物实验证明延髓腹外侧部的浅表部位是影响呼吸活动的化学敏感区,提示这些区域存在中枢化学感受器，所以有时也把这些化学敏感区称为中枢化学感受器，但是否有外周化学感受器类似的特异形态结构，以及如何定义中枢化学感受器仍需深入研究。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6214e4ac-d5b2-4fe5-b263-97a09e4cc7a8
+:END:
+* 而且还涉及脑内其他区域，如斜方体后核、孤束核、蓝斑、下丘脑等部位也有化学敏感神经元。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e4d3-cbd2-40be-9894-b2d904b56f90
+:END:
+* 中枢化学感受器的生理性刺激是脑脊液和局部细胞外液中的H+,而不是CO?;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e4ea-d2bd-46c4-87e9-5ad315d11996
+:END:
+* 由于脑脊液中碳酸酊酶含量很少,CO?与水的水合反应很慢，所以对CO?的通气反应有一定的时间延迟
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e51a-09e0-4366-a5b0-10ea7324616b
+:END:
+* 另外，血液中的H+不易透过血-脑屏障，故血液pH的变化对中枢化学感受器的刺激作用较弱，也较缓慢。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e51e-738a-474a-8c6d-9ba9563bdc31
+:END:
+* 当体内CO?持续增多时，在最初数小时内,呼吸兴奋反应很明显，但在随后的1~2天内，呼吸兴奋反应逐渐减弱到原先的1/5左右，即存在适应现象。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e55a-94a7-455b-abd3-dcc03f771a04
+:END:
+* ①肾对血液pH具有调节作用;②血液中的HCO3-也可缓慢透过血-脑屏障和血-脑脊液屏障,使脑脊液和局部细胞外液的pH回升，减弱H+对呼吸运动的刺激作用。所以，血液中的CO?对呼吸运动的急性驱动作用较强，而慢性刺激作用则较弱。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e573-a815-44be-8ab6-22b4c4e9a1de
+:END:
+* 中枢化学感受器的生理功能可能是通过影响肺通气来调节脑脊液的H+浓度,使中枢神经系统有一稳定的pH环境;而外周化学感受器的作用则主要是在机体低时维持对呼吸的驱动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e646-893f-42cf-8843-da786b6205de
+:END:
+* 无论在麻醉动物或人类，当动脉血液PC02降到很低水平时，可出现呼吸暂停。因此，一定水平的PC02对维持呼吸中枢的基本活动是必需的;若过度通气因C02排出增加也可抑制呼吸运动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e727-e896-4013-aeec-b30b2252200e
+:END:
+* 肺通气增加可使血液C02排出增加，从而使血液PCC）2恢复正常水平。但如果血液PC。?过高则可抑制中枢神经系统包括呼吸中枢的活动，引起呼吸困难、头痛、头昏，甚至昏迷，出现C（）2麻醉。总之,C（）2对呼吸运动起经常性调节作用，血液PC02在一定范围内升高可加强呼吸运动，但超过一定限度则起抑制作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6214e756-007d-4335-a5f5-a6fbf8180213
+:END:
+* ，CO?引起的通气反应仅下降20%左右
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e7ea-35be-4ac7-b9af-9aa604f799ea
+:END:
+* 反射性地使呼吸加深、加快，肺通气量增加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e7fb-d4e2-4e9f-98f6-5b60b92bfc15
+:END:
+* 中枢化学感受器在CO?引起的通气反应中起主要作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e812-6774-41b9-9bf4-37e43c8fd34e
+:END:
+* 所以当动脉血PC。?突然增高时,外周化学感受器在引起快速呼吸反应中可起重要作用。另外，当中枢化学感受器对CO?的敏感性降低或产生适应后，外周化学感受器的调节作用就显得很重要
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e81f-afba-4166-966b-2db6dd0f1439
+:END:
+* 在心力衰竭或脑干损伤的患者,常可出现呼吸运动增强和减弱交替的现象，每个周期45秒至3分钟。其产生机制可能是肺泡气与化学感受器处的PC。?存在时间差和反馈增益过强。这种病理性的周期性呼吸运动称为陈-施呼吸（Cheyne-Stokesbreathing）0陈-施呼吸也偶见于正常人熟睡时、新生儿和老年人。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e862-d78b-4953-9b4e-c41182aa7726
+:END:
+* H,对呼吸的调节也是通过外周化学感受器和中枢化学感受器实现的。中枢化学感受器对H+的敏感性较外周化学感受器高，约为后者的25倍。但H，通过血-脑屏障的速度较慢，限制了它对中枢化学感受器的作用。因此，血液中的+主要通过刺激外周化学感受器而起作用，而脑脊液中的H+才是中枢化学感受器最有效的刺激物。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e90d-522a-4987-a542-10a1baabfb64
+:END:
+* 当吸入气PO2降低（如初上高原）以及肺通气或肺换气功能障碍时，动脉血液中P°2将下降，反射性使呼吸运动加深加快，肺通气量增加；反之，则肺通气量减少（图5-22）o通常在动脉血PO2下降到80mmHg以下时，肺通气量才出现可觉察到的增加。可见,动脉血PQ的改变对正常呼吸运动的调节作用不大，仅在机体严重缺。2时才有重要意义。此外,在严重肺气肿、肺心病患者，由于肺换气功能障碍，导致机体慢性缺。2和CO?潴留,长时间CO?潴留能使中枢化学感受器对CO?的刺激作用发生适应，而外周化学感受器对低刺激的适应很慢,在这种情况下，低。2对外周化学感受器的刺激就成为驱动呼吸运动的主要刺激因素。因此，如果在慢性肺通气或肺换气功能障碍引起机体缺。2的情况下给患者吸入纯则可能由于解除了低。2的刺激作用而引起呼吸抑制，所以在临床应用氧疗时应充分考虑这一点而予以高度警惕。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e973-0cb2-4ce0-acf3-e806262c3f0a
+:END:
+* 低。2对呼吸运动的刺激作用完全是通过外周化学感受器实现的。切断动物外周化学感受器的传入神经后,急性低。2对呼吸运动的刺激效应便完全消失。低。2对中枢的直接作用是抑制。低。2通过外周化学感受器对呼吸中枢的兴奋作用可对抗其中枢的直接抑制效应。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214e9f1-3431-4761-a46f-3b58afc8376d
+:END:
+* 三者之间具有相互作用，对肺通气的影响既可因相互协同而增强，也可因相互抵消而减弱
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 6214eb07-3bce-4d61-b64b-289fb8679865
+:END:
+* H+浓度增加时，因肺通气增加而使CO?排出增加，导致PC。?下降,H+浓度也有所降低，因此可部分抵消+的刺激作用，使肺通气量的增加比单因素H，浓度升高时小。PO2降低时，也因肺通气量增加，呼出较多的CO?,使PC。?和H+浓度降低，从而减弱低。2的刺激作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214eb65-d911-41ac-9857-bde1c7df580e
+:END:
+* 肺牵张反射(pulmonarystretchreflex)是由Hering和Breuer在1868年首次报道，因此又称为黑-伯反射(Hering-Breuerreflex)0他们在麻醉动物中发现，肺扩张或向肺内充气可引起吸气活动抑制,而肺萎陷或从肺内抽气则可引起吸气活动加强。切断迷走神经后，上述反应消失,说明这是由迷走神经参与的反射性反应
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ebf3-ee1c-435f-8c35-3f8f176b36e7
+:END:
+* 是指肺扩张时抑制吸气活动的反射。其感受器位于从气管到细支气管的平滑肌中，属于牵张感受器，其阈值低，适应慢。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ecbe-06e3-4ed5-a05a-e3b88e8bb2d0
+:END:
+* 肺扩张反射的生理意义在于加速吸气向呼气的转换，使呼吸频率增加。在动物实验中，切断两侧颈迷走神经后，动物的吸气过程将延长,吸气加深，呼吸变得深而慢。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ecea-bd9f-46c5-af84-889aaebc99e9
+:END:
+* 在成年人,潮气量要超过1500ml时才能引起肺扩张反射，因此在平静呼吸时，肺扩张反射一般不参与呼吸运动的调节。在病理情况下，如肺顺应性降低，肺扩张时对气道的牵张刺激较强，可引起肺扩张反射，使呼吸变浅变快
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ed68-cd43-4632-82f3-57b2aeb799b8
+:END:
+* 感受器同样位于气道平滑肌内，但其性质尚不清楚，要在较大程度的肺萎陷时才出现该反射，所以它在平静呼吸时并不重要，但对防止呼气过深以及在肺不张等情况下可能起一定作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ee17-12e7-4745-b4c0-9d7aad5378b0
+:END:
+* 。当喉、气管和支气管的黏膜受到机械性或化学性刺激时，位于这些部位的呼吸道黏膜下的感受器兴奋，冲动经迷走神经传入延髓，触发咳嗽反射,将呼吸道内的异物或分泌物排出。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214eeed-e368-48aa-a120-f75abce841cb
+:END:
+* 传 入神经是三叉神经,反射效应是腭垂下降，舌压向软腭，而不是声门关闭，呼出气主要从鼻腔喷出，以清除鼻腔中的刺激物。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214ef06-4772-4f90-8019-620d7f6365e0
+:END:
+* 当呼吸肌内的肌梭受到牵张刺激时，可反射性引起呼吸运动加强，这种反射属于本体感受性反射(proprioceptivereflex)(
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 201
+:id: 6214f0b0-8e19-4a38-8657-25fc238413a2
+:END:
+* 这是因为运动时欠下了“氧债”（oxygendebt），运动停止后必然有一个偿还过程。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 202
+:id: 6214f1ca-e3c9-455d-afe3-0455feb25970
+:END:
+* （1）Pa。?：是指动脉血中可溶解状态的。2所产生的张力。正常成年人Pa。?正常值为80~lOOmmHgo年龄>70岁时,PaO2>70mmHg为正常。低于60mmHg即表示有呼吸衰竭（respiratoryfail­ure）,<30mmHg则提示有生命危险。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 6214f2a1-a0a6-4a88-b245-4e1975c20de1
+:END:
+* ）PaC（）2：是指动脉血中可溶解状态的CO?所产生的张力。正常值为35〜45mmHg,<35mmHg为通气过度,>45mmHg为通气不足。是判断各型酸、碱中毒主要指标。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 6214f2ce-790b-4d7d-8ce6-73e21742f8a8
+:END:
+* ）pH和碱性物质:pH是血液酸碱度的指标，受呼吸和机体代谢因素的双重影响。正常动脉血pH为7.35~7.45,平均7.400pH<7.35为酸血症,pH>7.45为碱血症。但pH正常并不能完全排除无酸碱失衡，代偿性酸中毒或碱中毒时pH仍在7.35-7.45范围内。碱性物质包括:实际碳酸氢盐、标准碳酸盐、缓冲碱、实际碱剩余等擎
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 6214f2d8-e35c-48b6-a8a9-15ea90effbb1
+:END:
