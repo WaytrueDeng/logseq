@@ -1,9 +1,15 @@
 * [[@Sheng li xue = Physiology]]
 {{embed ((6205f00a-3e0f-4af3-bcbb-6d59c0f2f9bf))}}
+* 绪论
+** [[机体的内环境,稳态和生物节律]]
+** [[机体生理功能的调节]]
+** [[人体内自动控制系统]]
+** [[医考帮考研真题]]
 * 细胞
 :PROPERTIES:
 :id: 61deca5a-121d-4f2e-9d1d-aac362e9bb4e
 :END:
+** [[细胞膜的物质转运功能]]
 ** DONE [[物质的跨膜转运]]
 ** DONE [[肌细胞的收缩]]
 :LOGBOOK:

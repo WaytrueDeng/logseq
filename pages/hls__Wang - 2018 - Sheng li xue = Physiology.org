@@ -1575,3 +1575,479 @@
 :hl-page: 203
 :id: 6214f2d8-e35c-48b6-a8a9-15ea90effbb1
 :END:
+* 。体内各种组织细胞直接接触并赖以生存的环境称为内环境(internalenvironment)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 621625ea-bb49-41ec-9eda-b4fa316ce8da
+:END:
+* 由于体内细胞直接接触的环境就是细胞外液，所以生理学中通常把细胞外液称之为内环境。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 62162687-c7ed-4667-9d21-63d81f3b0362
+:END:
+* 人体内的液体总称为体液(bodyfluid),约占体重的60%。体液可分为两部分:约2/3的体液分布在细胞内，称为细胞内液(intracellularfluid)，其余的1/3分布在细胞外，称为细胞外液(extracellularfluid),包括血浆、组织液、淋巴液和脑脊液
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 6216268b-64a2-4496-9c64-98626d6d3083
+:END:
+* 内环境的稳态(homeostasis)是指内环境的理化性质，如温度、酸碱度、渗透压和各种液体成分的相对恒定状态。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 6216278f-7096-4792-9187-317b73380a61
+:END:
+* 内环境的稳态并不是静止不变的固定状态，而是各种理化因素在各种生理活动的调节下达到动态平衡的一种相对恒定的状态。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 621627a5-6bd4-4166-91df-152954ee4e36
+:END:
+* 因此,维持稳态是保证机体正常生命活动的必要条件。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 621627e4-9add-461f-be3b-6b5152cc4966
+:END:
+* 机体内的各种功能活动按一定的时间顺序发生周期性变化,称为节律性变化,而变化的节律称为生物节律(biorhythm)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 6216282a-4183-43f5-8cc2-63b28cdf2ab5
+:END:
+* 0其主要调节方式有以下三种：神经调节(nervousregulation)、体液调节(humoralregulation)和自身调节(auto­regulation)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 621628d7-8b85-46b5-a7a6-25d4bfd38091
+:END:
+* 反射(reflex)是神经调节的基本形式。反射活动的结构基础为反射弧(reflexarc),它由五个基本成分组成即感受器(sensoryreceptor)、传入神经(afferentnerve)、中枢(center)、传出神经(efferentnerve)和效应器(effector)(图1-3)o反射弧任何一个部分受损，反射活动将无法进行。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 621628e7-268f-4bb8-b960-d40f95e0cf1b
+:END:
+* 神经反射的特点是反应迅速，起作用快,调节精确。通常神经反射包括非条件反射(unconditionedreflex)和条件反射(conditionedreflex)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 62162911-43af-4f18-88a4-efffd3b4e5a1
+:END:
+* 其反射中枢基本上位于大脑皮层以下较低部位，反射弧相对固定，是生物体进化的产物
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 6216291e-6293-409b-89ba-9afeee121f34
+:END:
+* 体液调节是指机体的某些组织细胞所分泌的特殊的化学物质，通过体液途径到达并作用于靶细胞上的相应受体，影响靶细胞生理活动的一种调节方式-零
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162981-e59c-4561-b0a3-c8c733382941
+:END:
+* 内分泌细胞或内分泌腺分泌的激素
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 621629a8-a1d3-478f-a241-4401c7ed5e50
+:END:
+* 组织细胞产生的特殊化学物质
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 621629bd-2a1d-46cd-8c38-e1b962f972f4
+:END:
+* 某些代谢产物，如c()2、no、h+
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 621629c8-efd7-4846-b447-081c766a4c27
+:END:
+* 。但也有一些化学物质不通过血液循环而直接进入周围的组织液，经扩散作用到达邻近的细胞后发挥特定的生理作用,这种调节可以看作是局部性体液调节,或称为旁分泌(paracrine)调节，如胰高血糖素刺激胰岛B细胞分泌胰岛素的调节过程。还有些细胞分泌的激素或化学物质在局部扩散，又反馈作用于产生该激素或化学物质的细胞本身，这种方式称为自分泌(autocrine)调节，如胰岛素亦可抑制B细胞自身分泌胰岛素的活动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162b24-8d48-46d9-8194-460ce711dec6
+:END:
+* 人体内也有很多内分泌腺的活动接受来自神经和体液的双重调节，称为“神经-体液调节”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162b2c-c59a-4ded-8710-13aba7f0ff01
+:END:
+* 与神经调节相比,体液调节是一种较为原始的调节方式,其作用缓慢而持久,作用面较广泛,调节方式相对恒定，它对人体生命活动的调节和自身稳态的维持起着十分重要的作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162b69-a0ff-4faf-a96e-1418577f8bca
+:END:
+* 自身调节是指某些细胞或组织器官凭借本身内在特性，而不依赖神经调节和体液调节,对内环境变化产生特定适应性反应的过程。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162b93-f96d-4b3c-b8c5-0943751fe2dd
+:END:
+* 如肾小球的入球小动脉内压力增高时,牵张了入球小动脉平滑肌，触发其收缩,使入球小动脉管径变小,阻力增加，从而使血流量减少,维持正常的肾小球滤过率。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162bf1-4e4d-4fae-8ebf-e530ea538ce1
+:END:
+* 调节强度较弱，影响范围小，且灵敏度较低，调节常局限于某些器官或组织细胞内,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162c16-6721-48f4-ad8f-f25a1d2b3469
+:END:
+* 反馈控制系统是由比较器、控制部分和受控部分组成的一个闭环系统(closed-loopsystem)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 62162d0a-310d-4b48-87a7-100ee576f673
+:END:
+* 在反馈控制系统中，反馈信号对控制效应图1-4反馈控制系统示意图部分的活动可发生不同的影响，据此，可将反馈分为两种：负反馈(negativefeedback)和正反馈(positivefeedback)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162d3b-c465-4081-a0bd-375fa66a6c50
+:END:
+* 负反馈控制系统是一个闭环的控制系统。来自受控部分的输出信息反馈调整控制部分的活动,最终使受控部分的活动向与其原先活动的相反方向改变，称为负反馈。负反馈调节的意义是使系统处于一种稳定状态。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162d89-261c-4c8e-897f-ac82dde5caf5
+:END:
+* ，当机体的动脉血压突然升高时，分布在主动脉弓和颈动脉窦的压力感受器就能感受到这一变化,并将这一信息通过迷走神经和舌咽神经反馈到心血管中枢,经中枢的整合、比较、分析后，通过传出神经支配心脏和血管的活动，使动脉血压回降至调定点的相应水平。正常机体内，血糖浓度、pH、循环血量、渗透压等也是在负反馈控制系统的作用下保持稳定的。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162dc2-6a86-4f26-813e-ac42e7d86c3b
+:END:
+* 正反馈控制系统也是闭环控制系统，来自受控部分的输出信息反馈调整控制部分的活动,最终使受控部分的活动向与其原先活动的相同方向改变，这种反馈活动称为正反馈
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162dd6-3489-41e2-8816-f378424b5300
+:END:
+* 体内的正反馈控制系统远较负反馈控制系统少，但在排泄、分娩等生理活动中，正反馈调节具有重要的生理意义
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162de5-66ac-485a-b019-660ba924946e
+:END:
+* 例如，当膀胱中的尿液充盈到一定程度时，可刺激膀胱壁上的牵张感受器，后者发出冲动经传入神经传至排尿中枢，中枢通过整合、比较、分析后，经传出神经引起逼尿肌的收缩、内括约肌的舒张，使尿液进入后尿道。此时尿液还可刺激后尿道的感受器，进一步加强排尿中枢的活动，使排尿反射一再加强,直至尿液排尽为止
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162df3-10b8-42c7-97f7-4d4e9c99d167
+:END:
+* 又如正常分娩过程中，子宫收缩导致胎头下降并牵张宫颈，宫颈受到牵张可进一步加强宫缩，使胎头继续下降，此时宫颈进一步受到牵张，宫颈的牵张再加强宫缩，如此反复,直至胎儿娩出。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 62162e13-c6df-40dc-bb5a-d39f06b17b67
+:END:
+* 除了上述的负反馈和正反馈控制系统以外，体内还存在着另一种调控机制一前馈控制系统。在自动控制理论中，前馈控制系统是利用输入或扰动信号（前馈信号）的直接控制作用构成的开环控制系统
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 62162e5f-c049-4196-9f92-a95348927940
+:END:
+* 前馈控制系统可以避免负反馈调节时矫枉过正产生的波动和反应的滞后现象，使调节控制更快、更准确。机体内的前馈控制系统也属于这样一个开环控制系统C例如,人在参加赛跑前，尽管信号枪还没响起,通过前馈调节，参赛者已出现心率加快，心输出量增加,肺通气量增加，肾上腺素分泌增加等一系列应急反应，以提前适应赛跑时机体血供和耗氧量增加的需要。可见，这种前馈活动使机体的调节控制更富有预见性和适应性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 62162ec6-4fc3-43a5-b074-5f4218bf9b15
+:END:
+* 寒冷刺激可使位于下丘脑后部的战栗中枢兴奋，经传出通路到达脊髓前角运动神经元，引起战栗;还能引起下丘脑释放促甲状腺激素释放激素,后者刺激腺垂体释放促甲状腺激素，从而促进甲状腺产生和分泌甲状腺激素
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 247
+:id: 62163308-4a27-44af-b802-7e4eac9dedd6
+:END:
+* 。这种肌源性自身调节机制在肾血管特别明显,在脑、心、肝、肠系膜和骨骼肌的血管也能看到，但皮肤血管一般没有这种表现
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 167
+:id: 621633a2-7217-421b-9e5a-c29ebd8bc4af
+:END:
+* ，主要由脂质和蛋白质组成,还有少量糖类物质
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 6216405f-96f1-4f36-949b-61bb0d12ee9a
+:END:
+* ，膜蛋白含量较高;而在功能简单的细胞，膜蛋白含量相对较低
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 62164064-ba0c-4074-b1ac-62d70167657f
+:END:
+* 的液态镶嵌模型(fluidmosaicmodel)学说
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 62164071-cc58-4284-99b6-28a04730b8e3
+:END:
+* 磷脂(phospholipid).胆固醇(cholesterol)和少量糖脂(glycolipid)构成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 621640a9-943a-4168-ab1f-25f2e4bcb60c
+:END:
+* 磷脂占总量的70%以上,胆固醇不超过30%,糖脂不超过10%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 621640b0-3d62-465c-abf4-b47e2e35cf6a
+:END:
+* 各 种膜脂质在膜上的分布是不对称的。大部分的磷脂酰胆碱和全部的糖脂都分布在膜的外层,含氨基酸的磷脂(磷脂酰丝氨酸、磷脂酰乙醇胺、磷脂酰肌醇)主要分布在膜的内层
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 621640fc-63e4-4122-9b51-03a33e66e99c
+:END:
+* 但可作为细胞内第二信使三磷酸肌醇(IP3)和二酰甘油(DG)的供体
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 62164105-3900-45b4-bdad-d7b97fd137ab
+:END:
+* 质膜的疏水区是水以及水溶性物质如葡萄糖和各种带电离子的天然屏障,但脂溶性物质如氧气、二氧化碳以及乙醇等则很容易穿透
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 62164130-35d9-4601-bf71-06cb5038b0e2
+:END:
+* 呈凝胶或溶胶状态。正常人体温高于膜脂质的熔点，即已超过两种状态的转换温度，故膜脂质在人体内呈溶胶状态，具有一定程度的流动性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 62164152-6281-432f-964d-415860f7c114
+:END:
+* 。胆固醇分子具有不易变形的笛环结构,后者与脂肪酸链的结合可限制脂质的流动，故膜脂质中胆固醇含量愈高,膜的流动性就愈低
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 6216417c-05c0-4de2-bc8b-80de8e865629
+:END:
+* 脂肪酸慌链长度愈长、饱和脂肪酸愈多，膜的流动性也愈低，如动物脂肪以饱和脂肪酸为主，室温下可呈固态;膜中镶嵌的蛋白质含量增多时也会降低膜的流动性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 62164180-6faa-46c0-a51c-fddeff036a03
+:END:
+* 整合膜蛋白约占膜蛋白总量的70%-80%，它们以其肽链一次或反复多次穿越膜脂质双层为特征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 621641c4-67b0-4eea-b0fd-d96bb591dab4
+:END:
+* 作用。各种功能蛋白质分子在质膜中的位置分布存在区域特性，这与细胞完成其特殊功能有关。例如，骨骼肌细胞膜上的N2型乙酰胆碱受体通常都集中在与神经末梢相对应的终板膜上，这与神经肌肉之间的信息传递有关;有髓神经纤维轴突膜上的电压门控钠通道几乎全部集中在裸露的郎飞结处，这与兴奋的发生和跳跃式传导(见后)有关。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 6216423b-7270-429d-9be3-3e04f48a9efb
+:END:
+* 些寡糖和多糖链，它们以共价键的形式与膜蛋白或膜脂质结合而形成糖蛋白（glycoprotein）或糖脂（glycolipid）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 6216425d-7d6b-4087-a0b9-a74ac4ce96a1
+:END:
+* ;红细胞膜上AB0血型系统的抗原就是由糖蛋白或糖脂上不同的寡糖链所决定的，其中A型抗原和B型抗原的差别仅在于此糖链中一个糖基的不同（见第三章）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 6216428a-78bd-4aad-8089-d89ea5bd3c68
+:END:
+* 细胞膜的脂质双分子层是一个天然屏障，各种离子和水溶性分子都很难穿越细胞膜脂质双层的疏水区，从而使胞质中溶质的成分和浓度与细胞外液显著不同
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 621642e5-f0a3-48dc-acf5-59b21c06c8ae
+:END:
+* 。据估计，细胞用于物质转运的能量约占细胞耗能总量的2/3
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 621642f5-0644-423c-9f63-eca9addf747a
+:END:
+* 这是一种物理现象,没有生物学转运机制参与,无需代谢耗能,属于被动转运，也称简单扩散。如图2-2所示,经单纯扩散转运的物质都是脂溶性（非极性）物质或少数不带电荷的极性小分子物质，如。2<02、呢、类固醇激素、乙醇、尿素、甘油、水等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 6216431c-42d0-441a-a891-4a7de85c3fd8
+:END:
+* 水是不带电荷的极性小分子，也能以单纯扩散的方式通过细胞膜,但脂质双层对水的通透性很低，故扩散速度很慢（某些组织对水的通透性很大,是因为其细胞膜上存在水通道的缘故，见后
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 6216436c-566c-4b0c-b4fb-1be6f2ab4e8a
+:END:
+* 膜两侧的浓度差和膜对该物质的通透性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 62164380-48a2-423e-a482-cad70184d571
+:END:
+* 各种带电离子在通道蛋白的介导下，顺浓度梯度和（或）电位梯度的跨膜转运称为经通道的易化扩散（facilitateddiffusionviachannel）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 62164478-748e-4861-8a4d-2a17b7a126f3
+:END:
+* 子通过时无需与通道蛋白结合，能以极快的速度跨越细胞膜。据测定，通道开放时离子转运速率可达每秒1。6〜"个。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 6216448a-ac1a-4540-98c3-80c3c008b4f8
+:END:
+* 。例如，钾通道对K,的通透性要比Na*大1000倍;乙酰胆碱受体阳离子通道对小的阳离子如Na\K+高度通透，而C「则不能通透。据此，可将通道分为钠通道、钙通道、钾通道、氯通道和非选择性阳离子通道等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 621644cb-2992-40f2-a0a8-47611d798e9a
+:END:
+* 许多因素可引起闸门运动，导致通道的开放或关闭，这一过程称为门控(gating)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 6216463b-8cf1-4054-97ce-37586895cd71
+:END:
+* 当膜两侧电位差发生改变,通常是在膜发生去极化时，通道蛋白分子内的一些带电化学基团(也称电位感受区)发生移动，进而引起分子构象变化和闸门开放,如神经细胞轴突膜中的电压门控钠通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 62164683-7d9f-44cf-b970-b65a6f053295
+:END:
+* 体内也有少量电压门控通道是在膜发生超极化时才打开的，如存在于心肌细胞膜中的I_{f}通道(见第四章)
+:PROPERTIES:
+:hl-page: 45
+:ls-type: annotation
+:id: 62164689-e01c-4e4f-9808-5d04f60f2420
+:END:
+* o这是一类兼有通道和受体功能的蛋白分子，也称配体门控通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 62164741-d0b0-4a98-9dc4-43c4684df302
+:END:
+* 对神经元之间或神经元与肌肉之间的信号传递极其重要。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 6216474d-fbf2-4a64-a726-c9b960f39482
+:END:
+* ，如耳蜗基底膜毛细胞上的机械门控通道、动脉血管平滑肌细胞上的[[机械门控钙通道]]等。某些感受器细胞(如触觉、听觉、运动觉、位置觉、血压)的换能作用也是经机械门控通道介导的。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 6216476e-b40d-4556-a9a3-5f72bea5524f
+:END:
+* 此外,也有少数通道始终是开放的，这类通道称为非门控通道，如神经纤维上的钾漏通道(potassiumleakchannel)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 621648b3-e8fe-42b9-84d0-c6d37d08d98a
+:END:
+* 此外,肾小管、集合管、呼吸道以及肺泡等处的上皮细胞对水的转运能力也很强。在这些细胞的质膜中，存在着大量对水高度通透且总是开放的水通道
+:PROPERTIES:
+:hl-page: 46
+:ls-type: annotation
+:id: 6216495e-b79b-4705-83f8-062e8bed8d52
+:END:
+[[Comments]]此处说的肾小管应该是只髓襻降支,在9版教材远曲小管对水不通透
+[[Anchor]]:不同部位水孔蛋白分型
+* 许水分子以单列形式扩散通过,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 62164a93-33fb-4415-b7ec-7d825024662e
+:END:
+* 载体(carrier)也称转运体(transporter),是介导多种水溶性小分子物质或离子跨膜转运的一类整合膜蛋白
+:PROPERTIES:
+:hl-page: 46
+:ls-type: annotation
+:id: 62164b2c-a391-4b75-adc9-036756e431c6
+:END:
+[[Comments]]:需要记住在我的[[潜印象]]中载体只有转运小分子物质而忽视了其也能转运离子
+* 。体内许多重要的物质如葡萄糖、氨基酸等的跨膜转运就是经载体易化扩散实现的,如[[葡萄糖转运体]](glucosetransporter,[[GLUT]])可将胞外的葡萄糖顺浓度梯度转运到细胞内。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 62164ba9-8129-4269-b963-a1220bd27509
+:END:
+* 中[[胰岛素]]水平增高时,[[GLUT4]]囊泡可在几分钟内启动出胞而插入细胞膜，大大提高细胞转运葡萄糖的能力。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164bee-6290-4ea4-82e8-74a219da929b
+:END:
+* 葡萄糖载体对右旋葡萄糖(人体内可利用的糖类都是右旋的)的转运量远超过左旋葡萄糖。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164c60-cd59-4c02-b8c9-119e7c7c6bd6
+:END:
+* 与此不同的是，在单纯扩散、离子经通道易化扩散以及水的渗透过程中，转运速率通常随被转运物浓度的增加而呈线性增加(图2-5B)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164c86-4a19-401e-830f-c5cfee11a4c9
+:END:
+* 根据膜蛋白是否直接消耗能量，主动转运可分为原发性主动转运和继发性主动转运。一般所说的主动转运是指原发性主动转运。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164d86-ada7-426e-b71e-e61fd58f011c
+:END:
+* 原发性主动转运的底物通常为带电离子，因此介导这一过程的膜蛋白或载体被称为离子泵(ionpump)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164da1-8b0f-4a01-ac25-b3c28857e17b
+:END:
+* 离子泵的化学本质是ATP酶,可将细胞内的ATP水解为ADP,自身被磷酸化而发生构象改变,从而完成离子逆浓度梯度和(或)电位梯度的跨膜转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164db1-ea61-476d-af29-d27490ea1a63
+:END:
+* 钠钾泵(sodium-potassiumpump)是哺乳动物细胞膜中普遍存在的离子泵，简称钠泵。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 62164e50-8817-4beb-a1cd-22ac5110bdd0
+:END:
+* 因此，钠泵每分解一分子ATP可逆浓度差将3个Na+移出胞外，将2个K+移入胞内，其直接效应是维持细胞膜两侧Na，和史的浓度差，使细胞外液中的Na*浓度达到胞质内的10倍左右，细胞内的K+浓度达到细胞外液的30倍左右。同时,钠泵每次活动都会使3个Na*移出胞外、2个K+移入胞内，产生一个正电荷的净外移，故钠泵具有生电效应
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 62164f84-276a-42ea-86e0-e6acc665fbc2
+:END:
+* ①钠泵活动造成的细胞内高K⁺为胞质内许多代谢反应所必需，如核糖体合成蛋白质就需要高K⁺环境。
+:PROPERTIES:
+:hl-page: 48
+:ls-type: annotation
+:id: 62164f9e-b641-4078-93d7-717670a34044
+:END:
+②维持胞内渗透压和细胞容积。在静息状态下，膜对Na⁺\K⁺都有一定通透性(K⁺漏通道)。虽然这时K⁺的通透性相对较高，^^但由于膜内有机负离子(带负电的蛋白质、核苷酸等)的吸引，外漏的K⁺较少，而Na⁺受浓度差和电位差的驱动漏入到胞内的数量则相对较多。^^钠泵的活动可将漏入胞内的Na⁺不断转运出去，保持细胞正常的渗透压和容积，以防细胞水肿。
+[[Comments]] :从这一点也可以思考为什么是三个Na⁺和两个K⁺了因为Na⁺的内流作用力大
+③钠泵活动形成的Na⁺，和K⁺跨膜浓度梯度是细胞发生电活动如静息电位和动作电位的基础(见本章第三节)。
+④钠泵活动的生电效应可使膜内电位的负值增大，直接参与了静息电位的形成(见本章第三节)。
+⑤钠泵活动建立的Na*跨膜浓度梯度可为继发性主动转运提供势能储备(见后文)
+* 钠泵抑制剂[[哇巴因]](ouabain)与钠泵E2状态下的细胞外部结构有较高的亲和力，可以改变钠泵构象，阻断钠泵活动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 62165179-ba61-4c68-ba44-7e041e40dcfe
+:END:
+* 哺乳动物细胞上广泛分布的另一种离子泵，也称Ca2+-ATP酶。钙泵不仅位于质膜上，还集中分布于肌细胞的肌质网和其他细胞的内质网膜上。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 621654dc-149d-4ec3-81fa-4c3de75548dd
+:END:

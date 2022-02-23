@@ -167,7 +167,7 @@
  :favorites []
  :preferred-format :org
  :ui/show-brackets? true
- :graph/settings {:orphan-pages? false, :builtin-pages? false}
+ :graph/settings {:orphan-pages? false, :builtin-pages? false, :journal? false}
  :publishing/all-pages-public? false
  :feature/enable-journals? false
  :zotero/settings-v2 {"default" {:zotero-linked-attachment-base-directory "/Users/waytrue/PDFs", :zotero-data-directory "C:\\Users\\waytr\\Zotero\\", :type-id "6626953"}}

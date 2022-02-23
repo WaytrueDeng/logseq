@@ -212,7 +212,7 @@
 :hl-page: 57
 :id: 6214b57b-8de5-4955-8492-e699bf67dd28
 :END:
-* 腔气量增大；也有部分肺区虽有血液灌流，但肺泡通气不良，不能参与气体交换，导致功能性分流增加，从而产生通气与血流比例失调。同时，肺泡及毛细血管大量丧失，弥散面积减少，进而导致换气功能发生障碍。通气和换气功能障碍引起缺氧和二氧化碳满留，可发生不同程度的低氧血症和高碳酸血症，最终出现呼吸衰竭。
+* 腔气量增大；也有部分肺区虽有血液灌流，但肺泡通气不良，不能参与气体交换，导致功能性分流增加，从而产生通气与血流比例失调。同时，肺泡及毛细血管大量丧失，弥散面积减少，进而导致换气功能发生障碍。^^通气和换气功能障碍^^引起缺氧和二氧化碳满留，可发生不同程度的低氧血症和高碳酸血症，最终出现呼吸衰竭。
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 58
@@ -235,4 +235,310 @@
 :ls-type: annotation
 :hl-page: 58
 :id: 6214bade-059f-4f60-8ee4-a31572420c15
+:END:
+* 可使用GOLD分级，慢阻肺病人吸人支气管扩张剂后FEV1/FVC<70%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6215ea3b-a612-4d6e-bf60-edc6249ba684
+:END:
+* 流受限有显著的可逆性，合理吸人糖皮质激素等药物常能有效控制病情，是其与慢阻肺相鉴别的一个重要特征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215eee5-55c4-41a4-b28a-b52c363d3b35
+:END:
+* 如有突然加重的呼吸困难，并伴有明显发钳，患侧肺部叩诊为鼓音，听诊呼吸音减弱或消失，应考虑并发自发性气胸，通过X线检查可以确诊。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f06f-cbaf-4eb9-9ef6-fd9aa0268eb3
+:END:
+* 其中最重要的是劝导吸烟的病人戒烟，这是减慢肺功能损害最有效的措施，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f0aa-6edd-41c2-a0d1-7fa0e19a8e77
+:END:
+* 支气管扩张剂
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f0d5-07f4-40a2-aef7-9c3d4a1b8be3
+:END:
+* 丁胶醇（salbutamol）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f0d8-459c-41b4-8fbf-0895a5a2ad78
+:END:
+* 美特罗（
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f0e3-80b6-4b14-97ff-22d329b2cb65
+:END:
+* 如异丙托澳镀（ipratropiurn）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f0ff-ce1b-438d-9967-097742861da1
+:END:
+* 有唾托澳镀（tiotropium bromide）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6215f104-a4db-4e6c-b7e0-ae625c330af4
+:END:
+* 运动耐量、减少急性加重频率、提高生活质量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f1d2-7727-4913-88a5-6a153b7e1b1c
+:END:
+* 对慢阻肺并发慢性呼吸衰竭者可提高生活质量和生存率，对血流动力学、运动能力和精神状态均会产生有益的影响。LTOT的使用指征为：①Pa02运55mmHg或Sa02~88%，有或没有高碳酸血症。②Pa0255～60mmHg，或Sa02<899毛，并有肺动脉高压、右心衰竭或红细胞增多症（血细胞比容＞0.55）。一般用鼻导管吸氧，氧流量为1.0~2. 01/min，吸氧时间＞15νd。目的是使病人在海平面、静息状态下，达到Pa02;::::: 60mmHg和（或）使Sa02升至90%以上。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f21c-34cd-4764-ac00-53ffa2f8be56
+:END:
+* 药物同稳定期。有严重喘息症状者可给予较大剂量雾化吸人治疗，如应用沙丁胶醇500闯，或沙丁胶醇1000附加异丙托澳镣250～500闯，通过小型雾化器给病人吸人治疗以缓解症状。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f43c-22ad-41d9-818c-2d875e0ed942
+:END:
+* 鼻导管给氧时，吸人的氧浓度为28%～30%，应避免吸人氧浓度过高引起二氧化碳满留。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f445-8d14-4055-a054-50272aeefdda
+:END:
+* 当病人呼吸困难加重，咳嗽伴痰量增加、有服性痰时，应依据病人所在地常见病原菌及其药物敏感情况积极选用抗生素治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f44b-939e-4a33-9b37-8bf401e792cb
+:END:
+* 对需要住院治疗的急性加重期病人可考虑泼尼松龙30～40mg/d，也可静脉给予甲泼尼龙40～80吨，每日1次。连续5～7天。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6215f456-94cb-4099-a0a3-368c042eadf6
+:END:
+* 于测定气道的可逆性改变。常用吸人支气管舒张剂有沙丁胶醇、特布他林。当吸人支气管舒张剂20分钟后重复测定肺功能，FEV1较用药前增加~12%，且其绝对值增加~200ml，判断结果为阳性，提示存在可逆性的气道阻塞。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 6215fa75-c10a-4403-875d-39ed203cee34
+:END:
+* 支气管哮喘（bronchial asthma）简称哮喘，是一种以慢性气道炎症和气道高反应性为特征的异质性疾病。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 62160122-3728-4513-888c-e4ddb7a51aaa
+:END:
+* 以及随病程延长而导致的一系列气道结构的改变，即气道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 62160133-ca3a-4326-90bf-532a75f7051c
+:END:
+* ，常在夜间及凌晨发作或加重
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 6216013b-b94e-4de1-8ad1-a3688e8d601a
+:END:
+* ，其发病具有家族集聚现
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 62160157-6486-4a8b-95bb-bbc804119db4
+:END:
+* 这些细胞进一步分泌多种炎症因子如组胶、白三烯、前列腺素、活性神经肤、嗜酸性粒细胞趋化因子、转化生长因子（TGF）等，构成了一个与炎症细胞相互作用的复杂网络，导致气道慢性炎症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 621605c0-6e2b-4dbb-8925-4c5bd1ee3e87
+:END:
+* 约半数以上病人出现迟发型哮喘反应。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 62160965-6e37-42fe-ae74-4f1ce2534a94
+:END:
+* 。AHR是哮喘的基本特征，可通过支气管激发试验来量化和评估，有症状的哮喘病人几乎都存在AHR。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 62160a35-b4e3-461b-9828-14a17b1042cc
+:END:
+* 支气管受复杂的自主神经支配，除肾上腺素能神经、胆碱能神经外，还有非肾上腺素能非胆碱能（NANC）神经系统
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 62160ac3-11cc-4e8e-9b09-7462f9c457c6
+:END:
+* 吸人组胶和乙酷甲胆碱的气道反应性显著增高则提示存在胆碱能神经张力的增加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 62160acf-0ee2-4936-81aa-8add59ae46d6
+:END:
+* 此外，从感觉神经末梢释放的P物质、降钙素基因相关肤、神经激肤A等导致血管扩张、血管通透性增加和炎症渗出，此即为神经源性炎症
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 62160af9-8ae5-4bd3-89ff-67b8eac5912e
+:END:
+* 气道慢性炎症作为哮喘的基本特征
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 621611ca-16a9-46fe-88e6-e9000136cd33
+:END:
+* 表现为气道上皮下肥大细胞、嗜酸性粒细胞、巨噬细胞、淋巴细胞及中性粒细胞等的浸润，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 621611cf-a5f8-4b9d-a02b-1c820814b863
+:END:
+* 支气管平滑肌肥大／增生、气道上皮细胞黏液化生、上皮下胶原沉积和纤维化、血管增生以及基底膜增厚等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 6216121d-c892-489d-ada7-5d8e1b3f5448
+:END:
+* 性呼吸困难，可伴有气促、胸闷或咳嗽
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 621612b7-cbaf-4371-8c41-0794b68ec1af
+:END:
+* 夜间及凌晨发作或加重是哮喘的重要临床特征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 621612bd-994a-42ec-84bd-fd1d1e2dde56
+:END:
+* ，临床上还存在没有喘息症状的不典型哮喘，病人可表现为发作性咳嗽、胸闷或其他症状
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 6216133a-3f3a-421a-b18e-c8842790cb84
+:END:
+* 发作时典型的体征为双肺可闻及广泛的哮鸣音，呼气音延长。但非常严重的哮喘发作，哮鸣音反而帆甚至完全消失，表现为“沉默肺”，是附重的表现
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 621614ca-9b12-485b-a503-06fef693f034
+:END:
+* 才．遇气功能检测哮喘发作时呈阻塞性通气功能障碍表现，用力肺活量（FVC）正常或下降，第一秒用力呼气容积（FEV1）、1秒率（FEV/FVC%）以及最高呼气流量（PEF）均下降；残气量及残气量与肺总量比值增加。其中以FEV/FVCo/i<70%或FEV1低于正常预计值的80%为判断气流受限的最重要指标。缓解期上述通气功能指标可逐渐恢复。病变迁延、反复发作者，其通气功能可逐渐下降。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 621614d1-c767-4074-b742-e1c14d3752f0
+:END:
+* 乙酌甲胆碱和组
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 621614f0-8735-4639-b036-d12e2f664be6
+:END:
+* BPT适用于非哮喘发作期、FEV1在正常预计值70%以上病人的检查。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 62161519-d887-4f69-8cae-0e2677873775
+:END:
+* 体内变应原试验包括皮肤变应原试验和吸人变应原试验。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 621615fc-4361-45f7-bc82-2d368c1ff72f
+:END:
+* 外周血变应原特异性lgE增高结合病史有助于病因诊断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 62161618-3107-43c6-8606-7b7309d13a0c
+:END:
+* 严重哮喘发作时可出现缺氧。由于过度通气可使PaC02下降，pH上升，表现为呼吸性碱中毒。若病情进一步恶化，可同时出现缺氧和C02滞留，表现为呼吸性酸中毒。当PaC02较前增高，即使在正常范围内也要警惕严重气道阻塞的发生。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 62161643-e5e3-41b0-a958-f8cd767a56fe
+:END:
+* (1）反复发作喘息、气急，胸闷或咳嗽，夜间及晨间多发，常与接触变应原、冷空气、理化剌激以及病毒性上呼吸道感染、运动等有关。(2）发作时双肺可闻及散在或弥漫性哮鸣音，呼气相延长。(3）上述症状和体征可经治疗缓解或自行缓解。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 62161749-8a67-4689-9a31-d65d74e62038
+:END:
+* ①支气管舒张试验阳性；②支气管激发试验阳性；③平均每日PEF昼夜变异率＞10%或PEF周变异率＞20%。符合上述症状和体征，同时具备气流受限客观检查中的任一条，并除外其他疾病所引起的喘息、气急、胸闷和咳嗽，可以诊断为哮喘。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62161751-935c-4a8e-a811-229d228b3369
+:END:
+* PEF平均每日昼夜变异率（连续7天，每日PEF昼夜变异率之和／7)>10%，或PEF周变异率l(2周内最高PEF值－最低PEF值）／［（2周内最高PEF值＋最低PEF值）×112］×100%I >20%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 621617e1-7e6d-4852-bb06-4b01a14d1eaf
+:END:
+* 咳嗽变异性哮喘：指咳嗽作为唯一或主要症状，无喘息、气急等典型哮喘症状，同时具备可变气流受限客观检查中的任一条，除外其他疾病所引起的咳嗽。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62161841-d448-4299-a5f1-9b849952a528
+:END:
+* 状突然发生或症状加重，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 6216187e-df74-4cee-97cb-341e71ee4453
+:END:
+* 轻度、中度、重度和危重4级
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 6216189b-fd03-4bf1-b354-beba04e150e0
+:END:
+* 音，肺通气功能和血气检查正常。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 621618b0-8497-4688-a6cd-ea96bfadf8a3
+:END:
+* 可有三凹征，闻及响亮、弥漫的哮鸣音，心率增快，可出现奇脉，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 621618ef-cbda-4f68-8cc6-eed29244c767
+:END:
+* 度：休息时感气短，端坐呼吸，只能发单字表达，常有焦虑和烦躁，大汗淋漓，呼吸频率＞30次／分，常有三凹征，闻及响亮、弥漫的哮鸣音，心率增快常＞120次／分，奇脉，使用支气管舒张剂后PEF占预计值＜60%或绝对值＜1001/min或作用时间＜2小时，Pa02<60mmHg, PaC02 >45mmHg, Sa02运90%,pH可降低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62161900-3bdb-4bac-ae32-4578424964fc
+:END:
+* 讲话常有中断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62161909-520e-4ebb-9421-ab2e6a6d9742
+:END:
+* ：病人不能讲话，嗜睡或意识模糊，胸腹矛盾运动，哮鸣音减弱甚至消失，脉率变慢或不规则，严重低氧血症和高二氧化碳血症，pH降低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 6216192a-19aa-4c5c-9adb-88683869b1a1
+:END:
+* 指病人元喘息、气急、胸闷、咳嗽等症状，并维持1年以上。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62161dd6-199f-44a5-a16e-9f3b8c6721dc
 :END:
