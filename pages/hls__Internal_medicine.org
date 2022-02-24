@@ -542,3 +542,201 @@
 :hl-page: 66
 :id: 62161dd6-199f-44a5-a16e-9f3b8c6721dc
 :END:
+* 若一时难以鉴别，可雾化吸人自2受体激动剂或静脉注射氨茶碱缓解症状后进一步检查。忌用肾上腺素或吗啡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 62171d9e-d05c-4aab-b26e-e4b81765895e
+:END:
+* 对中老年病人，严格将慢阻肺和哮喘区分有时十分困难，用支气管舒张剂和口服或吸人激素作治疗性试验可能有所帮助。如病人同时具有哮喘和慢阻肺的特征，可以诊断哮喘合并慢阻肺或慢阻肺合并哮喘。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 62171f78-b8c9-48c8-8344-a347acd21a89
+:END:
+* 出现喘呜或类似哮喘样呼吸困难，肺部可闻及哮鸣音。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 62171fae-0473-4727-87c4-89b2bb58de69
+:END:
+* 根据病史，特别是出现吸气性呼吸困难，痰细胞学或细菌学检查，胸部影像、支气管镜检查，常可明确诊断。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 62171fc0-3277-40ba-b59a-fc1a078a692a
+:END:
+* 虽然目前哮喘不能根治，但长期规范化治疗可使大多数病人达到良好或完全的临床控制
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 621720bb-0380-42a8-84a6-fdddf40bfeca
+:END:
+* 使病人脱离并长期避免接触这些危险因素是防治哮喘最有效的方法。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 621720eb-1438-48b9-97f0-b0ac5b66c48d
+:END:
+* 前者指需要长期使用的药物，主要用于治疗气道慢性炎症而使哮喘维持临床控制，亦称抗炎药
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 621721a0-b6ab-4062-be31-fbdacde128fb
+:END:
+* 通过迅速解除支气管痊孪从而缓解哮喘症状，亦称解痊平喘药
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 621721af-645b-41c5-88cf-ada961e93226
+:END:
+* ：简称激素，是目前控制哮喘最有效的药物
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 62172240-76a9-4e36-85f6-feabe0ab47f0
+:END:
+* 布地奈德、倍氯米松还有雾化用混悬液制剂，经以压缩空气为动力的射流装置雾化吸人，起效快，在应用短效支气管舒张剂的基础上，可用于轻、中度哮喘急性发作的治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 621723cd-70a0-4335-9d4c-f5c39eff6a7d
+:END:
+* 不主张长期口服激素用于维持哮喘控制的治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 621723e6-de39-49ec-855b-30981902a386
+:END:
+* 吸人：ICS由于其局部抗炎作用强、全身不良反应少，已成为目前哮喘长期治疗的首
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 621723ed-5f63-4bc1-a2d4-fe456602101e
+:END:
+* 重度或严重哮喘发作时应及早静脉给予激素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 62172446-c418-453c-99af-e4ca38b8daa9
+:END:
+* ：为治疗哮喘急性发作的首选药物。有吸人、口服和静脉三种制剂，首选吸人给药。常用药物有沙丁胺醇（salbutamol）和特布他林（terbutaline）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 621724cd-ae73-4e42-9955-4a553a1204e2
+:END:
+* 与ICS联合是目前最常用的哮喘控制性药物。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6217250c-d866-4e71-b51b-c8c728efb1c8
+:END:
+* <span style="color:Yellow;">LABA不能单独用于哮喘的治疗</span>
+:PROPERTIES:
+:hl-page: 68
+:ls-type: annotation
+:id: 62172592-ac60-4ca7-b55b-0f4085d215a6
+:END:
+* 是目前除[[ICS]]外唯一可单独应用的哮喘控制性药物
+:PROPERTIES:
+:hl-page: 68
+:ls-type: annotation
+:id: 62172685-7d61-4d84-8722-2586e5f5b0cd
+:END:
+* P33）&“（4）茶碱类药物通过抑制磷酸二酯酶（B对），提高平滑肌细胞内的环腺苷酸（cAMP）浓度，拮抗腺苷受体，增强呼吸肌的力量以及增强气道纤毛清除功能等，从而起到舒张支气管和气道抗炎作用，是目前治疗哮喘的有效药物之一”。
+:PROPERTIES:
+:hl-page: 68
+:ls-type: annotation
+:id: 62172739-cd53-4a71-abc8-3e0bc90c040c
+:END:
+* ：通过阻断节后迷走神经通路，降低迷走神经张力而起到舒张支气管、减少蒙古液分泌的作用，但其舒张支气管的作用比比受体激动剂弱。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 621727b7-fd5e-4e7d-b0ff-30c99a5f045d
+:END:
+* 常用的SAMA异丙托澳镀（ipratropine bromide）有MDI和雾化溶液两种剂型。SAMA主要用于哮喘急性发作的治疗，多与日2受体激动剂联合应用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 621727cc-97f3-4d7b-813b-1ef60d488441
+:END:
+* ，纠正低氧血症，恢复肺功能，预防进一步恶化或再次发作，防治并发症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 62172864-6aa2-4d46-b3f7-d0c257c11873
+:END:
+* 重度至危重度…注意维持水、电解质平衡，纠正酸碱失衡…经过上述治疗，临床症状和肺功能无改善甚至继续恶化者，应及时给予机械通气治疗，其指征主要包括呼吸肌疲劳、PaCO₂≥45mmHg、意识改变（需进行有创机械通气）。此外，应预防呼吸道感染等”
+:PROPERTIES:
+:hl-page: 69
+:ls-type: annotation
+:id: 62172898-a3b3-47a6-b175-a45291f60d19
+:END:
+* 是指在过去1年中＞50%时间需要给予高剂量ICS联合LABA和（或）LTRA/缓释茶碱，或全身激素治疗，才能维持哮喘控制，或即使在上述治疗下仍不能控制
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 62172ad8-19f9-4fa2-ae9c-b80fc00777c4
+:END:
+* 主要指急、慢性呼吸道感染和支气管阻塞后，反复发生支气管化服性炎症，致使支气管壁结构破坏，管壁增厚，引起支气管异常和持久性扩张的一类异质性疾病的总称
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 62174e6c-8d04-47bf-b66d-480af9b22e7e
+:END:
+* 论非囊性纤维化支气管扩张症
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 62174f77-1715-44f9-bf8d-a9ebd79fd4b3
+:END:
+* 性咳嗽、咯大量服痰和（或）反复咯血，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 62174f87-ea53-43f3-95a1-77e12a1904a5
+:END:
+* 大气管－支气管症（Mounier-Kuhn综合征）、支气管软骨发育不全（Williams-Campbell综合征）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 62174fa6-cd2d-4b89-8be0-41928b814813
+:END:
+* 段或亚段支气管管壁的破坏和炎性改变，受累管壁的结构，包括软骨、肌肉和弹性组织被破坏并被纤维组织替代，进而形成三种不同类
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 62174feb-6c31-49a2-aef7-6ff0889aa518
+:END:
+* 气管炎症和纤维化、支气管壁溃殇、鳞状上皮化生和蒙古液腺增
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 621750cf-67a0-461f-baf2-59533492aa92
+:END:
+* 陷。炎症可致支气管壁血管增多，并伴相应支气管动脉扩张及支气管动脉和肺动脉吻合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 621750dc-ef7b-43f3-b623-e44ba3ab2f23
+:END:
+* ［临床表现］主要症状为持续或反复的咳嗽、咳痰或咳服痰。痰液为勃液性、黠液服性或版性，可呈黄绿色，收集后分层：上层为泡沫，中间为浑浊蒙古液，下层为服性成分，最下层为坏死组织。元明显诱因者常隐匿起病，无症状或症状轻微。呼吸困难和喘息常提示有广泛的支气管扩张或有潜在的慢阻肺。随着感染加重，可出现痰量增多和发热，可仅为支气管感染加重，也可为病变累及周围肺实质出现肺炎所致。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 62175170-1eca-4d59-a73f-21701232c061
+:END:
+* 。50%～70%的病例可发生咯血，大出血常为小动脉被侵蚀或增生的血管被破坏所致。部分病人以反复咯血为唯一症状，称为“干性支气管扩张”。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 621751cd-4bff-4b61-a5ad-00a417d9a331
+:END:
+* 气道内有较多分泌物时，体检可闻及湿啰音和干啰音。病变严重尤其是伴有慢性缺氧、肺源性心脏病和右心衰竭的病人可出现 [[杵状指]] 右心衰竭体征。
+:PROPERTIES:
+:hl-page: 72
+:ls-type: annotation
+:id: 621751d0-c5f3-4566-88c6-631727f069df
+:END:

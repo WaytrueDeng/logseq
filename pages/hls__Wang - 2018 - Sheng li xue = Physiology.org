@@ -2051,3 +2051,81 @@
 :hl-page: 48
 :id: 621654dc-149d-4ec3-81fa-4c3de75548dd
 :END:
+* 钙泵的活动原理类似于钠泵，不同的是钙泵具有特异性的Ca：+结合位点，当胞质内Ca?+浓度升高时，Ca^通过与钙调素(calmodulin,CaM)蛋白的结合可刺激钙泵活动。PMCA每分解1分子ATP,可将其结合的1个Ca?+由胞质内转运至胞外;SERCA则每分解1分子ATP可将2个Ca〉+从胞质内转运至内质网中。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 62178b04-c0a5-4d06-bd0e-34518bced6bb
+:END:
+* 在如此低浓度的游离Ca"背景下，细胞对胞质内Ca?+浓度的增加将变得非常敏感,以致经钙通道流入胞质内的Ca?+成为触发或激活许多生理过程如肌细胞收缩、腺细胞分泌、神经递质释放以及某些酶蛋白或通道蛋白的激活等的关键因素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 62178b32-1f77-42fd-8af0-197bed15459d
+:END:
+* 突触囊泡膜中的单胺类递质转运体，就是与[[囊泡]]内高浓度的H⁺交换而实现的，囊泡每排出2个H⁺,可将1个单胺类分子转入囊泡内。 [[Comments]]:这也就是 [[利血平]]的机制,同时需要记住在我的 [[潜印象]]里囊泡空无一物需要记住囊泡内竟然是高[[H⁺]]的环境
+:PROPERTIES:
+:hl-page: 49
+:ls-type: annotation
+:id: 62179293-7223-4155-93b1-80c37feed86b
+:END:
+* 在绝大多数情况下，溶质跨质膜转运的动力来自钠泵活动建立的Na+的跨膜浓度梯度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 62179297-48d8-4708-8a1a-6670b485c168
+:END:
+* 同向转运:被转运的分子或离子都向同一方向运动的继发性主动转运称为同向转运(sym-port)，其载体称为同向转运体(symporter)o例如，葡萄糖在小肠黏膜上皮的吸收以及在近端肾小管上皮的重吸收是通过钠■•葡萄糖同向转运体实现的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 621792a3-0fcd-4cfb-9d73-25b357b12088
+:END:
+* 分泌囊泡自发地与细胞膜融合而使囊泡内大分子物质不断排出细胞的过程，如小肠黏膜杯状细胞分泌黏液的过程。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 62179498-d236-4112-8b44-4a7e2c21a04c
+:END:
+* 吞噬仅发生于一些特殊的细胞,如组织中的巨噬细胞和血细胞的中性粒细胞等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 6217960d-75d3-42a2-b67e-3a561c009505
+:END:
+* 吞饮可发生于体内几乎所有的细胞，是多数大分子物质如蛋白质分子进入细胞的唯一途径。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 62179618-d19f-477f-893a-1a0a2f2f1393
+:END:
+* 其中，血浆中的低密度脂蛋白(low-densitylipopro­tein,LDL)主要在肝脏由细胞膜上的LDL受体介导入胞，被溶酶体消化后将其结合的胆固醇释放出来以供利用。如果LDL过高或LDL受体缺乏,LDL将不能被正常代谢,从而使血浆中LDL浓度升高，引起高胆固醇血症和动脉硬化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 62179772-31ff-46f0-88ae-ce58a170787b
+:END:
+* 其中，血浆中的低密度脂蛋白(low-densitylipopro­tein,LDL)主要在肝脏由细胞膜上的LDL受体介导入胞，被溶酶体消化后将其结合的胆固醇释放出来以供利用。如果LDL过高或LDL受体缺乏,LDL将不能被正常代谢,从而使血浆中LDL浓度升高，引起高胆固醇血症和动脉硬化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 62179774-ca77-476d-b0b7-8f7026d40d7a
+:END:
+* 其中，血浆中的低密度脂蛋白(low-densitylipopro­tein,LDL)主要在肝脏由细胞膜上的LDL受体介导入胞，被溶酶体消化后将其结合的胆固醇释放出来以供利用。如果LDL过高或LDL受体缺乏,LDL将不能被正常代谢,从而使血浆中LDL浓度升高，引起高胆固醇血症和动脉硬化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 62179777-bc14-4aee-a7fe-4eada6d6e594
+:END:
+* 其中，血浆中的低密度脂蛋白(low-densitylipopro­tein,LDL)主要在肝脏由细胞膜上的LDL受体介导入胞，被溶酶体消化后将其结合的胆固醇释放出来以供利用。如果LDL过高或LDL受体缺乏,LDL将不能被正常代谢,从而使血浆中LDL浓度升高
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 6217977c-8cb7-4f5e-8725-3ce69d820c8a
+:END:
+* 其中，血浆中的低密度脂蛋白(low-densitylipopro­tein,LDL)主要在肝脏由细胞膜上的LDL受体介导入胞，被溶酶体消化后将其结合的胆固醇释放出来以供利用。如果LDL过高或LDL受体缺乏,LDL将不能被正常代谢,从而使血浆中LDL浓度升高，引起高胆固醇血症和动脉硬化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 62179780-79e7-45da-b104-918d8efc7737
+:END:

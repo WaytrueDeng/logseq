@@ -1,1 +1,1 @@
-#+ALIAS: H-K泵,H⁺-K⁺泵
+#+ALIAS: H-K泵,H⁺-K⁺泵,H-泵,H⁺泵
