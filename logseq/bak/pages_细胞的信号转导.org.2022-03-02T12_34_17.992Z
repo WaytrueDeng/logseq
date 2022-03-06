@@ -1,0 +1,71 @@
+#+deck: 生理学::细胞::细胞的信号转导
+
+* 离子通道型受体介导的信号转导 #card
+:PROPERTIES:
+:id: 621b6bd0-da5d-47f5-869b-63cdefdcda01
+:collapsed: true
+:END:
+** 概念
+*** ((621b70a2-01de-4186-bbce-e77ff0a57b0d))
+** 特点
+*** ((621b7102-d2af-45e4-aef0-b9d441b70edc))
+** 常见例子
+*** 常见的非选择性阳离子通道受体有
+**** 烟碱(N)型乙酰胆碱受体: 骨骼肌N₂型受体阳离子通道
+**** 促离子谷氨酸受体
+* G蛋白耦联受体介导的信号转导
+** 概念
+*** ((621b75a2-c7cd-4333-b74b-7ea1baf43be7))
+** 特点
+*** ((621b75e3-5be3-4e3b-9f6d-d0fb3dd1580f))
+** 主要的信号蛋白和第二信使
+*** G蛋白耦联受体  #card
+:PROPERTIES:
+:id: 621b78b3-c80a-46e4-b1ed-236db393bae1
+:END:
+**** 特点
+***** ((621b7aed-e10a-41d4-aa3c-ad1f11d4017f))
+**** 激活配体
+:PROPERTIES:
+:id: 621b7976-0bd6-47f6-af77-1705dd49b10b
+:END:
+***** ((621b78f5-5718-4a03-9ad7-48bd16013123))
+*** G蛋白 #card #incremental
+:PROPERTIES:
+:id: 621b78bb-6f09-4f08-a49b-56af10f028c5
+:END:
+**** 结构
+***** {{embed ((621b7bcd-abd4-4789-98fd-d243c24def19))}}
+***** α亚单位: {{cloze 是G蛋白主要的功能亚单位,既有结合GTP或GDP的能力又有GTP酶活性}}
+:PROPERTIES:
+:id: 621b7cfa-94ae-470b-94fb-79c61a797a09
+:END:
+***** β,γ亚单位 {{cloze 常形成功能复合体发挥作用}}
+:PROPERTIES:
+:id: 621b7d99-59a1-4f1b-9ac5-6fdcaac7307e
+:END:
+**** 机制
+***** G蛋白有 {{cloze 失活}}和 {{cloze 激活}}两种构象
+:PROPERTIES:
+:id: 621b7e32-bf7e-4fda-9511-b99542777511
+:END:
+***** {{cloze GDP}}的释放和 {{cloze GTP/GTP}}的的转化是该循环的限速步骤,α亚单位的GTP酶活性是其关键
+:PROPERTIES:
+:id: 621b7e4c-e7a2-41e0-b787-6fce08743f47
+:END:
+***** 激活态G蛋白解离成 {{cloze α亚单位-GTP复合物}}和 {{cloze βγ复合体}}两部分各自激活相应的下游效应器把信号转导到细胞内部
+:PROPERTIES:
+:id: 621b7edb-011d-41c1-a3a0-3f50ce48e708
+:END:
+*****
+*** G蛋白效应器 #card #incremental
+**** 概念 ((621b8514-e1e7-47ab-bd0d-0e2389c6ccc1))
+**** 主要代表
+***** {{cloze 腺苷酸环化酶}}, {{cloze 磷脂酶C(PLC)}}, {{cloze 磷脂酶A₂(PLA₂)}}{{cloze 和磷酸二酯酶(PDE)}}
+**** 效应器酶的作用
+***** ((621b860d-7e0b-4ff6-b367-2e669ff52e3d))
+**** G蛋白的作用机制
+***** ((621b866a-f00b-4289-a2c6-7e8bfc30f828))
+*
+*
+*

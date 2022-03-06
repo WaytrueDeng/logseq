@@ -1,0 +1,107 @@
+#+deck: 生理学::细胞::细胞的信号转导
+
+* 离子通道型受体介导的信号转导 #card
+:PROPERTIES:
+:id: 621b6bd0-da5d-47f5-869b-63cdefdcda01
+:collapsed: true
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-03-06T12:48:24.329Z
+:card-last-reviewed: 2022-03-02T12:48:24.330Z
+:card-last-score: 5
+:END:
+** 概念
+*** ((621b70a2-01de-4186-bbce-e77ff0a57b0d))
+** 特点
+*** ((621b7102-d2af-45e4-aef0-b9d441b70edc))
+** 常见例子
+*** 常见的非选择性阳离子通道受体有
+**** 烟碱(N)型乙酰胆碱受体: 骨骼肌N₂型受体阳离子通道
+**** 促离子谷氨酸受体
+* G蛋白耦联受体介导的信号转导
+** 概念
+*** ((621b75a2-c7cd-4333-b74b-7ea1baf43be7))
+** 特点
+*** ((621b75e3-5be3-4e3b-9f6d-d0fb3dd1580f))
+** 主要的信号蛋白和第二信使
+*** G蛋白耦联受体  #card
+:PROPERTIES:
+:id: 621b78b3-c80a-46e4-b1ed-236db393bae1
+:END:
+**** 特点
+***** ((621b7aed-e10a-41d4-aa3c-ad1f11d4017f))
+**** 激活配体
+:PROPERTIES:
+:id: 621b7976-0bd6-47f6-af77-1705dd49b10b
+:END:
+***** ((621b78f5-5718-4a03-9ad7-48bd16013123))
+*** G蛋白 #card #incremental
+:PROPERTIES:
+:id: 621b78bb-6f09-4f08-a49b-56af10f028c5
+:END:
+**** 结构
+***** {{embed ((621b7bcd-abd4-4789-98fd-d243c24def19))}}
+***** α亚单位: {{cloze 是G蛋白主要的功能亚单位,既有结合GTP或GDP的能力又有GTP酶活性}}
+:PROPERTIES:
+:id: 621b7cfa-94ae-470b-94fb-79c61a797a09
+:END:
+***** β,γ亚单位 {{cloze 常形成功能复合体发挥作用}}
+:PROPERTIES:
+:id: 621b7d99-59a1-4f1b-9ac5-6fdcaac7307e
+:END:
+**** 机制
+***** G蛋白有 {{cloze 失活}}和 {{cloze 激活}}两种构象
+:PROPERTIES:
+:id: 621b7e32-bf7e-4fda-9511-b99542777511
+:END:
+***** {{cloze GDP}}的释放和 {{cloze GTP/GTP}}的的转化是该循环的限速步骤,α亚单位的GTP酶活性是其关键
+:PROPERTIES:
+:id: 621b7e4c-e7a2-41e0-b787-6fce08743f47
+:END:
+***** 激活态G蛋白解离成 {{cloze α亚单位-GTP复合物}}和 {{cloze βγ复合体}}两部分各自激活相应的下游效应器把信号转导到细胞内部
+:PROPERTIES:
+:id: 621b7edb-011d-41c1-a3a0-3f50ce48e708
+:END:
+*****
+*** G蛋白效应器 #card #incremental
+:PROPERTIES:
+:id: 621f6258-8b78-4d8e-8822-dee000aae1fe
+:END:
+**** 概念 ((621b8514-e1e7-47ab-bd0d-0e2389c6ccc1))
+**** 主要代表
+***** {{cloze 腺苷酸环化酶}}, {{cloze 磷脂酶C(PLC)}}, {{cloze 磷脂酶A₂(PLA₂)}}{{cloze 和磷酸二酯酶(PDE)}}
+:PROPERTIES:
+:id: 621f6258-ceaa-48c3-ac6a-d511869b74a2
+:END:
+**** 效应器酶的作用
+***** ((621b860d-7e0b-4ff6-b367-2e669ff52e3d))
+**** G蛋白的作用机制
+***** ((621b866a-f00b-4289-a2c6-7e8bfc30f828))
+*** 第二信使 #card
+**** 定义: {{embed ((6220a909-cd94-4c46-b36c-d338e707f9ca))}}
+**** 种类
+***** {{embed ((6220a9ac-ea7c-4933-bfb4-65cecb2d4e40))}}
+*** 蛋白激酶
+**** 定义: ((6220acbd-0313-4d78-a374-8606e948b7c3))
+**** 种类:
+***** {{embed ((6220ace4-87ff-4c14-9f93-ee07e4a3d95b))}}
+** 常见的信号转导通路
+*** 受体-G蛋白-AC-cAMP-PKA通路 该通路中的受体依据其所耦联的G蛋白类型不同，可发挥相互拮抗的作用
+**** 参与的G蛋白分为两种 #card
+***** Gs 激活态激活[[AC]]
+****** 代表配体: {{embed ((6220b9a5-f7f2-46cd-b255-fdb2ebcbf7e7))}}
+***** Gi 激活态抑制 [[AC]]
+****** 代表配体 {{embed ((6220ba80-bfee-4460-89f0-50e36455aa1c))}}
+**** cAMP的工作方式 #card
+***** 大多数时通过激活[[PKA]]
+***** {{embed ((6220bd28-37b5-42dd-87f7-fca67d402a7a))}}
+***** {{embed ((6220bd5c-ff52-409e-a108-e678c1dcc488))}}
+**** [[PKA]]的工作方式 #card
+***** {{embed ((6220bc7c-0145-4263-8914-cc0065d8ab95))}}
+***** {{embed ((6220beda-3459-4478-a37e-75e6ccf70461))}}
+**** 受体-G蛋白-[[PLC]]-[[IP₃]]-Ca²⁺和[[DG]]-PKC通路
+***** 此通道的受体通常与Gq与Gi家族中的部分耦联,激活PLC→分解质膜中的[[PIP₂]]为 [[IP₃]]和 [[DG]]
+***** [[IP₃]]的工作方式
+****** {{embed ((6220c569-eab5-47e2-8bd0-274ea3373f67))}}
+*

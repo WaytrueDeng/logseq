@@ -13,6 +13,12 @@
 * 发病机制 #card
 :PROPERTIES:
 :id: 62198c64-80a9-4d5c-8f3d-1c3d6a7fb83d
+:card-last-interval: -1
+:card-repeats: 0
+:card-ease-factor: 2.5
+:card-next-schedule: nil
+:card-last-reviewed: nil
+:card-last-score: nil
 :END:
 ** 氨中毒学说: 消化道→NH₃→有毒→入血→大脑→三羧酸循环→肝性脑病
 ** 假性神经递质学说: 芳香族[[AA]]
@@ -30,6 +36,12 @@
 * 辅助检查 #card
 :PROPERTIES:
 :id: 62198d82-e10c-453d-b920-2764a46711af
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-03-06T07:22:40.758Z
+:card-last-reviewed: 2022-03-02T07:22:40.758Z
+:card-last-score: 3
 :END:
 ** 早期(0期):
 *** 心理智能测试(主要)

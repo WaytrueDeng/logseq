@@ -1,5 +1,5 @@
-#+file-path: file://C:\Users\waytr\Zotero\/storage/KL9VD57X/Internal_medicine.pdf
-#+file: [[file://C:\Users\waytr\Zotero\/storage/KL9VD57X/Internal_medicine.pdf][Internal_medicine.pdf]]
+#+file-path: file:///Users/waytrue/Zotero/storage/KL9VD57X/Internal_medicine.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/KL9VD57X/Internal_medicine.pdf]] 
 #+title: hls__Internal_medicine
 
 * 是气管、支气管秸膜及其周围组
@@ -925,4 +925,686 @@
 :ls-type: annotation
 :hl-page: 108
 :id: 621b2cbf-0767-462e-975c-898c72ab9752
+:END:
+* 间质性肺疾病（interstitial lung diseases, ILDs）亦称作弥漫性实质性肺疾病（diffuse parenchymal lung disease, DPLD），是一组主要累及肺间质和肺泡腔，导致肺泡－毛细血管功能单位丧失的弥漫性肺疾病。临床主要表现为进行性加重的呼吸困难、限制性通气功能障碍伴弥散功能降低、低氧血症以及影像学上的双肺弥漫性病变，ILD可最终发展为弥漫性肺纤维化和蜂窝肺，导致呼吸衰竭而死亡。
+:PROPERTIES:
+:hl-page: 122
+:ls-type: annotation
+:id: 621c8123-6a8f-4034-a452-9e684915d9e2
+:END:
+*
+*
+* ILD病人以^^限制性通气功能障碍^^和^^气体交换障碍^^为特征，限制性通气功能障碍表现为肺容量包括肺总量（TLC），肺活量（VC）和残气量（RV）均减少，肺顺应性降低。第一秒用力呼气容积／用力肺活量^^（FEV1/FVC）正常或增加^^。气体交换障碍表现为^^一氧化碳弥散量（DLCO）^^减少，（静息时或运动时）肺泡－动脉氧分压差增加和低氧血症。
+:PROPERTIES:
+:hl-page: 124
+:ls-type: annotation
+:id: 621c8302-7f84-40ff-a56b-420f80b3859a
+:END:
+* 特发性肺纤维化（idiopathic  pulmonary fibrosis , IPF）是一种 {{cloze 慢性}}、 {{cloze 进行性}}、 {{cloze 纤维化性}}间质性肺炎，组织学和（或）胸部HRCT特征性表现为UIP，病因 {{cloze 不清}}，好发于 {{cloze 老年人}}。
+:PROPERTIES:
+:hl-page: 125
+:ls-type: annotation
+:id: 621c8551-96db-4318-9f02-0ab18ec32ebe
+:END:
+* 普通型间质性肺炎（UIP）是IPF的特征性病理改变类型。UIP的组织学特征是病变呈斑片状分布，主要累及胸膜下外周肺腺泡或小叶。低倍镜下病变呈时相不一，表现纤维化、蜂窝状改变、间质性炎症和正常肺组织并存，致密的纤维癫痕区伴散在的成纤维细胞灶。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:id: 621c873a-5739-4f33-9494-22fa18dd6b85
+:END:
+* 多于50岁以后发病，呈 {{cloze 隐匿起病}}，主要表现为活动性呼吸困难，渐进性加重，常伴干咳。全身症状不明显，可以有不适、乏力和体重减轻等，但 {{cloze 很少发热}}。75%有吸烟史。约半数病人可见 [[杵状指]] ，90%的病人可在双肺基底部闻及吸气末细小的 {{cloze Velcro啰音}}。在疾病晚期可出现明显发生绀、肺动脉高压和右心功能不全征
+:PROPERTIES:
+:hl-page: 125
+:ls-type: annotation
+:id: 621c8828-b9c1-4aab-8f16-9b3bcc9167b3
+:END:
+* 可以显示UIP的特征性改变（图2-9-3），诊断UIP的准确性大于90%，因此HRCT已成为诊断IPF的重要方法，可以替代外科肺活检。HRCT的典型UIP表现为：①^^病变呈网格改变，蜂窝改变伴或不伴牵拉支气管扩张^^；②病变以^^胸膜下、基底部分布为主^^。
+:PROPERTIES:
+:hl-page: 125
+:ls-type: annotation
+:id: 621c899d-b07f-435c-aac6-22664643e7c9
+:END:
+* 主要表现为限制性通气功能障碍、弥散量降低伴低氧血症或I型呼吸衰竭。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:id: 621c89d4-460a-469b-9425-77356d37a738
+:END:
+* BALF细胞分析多表现为中性粒细胞和（或）嗜酸性粒细胞增加。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:id: 621c89f4-797b-464a-9231-5a39fc48143b
+:END:
+* ①明显纤维化／结构变形伴或不伴蜂窝肺，胸膜下、间质分布；②斑片肺实质纤维化；③成纤维细胞灶。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 621c92d4-6c29-4704-a701-32a60e5172f3
+:END:
+* IPF诊断遵循如下标准①ILD，但排除了其他原因（如环境、药物和结缔组织疾病等）；②HRCT表现为UIP型；或③联合HRCT和外科肺活检病理表现诊断UIP。2. IPF急性加重（acuteexacerbation of IPF) IPF病人出现新的弥漫性肺泡损伤导致急性或显著的呼吸困难恶化即为AE-IPF。诊断标准：①过去或现在诊断IPF；②1个月内发生显著的呼吸困难加重；③CT表现为UIP背景下出现新的双侧磨玻璃影伴或不伴实变影；④不能完全由心衰或液体过载解释。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 621c9eb0-4906-420a-8bd6-12983e2e80dc
+:END:
+* IPF不可能治愈，治疗目的是延缓疾病进展，改善生活质量，延长生存期
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 621c9f0e-7404-4f2a-9557-f957cab56fb4
+:END:
+* 循证医学证据证明吡非尼酮（pirfenidone）和尼达尼布（nintedanib）治疗可以减慢IPF肺功能下降，为IPF病人带来希望。吡非尼酮是一种多效性的吡啶化合物，具有抗炎、抗纤维化和抗氧化特性。
+:PROPERTIES:
+:hl-page: 126
+:ls-type: annotation
+:id: 621c9f37-4043-440f-8dc9-e88a99c92f47
+:END:
+*
+*
+* 尼达尼布是一种多靶点酪氨酸激酶抑制剂，能够抑制血小板衍化生长因子受体（PDGFR）、血管内皮生长因子受体（VEGFR）以及成纤维细胞生长因子受体（FGFR）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 621c9f91-b21e-45b3-817a-7f23d74e4cc6
+:END:
+* N－乙酰半胱氨酸作为一种祛痰药，高剂量( 1800mg/d）时具有抗氧化，进而抗纤维化作用，部分IPF病人可能有用。
+:PROPERTIES:
+:hl-page: 126
+:ls-type: annotation
+:id: 621ca261-88a2-4458-b0c0-3679b3a990bf
+:END:
+* 结节病（sarcoidosis）是一种原因不明的多系统累及的肉芽肿性疾病，主要侵犯肺和淋巴系统，其次是眼部和皮肤。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 128
+:id: 621ec667-72e9-4540-9036-0e732c5a2ad7
+:END:
+* 结节病以受累脏器，尤其是肺脏的非干酪样坏死性肉芽肿为病理特点，病变组织聚集大量激活的ThI型CD4⁺T细胞和巨噬细胞是其特征性免疫异常表现。
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 621ec8bc-440a-42e7-929f-916325cc8f8a
+:END:
+* 结节病的特征性病理改变是非干酪样上皮样细胞性肉芽肿，主要由高分化的单核－吞噬细胞（上皮样细胞和巨细胞）与淋巴细胞组成。巨细胞可以有包涵体如舒曼小体（Schauman bodies）和星状小体（asteroid bodies）。
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 621ec9ba-cae1-4135-8312-c1ac0cf54115
+:END:
+* 肉芽肿的中心主要是CD4⁺淋巴细胞，而外周主要是CD8⁺淋巴细胞。
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 621ecac7-959e-4332-87da-234c7133adbf
+:END:
+* 90%以上的结节病累及肺脏。临床表现隐匿，30%～50%有咳嗽、胸痛或呼吸困难，20%有气道高反应性或伴喘鸣音。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 621ecc00-5f5f-4c43-8efb-20575f62f9e4
+:END:
+* 淋巴结：30%～40%能触及淋巴结肿大，不融合，可活动，无触痛，不形成溃疡和窦道，以颈、腋窝、股骨内上髁、腹股沟淋巴结最常受累。
+:PROPERTIES:
+:hl-page: 129
+:ls-type: annotation
+:id: 621ecc33-9e84-4dc9-8beb-914a34347fea
+:END:
+* 皮肤：25%累及皮肤，表现皮肤结节性红斑（多位于下肢伸侧，6～8周内消散）、冻疮样狼疮（lupuspemio）和皮下结节等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 621ecc39-504d-499d-a7e3-31d3fcd96593
+:END:
+* 眼：11%～83%累及眼部，以葡萄膜炎最常见。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 621ecc3d-5c15-4b92-802f-3fb8affe8921
+:END:
+* HRCT的典型表现为沿着支气管血管束分布的微小结节，可融合成球。其他异常有磨玻璃样变、索条带影、蜂窝肺、牵拉性支气管扩张及血管或支气管的扭曲或变形。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 621ecdcf-d272-4db2-9201-ce3af5174204
+:END:
+* BALF检查主要显示淋巴细胞增加，CD4/CD8的比值增加（> 3. 5）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 130
+:id: 621ecedf-8248-4d62-b27b-5ade5a3d9875
+:END:
+* 淋巴结针吸（transbronchial needle aspiration, TB-NA）和支气管内超声引导（endobronchial ultra-sonography , EBUS）活检得到诊断，这些检查的诊断率较高，风险低，成为目前肺结节病的重要确诊手段。一般不需要纵隔镜或外科肺活检。（四）血液检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 130
+:id: 621ecef6-1d18-47a5-bb51-cdf10198a1e6
+:END:
+* 结节病出现明显的肺内或肺外症状，尤其累及心脏、神经系统等，需要使用全身糖皮质激素治疗。常用泼尼松0.5mg/(kg ·的，连续4周，随病情好转逐渐减量至维持量，通常为5-10mg，^^疗程6 ～24个月^^
+:PROPERTIES:
+:hl-page: 130
+:ls-type: annotation
+:id: 621ed1cd-a755-4ed5-8f25-07306aabe60c
+:END:
+* 过敏性肺炎（HP）也称外源性过敏性肺泡炎（extrinsicallergic alveoli tis, EAA），是指易感个体反复吸人有机粉尘抗原后诱发的一种主要通过细胞免疫和体液免疫反应介导的肺部炎症反应性疾病。以淋巴细胞渗出为主的慢性间质性肺炎，细胞性细支气管炎（气道中心炎症）和散在分布的非干酷样坏死性肉芽肿为特征性病理改变。农民肺是HP的典型形式，是农民吸人霉干草中的嗜热放线菌或热吸水链霉菌子包子所致。吸人含动物蛋白的羽毛和排泄物尘埃引起饲鸟者肺（如鸽子肺、鹦鹉肺），
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 131
+:id: 621ed34a-b31a-4090-a399-41b634b51cec
+:END:
+* 根据明确的抗原接触史，典型的症状发作特点，胸部HRCT具有细支气管中心结节，斑片磨玻璃影间或伴实变，气体陷闭形成的马赛克征象等特征性表现，BALF检查显示明显增加的淋巴细胞，可以作出明确的诊断。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 131
+:id: 621ed3b5-55c7-4810-9539-8fa53a3c6a47
+:END:
+* 根本的治疗措施是脱离或避免抗原接触。急性重症伴有明显的肺部渗出和低氧血症，激素治疗有助于影像学和肺功能明显改善
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 131
+:id: 621ed3ff-2132-485a-b269-beb149f6416c
+:END:
+* BAL回收液特征性地表现为奶白色，稠厚且不透明，静置后沉淀分层，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 132
+:id: 621eda51-63f4-4a9b-976c-5a86f9108722
+:END:
+* 以肺泡腔内积聚大量的表面活性物质为特征
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 132
+:id: 621eda6b-bad8-4533-b44e-deb2d2eb2d5a
+:END:
+* 主要是由于体内存在的抗粒细胞－巨噬细胞集落剌激因子（GM-CSF）自身抗体导致肺泡巨噬细胞对表面活性物质的清除障碍所致
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 132
+:id: 621edaa3-dea7-45fe-9d24-bdd11b033bad
+:END:
+* 肺栓塞（pulmonary embolism）是以各种栓子阻塞肺动脉或其分支为其发病原因的一组疾病或临床综合征的总称，包括肺血栓栓塞症（pulmonary thromboembolism, PTE）、脂肪栓塞综合征、羊水栓塞、空气栓塞等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:id: 621edfa6-2d19-4b9e-b29b-edcd84b3b8c4
+:END:
+* DVT和PTE具有共同的危险因素，即VTE的危险因素，包括任何可以导致静脉血液淤滞、静脉系统内皮损伤和血液高凝状态的因素，即[[Virchow三要素]]。
+:PROPERTIES:
+:hl-page: 133
+:ls-type: annotation
+:id: 621ee011-2d96-483b-9e3e-e4c94c99f175
+:END:
+* 引起PTE的栓子可以来源于下腔静脉径路、上腔静脉径路或右心腔，其中大部分来源于下肢深静脉，特别是从腘静脉上端到髂静脉段的下肢近端深静脉（约占50%～90%）。
+:PROPERTIES:
+:hl-page: 134
+:ls-type: annotation
+:id: 621ee0c4-5a2a-4cfa-a9c4-9f89a0ab9716
+:END:
+* 栓子阻塞肺动脉及其分支达一定程度（30%～50%）后，通过机械阻塞作用，加之神经体液因素和低氧所引起的肺动脉收缩，导致肺血管阻力（PVR）增加，肺动脉压力升高；右心室后负荷增加，右心室壁张力增高，右心室扩大，可引起右，心功能不全；右心扩大致室间隔左移，使左心室功能受损，导致心输出量下降，进而可引起体循环低血压甚至休克；主动脉内低血压和右心室压力升高，使冠状动脉灌注压下降，心肌血流减少，特别是右心室内膜下心肌处于低灌注状态，加之PTE时心肌耗氧增加，可致心肌缺血，诱发心绞痛。右心室心肌耗氧量增加和右心室冠状动脉灌注压下降相互作用，导致右心室缺血和功能障碍，并且可能产生恶性循环最终导致死亡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 621ee32c-824f-4153-ad2d-73146022ee1d
+:END:
+* 栓塞部位肺血流减少，肺泡无效腔量增大；肺内血流重新分布，通气／血流比例失调；右心房压力升高可引起未闭合的卵圆孔开放，产生心内右向左分流；神经体液因素引起支气管痊孪；栓塞部位肺泡表面活性物质分泌减少；毛细血管通透性增高，间质和肺泡内液体增多或出血；肺泡萎陷，呼吸面积减小；肺顺应性下降，肺体积缩小并可出现肺不张；累及胸膜，可出现胸腔积液。以上因素导致呼吸功能不全，出现低氧血症和代偿性过度通气（低碳酸血症）或相对性肺泡低通气。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 621ee333-b1e3-4015-bbb9-a3fc49faacf8
+:END:
+* 常见症状有：①不明原因的呼吸困难及气促，尤以活动后明显，为PTE最多见的症状；②胸痛，包括胸膜炎性胸痛或心绞痛样疼痛；③晕厥，可为町E的唯一或首发症状；④烦躁不安、惊恐甚至濒死感；⑤咯血，常为小量咯血，大咯血少见；⑥咳嗽、心悸等。各病例可出现以上症状的不同组合。临床上有时出现所谓“三联征”，即同时出现呼吸困难、胸痛及咯血，但仅见于约20%的病人。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 621efbdd-9c13-474e-94f1-14d1999cbf16
+:END:
+* 1.呼吸系统体征以呼吸急促最常见。另有发钳，肺部哮呜音和（或）细？显眼音，或胸腔积液的相应体征。2.循环系统体征包括心动过速，血压变化，严重时可出现血压下降甚至休克，颈静脉充盈或搏动，肺动脉瓣区第二音亢进（P2>A2）或分裂，三尖瓣区收缩期杂音。3.真他可伴发热，多为低热，少数病人可有中度（38°C）以上的发热。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 621efbe7-6a08-4aa3-9a79-dfb1804a8860
+:END:
+* :PROPERTIES:
+:hl-page: 135
+:ls-type: annotation
+:id: 621f02a6-efad-4df7-8d36-06fb38368b06
+:END:
+- 主要表现为患肢肿胀、周径增粗、疼痛或压痛、皮肤色素沉着，行走后患肢易疲劳或肿胀加重。
+- 但需注意，半数以上的下肢[[DVT]]病人无自觉症状和明显体征。
+* 对血栓形成具有很高的敏感性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 621f0390-ef9b-4a6a-a83c-289a1969e65e
+:END:
+* 但因特异性差
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 621f0393-60b8-4a3f-a10e-ce16acecc693
+:END:
+* 常表现为低氧血症、[[低碳酸血症]]，肺泡－动脉血氧分压差增大，部分病人的血气结果可以正常
+:PROPERTIES:
+:hl-page: 135
+:ls-type: annotation
+:id: 621f048d-ddff-4d95-951d-5dbb3a2adbc3
+:END:
+* 是阿E的一线确诊手段，能够准确发现段以上肺动脉内的血栓。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f075e-9116-489a-b62b-b9de5b61ca3e
+:END:
+* :PROPERTIES:
+:hl-page: 136
+:ls-type: annotation
+:id: 621f0762-f6f1-48ce-bfe8-03da255222fa
+:END:
+- ①直接征象：肺动脉内的低密度充盈缺损，部分或完全包围在不透光的血流之间（轨道征），或者呈完全充盈缺损，远端血管不显影；
+- ②间接征象：肺野楔形密度增高影，条带状高密度区或盘状肺不张，中心肺动脉扩张及远端血管分支减少或消失
+* 是PTE的重要诊断方法。典型征象是呈肺段分布的肺血流灌注缺损，并与通气显像不匹配。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f08b8-f513-484f-81b0-0d7d024b4263
+:END:
+* 是町、E诊断的“金标准”。其敏感性约为989毛，特异性为95%～98%。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f0955-931c-497b-851d-17709e494d84
+:END:
+* 接征象有肺动脉内造影剂充盈缺损，伴或不伴轨道征的血流阻断；间接征象有肺动脉造影剂流动缓慢，局部低灌注，静脉回流延迟或消失等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f097a-495c-4afc-a5e3-f236eab77d44
+:END:
+* 均应进行下肢深静脉加压超声等检查，以明确是否存在DVT及栓子的来源。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f0ae0-ef77-4218-a492-b8787f92b77e
+:END:
+* 同时要注意病人有无易栓倾向，尤其是对于年龄小于40岁，复发性凹E或有VTE家族史的病人，应考虑易栓症的可能一性，应进行相关原发性危险因素的检查。对不明原因的阳病人，应对隐源性肿瘤进行筛查。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:id: 621f0afe-9498-46ec-aa4a-dae18b0248f3
+:END:
+* 为[[PTE]]和[[DVT]]的基本治疗方法，可以有效地防止血栓再形成和复发，为机体发挥自身的纤溶机制溶解血栓创造条件。抗凝药物主要有普通[[肝素]]（unfractionated heparin, UFH）、[[低分子量肝素]]（low­molecular-weight heparins, UFH)、[[磺达肝癸纳]]（fondaparinux sodium）、[[华法林]]（warlarin）以及新型的[[直接口服抗凝药物]]等, <span style="color:red">抗血小板药物的抗凝作用不能满足PTE或DVT的抗凝要求</span>
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 621f0d8b-4dcc-4dbb-be02-2829041139d8
+:END:
+* 临床疑诊盯E时，如元禁忌证，即应开始抗凝治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f0d8f-b321-4ff7-b73b-ad32770860a8
+:END:
+* 应注意是否存在抗凝的禁忌证，如活动性出血、凝血功能障碍、未予控制的严重高血压等。对于确诊的PTE病例，大部分禁忌证属相对禁忌证
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f0f00-104f-4e83-a9a8-d4f5136f6fe3
+:END:
+* 是一种小分子的合成戊糖，通过与抗凝血酶特异结合，介导对Xa因子的抑制作用，无[[HIT]]作用，可用于VTE的初始治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f0f92-98fa-4b13-80f1-a4e9d42f5ad4
+:END:
+* 是维生素K拮抗剂，通过抑制维生素K依赖的凝血因子Ⅱ、Ⅶ、Ⅸ、Ⅹ的合成发挥抗凝作用。
+:PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 621f0fbb-1fa9-4755-b82f-da25a8fd73f1
+:END:
+* 由于华法林需要数天才能发挥全部作用，因此与肝素类药物需至少重叠应用5天
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f0fd2-79d7-497b-a3d7-190358063be3
+:END:
+* 这是一类新型的抗凝药物，直接作用于凝血因子，抗凝活性不依赖其他辅助因子（如抗凝血酶）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f1051-f36e-486b-9893-368895a9bce3
+:END:
+* :PROPERTIES:
+:hl-page: 138
+:ls-type: annotation
+:id: 621f1130-d36a-4c81-9f82-19b039eda76a
+:END:
+- 抗凝治疗的持续时间因人而异。一般口服华法林的疗程至少为3个月。部分病例的危险因素短期可以消除，例如服雌激素或临时制动，疗程3个月即可；
+- 对于栓子来源不明的首发病例，需至少给予6个月的抗凝；
+- 对复发性VTE或危险因素长期存在者，抗凝治疗的时间应更为延长，达12个月或以上，甚至终身抗凝。抗凝治疗的主要并发症是出血，临床应用中需要注意监测。
+* 主要适用于高危PTE病例（有明显呼吸困难、胸痛、低氧血症等）。对于部分中危PTE，若无禁忌町脚栓盯E的溶阳证阳确盯于血压阳叫功能均正叫危病例不宜
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 621f157a-d4b6-4256-bc6a-1b05751b57c8
+:END:
+* 溶栓。溶栓的时间窗一般定为14天以内，但若近期有新发PTE征象可适当延长。溶栓应尽可能在PTE确诊的前提下慎重进行。对有明确溶栓指征的病例宜尽早开始溶栓
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 139
+:id: 621f157e-3ba4-462e-9e33-e50a71f233bc
+:END:
+* 常用的潜栓药物有尿激酶（UK）、链激酶（SK）和重组组织型纤溶酶原激活剂（时－PA）。溶栓方案与剂量：
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 139
+:id: 621f1756-2f75-4d64-8483-394c7f41da57
+:END:
+* 动脉性肺动脉高压、肺部疾病或低氧所致肺动脉高压、CTEPH及未明多因素机制所致肺动脉高压都属于毛细血管前性肺动脉高压，血流动力学特征为mPAP注25mmHg，肺毛细血管模压（pulmonarγ capillary wedge pressure , PCWP）或左心室舒张末压<15mmHg。左心疾病所致肺动脉高压属于毛细血管后性肺动脉高压，血流动力学特征为mPAP二兰25m时r高压的严重程度应根据症状、6分钟步行距离、脑$内肤前体水平、心脏彩超、血流动力学等进行综合分析，可根据静息、状态下mPAP7.J<.平分为“轻，，（26～35mmHg）、“中”（36～45rnr世Ig）、“重”（>45rnr吐fg）三度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 141
+:id: 621f298c-9e3a-4af8-9b2a-8fa8b48367a0
+:END:
+* 肺源性心脏病（cor pulmonale）简称肺心病，是指由支气管·肺组织、胸廓或肺血管病变致肺血管阻力增加，产生肺动脉高压，继而右心室结构或（和）功能改变的疾病。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 144
+:id: 621f31e0-58f8-4552-97d7-615d5fef8784
+:END:
+* 以慢阻肺最为多见，约占80%～90%
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f3216-13d4-472d-8479-584311d5c318
+:END:
+* 较少见，严重胸廓或脊椎畸形以及神经肌肉疾病均可引起胸廓活动受限、肺受压、支气管扭曲或变形，导致肺功能受损。气道引流不畅，肺部反复感染，并发肺气肿或纤维化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f3236-9647-4c30-ad16-5e8cb8d8aa4e
+:END:
+* 肺血管收缩在低氧性肺动脉高压的发生中起着关键作用。缺氧、高碳酸血症和呼吸性酸中毒使肺血管收缩、瘟孪，其中缺氧是肺动脉高压形成最重要的因素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f3265-5618-4529-a19d-576ee6e30b8d
+:END:
+* 缺氧时收缩血管的活性物质增多，如白三烯、5－起色胶（5-HT）、血管紧张素E、血小板活化因子(PAF）等使肺血管收缩，血管阻力增加。内皮源性舒张因子（EDRF）和内皮源性收缩因子（EDCF）的平衡失调，在缺氧性肺血管收缩中也起一定作用。缺氧使平滑肌细胞膜对Ca2•的通透性增加，细胞内Ca2•含量增高，肌肉兴奋”收缩偶联效应增强，直接使肺血管平滑肌收缩。高碳酸血症时，由于H•产生过多，使血管对缺氧的收缩敏感性增强，致肺动脉压增高。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f3270-f98a-46f7-9846-86d1c70869de
+:END:
+* 管壁增厚、管腔狭窄或纤维化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f4a3f-548a-446f-98f9-82f415a7f0d0
+:END:
+* 慢性缺氧产生继发性红细胞增多，血液黏稠度增加。
+:PROPERTIES:
+:hl-page: 145
+:ls-type: annotation
+:id: 621f52d3-09fd-4f12-a924-e00026e3115b
+:END:
+[[缺氧]]可使 [[醒固酮]] 增加，导致水、钠滞留；
+缺氧又使肾小动脉收缩，肾血流减少也加重水、钠潴留，血容量增多。血液黏
+稠度增加和血容量增多，可导致肺动脉压升高。
+* 肺循环阻力增加导致肺动脉高压，右心发挥其代偿功能，以克服升高的肺动脉阻力而发生右心室肥厚。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 145
+:id: 621f53e5-a81b-4cc4-95e4-fb5f2b875bc8
+:END:
+* 可有不同程度的发钳，原发肺脏疾病体征，如肺气肿体征，干、湿性啰音，P2＞A2，三尖瓣区可出现收缩期杂音或剑突下心脏搏动增强，提示有右心室肥厚。部分病人因肺气肿使胸内压升高，阻碍腔静脉回流，可有颈静脉充盈甚至怒张，或使横膈下降致肝界下移
+:PROPERTIES:
+:hl-page: 146
+:ls-type: annotation
+:id: 621f5546-58a8-4fec-89b6-85198b936a35
+:END:
+* 发钳明显，颈静脉怒张，心率增快，可出现心律失常，剑突下可闻及收缩期杂音，甚至出现舒张期杂音。肝大且有压痛，肝颈静脉回流征阳性，下肢水肿，重者可有腹腔积液。少数病人可出现肺水肿及全心衰竭的体征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 146
+:id: 621f55a0-12dd-450f-9f90-df1b0f4a9377
+:END:
+* 心电图对慢性肺心病的诊断阳性率为60. 1%~88. 2%。慢性肺心病的心电图诊断标准如下：①额面平均电轴~＋90。；②V1R/S~l；③重度顺钟向转位（V5 R/S运1);(Rv1 +Svs ~ 1. 05mV; (aVR R/S或R/Q~l；⑥V1-V3呈QS,Qr或qr（酷似心肌梗死，应注意鉴别）；⑦肺型P波。具有一条即可诊断。典型慢性肺心病的心电图表现见图2-11-3。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 146
+:id: 621f55b1-e068-43d5-aa57-4f7a6db48d60
+:END:
+* 可出现低氧血症甚至呼吸衰竭或合并高碳酸血症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 146
+:id: 621f563a-87b8-4264-9a7f-6eb0c4b314ba
+:END:
+* 呼吸系统感染是引起慢性肺心病急性加重致肺、心功能失代偿的常见原因，需积极控制感染，抗生素选用参阅本篇第三章和第六章。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 147
+:id: 621f5650-eac2-4159-897d-5132e1a70b22
+:END:
+* 慢性肺心病病人一般在积极控制感染、改善呼吸功能、纠正缺氧和二氧化碳漏留后，心力衰竭便能得到改善，病人尿量增多，水肿消退，^^不需常规使用利尿药和正性肌力药^^。但对经上述治疗无效或严重心力衰竭病人，可适当选用利尿药、正性肌力药或扩血管药物。
+:PROPERTIES:
+:hl-page: 147
+:ls-type: annotation
+:id: 621f5656-ace9-4713-b21e-85c6ae93a4ed
+:END:
+* 肺性脑病：是由于呼吸衰竭所致缺氧、二氧化碳漏留而引起的神经精神障碍综合征，常继发于慢阻肺
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 148
+:id: 621f568f-69f9-4295-94fa-08e2614d776c
+:END:
+* 酸碱失衡及电解质紊乱：
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 148
+:id: 621f5693-7135-4d5c-b0d6-3e30e7cd8d8c
+:END:
+* 脉横径与气管横径比值~1.07，或动态观察右下肺动脉干增宽＞2mm；②肺动脉段明显突出或其高度~3mm；③中心肺动脉扩张和外周分支纤细，形成“残根”征；④圆锥部显著凸出（右前斜位45°）或其高度~7mm；⑤右心室增大。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 143
+:id: 6220705c-cc94-4203-b399-ec72b9649013
+:END:
+* 胸部X线检查提示肺动脉高压的X线征象：①右下肺动脉干扩张其横径≥15mm（D对）或右下肺动脉横径与气管横径比值≥l.07（E对）,或动态观察右下肺动脉于增宽 >2mm;②肺动脉段明显突出或其高度≥3mm（C错，为本题正确答案）;③中心肺动脉扩张和外周分支纤细，形成“残根”征；④圆锥部显著凸出（右前斜位 45°) 或其高度≥7mm;⑤右心室增大 （B对）
+:PROPERTIES:
+:hl-page: 142
+:ls-type: annotation
+:id: 62207061-6767-4ce8-8a5c-bcd63471d973
+:END:
+[[口诀]]: 肺心病诊断数据：3 15 1.07 7 三 一五 要点零钱 去
+* ：慢性肺心病病人由于慢性缺氧及感染，对洋地黄类药物的耐受性低，易致中毒，出现心律失常。因此是否应用应持慎重态度，指征有：
+:PROPERTIES:
+:hl-page: 148
+:ls-type: annotation
+:id: 62207576-24a0-4cff-9bf3-b08fe4b05878
+:END:
+- ①感染己控制，呼吸功能已改善，利尿治疗后右心功能无改善者；
+- ②以右心衰竭为主要表现而无明显感染的病人；
+- ③合并室上性快速心律失常，如室上性心动过速、心房颤动（心室率＞100次／分）者；
+- ④合并急性左心衰竭的病人。原则上选用作用快、排泄快的洋地黄类药物，小剂量（常规剂量的1/2或2/3）静脉给药，常用毒毛花昔K0. 125～0.25吨，或毛花昔丙0.2～ 0.4mg加人10%葡萄糖液内缓慢静脉注射
+* 通过抑制肾脏钠、水重吸收而增加尿量，消除水肿，减少血容量，减轻右心前负荷的作用。但是利尿药应用后易出现 [[低钾低氯性碱中毒]] ，痰液黏稠不易排痰和血液浓缩，应注意预防。因此，原则上宜选用作用温和的利尿药，联合保钾利尿药，小剂量、短疗程使用
+:PROPERTIES:
+:hl-page: 147
+:ls-type: annotation
+:id: 622076cb-1943-406a-a40b-e0199adee82f
+:END:
+* 壁层胸膜血供来自体循环，含有感觉神经和淋巴管；而脏层胸膜主要由肺循环供血，不含感觉神经。 [[Comments]]:意思就是脏层有两套血供
+:PROPERTIES:
+:hl-page: 149
+:ls-type: annotation
+:id: 6220804b-4fca-4d21-a73c-a934c8e76bd7
+:END:
+* 体循环的压力高于肺循环，由于压力梯度，液体从壁层和脏层胸膜的体循环血管进入间质，部分在间质内重吸收（图2-12-1虚线箭头），剩余的通过有渗漏性的胸膜间皮细胞层滤出到胸膜腔，然后通过壁层胸膜问皮细胞下的淋巴管微孔（stomas）经淋巴管回吸收（图2-12-1）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 149
+:id: 62208147-a075-43ab-82a3-5f475fe34cfa
+:END:
+* 胸腔积液滤过在胸腔的上部大于下部，吸收则主要在横膈和胸腔下部的纵隔胸膜。
+:PROPERTIES:
+:hl-page: 149
+:ls-type: annotation
+:id: 622081eb-4ec0-46f8-84c0-62c821e9e879
+:END:
+* 如低蛋白血症、肝硬化、肾病综合征、急性肾小球肾炎、黠液性水肿等，产生漏出液。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 6220831d-9eac-468a-b698-932f63931d71
+:END:
+* 胸廓顺应性下降，患侧踊肌受压，纵隔移位，肺容量下降刺激神经反射有关。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 62208401-c165-435f-b092-0a7a0f3366d9
+:END:
+* 如充血性心力衰竭、缩窄性心包炎、血容量增加、上腔静脉或奇
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 149
+:id: 622084b7-8bbe-4484-9bb1-3d2e515821bf
+:END:
+* 静脉受阻，产生漏出液
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622084bb-446e-4775-88d4-354ffc9b7e9d
+:END:
+* 如胸膜炎症（肺结核、肺炎）、风湿性疾病［（系统性红斑狼疮（SLE）、类风湿关节炎（RA）］、胸膜肿瘤（恶性肿瘤转移、间皮瘤）、肺梗死、脯下炎症（踊下版肿、肝服肿、急性膜腺炎）等，产生渗出液。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622084bf-bb41-4930-8daf-1253aa623b4e
+:END:
+* 呼吸困难是最常见的症状，多伴有胸痛和咳嗽。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622084d8-1b2a-40e8-b001-48b9be37f573
+:END:
+* 与积液量有关。少量积液可元明显体征，或可触及胸膜摩擦感及闻及胸膜摩擦音。中至大量积液时，患侧胸廓饱满，触觉语颤减弱，局部叩诊浊音，呼吸音减低或消失。可伴有气管、纵隔向健侧移位。肺外疾病如膜腺炎和RA等，胸腔积液时多有原发病的体征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622084e3-0011-45a2-80c8-b0be9aa8fc6b
+:END:
+* 对明确积液性质及病因诊断均至关重要，大多数积液的原因通过胸腔积液分析可确定。疑为渗出液必须作胸腔穿刺，如有漏出液病因则避免胸腔穿刺。不能确定时也应做胸腔穿刺抽液检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622084ea-9529-4bfb-a2a0-14a4dc1d8d1d
+:END:
+* 渗出液的白细胞常超过500×106/L。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 62208627-b836-4158-92c6-b17a0790b0ff
+:END:
+* 胸腔积液红细胞比容〉外周血红细胞比容50%以上时为血胸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 62208641-5574-40b2-ae59-9704f6e99b94
+:END:
+* 正常胸腔积液pH接近7.6。pH降低见于 [[脓胸]] 、食管破裂、[[RA]]积液等；如pH<7.00者仅见于脓胸以及食管破裂所致胸腔积液。结核性和恶性积液也可降低。
+:PROPERTIES:
+:hl-page: 151
+:ls-type: annotation
+:id: 62208654-f384-4b61-84d9-53be6f262bce
+:END:
+* 渗出液的蛋白含量较高（>30g/L），胸腔积液／血清比值＞0.5。漏出液蛋白含量较低( <30g/L），以自蛋白为主，黠蛋白试验（Rivalta试验）阴性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 622087a5-12c3-49ca-a993-74b78ea8b6ff
+:END:
+* 渗出液乳酸脱氢酶（LDH）含量增高，大于200U/L，且胸腔积液／血清LDH比值＞0.6。LDH是反映胸膜炎症程度的指标，其值越高，表明炎症越明显。LDH>500U/L常提示为恶性肿瘤或并发细菌感染
+:PROPERTIES:
+:hl-page: 151
+:ls-type: annotation
+:id: 622087af-141d-4bea-a0b7-d6dacad1effc
+:END:
+* 癌胚抗原（CEA）在恶性胸腔积液中早期即可升高，且比血清更显著。若胸腔积液CEA升高或胸腔积液／血清CEA>l，常提示为恶性胸腔积液。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 6220881b-eff8-4be5-8c45-f1b4e6189765
+:END:
+* 线胸片是用于发现胸腔积液的首要影像学方法，其表现与积液量和是否有包裹或柑连有关。极小量的游离’性胸腔积液，后前位胸片仅见肋踊角变钝；积液量增多时显示有向外侧、向上的弧形'Ciι 上缘的积液影（图2-12-3）。平卧时积液散开，使整个肺野透亮度降低。注意少量积液时平卧位时
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 6220884b-e98e-4607-9285-7532459971ab
+:END:
+* 胸片可正常或仅见叶．间胸膜增厚
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 62208852-a7b1-423b-8e4f-d140c3952a70
+:END:
+* 或PET/CT检查可显示少量的胸腔积液、肺内病变、胸膜间皮瘤、胸内和胸膜转移性肿瘤、纵隔和气管旁淋巴结等病变，有助于病因诊断。CT或PET/CT诊断胸腔积液的准确性，在于国2斗2-3渗出性胸膜炎能正确鉴别支气管肺癌的胸膜侵犯或广泛转移，良性或恶性胸膜增厚，对恶性胸腔积液的病因诊断、肺癌分期与选择治疗方案至关重要
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 62208863-a962-45e5-a6dc-9a51e57cf173
+:END:
+* 探测胸腔积液的灵敏度高，定位准确。临床用于估计胸腔积液的深度和积液量，协助胸腔穿刺定位。B超引导下胸腔穿刺用于包裹性和少量的胸腔积液。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 6220887a-ee73-43f4-a4c6-6bdd77dadb46
+:END:
+* 胸腔镜检查对恶性胸腔积液的病因诊断率最高，可达70%～100%，为拟订治疗方案提供依据。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 62208896-ef90-4b92-8f75-b850988aebfd
+:END:
+* 两者划分标准多根据比重（以1.018为界）、蛋白质含量（以30g/L为界）、白细胞数（以500×106/L为界），小于以上界限为漏出液，反之为渗出液，但其诊断的敏感性和特异性较差。目前多根据Light标准，符合以下任何1项可诊断为渗出液：①胸腔积液／血清蛋白比例＞0.5；②胸腔积液／血清LDH比例＞0.6；③胸腔积液山H水平大于血清正常值高限的2/3。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 622088c7-dfa0-43fb-a21e-69565afe28b9
+:END:
+* 结核性胸膜炎是我国渗出液最常见的病因，多见于青壮年，胸痛、气短，常伴有干咳、潮热、盗汗、消瘦等结核中毒症状，胸腔积液以淋巴细胞为主，间皮细胞＜5%，蛋白质多大于40g/L,ADA及γ－干扰素增高，沉渣找结核杆菌或培养可阳性，但阳性率仅约20%。胸膜活检阳性率达60%～80%,PPD皮试强阳性。^^老年病人可无发热^^，结核菌素试验亦常阴性，应予注意。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 622088ca-ae3a-40e9-a92d-4f646c8958d7
+:END:
+* 类肺炎性胸腔积液（parapneumonic effusions）系指肺炎、肺服肿和支气管扩张感染引起的胸腔积液，如积液呈服性则称版胸。病人多有发热、咳嗽、咳痰、胸痛等症状，血白细胞计数升高，中性粒细胞增加和核左移。X线先有肺实质的浸润影，或肺服肿和支气管扩张的表现，然后出现胸腔积液，积液量一般不多。胸腔积液呈草黄色甚或服性，白细胞计数明显升高，以中性粒细胞为主，葡萄糖和pH降低，诊断不难
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 62208949-d0ff-4111-9309-648e8bd50c73
+:END:
+* 性胸腔积液由恶性肿瘤侵犯胸膜引起，常由肺癌、乳腺癌和淋巴瘤等直接侵犯或转移至胸膜所致，其他部位肿瘤包括胃肠道和泌尿生殖系统。也可由原发于胸膜的恶性间皮瘤引起。以45岁以上中老年人多见，有胸部钝痛、咳血丝痰和消瘦等症状，胸腔积液多呈血性、量大、增长迅速，CEA或其他肿瘤标志物升高，LDH多大于500U/L，胸腔积液脱落细胞检查、胸膜活检、胸部影像学、支气管镜及胸腔镜等检查，有助于进一步诊断和鉴别。疑为其他器官肿瘤需进行相应检查。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 62208965-fb0e-42cb-93bb-79aaab7b4ec5
+:END:
+* 首次抽液不要超过700时，以后每次抽液量不应超过lOOOml，过快、过多抽液可使胸腔压力骤降，发生复张后肺水肿或循环衰竭。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 622089b9-8f51-4647-9251-983da59d18da
+:END:
+* 疗效不肯定。如全身毒性症状严重、大量胸腔积液者，在抗结核治疗的同时，可尝试加用泼尼松30mg/d，分3次口服。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 622089c6-6689-4692-9f5d-c6a7f2faa236
+:END:
+* 一般情况下，抽胸腔积液后，没必要胸腔内注入抗结核药物，但可注人链激酶等防止胸膜粘连。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 622089db-5293-45f0-b9f9-a22f01a297b6
 :END:
