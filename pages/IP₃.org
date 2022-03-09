@@ -1,1 +1,1 @@
-#+ALIAS: IP3
+#+ALIAS: IP3,三磷酸肌醇

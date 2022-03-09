@@ -2147,10 +2147,10 @@
 :hl-page: 52
 :id: 621b7102-d2af-45e4-aef0-b9d441b70edc
 :END:
-* 常见的非选择性阳离子通道受体有烟碱（N）型乙酰胆碱（ACh）受体（nAChR）、促离子型谷氨酸受体（iGluR）等,如骨骼肌终板膜中的N2型ACh受体阳离子通道，由运动神经末梢释放的ACh激活，产生Na，内流为主的离
+* 常见的非选择性阳离子通道受体有烟碱（N）型[[乙酰胆碱]]（ACh）受体（nAChR）、促离子型谷氨酸受体（iGluR）等,如骨骼肌终板膜中的N2型ACh受体阳离子通道，由运动神经末梢释放的ACh激活，产生Na⁺内流为主的离子跨膜移动最终引起肌细胞兴奋。而氯通道受体有甘氨酸受体（GlyR）、γ-氨基丁酸A受体（GABAᴀR）
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 52
+:ls-type: annotation
 :id: 621b71ed-78cd-431c-a81e-20d31e6f6c1d
 :END:
 * 子跨膜移动，导致膜电位变化，最终引起肌细胞的兴奋。而氯通道受体有甘氨酸受体(GlyR)、寸氨基丁酸A受体(GABA.5)等
@@ -2183,10 +2183,10 @@
 :hl-page: 53
 :id: 621b78d9-e79f-4499-9d40-ac6d6c7364fa
 :END:
-* 激活这类受体的配体也种类繁多，如儿茶酚胺、5-羟色胺、乙酰胆碱、氨基酸类神经递质以及几乎所有的多肽和蛋白质类神经递质和(或)激素(钠尿肽家族除外)，还有光子、嗅质和味质等。
+* 激活这类受体的配体也种类繁多，如^^[[儿茶酚胺]]^^、5-羟色胺、[[乙酰胆碱]]、[[氨基酸类神经递质]]以及几乎所有的多肽和蛋白质类神经递质和(或)激素(钠尿肽家族除外)，还有光子、嗅质和味质等。
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 53
+:ls-type: annotation
 :id: 621b78f5-5718-4a03-9ad7-48bd16013123
 :END:
 * 这类受体在结构上均由形成7个跨膜区段的单条多肽链构成(故又称7次跨膜受体)，
@@ -2195,7 +2195,7 @@
 :hl-page: 53
 :id: 621b7aed-e10a-41d4-aa3c-ad1f11d4017f
 :END:
-* 蛋白存在于细胞膜的内侧面，通常指由α,β,γ)三个亚单位构成的异三聚体G蛋白。
+* 蛋白存在于细胞膜的内侧面，通常指由α,β,γ三个亚单位构成的异三聚体G蛋白。
 :PROPERTIES:
 :hl-page: 53
 :ls-type: annotation
@@ -2321,10 +2321,10 @@
 :hl-page: 55
 :id: 6220bd5c-ff52-409e-a108-e678c1dcc488
 :END:
-* PKA在肝细胞激活磷酸化酶激酶而促进肝糖原分解，在心肌细胞使[[钙通道]]磷酸化而增强心肌收缩，在脑内海马的锥体神经元抑制Ca²⁺激活的钾通道而产生去极化,在细胞核内则可通过cAMP反应元件结合蛋白(cAMPresponseelement-bindingprotein,CREB)、cAMP反应元件调节子(cAMPresponseelementmodulator,CREM)和活化转录因子-1(activatingtran­scriptionfactor-1,ATF1)等介导和调节靶基因的表达，生成新的蛋白质，进而改变细胞的功能。
+* PKA在肝细胞激活[[磷酸化酶激酶]]而促进肝糖原分解，在心肌细胞使[[钙通道]]磷酸化而增强心肌收缩，在脑内海马的锥体神经元抑制Ca²⁺激活的钾通道而产生去极化,在细胞核内则可通过cAMP反应元件结合蛋白(cAMPresponseelement-bindingprotein,CREB)、cAMP反应元件调节子(cAMPresponseelementmodulator,CREM)和活化转录因子-1(activatingtran­scriptionfactor-1,ATF1)等介导和调节靶基因的表达，生成新的蛋白质，进而改变细胞的功能。
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 55
+:ls-type: annotation
 :id: 6220beda-3459-4478-a37e-75e6ccf70461
 :END:
 * Gq或G家族中的Gu＜订和Ga亚型耦联而激活PLC
@@ -2333,9 +2333,76 @@
 :hl-page: 55
 :id: 6220c232-1522-49f1-98d7-29c8f0fb93a4
 :END:
-* 其中[[IP3]]是小分子水溶性物质，即扩散入细胞质后激活内质网或肌质网等非线粒体Ca²⁺库膜中的IP3受体(IP3receptor,IP3R)，后者作为化学门控的钙释放通道(calciumreleasechannel)引起胞内Ca：+库释放Ca。升高胞质中Ca?,浓度，进而启动Ca^信号系统。
+* 其中[[IP3]]是小分子水溶性物质，即扩散入细胞质后激活内质网或肌质网等非线粒体Ca²⁺库膜中的[[IP3受体]](IP3receptor,IP3R)，后者作为化学门控的钙释放通道(calciumreleasechannel)引起胞内Ca：+库释放Ca。升高胞质中Ca²⁺浓度，进而启动Ca²⁺信号系统。
+:PROPERTIES:
+:hl-page: 55
+:ls-type: annotation
+:id: 6220c569-eab5-47e2-8bd0-274ea3373f67
+:END:
+* 另一信使分子DG属于脂溶性物质，生成后与Ca²⁺和膜中的磷脂酰丝氨酸一起，在膜的内侧面结合并特异地激活胞质中的[[PKC]],PKC再进一步磷酸化下游功能蛋白而改变生理功能
+:PROPERTIES:
+:hl-page: 55
+:ls-type: annotation
+:id: 62274c68-fe64-45ee-aca5-deb882cdfd6e
+:END:
+* 这类受体的结构特征是每个受体分子只有单跨膜区段
 :PROPERTIES:
 :ls-type: annotation
+:hl-page: 56
+:id: 62275224-3248-450b-8689-32307c084bff
+:END:
+* 由于胞质受体与配体结合后，一般也要转入核内发挥作用,通常把细胞内的受体统称为核受体(nuclearreceptor)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:id: 62275778-dffb-450b-8012-60b019fc26e1
+:END:
+* 如类固醇激素等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:id: 6227578b-8afe-49a0-a40b-0576f3483c05
+:END:
+* 激活这类受体的配体主要是各种[[生长因子]]，包括表皮生长因子、血小板源生长因子、成纤维细胞生长因子、肝细胞生长因子和[[胰岛素]]等。
+:PROPERTIES:
+:hl-page: 56
+:ls-type: annotation
+:id: 622757f4-bb75-4cf3-86eb-657ba14b81b9
+:END:
+* 这一通路的关键信使分子是IP3和DG,因而该通路也称为以IP3和DG第二信使系统，属于非核苷酸类的Ca²⁺动员-肌醇脂质代谢通路。经由该通路进行信号转导的受体(如[[5-HT₂受体]],^^[[α₁-肾上腺素能受体]]^^等)通常与Gq或Gi家族中的Gi1,Gi2订和Gi3亚型耦联而激活PLC,
+:PROPERTIES:
 :hl-page: 55
-:id: 6220c569-eab5-47e2-8bd0-274ea3373f67
+:ls-type: annotation
+:id: 62275810-85ae-454a-8731-8fda695b4937
+:END:
+* 核受体实质上是激素调控特定蛋白质转录的一大类转录调节因子，其中I型核受体即类固醇激素受体，如在胞质中的糖皮质激素受体、盐皮质激素受体,在胞质、胞核中均有的性激素受体，以及在胞核中的维生素D3受体等；II型核受体有存在于胞核中的^^[[甲状腺激素受体]]^^；Ⅲ型核受体有维甲酸受体等。
+:PROPERTIES:
+:hl-page: 57
+:ls-type: annotation
+:id: 62275821-85bd-499b-a0fa-798926010574
+:END:
+*
+* [[PLC]]再分解膜脂质中PIP2为IP3和DG
+:PROPERTIES:
+:hl-page: 55
+:ls-type: annotation
+:id: 622891c6-0bd5-402a-bfae-02655ad375da
+:END:
+* ACTH与肾上腺皮质细胞膜受体结合后，通过AC-cAMP-PKA或PLC-IP3/DG-PKC通路促进胆固醇转化为孕烯醇酮，继而增加皮质醇的合成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 421
+:id: 6228939d-2d25-42dc-a1a5-50c6ada2f86c
+:END:
+* 激活该受体的配体主要是[[心房钠尿肽]](atrialnatriureticpeptide,ANP)和[[脑钠尿肽]](brainnatriureticpeptide,BNP)。
+:PROPERTIES:
+:hl-page: 57
+:ls-type: annotation
+:id: 622895d2-6dd0-413c-9876-863bc9253865
+:END:
+* “锌指”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:id: 6228abe6-a2fc-43ad-9b84-21e1bfdb5d42
 :END:

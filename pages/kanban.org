@@ -2,7 +2,7 @@
 :PROPERTIES:
 :id: 61e42151-c0e7-4eaf-acb5-87dc7b864430
 :END:
-** data
+**
 :PROPERTIES:
 :collapsed: true
 :END:
