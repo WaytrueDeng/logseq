@@ -193,4 +193,5 @@
  ;; :mobile/photo
  ;; {:allow-editing? true}
  :editor/extra-codemirror-options {:keyMap "emacs" :lineWrapping false}
+ :default-home {:page "DASHBOARD"}
  }

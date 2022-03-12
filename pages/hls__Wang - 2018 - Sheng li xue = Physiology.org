@@ -2406,3 +2406,712 @@
 :hl-page: 57
 :id: 6228abe6-a2fc-43ad-9b84-21e1bfdb5d42
 :END:
+* 机体所有的细胞都具有静息电位，而动作电位则仅见于神经细胞、肌细胞和部分腺细胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:id: 6229dd2a-a75b-4b83-9b40-e98fb31eb159
+:END:
+* 细胞生物电是由一些带电离子(如Na\K\Cl\Ca2+等)跨膜流动而产生的，表现为一定的跨膜电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:id: 6229dd40-cad6-4124-9d6d-81451583863d
+:END:
+* 这种静息状态下存在于细胞膜两侧的内负外正的电位差，称为静息电位(restingpotential,RP)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6229e094-2cba-4ce9-ab0d-eab085dc44fc
+:END:
+*
+* 如在骨骼肌细胞约为-90mV,神经细胞约-70mV,平滑肌细胞约-55mV
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6229e0bf-686d-4166-bf29-e6d98e3248a8
+:END:
+* 生理学中,通常将安静时细胞膜两侧处于外正内负的稳定状态称为极化(polarization)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6229e0cb-2ba2-4901-a515-1b36defc2083
+:END:
+* ，而离子跨膜转运的速率取决于该离子在膜两侧的浓度差和膜对它的通透性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 6229e1f9-854e-4171-9e1b-89cde110a746
+:END:
+* K⁺将在浓度差的驱动下从细胞内向细胞外扩散，同时膜内带负电荷的^^有机离子^^因细胞膜对它们几乎不通透而聚积在膜的内表面,从而将外流的K⁺限制于膜的外表面
+:PROPERTIES:
+:hl-page: 59
+:ls-type: annotation
+:id: 6229e287-cd48-4aaa-b645-b5a6131aae13
+:END:
+* 当电位差驱动力增加到与浓度差驱动力相等时，电-化学驱动力即为零，此时该离子的净扩散量为零,膜两侧的电位差便稳定下来(图2-14)。这种离子净扩散为零时的跨膜电位差称为该离子的[[平衡电位]](equilibriumpotential)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6229e3ce-dc1a-4e26-b963-5aaa0b17184e
+:END:
+* 般来说,哺乳动物多数细胞的Ek为-90〜-100mV,ENa为+50~+70mV。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 6229e58b-e90b-4ae8-bb40-66477c3a65be
+:END:
+* 膜对某种离子的通透性愈高，该离子的扩散对静息电位形成的作用就愈大，静息电位也就愈接近于该离子的平衡电位。在安静状态下，细胞膜对各种离子的通透性以K⁺为最高，因为细胞膜中存在持续开放的非门控钾通道。例如，神经细胞膜中有钾漏通道（图2-15）,这种通道在安静时对K⁺的通透性约为对Na⁺通透性的50-100倍。因此，静息电位更接近于K⁺平衡电位。
+:PROPERTIES:
+:hl-page: 61
+:ls-type: annotation
+:id: 6229e5d7-d5b8-4d57-b7da-e133345d7f6c
+:END:
+*
+* 实际上，只需极少量（不足百万分之一！）的K⁺外流即可使膜电位接近K⁺的平衡电位,达到静息电位水平 [[Comments]]:所以其实外流K⁺并不影响浓度差之比,而且只需少量Na⁺内流即可逆转膜的极化状态
+:PROPERTIES:
+:hl-page: 61
+:ls-type: annotation
+:id: 6229e636-aaef-463c-a6d2-4891689e5c94
+:END:
+* 细胞膜对K*和Na*的通透性之比愈大，静息电位的负值就越大。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6229e77a-3cda-41f3-a329-97c68381e62b
+:END:
+* 相当于把一个净正电荷移出膜外（见图2-15）,结果使膜内电位的负值增大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 61
+:id: 6229e8df-2beb-426d-944f-df8f6de3491c
+:END:
+* 锋电位是动作电位的主要部分，被视为动作电位的标志
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6229ea2f-41e3-46b9-a616-378050835faa
+:END:
+((ecdf0c83-08d5-4ca0-813f-623983daa374))
+* 如果沿用电生理学发展早期使用细胞外记录的方法对后电位命名，后去极化电位可称为负后电位(negativeafter-potential),后超极化电位可称为正后电位(positiveafter-potential)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6229ea56-f841-4898-be8c-a546ec88d2a3
+:END:
+* 不同细胞的动作电位具有不同的形态
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6229ea5e-ff6e-44d7-86af-32976de345c7
+:END:
+* ①“全或无”现象:要使细胞产生动作电位,所给的刺激必须达到一定的强度。若刺激未达到一定强度,动作电位就不会产生(无)；当刺激达到一定的强度时，所产生的动作电位，其幅度便到达该细胞动作电位的最大值，不会随刺激强度的继续增强而增大(全)，这就是动作电位的“全或无”(all or none)现象。
+:PROPERTIES:
+:hl-page: 62
+:ls-type: annotation
+:id: 6229eadd-bf52-4b37-b99e-ae54e6c524a7
+:END:
+②不衰减传播:动作电位产生后，并不停留在受刺激处的局部细胞膜,而是沿膜迅速向四周传播，直至传遍整个细胞,而且其幅度和波形在传播过程中始终保持不变。
+③脉冲式发放:连续刺激所产生的多个动作电位总有一定间隔而不会融合起来，呈现一个个分离的脉冲式发放。
+* 当细胞（以神经细胞为例）处于静息状态（图2-17A）时，根据静息膜电位（Em=-70mV）、Na+平衡电位（ENa=+60mV）和K?平衡电位（EK=-90mV）的数值，可求得Na*的电-化学驱动力为-130mV
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 6229ec43-650f-406a-a456-84952fadde84
+:END:
+* 这种离子受到的电-化学驱动力等于零。因此，离子的电-化学驱动力可用膜电位与离子平衡电位的差值（Em-Ex）表示，差值愈大，离子受到的电-化学驱动力就愈大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 6229ec47-e242-4ec5-8766-fb45999a74b3
+:END:
+* 根据平衡电位的定义，当膜电位(EQ等于某种离子的平衡电
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6229ec4d-c9ac-4873-a38b-d75335ee2b2a
+:END:
+* 在动作电位期间,E_{Na}和E_{K}基本不变,因为每次进出细胞的离子仅占总量的几万分之一
+:PROPERTIES:
+:hl-page: 63
+:ls-type: annotation
+:id: 6229ecec-8449-4792-ac14-8e39ab91559c
+:END:
+((167ebbbd-74c7-407d-a902-8c0911d97d7b))
+* 根据以上分析，细胞在安静时Na*已受到很强的内向驱动力，如果此时膜对Na*的通透性增大，将出现很强的内向电流（正离子由膜外向膜内转运时形成的电流），从而引起膜的快速去极化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 6229eda5-4f61-489d-bd90-affef672e26f
+:END:
+* 去极化增强引起Gn,增大,G*增大引起的内流又促进了膜去极化,从而使Gn,出现正反馈性激活（图2-19B
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 6229ef16-7434-4232-9a0c-33142b3f3f03
+:END:
+* 细胞受到有效刺激时，细胞膜的G*将首先增大一Na*在较大的电-化学驱动力推动下流入胞内，使膜发生去极化一膜去极化达到一定程度（即阈电位，见后文）后，去极化与Gn,之间出现正反馈，膜电位急剧上升，形成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:id: 6229ef7b-104f-4ad2-825b-c7e2458cfa4d
+:END:
+* 此外，复极化过程中G_{Na}的失活是主要因素，因为膜上的钾漏通道（见前）本身就可以介导K⁺的外流,Gk增大只是进一步加快复极速度
+:PROPERTIES:
+:hl-page: 65
+:ls-type: annotation
+:id: 6229efac-f708-4f0b-a8dc-794ec855ef23
+:END:
+* ,人们推测神经细胞膜中的电压门控钠通道存在有串联排列的两个闸门（靠近细胞外侧的激活门和靠近细胞内侧的失活门），各自具有不
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 6229f21b-52e3-4b4e-bb77-e4a7490eb070
+:END:
+* 同的动力学特征，由此决定了通道的三种功能状态（图2-21B）:①静息态（restingstate）,是膜电位保持在静息电位水平（如-70mV左右）时通道尚未开放的状态。这时，钠通道的激活门（m门）完全关闭,失活门（h门）虽然接近于完全开放，但通道仍不能导通。②激活态（activatedstate）,是膜在迅速去极化（如从-70mV改变为+20mV）时电压门控钠通道立即开放的状态。这时，受去极化的影响，钠通道的激活门迅速打开,失活门则逐渐关闭。由于两个闸门的运动速度有明显差异，当激活门迅速开放而失活门尚未关闭时通道出现瞬间导通，膜对Na*的通透性可增加500-5000倍，使Na*电流迅速增大。③失活态（inactivatedstate）,是通道在激活态之后对去极化刺激不再反应的状态，这时通道的失活门时间依赖性完全关闭，尽管去极化电压仍继续存在、激活门开放，但通道仍不能导通。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 6229f22e-a3f0-4096-a3b7-a9809af4010b
+:END:
+* ，人们推测神经细胞膜中的电压门控钾通道没有失活门，而只有一个激活门（n门），通道可有两种功能状态，即安静时激活门关闭的“静息态”和去极化时激活门开放、K+外流的“激活态”（图2-21C）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 6229f235-da30-4634-b46d-d569733b3f3b
+:END:
+* 能使细胞产生动作电位的最小刺激强度，称为阈强度(thresholdintensity)或阈值(threshold)。相当于阈强度的刺激称为阈刺激
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 6229f251-2af1-440a-a49e-3f661e3789d1
+:END:
+* 只有当某些刺激引起膜内正电荷增加，即负电位减小(去极化)并快速减小到一个临界值时,细胞膜的钠电导才能正反馈激活而形成动作电位，这个能触发动作电位的膜电位临界值称为阈电位(thresholdpotential,TP)(
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 6229f25f-3353-4b85-afa4-a3ec056761ad
+:END:
+* 当刺激引起的去极化达到阈电位水平时，则K，外流不足以对抗Na*内流,于是在净内向电流的作用下，膜发生的去极化与Na*电导之间形成正反馈
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 6229f26f-47df-467a-ab55-d8a60206ac24
+:END:
+* 胞膜某一部分产生的动作电位可沿细胞膜不衰减地传遍整个细胞,这一过程也称为传导（conduction）0动作电位传导的原理可用局部电流学说解释
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f2af-1cf3-449c-8ccd-95fec72444e4
+:END:
+* ，即产生去极化，当此处的去极化达到阈电位时即可触发该区爆发动作电位，使它成为新的兴奋区（图2-22A下），而原来的兴奋区则进入复极化状态
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f2c9-39be-4e1a-ad70-c60c88604b65
+:END:
+* 。此外，由于兴奋区和邻旁安静区之间的电位差高达100mV（即动作电位的幅值），是邻旁安静区去极化到阈电位所需幅值（10~20mV）的数倍，故局部电流的刺激强度远大于细胞兴奋所需的阈值,因而动作电位在生理情况下的传导是十分“安全”的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f2e0-ef08-478e-a7d8-3b447bb3d129
+:END:
+* 在郎飞结处，轴突膜中的钠通道非常密集（可达104~105个），且轴突膜是裸露的，故跨膜电流较大，膜电位的波动容易达到阈电位。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f30d-ae9f-4f02-aa70-3c185403f182
+:END:
+* 局部电流也仅在兴奋区的郎飞结与相邻安静区的郎飞结之间发生（图2-22B上）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f31e-adc5-43d4-9419-743e81f22b4c
+:END:
+* 首先,有髓纤维的传导速度比无髓纤维快得多
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f32f-78df-4404-90fc-2132d7fa9186
+:END:
+* 轴突直径，因而在枪乌贼出现了直径达1mm的巨轴突
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 6229f334-823e-4231-a987-006039298e05
+:END:
+* 其次，神经纤维髓鞘化不仅能提高动作电位的传导速度,还能减少能量消耗。因为动作电位只发生在郎飞结，因而传导过程中跨膜流入和流出的离子将大大减少,它们经主动转运返回时所消耗的能量也显著减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 6229f359-0560-41c0-aa5f-3543821e65c2
+:END:
+* 缝隙连接的生理意义在于使某些功能一致的同类细胞快速发生同步化活动，如心肌细胞的同步收缩有利于射血，子宫平滑肌的同步收缩有利于胎儿分娩，呼吸中枢神经元同步兴奋有利于呼吸活动进行等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 6229f48e-0e28-4e39-9bf7-6962698a452b
+:END:
+* 因此，生理学中常将神经细胞、肌细胞和腺细胞这些能够产生动作电位的细胞称为[[可兴奋细胞]](excitablecell)
+:PROPERTIES:
+:hl-page: 69
+:ls-type: annotation
+:id: 6229f4f8-d0d2-47ac-bd44-d8ce9320bc95
+:END:
+* 所以，把产生动作电位的能力视为兴奋性、用动作电位本身作为兴奋的定义是相对狭义的，但同时对实验研究也是较方便的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 6229f53b-e0cc-47bf-a890-f5da8e4a6a75
+:END:
+* 兴奋性又可定义为细胞接受刺激后产生动作电位的能力，而动作电位的产生过程或动作电位本身又可称为兴奋
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 6229f55f-d369-4dc4-ad57-c017c0148384
+:END:
+* 所谓可兴奋细胞，是因为它们对电刺激较敏感,能以动作电位作为其兴奋的标志
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 6229f56a-d756-4602-a486-004e9f251604
+:END:
+* ）绝对不应期:在兴奋发生后的最初一段时间内，无论施加多强的刺激也不能使细胞再次兴奋,这段时间称为绝对不应期（absoluterefractoryperiod）°细胞于此期的阈值无限大，兴奋性为零，其原因是:兴奋发生的当时大部分钠（或钙）通道已处于激活状态，不存在再激活的问题;兴奋后最初的一段时间大部分钠（或钙）通道已进入失活状态，不可能再次接受刺激而激活
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 6229f5d5-b8e5-4d7c-a8c9-2259e7ba5c05
+:END:
+* 同时，锋电位产生的最高频率也受限于绝对不应期的长短。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 6229f5e5-bce8-4e32-ab1d-b8b7bba7887d
+:END:
+* 绝对不应期之后，细胞的兴奋性逐渐恢复，再次接受刺激后可发生兴奋,但刺激强度必须大于原来的阈值，这一时期称为相对不应期（relativerefractoryperiod）0相对不应期是细胞兴奋性从零逐渐恢复到接近正常的时期。此期兴奋性较低的原因是失活的电压门控钠（或钙）通道虽已开始复活，但复活的通道数量较少（部分尚处于复活过程中），因此必须给予阈上刺激才能引发动作电位。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 6229f5fd-53ad-48b2-a496-802d9189beae
+:END:
+* 电紧张电位有以下特征:①等级性电位，电紧张电位的幅度可随刺激强度的增大而增大;②衰减性传导，电紧张电位的幅度随传播距离的增加呈指数函数下降;③电位可融合，由于电紧张电位无不应期，故多个电紧张电位可融合在一起，当去极化电紧张电位的幅度达到一定程度时，可引起膜中少量电压门控钠（或钙）通道开放形成局部电流
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 6229f79e-4441-46a2-abac-d06766134e20
+:END:
+* 体 内的局部兴奋包括骨骼肌终板膜上的终板电位（见本章第四节）、突触后膜上的兴奋性突触后电位（见第十章）和感觉神经末梢上的发生器电位（见第九章）等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:id: 6229f7d5-88fa-457a-be3a-43d47e50e412
+:END:
+* 局部电位具有电紧张电位的电学特征:①等级性电位，即其幅度与刺激强度相关，而不具有“全或无”特点;②衰减性传导，局部电位以电紧张的方式向周围扩布，扩布范围一般不超过1mm半径;③没有不应期，反应可以叠加总和，其中相距较近的多个局部反应同时产生的叠加称为空间总和（spatialsummation）,多个局部反应先后产生的叠加称为时间总和（temporalsummation）o较大的局部兴奋或小的局部兴奋经总和后可使细胞膜去极化达到阈电位，从而引发动作电位（图2-26B中电压变化曲线5）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:id: 6229f836-e545-43e9-b1d7-e877642482ba
+:END:
+* 静息电位略小于K*平衡电位的原因是，安静时细胞膜对Na*也有一定的通透性（为K⁺通透性的1/100〜1/50），少量进入细胞的Na⁺可部分抵消由K+外流所形成的膜内负电位
+:PROPERTIES:
+:hl-page: 61
+:ls-type: annotation
+:id: 6229fb53-88b1-4bf4-9c8d-a3cd554d6ece
+:END:
+* 膜两侧溶液中的离子还有Cl⁻和Ca²⁺和有机负离子等,但它们对静息电位的形成均无明显作用。
+:PROPERTIES:
+:hl-page: 61
+:ls-type: annotation
+:id: 6229fb94-7f1c-4d55-a8b4-a4840d0fc460
+:END:
+* （1）钠电导和钾电导的变化:如图2-18A所示，当枪乌贼大神经纤维的膜电位从-70mV突然钳制到-130mV（60mV超极化）时没有记录到膜电流的变化，^^表明超极化没有改变膜的通透性^^
+:PROPERTIES:
+:hl-page: 63
+:ls-type: annotation
+:id: 622b0212-05a9-4205-8918-4496685f41ce
+:END:
+* ①细胞外液K⁺浓度:在安静情况下，细胞膜对K⁺的通透性相对较大，改变细胞外K⁺浓度即可影响K⁺平衡电位和静息电位。当细胞外K⁺浓度升高时,K⁺平衡电位减小，静息电位也相应减小。临床上出现的高血钾可以强烈抑制心脏的兴奋和收缩功能，其原因就与高血钾引起静息电位减小，膜发生去极化进而使电压门控钠通道失活(见后文)有关。②膜对K⁺和Na⁺的相对通透性:如果膜对K⁺的通透性增大，静息电位将增大(更趋向于EQ;反之，膜对Na⁺的通透性增大，则静息电位减小(更趋向于En.)。③钠泵活动水平:钠泵活动增强时，其生电效应增强,膜发生一定程度的超极化;相反钠泵活动受抑制时，则可使静息电位减小。
+:PROPERTIES:
+:hl-page: 62
+:ls-type: annotation
+:id: 622b30e3-27d3-4523-99aa-8f2938a55fd9
+:END:
+* 根据结构和收缩特性的不同，人体的肌组织可分为骨骼肌、心肌和平滑肌三类，其中骨骼肌和心肌在光学显微镜下显现明暗交替的横纹，故统称为横纹肌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b4628-7f13-47f4-81ba-66cac62a49e4
+:END:
+* 在接头后膜外表面还分布有[[乙酰胆碱酯酶]](acetylcholinesterase)，它能将ACh分解为胆碱和乙酸。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b4634-dc29-44e9-8215-afa31a9902b5
+:END:
+* 接头后膜是与接头前膜相对的骨骼肌细胞膜,也称为终板膜(end-platemembrane)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b463c-c36b-4aeb-a175-4dbd4f76e28c
+:END:
+* 释放ACh至接头间隙(化学信号)，再由ACh激活终板膜中N2型ACh受体阳离子通道而产生膜电位变化(电信号)。吨型ACh受体阳离子通道直径约0.65nm,可允许Na\K+和Ca2+跨膜移动，但主要是Na*内流和K+外流
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b49ce-df66-4f13-8604-5a96119bd3b7
+:END:
+* EPP属于局部电位，可以电紧张方式向周围扩布,刺激邻近的普通肌膜(非终板膜)中的电压门控钠通道开放，引起Na，内流和普通肌膜的去极化;当去极化达到阈电位水平时即可爆发动作电位(图2-28A)，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b49da-b85f-4d1e-84ea-dd1ebad1bb3a
+:END:
+* 首先，接头前膜的ACh释放具有Ca?+依赖性。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b49ed-abca-4e19-b56e-214f23c7c1fa
+:END:
+* 接头前膜产生的动作电位通过激活前膜中的电压门控钙通道，导致Ca眼内流而触发囊泡的出胞，故细胞外Ca?+浓度的改变可以明显影响兴奋的传递。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 622b49f3-bed0-4610-bb23-eb0711709b6f
+:END:
+* 在静息状态下，因囊泡的随机运动也会发生单个囊泡的自发释放,并引起终板膜电位的微弱去极化，称作微终板电位（miniatureend-platepotential,MEPP）（图2-28B），其频率平均约1次/秒。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 622b4a4a-2b82-48a3-9764-abe4ac0a8b17
+:END:
+* 如冯德培首次在猫的神经-肌接头部位发现的强直刺激后EPP可持续增大数分钟的现象，被称为[[强直后增强]]（post-tetanicpotentiation,PTP）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 622b4d2d-0ee8-4d16-abfc-ee77101641e7
+:END:
+* 相邻两Z线之间的区段称为肌节(sarcomere),是肌肉收缩和舒张的基本单位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b4f46-0813-4db9-a335-d72641a76f1b
+:END:
+* ，新斯的明可抑制乙酰胆碱酯酶而改善肌无力患者的症状;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b4f4d-c2aa-449d-8207-7fc8c96d65fb
+:END:
+* 纵管也称L管(Ltubule)，是与肌原纤维走行方向平行的膜性管道，即肌质网(sarcoplasmicreticulum,SR)，其中在肌原纤维周围包绕、交织成网的称为纵行肌质网(longitudinalSR,LSR)，其膜上有钙泵，可逆浓度梯度将胞质中Ca?+转运至SR内
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b4f5c-8674-4eb6-a4af-333a3287a289
+:END:
+* 横管又称T管(Ttubule),是与肌原纤维走行方向垂直的膜性管道，由横纹肌细胞膜内陷并向深部延伸而成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b50e7-57e3-47b6-9214-61cc01daa086
+:END:
+* JSR内的Ca?+浓度约比胞质中高近万倍。JSR膜中嵌有钙释放通道(calciumreleasechannel)或称雷诺丁受体(ryanodinereceptor, RYR)，其分布与T管膜或肌膜上的L型钙通道(L-typecalciumchannel)相对应。在骨骼肌,T管与其两侧的终池形成三联管(triad)结构;在心肌,T管与单侧的终池相接触形成二联管(diad)结构，都是兴奋•■收缩耦联的关键部位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b5c9d-3e35-4b94-a97d-517483c1283a
+:END:
+* 横纹肌的收缩机制一般用肌丝滑行理论(myofilamentslidingtheory)来解释
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b5cb3-e27e-498c-827b-eb410c63da86
+:END:
+* 横桥具有ATP酶活性，并能与肌动蛋白结合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:id: 622b5cd1-ee94-4ea9-a63d-5bd239ec184d
+:END:
+* ,在胞质中Ca²⁺浓度升高时,Ca²⁺与TnC结合而导致肌钙蛋白发生构象变化，进而引起Tnl与肌动蛋白的结合减弱、原肌球蛋白分子向肌动蛋白双螺旋沟槽的深部移动，暴露出肌动蛋白上的横桥结合位点，引发横桥与之结合，产生肌丝滑行而收缩。
+:PROPERTIES:
+:hl-page: 77
+:ls-type: annotation
+:id: 622b5ce0-ecc4-4b66-ae7c-0fb1f623d927
+:END:
+* ①T管膜的动作电位传导:肌膜上的动作电位沿T管膜传至肌细胞内部，并激活T管膜和肌膜中的L型钙通道。②JSR内Ca2+的释放:肌膜的去极化,在骨骼肌可通过构象变化触发钙释放机制（图2-32A），在心肌则通过钙诱导钙释放（calcium-inducedcalciumrelease,CICR）机制（图2-32B），使JSR内的Ca?+顺浓度差释放到胞质中，胞质内的Ca?+浓度由静息时的0.1呻ol/L水平迅速升高百倍以上。③Ca：+触发肌丝滑行:胞质内Ca?+浓度的升高促使Ca?+与TnC结合而触发肌肉收缩。④JSR回摄Ca2+:在骨骼肌,胞质内增加的Ca?+几乎全部经激活LSR膜中的钙泵而被回摄进SR中,而心肌胞质内的Ca2+大部分经LSR膜中的钙泵活动被回收，尚有10%〜20%的Ca‘+则由肌膜中的Na+-Ca2+交换体和钙泵排至胞外。胞质中Ca眼浓度降低则导致肌肉舒张，可见肌肉舒张的过程亦耗能。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 622b5d03-3b43-4e22-83b7-fed31bdc7d5f
+:END:
+* 暗带宽度不变，只有明带和H带相应变窄
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622b639e-a8b8-4eca-8adf-e0bbd8a3ebcc
+:END:
+* 单个肌球蛋白分子呈豆芽状
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 622c2742-fc70-42eb-a375-7caf774bdf50
+:END:
+* 形成横桥（cross-bridge）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:id: 622c27db-4197-4063-b43c-e4b29b0566b9
+:END:
+* 原肌球蛋白分子呈长杆状，由两条肽链缠绕成双螺旋结构,其长度相当于肌动蛋白中连续7个单体的总长度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:id: 622c28a0-5f8e-4526-b923-9e5fbe96681b
+:END:
+* 若肌肉在保持长度不变的条件下进行收缩，由于横桥头部与杆状部之间的桥臂具有弹性，横桥的扭动可使桥臂被拉长，借其弹性回缩而产生张力（肌丝不滑行）。若产生的张力能克服阻力而发生肌丝滑行，则表现肌肉缩短（肌丝滑行）。肌肉收缩所能产生的张力由每一瞬间与肌动蛋白结合的横桥数决定，而肌肉缩短的速度则取决于横桥周期的长短。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 622c2f29-40f0-4fac-995f-e1b813aa1543
+:END:
+* 。根据肌肉收缩的这些外在表现，可将收缩分为等长收缩（isometriccontraction）和等张收缩（isotoniccontraction）两种形式,前者表现为肌肉收缩时长度保持不变而只有张力的增加;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 622c3086-038d-4d75-a9dd-6a90beb1237b
+:END:
+* 者表现为肌肉收缩时张力保持不变而只发生肌肉缩短
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 622c308a-7f4b-4d4c-a0f5-6ae2e1c030c4
+:END:
+* 影响横纹肌收缩效能的因素包括负荷、肌肉收缩能力及收缩的总和等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 622c309c-04d1-4458-9e7b-62b002589090
+:END:
+* 。通常可将前负荷与初长度看成同义词，在肌肉收缩实验中常用初长度来表示前负荷。例如，在等长收缩实验中，可测定不同初长度条件下肌肉主动收缩产生的张力(即主动张力)，对应作图即得到长度-张力关系曲线(length-tensionrelationshipcurve)(图2-33A)0从图中可见,在一定范围内肌肉收缩张力(即主动张力)随初长度的增加而增大,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 622c311e-c08d-4620-9145-66e87c994bd0
+:END:
+* 后负荷在理论上为零时肌肉缩短速度最大，称为最大缩短速度（么相），表现为等张收缩;随着后负荷的增大,表现为先等长收缩后等张收缩;当后负荷增加到使肌肉不能缩短时，肌肉产生的张力达到最大，称为最大收缩张力（P。），表现为等长收缩。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622c3181-71c4-4a8b-85c2-9d5d4034c058
+:END:
+* 调节肌肉收缩能力，这在心肌要比在骨骼肌具有更重要的生理意义
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622c3325-2416-4d93-81f6-17bf430f605f
+:END:
+* 收缩的总和（summation）是指肌细胞收缩的叠加特性，是骨骼肌快速调节其收缩效能的主要方式,其中空间总和形式称为多纤维总和，时间总和形式称为频率总和。不过,心脏的收缩为全或无式的，不会发生心肌收缩的总和（见第四章）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622c337e-55ff-4faf-9069-742976972ecb
+:END:
+* 但在整体情况下，骨骼肌都以一个运动神经元及其轴突分支所支配的全部肌纤维所构成的运动单位(motorunit)为基本单位进行收缩
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 622c33a6-6ad2-428e-b27f-25988b26f29e
+:END:
+* 由于运动单位的总和依照一定的规律进行,即当收缩逐渐增强时，先增加小的再增加大的运动单位收缩;而当舒张时，先最大的最后最小的运动单位停止收缩,这种调节收缩强度的方式即称为大小原则(sizeprinciple)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 622c33f6-7080-40e4-9c60-e3f11b2eacd1
+:END:
+* 若后一次收缩过程叠加在前一次收缩过程的舒张期，所产生的收缩总和称为[[不完全强直收缩]](incompletetetanus);若后一次收缩过程叠加在前一次收缩过程的收缩期，所产生的收缩总和则称为[[完全强直收缩]](completetetanus)(图2-35A)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 622c3428-91c2-49e5-b896-baaf7562dbc8
+:END:
+* 最常见的收缩形式是先等长收缩增加张力,当张力足以克服阻力时,发生等张收缩而肌肉缩短
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 622c814d-e15d-424f-ab26-ba046288134e
+:END:
+* 由于肌肉在等张收缩时产生的收缩张力与后负荷大小相等，方向相反，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622c8196-f3c4-4861-bd32-8ab58ef8f220
+:END:
+* 心率加快时，心动周期缩短,收缩期和舒张期都相应缩短，但舒张期缩短的程度更大，这对心脏的持久活动是不利的零
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 112
+:id: 622c88e8-1688-405f-9e0d-70c7e98d3ed9
+:END:
+* 心动周期各时相中左心室压力、容积和瓣膜等变化示意图
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:id: 622c891f-09ee-459a-ad61-c01ebac4ee57
+:END:
+* 由于心室内的血液很快进入主动脉，故心室容积迅速缩小，但由于心室肌强烈收缩，室内压仍继续上升,并达到峰值,主动脉压也随之进一步升高。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:id: 622c8abf-5a87-4c32-9481-3878055ecdbd
+:END:
+* 等容舒张期:射血后，心室开始舒张，室内压下降，主动脉内的血液向心室方向反流，推动半月瓣使之关闭;但此时室内压仍高于房内压，故房室瓣仍处于关闭状态，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:id: 622c8ad2-8ce9-4e4e-b1ef-5a51eb1b52af
+:END:
+* 从半月瓣关闭至房室瓣开启前的这一段时间内，心室舒张而心室的容积并不改变，故称为等容舒张期(periodofisovolumicrelaxation)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:id: 622c8ad8-7042-4f75-929f-0398c27b44ae
+:END:
+* 房室瓣开启初期，由于心室肌很快舒张，室内压明显降低，甚至成为负压,心房和心室之间形成很大的压力梯度，因此心室对心房和大静脉内的血液可产生“抽吸”作用，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 622c8afd-98a8-4918-ab03-6cbf2fe25123
+:END:
+* ，但由于肺动脉压约为主动脉压的1/6
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 622c8b77-05c6-45a5-ab82-e8a57fb2c09c
+:END:
+* 左、右两侧心室的心输出量基本相等。心输出量等于心率与搏出量的乘积。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 622c8df3-f580-455d-8551-06bf00a527a7
+:END:
+* 静和空腹情况下测定的心指数称为静息心指数,可作为比较身材不同个体的心功能的评价指标。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 622c8dfc-4fa4-4d53-97bd-7147f6400aad
+:END:
+* 心泵功能储备的大小主要取决于搏出量和心率能够提高的程度，因而心泵功能储备包括搏出量储备(strokevolumereserve)和心率储备(heartratereserve)两部分
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 622c8e10-b61e-4fce-8b84-4179be9168b7
+:END:
+* 搏出量储备可分为收缩期储备和舒张期储备两部分
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 622c8e1e-e0a1-44c3-8d71-dda3b1934fcf
+:END:
+* 室舒张末期容积相当于心室的前负荷。由于测量心室内压比测定心室容积方便，且心室舒张末期容积与心室舒张末期压力(end-diastolicpressure,EDP)在一定范围内具有良好的相关性，故在实验中常用心室舒张末期压力来反映前负荷
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 117
+:id: 622c8e35-a98e-4174-b612-4c6297bbc75e
+:END:
+* 通常状态下,左心室舒张末期压仅5~6mmHg,而左心室舒张末期压为12~15mmHg是心室最适前负荷，说明心室有较大的初长度储备。与骨骼肌相比，体内骨骼肌的自然长度已经接近最适初长度，故初长度储备很小，即通过改变初长度调节骨骼肌收缩功能的范围很小
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 117
+:id: 622c8f24-4794-49ac-a2c8-5a71ad134fe2
+:END:
+* 说明前负荷在其上限范围变动时对每搏功和心室泵血功能的影响不大。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:id: 622c8f2f-3ddb-4827-8f7f-41a4fb3d4966
+:END:
+* ③左心室舒张末期压高于20mmHg,曲线平坦或甚至轻度下倾，但并不出现明显的降支，说明心室前负荷即使超过20mmHg,每搏功仍不变或仅轻度减少。只有在发生严重病理变化的心室，心功能曲线才出现降支
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:id: 622c8f3d-3c23-4ecc-b025-add16dd0dc13
+:END:
+* 从心室功能曲线看,在增加前负荷(初长度)时，心肌收缩力加强，搏出量增多，每搏功增大。这种通过改变心肌初长度而引起心肌收缩力改变的调节，称为异长自身调节(heterometricautoregulation)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:id: 622c8f5c-6144-4cfd-ad6f-ead120377888
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:id: 622c8f8c-d41a-4f85-8db8-c870793875ec
+:END:
+:初长度对心肌收缩力影响的机制与骨骼肌相似(见第二章)，即不同的初长度可改变心肌细胞肌节中粗、细肌丝的有效重叠程度
+* 与骨骼肌不同的是，正常心室肌具有较强的抗过度延伸的特性，肌节一般不会超过2.25~2.30pn,如果强行将肌节拉伸至2.60|im或更长，心肌将会断裂。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:id: 622c8fa6-1f3b-45fe-9d18-9db429d3b8b3
+:END:
+* 当心率增快时，心动周期（尤其是心室舒张期）缩短，因而心室充盈时间缩短,心室充盈不完全,静脉回心血量减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 119
+:id: 622c90c5-e18c-4ed6-ba41-d9f4071d57df
+:END:
+* 。因此,大动脉血压是心室收缩时所遇到的后负荷
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:id: 622c9185-8d38-49f9-be07-9a433aa5e372
+:END:
+* 在心肌初长度、收缩能力和心率都不变的情况下，如果大动脉血压增高，等容收缩期室内压的峰值将增高，结果使等容收缩期延长而射血期缩短，射血期心室肌缩短的程度和速度都减小，射血速度减慢,搏出量减少;反之，大动脉血压降低,则有利于心室射血。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:id: 622c91a0-1229-4541-a581-f8b7c431a46f
+:END:
+* 减慢,搏出量减少;反之，大动脉血压降低,则有利于心室射血。大动脉血压的改变在影响搏出量的同时，还能继发性地引起心脏内的一些调节活动。当大动脉压突然升高而使搏出量暂时减少时，射血后心室内的剩余血量将增多，即心室收缩末期容积增多，若舒张期静脉回心血量不变或无明显减少，则心室舒张末期容积将增大。此时可通过异长自身调节加强心肌的收缩力量，使搏出量回升,从而使心室舒张末期容积逐渐恢复到原先水平。尽管此时大动脉血压仍处于高水平,但心脏的搏出量不再减少。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:id: 622c91b9-79bc-4cd7-b68a-cd42727be5ef
+:END:
+* 在完整的心室，心肌收缩能力增强可使心室功能曲线向左上方移位,表明在同样的前负荷条件下，每搏功增加，心脏泵血功能增强。这种通过改变心肌收缩能力的心脏泵血功能调节，称为[[等长调节]]（homometricregu­lation）
+:PROPERTIES:
+:hl-page: 120
+:ls-type: annotation
+:id: 622c923a-c9e0-48f4-b2b9-666f3fb2acee
+:END:
+[[../assets/image_1647088270037_0.png]]
+* [[儿茶酚胺]]（去甲肾上腺素和肾上腺素）在激动心肌细胞的 [[β-肾上腺素受体]] 后，可通过cAMP信号通路，激活细胞膜上的[[L型钙通道]]，增加Ca²⁺内流，再通过[[钙触发钙释放]]机制促进胞质内Ca²⁺浓度升高,从而使心肌收缩能力增强。
+:PROPERTIES:
+:hl-page: 120
+:ls-type: annotation
+:id: 622c92df-6ab0-470a-b23c-a8a5df50f7d4
+:END:
+* 钙增敏剂（如[[茶碱]]）可增加[[肌钙蛋白]]对Ca²⁺的亲和力，使肌钙蛋白对胞质中Ca²⁺的利用率增加，因而活化的横桥数目增多，心肌收缩能力增强
+:PROPERTIES:
+:hl-page: 120
+:ls-type: annotation
+:id: 622c9333-ba2f-427d-84ec-12aeecfbf929
+:END:
+* [[甲状腺激素]]素可提高[[肌球蛋白]]ATP酶的活性，因而也能增强心肌收缩能力
+:PROPERTIES:
+:hl-page: 120
+:ls-type: annotation
+:id: 622c93a1-b826-4554-898d-6aa68e952892
+:END:
+* 但是，如果心率过快,当超过160-180次/分，将使心室舒张期明显缩短，心舒期充盈量明显减少，因此搏出量也明显减少，从而导致心输出量下降
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 121
+:id: 622c9400-1bf1-413f-86cd-e3c245d2b0ed
+:END:
+* 当动脉血压升高时，为克服加大的射血阻力，心肌必须增加其收缩强度才能使搏出量保持不变，因而心脏做功量必定增加。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:id: 622c9482-71bb-4d70-9467-f732ea9cea62
+:END:

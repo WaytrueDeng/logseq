@@ -1,0 +1,2 @@
+* $E_{x}=\frac{RT}{ZF}\ln\frac{X_{o}}{X_{i}}$
+*
