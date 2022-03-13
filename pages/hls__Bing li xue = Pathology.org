@@ -1,0 +1,101 @@
+#+file-path: file:///Users/waytrue/Zotero/storage/KLMPU2LT/Bing li xue = Pathology.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/KLMPU2LT/Bing li xue = Pathology.pdf][Bing li xue = Pathology.pdf]]
+#+title: hls__Bing li xue = Pathology
+
+* 细胞和由其构成的组织、器官对于内、外环境中的持续性刺激和各种有害因子而产生的非损伤性应答反应，称为适应(adaptation)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d3dcf-6f8c-4201-a976-31754c32468d
+:END:
+* 萎缩(atrophy)是指^^已发育正常^^的细胞、组织或器官的体积缩小。萎缩时细胞合成代谢降低，能量需求减少，原有功能下降。组织与器官的萎缩,除了实质细胞内物质丧失而致体积缩小外，^^还可以伴有实质细胞数量的减少^^
+:PROPERTIES:
+:hl-page: 37
+:ls-type: annotation
+:id: 622d3e86-c5cd-4744-8817-d78b33982df2
+:END:
+[[Comments]]:细胞的萎缩是通过减小体积,组织以上还可通过减少细胞数量.未曾发育或发育不全的不属于萎缩
+* 在生理性负荷过多或过少时，或遇到轻度持续的病理性刺激时，细胞、组织和器官可表现为适应性变化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d42c2-688b-4c89-8b13-79118313afc2
+:END:
+* 细胞死亡
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d42d3-681b-40fc-9c4f-c8e79050a694
+:END:
+* 萎缩的细胞、组织和器官体积减小，重量减轻，色泽变深。心肌细胞和肝细胞等萎缩细胞胞质内可出现[[脂褐素]]颗粒。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 622d4487-3aae-4aec-98c2-7d7f278e1292
+:END:
+* 脂褐素是细胞内未被彻底消化的、富含磷脂的膜包被的细胞器残体。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 622d451e-f12a-41ed-a859-1b2ddbffadc2
+:END:
+* 可因蛋白质摄入不足、消耗过多和血液供应不足引起
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4751-a147-41e4-b38f-6b248c3e4867
+:END:
+* 身营养不良性萎缩，如糖尿病、结核病及肿瘤等慢性消耗性疾病时，由于长期营养不良引起全身肌肉萎缩,称为[[恶病质]]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4798-6836-4d11-b94f-38556aef2240
+:END:
+* 萎缩的细胞、组织和器官通过调节细胞体积、数量和功能，以适应降低的血液供应和营养补给
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4824-d23b-4720-a79e-f5ee1a2d9262
+:END:
+* 因组织与器官长期受压所致，其机制是受压组织和细胞缺氧、缺血
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d48b5-d61f-4649-9909-97a14dab2a50
+:END:
+* 尿路梗阻时肾盂积水,压迫周围肾组织，引起肾皮质、髓质萎缩(图1-3)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d48d9-c79a-4933-8dd2-492ba958a20e
+:END:
+* 由于功能增加，合成代谢旺盛，使细胞、组织或器官体积增大，称为肥大(hypertrophy)o组织和器官的肥大通常是由于实质细胞的体积增大所致,^^但也可伴有实质细胞数量的增加。^^
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 622d4d46-2558-4e89-8668-f00d6fb72841
+:END:
+* 一种分化成熟的细胞类型被另一种分化成熟的细胞类型所取代的过程，称为化生(metaplasia)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 622d4e71-4bf7-4c60-a9d9-51c303761835
+:END:
+* 细胞可逆性损伤(reversibleinjury)的形态学变化称变性(degeneration)，是指细胞或细胞间质受损伤后，由于代谢障碍，使细胞内或细胞间质内出现异常物质或正常物质异常蓄积的现象
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 622d5961-7374-4d23-908a-ba3324f6e120
+:END:
+* 细胞间质内淀粉样蛋白质和黏多糖复合物蓄积
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 622d628c-0255-45c1-b4ac-edb2305ba400
+:END:
+* 淀粉样蛋白成分来自于[[免疫球蛋白轻链]]、[[肽类激素]]、[[降钙素]]前体蛋白和血清淀粉样A蛋白等。
+:PROPERTIES:
+:hl-page: 50
+:ls-type: annotation
+:id: 622d6313-865b-4c7d-bde4-98b75f54361a
+:END:

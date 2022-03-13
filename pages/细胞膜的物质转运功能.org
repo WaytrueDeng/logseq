@@ -3,6 +3,7 @@
 * [[细胞膜的化学组成及其分子排列形式]]
 * 跨细胞膜的物质转运
 :PROPERTIES:
+:collapsed: true
 :END:
 ** 单纯扩散
 :PROPERTIES:

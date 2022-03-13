@@ -3115,3 +3115,339 @@
 :hl-page: 123
 :id: 622c9482-71bb-4d70-9467-f732ea9cea62
 :END:
+* ，复极过程缓慢而没有明确的时相区分
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:id: 622d950b-b427-47d6-9640-0d27be45a589
+:END:
+* 心肌细胞膜上的[[内向整流钾通道]]([[IK1]])(inwardrectifierK+channel,IK1channel)引起的K⁺平衡电位是构成工作肌细胞静息电位的主要成分 [[Comments]]:心肌工作细胞的平衡电量位是由[[内向整流钾通道]]主要组成而非 [[钾漏通道]]
+:PROPERTIES:
+:hl-page: 125
+:ls-type: annotation
+:id: 622d95ee-7677-4184-9519-2de77f165522
+:END:
+* 0期去极化过程短暂，仅占1~2毫秒，最大去极化速率为200〜400V/S。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 622d972e-408b-4678-890b-9dd36ef9f7e3
+:END:
+* 当心室肌细胞受刺激使膜去极化达阈电位水平(-70mV)时,膜上钠通道开放,于是Na，顺其浓度和电位梯度快速进入膜内，使膜进一步去极化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 622d973e-8b89-4d5b-8eda-4a8b78aad932
+:END:
+* 。期去极的钠通道是一种快通道(fastchannel),它不但激活很快，而且激活后很快就失活，当膜去极化到一定程度(OmV左右)时钠通道就开始失活而关闭，最后终止Na*的内流
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 622d9753-1781-4314-8874-076d1ec2bcf3
+:END:
+* 期去极化是一个再生性过程，即膜去极化达到阈电位时，虹将超过仃外向电流，于是在净内向电流的作用下使膜进一步去极,从而引起更多的钠通道开放，产生更大的虹,形成虹与膜去极化之间的正反馈，使膜在约1毫秒时间内迅速去极化到接近Na，平衡电位(E'Q的水平，这就是心室肌细胞0期去极速度很快、动作电位升支非常陡峭的原因。^^快钠通道可被河豚毒素(tetrodotoxin,TTX)所阻断^^
+:PROPERTIES:
+:hl-page: 126
+:ls-type: annotation
+:id: 622d975e-9875-4686-bdab-363457b60acd
+:END:
+* T型钙电流(T-typecalciumcurrent,ICa.T
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:id: 622d97ca-cd52-4c82-b2ec-d780dfaee0aa
+:END:
+* 心室肌细胞平台期占100-150毫秒,是心室肌细胞动作电位时程显著长于神经、骨骼肌动作电位的主要原因，为心肌细胞动作电位所特有。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:id: 622d98ca-06c7-43b0-aabf-0df44d0037ec
+:END:
+* 。这种上通道对K⁺的通透性因膜的去极化而降低的现象称为内向整流(inwardrectification) [[Comments]]:硬背随去极化而降低防止K⁺外流使平台期缩短
+:PROPERTIES:
+:hl-page: 127
+:ls-type: annotation
+:id: 622d99f6-7cd4-4c05-a6d1-3fffe70285ad
+:END:
+** Ik的逐渐加强是促进复极的重要因素。K⁺外向电流随时间而递增,K⁺外流是再生性的,K⁺外流促使膜内电位转向负电位，而膜内电位越负,K⁺电流就越大，这种正反馈过程导致膜的复极越来越快，直至复极到原来膜电位水平。 [[Comments]]:原来在复极化过程也有正反馈
+:PROPERTIES:
+:hl-page: 127
+:ls-type: annotation
+:id: 622d9bcf-96e5-412d-9df8-86537394d137
+:END:
+* 上对3期复极也起明显作用，它在复极化至-60mV左右时开始加强,加速了3期的终末复极化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:id: 622d9c95-e1d6-45e6-8462-199b6fe252d5
+:END:
+* 于是在4期内钠泵活动加强，以完成Na⁺的外运和K+的内运;膜中[[Na⁺-Ca²⁺交换体]]的活动也加强，它可将3个Na⁺转入胞内，并将1个 Ca²⁺移出胞外，由此进入细胞的Na⁺再由钠泵将它泵出； [[Comments]]:这也就是为什么没有后电位
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 622d9ce9-05d5-4ef2-9f6e-8ee515d28962
+:END:
+* 自律细胞动作电位3期复极化末达到最大极化状态时的电位值称为最大复极电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 128
+:id: 622d9e2b-30f2-4648-bc67-e09b8331a3ac
+:END:
+* 因此自律细胞与工作细胞的最大区别在于没有稳定的静息电位，在自律细胞中通常用MRP值来代表静息电位值。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 128
+:id: 622d9e38-6ad7-4f87-af73-25573cf86ee3
+:END:
+* 窦房结P细胞膜上 [[IK1]] 通道较少,因此其最大复极化电位约为-70mV
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 622d9fc8-d7f5-4c5d-882c-7d92363a3497
+:END:
+* 凡能影响k、L和Is•三种电流的因素都可影响到窦房结P细胞的4期自动去极化速率，从而对窦房结自律性发挥调控作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 622da040-a77f-46f5-a191-2ea03026dcb7
+:END:
+* 房结P细胞缺乏虬通道,因此其动作电位无明显的1期和2期,0期去极化后直接进入3期复
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 128
+:id: 622da05b-8bb8-477b-adfe-e1ec72eaa8eb
+:END:
+* 验中用铯（Cs⁺）选择性阻断IK后,窦房结自发放电频率仅轻度降低。Ik外流衰减与[[If]]两者对窦房结4期自动去极化所作的贡献的比例为^^6:1^^
+:PROPERTIES:
+:hl-page: 129
+:ls-type: annotation
+:id: 622da1c0-a02e-4539-81da-fa1706c240bb
+:END:
+* [[ICa-T]] 的生理作用在于使细胞膜电位继续去极化达到能使Isl激活的阈电位水平，后者的激活产生动作电位的上升支
+:PROPERTIES:
+:hl-page: 129
+:ls-type: annotation
+:id: 622da2f1-a057-4be5-b4bd-023ad3a1688b
+:END:
+* 此外,窦房结P细胞膜上具有 [[INa]] ,但由于其最大舒张期电位一般在-60mV左右,1面不能被激活,因此，它总是处于失活状态 [[串联]] [[高钾血症]]
+:PROPERTIES:
+:hl-page: 129
+:ls-type: annotation
+:id: 622da3f1-18b6-4b7e-9ac8-3932f5989905
+:END:
+* 4期膜电位不稳定，这是与心室肌细胞动作电位最显著的不同之处。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 622da516-41a7-44e5-961e-a1d4450eebb0
+:END:
+* 0期去极化开始到复极化3期膜电位达[[-55mV]]这一段时间内，无论给予多强的刺激，都不会引起心肌细胞产生去极化反应，此段时期称为[[绝对不应期]](absoluterefractoryperiod,ARP)o
+:PROPERTIES:
+:hl-page: 130
+:ls-type: annotation
+:id: 622da68f-72b0-400b-b29a-232907c13ac7
+:END:
+* 从复极至-55mV继续复极至-60mV的这段时期内，若给予阈上刺激虽可引起局部反应，但仍不会产生新的动作电位，这一时期称为局部反应期(localresponseperiod)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 130
+:id: 622da6d6-49a5-4f27-b74b-b8fa4ff0459b
+:END:
+* 由于膜电位水平低于静息电位水平，而此时钠通道开放的^^速率^^和^^数量^^均低于静息电位水平，故新产生的动作电位的0期^^去极化速度^^和^^幅度^^都低于正常（见图4-13）,兴奋传导速度也较慢（见后文），动作电位的时程和^^不应期^^都较短。由于 不应期较短,就容易产生^^期前兴奋^^（见后文
+:PROPERTIES:
+:hl-page: 131
+:ls-type: annotation
+:id: 622da7dc-31a3-4269-895b-4b1563563147
+:END:
+* 如低血钙 [[低钙血症]] 时阈电位降低，导致兴奋性升高。
+:PROPERTIES:
+:hl-page: 131
+:ls-type: annotation
+:id: 622da8df-3cdb-42ab-836e-94c7c9d70586
+:END:
+* 由于房室结区传导速度缓慢，且是兴奋由心房传向心室的唯一通道，因此兴奋经过此处将出现一个时间延搁，称为[[房-室延搁]](atrioventriculardelay)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:id: 622dab68-e2a1-456d-a0ce-bd1dcefe9094
+:END:
+* 兴奋在浦肯野纤维内的传导速度在心内传导系统中是最快的，可达4m/s左右。这是由于浦肯野纤维十分粗大(70μm),且含肌原纤维很少，而缝隙连接数量又很
+:PROPERTIES:
+:hl-page: 133
+:ls-type: annotation
+:id: 622dab8e-08c4-4cd1-8826-29cd38d13041
+:END:
+* 兴奋在心室肌的传导速度约为lm/s,由于心室肌纤维呈双螺旋状环绕心室腔而排列，故兴奋不能直接由心内膜传向心外膜，而是呈一定角度沿螺旋方向传导
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:id: 622dabe0-5ab2-49db-9b5a-a2087f8031e9
+:END:
+* 兴奋部位。期去极速度越快，局部电流的形成也越快，能很快地促使邻近部位去极达到阈电位水平,从而产生一新的动作电位,故传导能很快进行;兴奋部位0期去极化的幅度越大，兴奋部位与未兴奋部位之间的电位差也越大，局部电流也越强，能更有效地使邻近部位产生一新的动作电位,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 622dacc0-2c08-4f9a-881f-701164a95868
+:END:
+* 从而决定膜0期去极化的速度和幅度。钠通道的效率(可利用率)具有电压依赖性,它依赖于受刺激前的静息膜电位水平。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 622dacf5-c02a-4303-ad73-fc02caac7318
+:END:
+* 膜电位降低则最大去极化速度显著降低。当膜电位降至-55mV时，则。期最大去极化速度几乎为零，因为此时Na*通道已失活关闭。如果膜电位大于正常静息电位水平，最大去极化速度并不增加，这可能是Na+通道效率已达极限之故。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 622dad09-9576-493f-8229-50b561f70090
+:END:
+* 当潜在起搏点在其自身4期自动去极化达到阈电位前，由窦房结传来的兴奋已将其激活而产生动作电位,从而控制心脏的节律活动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:id: 622dadb9-51d9-480a-9ddd-d6024971dff0
+:END:
+* 当自律细胞在受到高于其固有频率的刺激时,便按外来刺激的频率发生兴奋，称为超速驱动。在外来的超速驱动刺激停止后，自律细胞不能立即呈现其固有的自律性活动，需经一段静止期后才逐渐恢复其自身的自律性活动，这种现象称为超速驱动压抑（overdrivesuppression）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 622dadcd-f7af-4492-b16b-fb0e89154bf2
+:END:
+* 。发生超速驱动压抑的原因之一是心肌细胞膜中钠泵活动的增强。当自律细胞受到超速驱动时，由于单位时间内产生的动作电位数目远超过按其自身节律所产生的动作电位数目，致使Na*内流和K+外流均增加，于是钠泵活动增强，产生的外向性泵电流增大，外排的Na*多于内流的K?,使细胞膜发生超极化（即最大复极电位增大），因此自律性降低。当超速驱动压抑停止后，增强的钠泵活动并不立即停止而恢复正常，故膜电位仍保持在超极化状态,此时该自律细胞自身4期自动去极化仍不易达到阈电位水平，故而出现一个短暂的心搏暂停，须待其自身的电活动恢复后,方可发生起搏活动。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:id: 622dadf8-2e91-462d-865c-38230181b801
+:END:
+* ,这是由于后负荷对横桥周期的影响所致（图2-34B）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622dbf67-b848-43c4-82e9-aabfbbc98b00
+:END:
+* B.负荷对横桥周期的影响。黑色的横桥代表与肌动蛋白结合后产生并承受张力的横桥，后负荷较小时（上图），横桥摆动并与肌动蛋白解离的速度较快（缩短速度快），所以每瞬间处于张力状态的（黑色的）横桥数量较少（产生张力亦较小）；后负荷较大时（下图）横桥头部摆动速度减慢，横桥周期延长，因而每瞬间有较多数量的横桥处于产生和维持张力的状态（收缩张力增加）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 622dc11c-8420-4b57-801d-54661948f995
+:END:
+* 血管平滑肌细胞可合成、分泌[[肾素]]和[[血管紧张素]]
+:PROPERTIES:
+:hl-page: 142
+:ls-type: annotation
+:id: 622dc906-0388-4ba6-af42-db893f922a0e
+:END:
+* 血压在各段血管中的下降幅度与该段血管对血流阻力的大小成正比。在主动脉和大动脉段，血压降幅较小。如主动脉的平均压约lOOmmHg,到直径为3mm的动脉处，平均压仍可维持在95mmHg左右;到小动脉时,血流阻力增大，血压降落的幅度也变大。^^在体循环中,微动脉段的血流阻力最大,血压降幅也最显著。^^
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 144
+:id: 622dca86-a1f9-4520-8289-62a5a29b8517
+:END:
+* 通常情况下，正常人双侧上臂的动脉血压也存在左高右低的特点，其差异可达5〜lOmmHgo
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 146
+:id: 622dd3a5-37dc-4f9f-9c69-f8c100841ffa
+:END:
+* 。通常将右心房和胸腔内大静脉血压称为中心静脉压(centralvenouspressure),而将各器官静脉的血压称为外周静脉压(peripheralvenouspressure)o中心静脉压较低，正常波动范围是4~12cmH2O,其高低取决于心脏射血能力和静脉回心血量之间的相互关系。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 149
+:id: 622dd5af-1abc-48f1-aa59-cdc0291f86ff
+:END:
+* 如以输液治疗休克患者时，中心静脉I-60压高于正常或有升高趋势，提示输液过多过快或心脏射血0-功能不全;而中心静脉压偏低或有下降趋势，则提示输液
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 149
+:id: 622dd5d0-f55d-47f7-9100-6aa4859f99c9
+:END:
+* 静脉对血流的阻力很小，因此血液从微静脉回流到右心房，压力仅降低约15mmHgo这与保证静脉回心血量的功能是相适应的。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622dd5db-d16d-41b9-8134-67333f196201
+:END:
+* 当下肢肌肉进行节律性舒缩活动(如跑步)时，下肢肌肉泵每分钟挤出的血液可达数升。这时肌肉泵的做功可一定程度地加速全身血液循环，对心脏泵血起辅助作用。但若肌肉持续紧张性收缩而非节律性舒缩，则静脉将持续受压，静脉回心血量反而减少。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622dd65a-7dbc-41e7-91e0-35fcbd963ca6
+:END:
+* 胸膜腔内压通常低于大气压，是为负压，故胸腔内大静脉的跨壁压较大，常处于充盈扩张状态。吸气时，胸腔容积加大，胸膜腔负压增大，使胸腔内的大静脉和右心房更加扩张,从而有利于外周静脉血液回流至右心房;呼气时，胸膜腔负压减小,则静脉回心血量相应减少。因此,呼吸运动对静脉回流也起着“泵”的作用，称为“呼吸泵”。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 622dd69f-ad09-4ab9-858d-90f7aa4b21eb
+:END:
+* 总闸门
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 622dd76f-e993-417b-a809-f83db30ea5dc
+:END:
+* 属于毛细血管后阻力血管，起“后闸门”的作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 151
+:id: 622dd855-50e7-443b-99b1-39ae90d60db7
+:END:
+* 当它们收缩时,毛细血管关闭，导致毛细血管周围组织代谢产物积聚、。2分压降低。而积聚的代谢产物和低氧状态，尤其是后者可反过来引起局部后微动脉和毛细血管前括约肌舒张，于是毛细血管开放，局部组织积聚的代谢产物被血流清除。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 152
+:id: 622dd988-47d6-4eae-baba-17c031890a47
+:END:
+* 体内几乎所有的血管都受交感缩血管神经纤维的支配 [[100%]]
+:PROPERTIES:
+:hl-page: 157
+:ls-type: annotation
+:id: 622ddb8b-569b-428b-98ed-a6da215cdf42
+:END:
+* 当血液在血管内流动时，血流速度与血流量成正比，而与血管的横截面积成反比。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 142
+:id: 622ddcc9-ce7f-4f6c-901a-1bbe02099ef3
+:END:
+* 收缩压(systolicpressure)是指心室收缩期中期达到最高值时的血压
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 146
+:id: 622ddea2-0002-4dd6-aa15-4e12ea7467a2
+:END:
+* 心血管活动受自主神经系统的调控，副交感神经系统主要调节心脏活动，而交感神经系统对心脏和血管的活动都有重要的调节作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 155
+:id: 622deb8e-668f-49c1-b78c-2ffd6888c0f4
+:END:
+* 心交感神经节后纤维释放去甲肾上腺素，作用于心肌细胞膜上的 [[β1受体]] (简称β受体)，引起心肌收缩力增强、心率加快和传导速度增大，这些效应分别称为正性变力作用(positiveinotropicaction)、正性变时作用(positivechronotropicaction)和正性变传导作用(positivedromotropicaction)，可被 [[β受体阻断剂]] [[美托洛尔]](metoprolol)所阻断。
+:PROPERTIES:
+:hl-page: 155
+:ls-type: annotation
+:id: 622dec79-9204-4407-b360-77418ce83fd1
+:END:
+* 两侧心交感神经对心脏的支配有所不同，左侧心交感神经主要支配房室交界和心室肌，兴奋时主要引起心肌收缩力增强，而右侧心交感神经主要支配窦房结,兴奋时主要引起心率加快。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 155
+:id: 622decbe-5cee-4313-8c86-a05607d3f49d
+:END:
+* 另外,去甲肾上腺素引起的窦房结P细胞4期I.加强亦与正性变时作用有关。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 156
+:id: 622df033-3bd2-4f1e-ae3f-de9f4588c24e
+:END:
+* 迷走神经的节后神经纤维主要支配窦房结、心房肌、房室交界、房室束及其分支,而对心室肌的支配则很少。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 156
+:id: 622df1ba-3490-4450-aefa-fa2d7d09ced8
+:END:
+* 右侧迷走神经对窦房结的影响占优势,兴奋时主要引起心率减慢;左侧迷走神经对房室交界的作用占优势，兴奋时引起的效应以房室传导速度减慢为主。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 156
+:id: 622df1e4-7f1c-41fa-a872-02336e898a14
+:END:
