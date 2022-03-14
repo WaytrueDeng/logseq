@@ -1,7 +1,5 @@
-:PROPERTIES:
-:file: [[../assets/生理学.pdf][生理学.pdf]]
-:file-path: ../assets/生理学.pdf
-:END:
+#+file: [[file:///Users/waytrue/Zotero/storage/J5F4PLI3/生理学.pdf]]
+#+file-path: file:///Users/waytrue/Zotero/storage/J5F4PLI3/生理学.pdf
 
 * 横纹肌肌质网Ca²⁺释放机制
 :PROPERTIES:

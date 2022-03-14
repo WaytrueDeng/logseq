@@ -99,3 +99,21 @@
 :ls-type: annotation
 :id: 622d6313-865b-4c7d-bde4-98b75f54361a
 :END:
+* 蛋白质变性凝固且溶酶体酶水解作用较弱时,坏死区呈灰黄、干燥、质实状态，称为凝固性坏死(coagulativenecrosis)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 622eb9bc-c32c-4a5a-a919-568e6808e6b4
+:END:
+* 镜下特点为细胞^^微细结构消失^^，^^而组织结构轮廓仍可保存^^，坏死区周围形成充血、出血和炎症反应
+:PROPERTIES:
+:hl-page: 53
+:ls-type: annotation
+:id: 622eb9cf-d1d7-4722-8472-36c70e2b54b2
+:END:
+* 在结核病时，因病灶中含脂质较多,坏死区呈黄色，状似干酪，称为干酪样坏死
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 622eba1d-ad27-4b5a-9cbd-9e3fa234196f
+:END:
