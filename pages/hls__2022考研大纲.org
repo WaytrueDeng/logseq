@@ -1,0 +1,25 @@
+#+file-path: file:///Users/waytrue/Zotero/storage/KGUA689S/2022考研大纲.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/KGUA689S/2022考研大纲.pdf][2022考研大纲.pdf]]
+#+title: hls__2022考研大纲
+
+* （-）损伤的修复
+:PROPERTIES:
+:hl-page: 10
+:ls-type: annotation
+:id: 62300d52-b3cc-4e7e-a6aa-247205d1a62d
+:END:
+1.再生的概念和类型，干细胞的概念及其在再生中的作用，各种组织的再生能力及再生过程。
+2.肉芽组织的结构、功能和结局。
+3.伤口愈合的过程、类型及影响因素。
+* 13.心脏瓣膜病的病因、病理生理、临床表现、实验室和其他检查、诊断和鉴别诊断、并发症和防治措施
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 623038bf-f97e-4f23-b5e4-181fd8753938
+:END:
+* {{embed ((6231b3d9-680a-4892-b80b-073516ecb6db))}}
+:PROPERTIES:
+:hl-page: 10
+:ls-type: annotation
+:id: 6231afa6-9ae5-4e3a-b903-85545c1510bd
+:END:

@@ -1656,3 +1656,117 @@
 :hl-page: 178
 :id: 622c7892-3ecb-4625-923e-c878cb7b7d84
 :END:
+* 当超过4.OkPa( 30mmHg）时致肺泡水肿，出现呼吸困难、咳嗽、发钳等临床表现。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 322
+:id: 62303b5e-0613-472e-8805-90e42945f465
+:END:
+* 一般二尖瓣中度狭窄（瓣口面积<l.5cm2）始有临床症状。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 322
+:id: 62303d3b-8e16-4267-987e-5fd9b4e7ceb1
+:END:
+* 严重肺动脉高压时，由于肺动脉及其 <span style="color:red;">瓣环的扩张</span>，导致相对性肺功脉瓣关闭不全，因而在胸骨左缘第2肋间可闻及递减型高调叹气样舒张早期杂音（即Graham-Steel杂音）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 323
+:id: 62303e47-a885-4d52-86e2-7a93d64f6e40
+:END:
+* 肺静脉压的增高（>lOmmHg），导致间质组织的液体渗漏，小叶间的液体聚集在基部产生线性条纹，位于双侧肋膈角区，延伸至胸膜，即小叶间隔线，称为[[Kerley B线]]；
+:PROPERTIES:
+:hl-page: 323
+:ls-type: annotation
+:id: 62303efd-3d31-4ebb-9f0b-7e394fbaa77f
+:END:
+* 间质液进入肺泡腔，可出现肺泡水肿，中下肺野内中带有片状模糊影，典型表现为[[蝶翼状]]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 323
+:id: 62303f53-fc6c-4160-a6eb-56f83b42a41d
+:END:
+* 左心房扩大及房壁纤维化是房颤持续存在的病理基础
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 324
+:id: 62304243-2e81-4fc4-85d7-f7d85d3605f4
+:END:
+* 复律之前3周和复律之后4周需口服抗凝药物（华法林）预防栓塞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 324
+:id: 623043a3-93e5-4417-8aa4-c490bf39cda0
+:END:
+* 急性快速性房颤因心室率快，使舒张期充盈时间缩短，导致左房压力急剧增加，同时心排血量减低，因而应立即控制心室率
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 324
+:id: 6230441d-0e87-41eb-9352-f3e88358ebee
+:END:
+* 二尖瓣原发性[[黏液性变]]，使瓣叶宽松膨大或伴脏索过长，心脏收缩时瓣叶突人左心房而影响二尖瓣关闭。部分二尖瓣脱垂为其他遗传性结缔组织病（如Marfan综合征）的临床表现之→
+:PROPERTIES:
+:hl-page: 326
+:ls-type: annotation
+:id: 623048e3-308c-443a-8ab5-89d90053240d
+:END:
+* 任何病因引起左心室增大均可造成二尖瓣环扩大而导致二尖瓣关闭不全。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 326
+:id: 6230498e-d194-40d3-83fe-dc46c51671a3
+:END:
+* 二尖瓣环退行性变和瓣环钙化，多见于老年女性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 326
+:id: 62304999-6a0c-48d0-b233-1786a650ed3d
+:END:
+* 乳头肌的血供来自冠状动脉终末分支，对缺血很敏感，冠状动脉灌注不足可引起乳头肌缺血、损伤、坏死和纤维化伴功能障碍。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 327
+:id: 62304c23-844b-4748-a720-a08045e12ff3
+:END:
+* ；对于较重的二尖瓣关闭不全，通常情况下，从罹患风湿热至出现二尖瓣关闭不全的症状一般超过20年，但一旦发生心力衰竭，则进展常较迅速
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 327
+:id: 62304e11-b120-4525-834a-2f3801a9cd49
+:END:
+* 轻者可仅有轻微劳力性呼吸困难，重者可很快发生急性左心衰竭，甚至急性肺水肿、心源性休克。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 327
+:id: 62304eae-1515-487c-835e-665e515234b9
+:END:
+* 如已发生低血压则不宜使用，而可行主动脉内球囊反搏( intra-aortic balloon pumping, IABP），在提高体循环舒张压的同时，减低心室后负荷，从而提高前向性心排出量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 329
+:id: 62305085-16d3-4642-8a92-426613ac0adc
+:END:
+* 风湿性炎症导致瓣叶交界处融合，瓣叶纤维化、钙化、僵硬和孪缩畸形，引起主动脉瓣狭窄。风湿性主动脉瓣狭窄常伴关闭不全和二尖瓣病变。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 330
+:id: 623050e8-301b-403d-b9fc-44b12c434a19
+:END:
+* 致使左心室壁向心性肥厚，左心室游离壁和室间隔厚度增加，其顺应性下降，左心室壁松弛速度减慢，使左心室舒张末压进行性升高；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 330
+:id: 62305300-9f11-4634-aac8-8a7fb24b0dc0
+:END:
+* ：①左心室壁增厚、心室收缩压升高和射血时间延长，增加心肌耗氧量；②左心室肥厚，导致心肌毛细血管密度相对减少；③舒张期心腔内压力增高，压迫心内膜下冠状动脉，导致心肌灌注不足；④左心室舒张末压升高致舒张期主动脉－左心室压差降低，减少冠状动脉灌注压。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 331
+:id: 62305351-c362-42f9-925e-8589dda47882
+:END:
+* NYHA心功能分级E级伴心脏大，左心室收缩末期容量指数（LVESVI)>30mνm2；③重度二尖瓣关闭不全，LVEF减低，左心室收缩及舒张末期内径增大，LVESVI高达60ml/m2，虽元症状也应考虑手术治疗
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 329
+:id: 623054b6-fa1f-44dc-8070-b12aab4b8bf4
+:END:
