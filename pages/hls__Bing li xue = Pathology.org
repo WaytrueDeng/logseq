@@ -543,3 +543,45 @@
 :ls-type: annotation
 :id: 6231f384-fd8e-404f-8c8e-32bff00f3bb3
 :END:
+* 急性炎症24~48小时后，单核细胞在黏附分子和化学趋化因子的作用下，从血管中渗出并聚集到炎症灶，转化为巨噬细胞。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 111
+:id: 6232a9aa-75dd-42f0-a76a-f3461e8018b4
+:END:
+* 是指由机体自身产生的自身抗体或致敏淋巴细胞，破坏自身组织和细胞,导致组织和器官功能障碍的原发性免疫性疾病。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:id: 6233f568-28f1-4057-a37b-208db3aeab80
+:END:
+* 自身免疫耐受性的丧失是自身免疫病发生的根本机制。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:id: 6233f6fc-4df2-4159-9a80-02cf60bec9f8
+:END:
+* ，经D型超敏反应导致相应血细胞的损伤和溶解，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 6233fc85-8fb4-4f2d-9aa2-7b13bee8c2e0
+:END:
+* 吞噬了狼疮小体的细胞称狼疮细胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 6233fd98-24a6-464a-a99c-1203191d3eac
+:END:
+* 过ID型超敏反应引起组织损伤。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 62342acf-9040-4718-8613-f80fdd72af49
+:END:
+* 免疫功能正常的个体，接受异体移植物后，如果不经任何免疫抑制处理,将立即发生宿主免疫系统对移植物的排斥反应，即宿主抗移植物反应,导致移植物被排斥
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:id: 6234348c-5bba-4ea8-980c-7c6cd727db59
+:END:

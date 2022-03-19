@@ -2,26 +2,7 @@
 :PROPERTIES:
 :id: 61e42151-c0e7-4eaf-acb5-87dc7b864430
 :END:
-** :PROPERTIES:
-:collapsed: true
-:END:
-*** longterm
-**** 学习rust
-**** 学习javascript
-**** 学习lua
-**** 学习html
-**** 学习TLS
-**** 学习ip命令
-*** middleterm
-**** 政治
-**** 六级580 []
-*** shortterm
-**** 西综
-**** 英语
-****
-*** Done
-**** 学习ZFS [[Jan 27th, 2022]]
-**** 学习curl
+*
 *
 *
 *

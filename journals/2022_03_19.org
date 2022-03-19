@@ -1,0 +1,7 @@
+* 每日计划
+:PROPERTIES:
+:END:
+** 新学inbox
+*** [[file:../pages/肿瘤.org][肿瘤]]
+** 复盘
+*** {{query [[2022-03-16]]}}

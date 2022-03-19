@@ -1770,3 +1770,153 @@
 :hl-page: 329
 :id: 623054b6-fa1f-44dc-8070-b12aab4b8bf4
 :END:
+* 房颤时因舒张期变短、心房收缩功能丧失、左心室充盈减少，使心排血量减少20%～25%，常致心衰加重，突然出现严重的呼吸困难，甚至急性肺水肿。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 324
+:id: 6232ba54-b0f0-4397-bcf9-b1e518488ade
+:END:
+* ；严重反流可出现低调第三心音，但它未必提示心衰，而可能是收缩期左心房存留的大量血液迅速充盈左心室所致。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 6232bdae-b69b-453d-a1ea-b5e4a91dd610
+:END:
+* 前叶损害为主者杂音向左腋下或左肩脚下传导，后叶损害为主者杂音向心底部传导。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 6232c62e-e9c7-4e2b-9a08-f9b8289491c3
+:END:
+* ：二尖瓣关闭不全的典型杂音为心尖区^^全收缩期^^吹风样杂音，杂音强度3/6级，可伴有收缩期震颤。
+:PROPERTIES:
+:hl-page: 328
+:ls-type: annotation
+:id: 6232c661-a06c-436c-8fee-26fd15705e87
+:END:
+* 无症状者的存活率与正常群体相似，3%～5%的病人可发生猝死。三联征出现提示预后不良，若不行手术治疗，有心绞痛者约50%病人5年内死亡；出现晕厥的病人，约50%病人3年内死亡；出现充血性心力衰竭病人约半数2年内死亡。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 333
+:id: 6232c717-53ca-4736-ada5-d6dc8c8a5c2a
+:END:
+* 主动脉瓣狭窄病人，元症状期长，直至瓣口面积运1.Ocm2时才出现临床症状，呼吸困难、心绞痛和晕厥是典型主动脉瓣狭窄的常见三联征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 330
+:id: 6232c7a2-482b-4728-b5b6-a34e33ef8d44
+:END:
+* 心脏扩大、心力衰竭、心律失常、血栓栓塞及猝死
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 296
+:id: 6232cee9-8658-4569-b965-f3d4c6f8192d
+:END:
+* 病原体直接侵袭和由此引发的慢性炎症和免疫反应是造成心肌损害的机制。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 296
+:id: 6232cf55-925b-4766-9443-71c14425b51a
+:END:
+* 以心腔扩大为主，肉眼可见心室扩张，室壁多变薄，纤维癫痕形成，且常伴有附壁血栓。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 297
+:id: 6232cff4-4eed-41a1-ac7d-d09a5dd53877
+:END:
+* 典型的摩擦音可昕到与心房收缩、心室收缩和心室舒张相一致的三个成分，称为三相摩擦音。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 337
+:id: 6232ed42-329d-4663-aed1-4e322ce14dfb
+:END:
+* 为视网膜的卵圆形出血斑，其中心呈白色，多见于亚急性感染；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 344
+:id: 62331439-f0b1-4711-8699-eff52dd3075d
+:END:
+* 为指和趾垫出现的豌豆大的红或紫色痛性结节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 344
+:id: 6233146e-5bbc-4a0d-8eb1-db024413a525
+:END:
+* 。本病的菌血症为持续性，无需在体温升高时采血。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 346
+:id: 623315cf-2cdf-41d8-8e11-d8b43b4b4c90
+:END:
+* 有急性重度反流、阻塞引起伴有症状的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 348
+:id: 623316c5-bb36-41d7-b9fc-89863a9e103b
+:END:
+* 过；：：：：1次栓塞事件，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 348
+:id: 623316d5-20d2-4fb5-98bc-fca7432e9845
+:END:
+* 赘生物＞lOmm
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 348
+:id: 623316df-baaa-42d4-a8e4-3d1d0814e617
+:END:
+* ③真菌或多重耐药菌造成的感
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 348
+:id: 623316eb-963b-4fa9-9983-0cae7acbe911
+:END:
+* 亚急性感染性心内膜炎常发生在原有心瓣膜病变或其他心脏病的基础之上，如在这些病人发现周围体征（痕点、线状出血、Roth斑、Osler结节和样状指）提示本病存在，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 347
+:id: 623318e1-29b8-43cc-9358-d0a6c8e856d6
+:END:
+* ，其中90%以上病人的阳性结果获自人院后第一日采取的标本。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 346
+:id: 62331b63-87ba-4f16-bc7a-9aa9c58f50d8
+:END:
+* 抗生素选用的基本原则：①杀菌剂；②联合应用，包括至少2种具协同作用的抗菌药物；③大剂量；④静脉给药；⑤长疗程，一般为4 ～6周，人工瓣膜心内膜炎需6～8周或更长，以降低复发率。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 348
+:id: 62331d1c-708a-4224-a7fd-815d7bb1f399
+:END:
+* 老年高血压病人的血压应降至150/90mmHg以下，如能耐受可降至140/90mmHg以下。对于80岁以上高龄老年人降压的目标值为＜150/90mmHg。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 291
+:id: 62333d04-af6e-44e7-ae12-bac61d94f8c7
+:END:
+* 长期高血压使脑血管发生缺血与变性，形成微动脉瘤，一旦破裂可发生脑出血。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 62334187-be64-45bd-9b05-1c7e6fe4cc35
+:END:
+* 同时直接扩张静脉和动脉，降低前、后负荷。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 293
+:id: 623346cb-59a7-49cf-9e41-bcc7acbc42c8
+:END:
+* 少数病人病情急骤发展，舒张压持续三~130mmHg，并有^^头痛^^，^^视物模糊^^，^^眼底出血^^、^^渗出^^和^^视盘水肿^^，肾脏损害突出，持续蛋白尿、血尿与管型尿，称为恶性高血压。
+:PROPERTIES:
+:hl-page: 292
+:ls-type: annotation
+:id: 6233472c-67f2-4b5a-8eed-0489d52de5a5
+:END:
+* ACEI或ARB在早、中期能延缓肾功能恶化，但要注意在低血容量或病情晚期（肌所清除率＜30mνmin或血肌西干超过265μmoνL，即3.Omg/dl）有可能反而使肾功能恶化。 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 293
+:id: 62334ad2-4906-4a3f-9cad-8db6affb3786
+:END:

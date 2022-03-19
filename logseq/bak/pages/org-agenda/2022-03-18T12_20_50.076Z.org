@@ -1,0 +1,75 @@
+* TODO [[免疫性疾病]]
+SCHEDULED: <2022-03-26 Sat>
+:PROPERTIES:
+:id: 6233eec4-1754-4408-b6a4-f8836193062d
+:END:
+:LOGBOOK:
+CLOCK: [2022-03-18 Fri 11:14:27]--[2022-03-18 Fri 11:52:19] =>  00:37:52
+CLOCK: [2022-03-18 Fri 14:33:02]--[2022-03-18 Fri 15:50:53] =>  01:17:51
+CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
+CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
+:END:
+* TODO [[免疫性疾病]]
+SCHEDULED: <2022-03-26 Sat>
+:PROPERTIES:
+:id: 6233eec4-1754-4408-b6a4-f8836193062d
+:END:
+:LOGBOOK:
+CLOCK: [2022-03-18 Fri 11:14:27]--[2022-03-18 Fri 11:52:19] =>  00:37:52
+CLOCK: [2022-03-18 Fri 14:33:02]--[2022-03-18 Fri 15:50:53] =>  01:17:51
+CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
+CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
+:END:
+* TODO [[免疫性疾病]]
+SCHEDULED: <2022-03-26 Sat>
+:PROPERTIES:
+:id: 6233eec4-1754-4408-b6a4-f8836193062d
+:END:
+:LOGBOOK:
+CLOCK: [2022-03-18 Fri 11:14:27]--[2022-03-18 Fri 11:52:19] =>  00:37:52
+CLOCK: [2022-03-18 Fri 14:33:02]--[2022-03-18 Fri 15:50:53] =>  01:17:51
+CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
+CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
+:END:
+* TODO [[免疫性疾病]]
+SCHEDULED: <2022-03-26 Sat>
+:PROPERTIES:
+:id: 6233eec4-1754-4408-b6a4-f8836193062d
+:END:
+:LOGBOOK:
+CLOCK: [2022-03-18 Fri 11:14:27]--[2022-03-18 Fri 11:52:19] =>  00:37:52
+CLOCK: [2022-03-18 Fri 14:33:02]--[2022-03-18 Fri 15:50:53] =>  01:17:51
+CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
+CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
+:END:
+* TODO [[高血压]]
+SCHEDULED: <2022-03-20 Sun>
+- [[2022-03-05]]
+- [[2022-03-17]]  <span style="color:white;background-color:black;">63.2%</span>
+* TODO [[心肌病]]
+SCHEDULED: <2022-03-20 Sun>
+- [[2022-03-04]]
+- [[2022-03-17]] <span style="color:white;background-color:black;"> 65.8%</span>
+* TODO [[心脏瓣膜病]]
+SCHEDULED: <2022-03-20 Sun>
+- [[2022-03-05]]
+- [[2022-03-15]]  <span style="color:white;background-color:black;">69%</span>
+* TODO [[心包疾病]]
+SCHEDULED: <2022-03-20 Sun>
+- [[2022-03-04]]
+- [[2022-03-17]]  <span style="background-color:red;">84%</span>
+* TODO [[感染性心内膜炎]]
+SCHEDULED: <2022-03-20 Sun>
+- [[2022-03-05]]
+- [[2022-03-17]]  <span style="color:white;background-color:black;">77%</span>
+* TODO 细胞和组织的[[适应]]和[[损伤]]
+SCHEDULED: <2022-03-21 Mon>
+* TODO [[损伤的修复]]
+SCHEDULED: <2022-03-22 Tue>
+* TODO 绪论
+SCHEDULED: <2022-03-23 Fri>
+[[Feb 23rd, 2022]]  <span style="color:green;">0/27</span>
+* TODO ^^[[局部血液循环障碍]]^^
+SCHEDULED: <2022-03-23 Wed>
+* TODO [[炎症]]
+SCHEDULED: <2022-03-23 Wed>

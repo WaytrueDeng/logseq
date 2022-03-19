@@ -1,0 +1,52 @@
+#+title: 2002年/Text1
+
+* Comparisons were drawn between the development of television in the 20th century and the [[diffusion]]  of printing in the 15th and 16th centuries.
+:PROPERTIES:
+:collapsed: true
+:END:
+** 手译: 在20世纪的电视发展和15,16世纪的绘画变异之间作出比较
+** 官译: 人们常将20世纪电视的发明和15,16世纪印刷术的传播进行比较
+** 反思:
+*** {{embed [[生词本]]}}
+*** 语法
+**** 主干
+***** Comparisons were drawn 为被动形式隐含主语为人们/我们,
+**** 状语
+***** 介词短语between A and B作状语，说明人们拿来比较的对象
+（1）A:the development of television in the 20th century
+developmen t意为“（新产品的）开发，研制”，故the development of television实指“电视的发明“ in引导的介词短语作后置定语，说明电视发明的时间。A整休可译为“20世纪电视的发明”。
+（2）B:the diffusion of printing in the 15th and 16th centuries
+diffusion意为传播；扩散”，printing特指“印刷术”，故the diffusion of printing表示“印刷术的传播”
+引导的介词短语作后置定语，说明印刷术传播开来的时间。B整体可译为“15、16世纪印刷术的传播”
+*** 翻译
+**** 被动形式增加隐藏主语人们并添加频度词
+* Yet much had happened between
+:PROPERTIES:
+:collapsed: true
+:END:
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译:然而两者之间的比较的大多没有发生
+*** 官译:然而,这两个时间段之间发生了许多事
+*** 反思:
+:PROPERTIES:
+:collapsed: true
+:END:
+**** {{embed [[生词本]]}}
+**** 语法
+***** much作为代词为主语大量许多
+**** 翻译
+* As was discussed before, it was not until the 19th century that the newspaper became the dominant pre-electronic medium, following in the wake of the pamphlet and the book and in the
+company of the periodical.
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译:就像在之前讨论的那样,并非直到19世纪.报纸才成为占据主导地位的非电子媒介跟,跟随着小册子和书的苏醒和周刊公司
+*** 官译:全句经整合可译为“正如前面所讲，直到19世纪，报纸才继宣传册和图书之后，在期刊的陪伴下，成为了电子时代到来前最有影响力的传播媒介”。
+*** 反思:
+**** {{embed [[生词本]]}}
+**** 语法
+**** 翻译
+*
+*

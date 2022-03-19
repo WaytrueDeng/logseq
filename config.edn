@@ -2,12 +2,12 @@
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
- ;; :preferred-format ""
+ :preferred-format "org"
 
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -16,13 +16,13 @@
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
  :default-templates
- {:journals ""}
+ {:journals "daily"}
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
  :ui/enable-tooltip? true
 
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
@@ -63,7 +63,7 @@
  ;; Set this to true will convert
  ;; `[[Grant Ideas]]` to `[[file:./grant_ideas.org][Grant Ideas]]` for org-mode
  ;; For more, see https://github.com/logseq/logseq/issues/672
- ;; :org-mode/insert-file-link? true
+:org-mode/insert-file-link? true
 
  ;; If you prefer to use the file name as the page title
  ;; instead of the first heading's title
