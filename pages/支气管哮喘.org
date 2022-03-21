@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 5A94C62C-9C9D-408D-9E9E-6CBFBD27AE6E
+:END:
+
 #+ALIAS: 哮喘
 
 * [[et cetera]]

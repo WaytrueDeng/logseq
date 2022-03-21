@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: BD02EA5F-590D-47CF-BEF4-6D662536DAC6
+:END:
+
 * ECG
 ** 提前出现的[[P']]波(非窦性P波)
 ** [[QRS波]]形态正常

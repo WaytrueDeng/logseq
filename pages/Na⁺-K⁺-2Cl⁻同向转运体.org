@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: D534A8F6-2931-456A-816D-618DEC2D99F2
+:END:
+
 #+ALIAS:Na⁺-K⁺-2Cl⁻同向转运
 
 * 髓袢升支粗段Na-K-2Cl同向转运体考点：归纳为“四个最”

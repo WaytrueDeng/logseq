@@ -1,0 +1,34 @@
+* [[../assets/药理学.pdf][药理学.pdf]]
+:PROPERTIES:
+:ID:       612a12dd-a2b4-48f8-9374-e46d504c99de
+:END:
+** {{embed [[受体分布]]}}
+** M胆碱阻断药
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[阿托品]]
+*** N胆碱受体阻断药
+**** Nn胆碱受体阻断药
+**** Nm~
+:PROPERTIES:
+:id: 61d6a837-6824-4572-ad26-7104120c2de8
+:END:
+***** 除极化型M受体阻断药
+***** 非除极化型肌松药
+****** [[筒箭毒碱]]
+******
+** 肾上腺素受体激动药
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[draws/2022-01-06-17-50-39.excalidraw]]
+** 肾上腺素受体阻断药
+*** β受体阻断药
+* [[Comments]]
+** [[Jan 6th, 2022]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((61d6a837-6824-4572-ad26-7104120c2de8))
+**** 骨骼肌松弛药(skeletalmuscularrelaxants)又称为胆碱受体阻断药或神经肌肉阻滞药(neuro­muscularblockingagents)，能作用于神经肌肉接头后膜的出胆碱受体,产生神经肌肉阻滞的作用。按其作用机制不同，可将其分为除极化型肌松药和非除极化型肌松药

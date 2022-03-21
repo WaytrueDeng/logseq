@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 3274D7E8-971A-4C4C-8A77-B2EAD27C0438
+:END:
+
 #+title: 肿瘤/异型性
 
 * 细胞异型性

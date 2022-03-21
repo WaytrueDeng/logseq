@@ -1,7 +1,13 @@
+:PROPERTIES:
+:ID: 0B6F217E-D5C5-42F9-8F17-07F0CC501E48
+:END:
 * [[../assets/内科_冠心病_天天师兄22考研_1647686453003_0.png]]
 * 发病位置: 冠状动脉粥样硬化
 * {{embed [[冠心病/分类]]}}
 * 心绞痛
+:PROPERTIES:
+:ID:       71FF29A9-6666-4826-96EB-39850C36BB8A
+:END:
 ** :PROPERTIES:
 :id: 623595e1-6208-4016-aace-282e3e09c125
 :END:

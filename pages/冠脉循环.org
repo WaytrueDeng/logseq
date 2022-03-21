@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: DC438E02-DD5D-4DE9-A777-B0E5A9ABF3DD
+:END:
+
 * 血流特点
 ** 灌注压高,血流量大
 ** 摄取率高,耗氧量大

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:	B530BD3B-D044-4A25-A023-3B5229594BFD
+:END:
+
+* $E_{x}=\frac{RT}{ZF}\ln\frac{X_{o}}{X_{i}}$
+*

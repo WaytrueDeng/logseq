@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 7755FBA5-C934-4E2E-96E5-7C11FA4BCF4C
+:END:
+
 * B1-R:疼痛
 * B2-R: 刺激 [[NO]] [[PGI₂]] [[EDHF]]
 * ((6231e36b-8d99-4f4b-ba5b-c517b8f4e90e))

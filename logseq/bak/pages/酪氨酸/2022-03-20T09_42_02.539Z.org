@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       0e57918e-aa83-4cee-80d8-8d0c0de6c709
+:END:
+#+ALIAS: Tyr

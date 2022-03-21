@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 1AD00FFA-585C-40B8-B8E6-49022D7157ED
+:END:
+
 #+ALIAS: 主狭
 
 * [[难兄难弟]] 主狭VS肥心

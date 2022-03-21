@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:	39A741A2-ED14-481B-AEDB-B30C82AF8FB4
+:END:
+
+:PROPERTIES:
+:ID:	7B0AB121-E396-4657-A9F5-AF25DCE3C72C
+:END:
+#!/bin/sh
+for i in `ls ./`
+	do
+	ID=`uuidgen`
+	gsed -i -e "1i:PROPERTIES:\n:ID:	$ID\n:END:" $i
+	done
+	

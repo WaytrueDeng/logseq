@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 760B8306-6778-477B-9754-C50095BF124E
+:END:
+
 #+ALIAS: 糖尿病酮症酸中毒
 
 * 糖利用障碍,利用脂肪 →脂肪酶→RCOOH$\xrightarrow[]{β氧化}$乙酰CoA肝酮体→

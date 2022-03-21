@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 948EA6F2-1F41-49C7-AEC2-52D741B3F8DD
+:END:
+
 #+ALIAS: Cushing综合征
 
 * 皮质醇↑↑ [[泼尼松]]的类 [[Cushing综合征]]

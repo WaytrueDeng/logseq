@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: C5BB784B-4075-4469-8AEB-5D6A2D8FA398
+:END:
+
 #+file-path: file:///Users/waytrue/Zotero/storage/KGUA689S/2022考研大纲.pdf
 #+file: [[file:///Users/waytrue/Zotero/storage/KGUA689S/2022考研大纲.pdf][2022考研大纲.pdf]]
 #+title: hls__2022考研大纲

@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID:	05341C6E-6CC1-470C-882E-B4A906B70EE9
+:END:
+
 links:: [Local library](zotero://select/library/items/5LAE7TDI), [Web library](https://www.zotero.org/users/6626953/items/5LAE7TDI)
 library-catalog:: Open WorldCat
 authors:: Xu yong jian Ge jun bo

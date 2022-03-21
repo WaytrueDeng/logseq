@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 840360EB-6E6A-4A0E-A8B6-1B3EFFAE017F
+:END:
+
 #+filters: {"dashboard" false}
 
 * 胃: 胃酸,胃蛋白酶

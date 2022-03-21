@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: A8187DE8-1B0D-46BC-894F-B924F76ECD20
+:END:
+
 * 血管紧张素受体阻断剂: xx沙坦
 * 抑制 [[AT1受体]]
 *

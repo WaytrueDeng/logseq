@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 42B25540-6A32-42EF-8B6F-B6A445C5FFAC
+:END:
+
 #+ALIAS: 遗传性球形红细胞增多症
 
 * 遗传性XX细胞增多症

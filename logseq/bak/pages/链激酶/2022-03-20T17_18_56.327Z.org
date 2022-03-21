@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:	B28BA26F-B1E9-411F-A0DE-CE50ECD1CB6F
+:END:
+
+* 具有抗原性用药前需要肌内注射[[苯海拉明]]或 [[地塞米松]], {{cloze 6个月}}内不能再次使用
+:PROPERTIES:
+:id: 621f625c-e524-415a-872b-406d8e77056f
+:END:
+*
+*
+*

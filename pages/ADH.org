@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: DB9CC970-223E-468A-A709-A9DE6539C01B
+:END:
+
 #+ALIAS: VP,抗利尿激素,血管升压素
 
 * 刺激释放的三大感受器

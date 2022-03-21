@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:	49EF305F-760C-407A-A4B6-2DD14C67FDE0
+:END:
+
+#+ALIAS:铁,铁离子
+
+* [[id:61fcce09-e7ff-42eb-b428-3dcdbc2be6da]]
+*
+*

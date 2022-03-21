@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 69EB4AC1-E5DB-4FE1-A945-CD4D8220588C
+:END:
+
 * {{embed [[炎症介质的共同特点]]}}
 * 细胞释放的炎症介质
 :PROPERTIES:

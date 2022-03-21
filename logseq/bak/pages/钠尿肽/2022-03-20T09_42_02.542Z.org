@@ -1,0 +1,5 @@
+* {{embed [[ANP]]}}
+:PROPERTIES:
+:ID:       d17925d0-4dfe-4c2f-83db-e3a4dec6a1ee
+:END:
+* {{embed [[BNP]]}}

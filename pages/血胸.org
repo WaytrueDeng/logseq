@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: FD3FA0A5-6FC3-430B-B7D6-8CD746B7435D
+:END:
+
 * 分度
 ** 少量 /le 0.5L
 ** 中量 0.5-1L

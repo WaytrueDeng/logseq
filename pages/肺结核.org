@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 488F3DEC-8FFE-401C-817A-33D3E90BCFF1
+:END:
+
 #+deck: 内科学::呼吸系统::肺结核
 
 * 结核分枝杆菌 #card

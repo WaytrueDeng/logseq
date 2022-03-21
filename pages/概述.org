@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 51091600-EDE1-4BCD-B557-C06701B7B956
+:END:
+
 #+ALIAS: 生理学::感受器官的功能
 
 * 感受器

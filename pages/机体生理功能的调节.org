@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 7F555C35-BCFF-480A-9CE0-BEB99F7EF60A
+:END:
+
 * 神经调节
 * 体液调节
 ** 物质

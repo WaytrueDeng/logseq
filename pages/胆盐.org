@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: F11A4813-FFA5-41B0-A7CB-6DBE85C391D2
+:END:
+
 * 为去垢剂会去除脂肪上的胰脂肪酶起负性作用需用[[辅脂酶]]使胰脂肪酶铆定在脂肪表面防止被胆盐去除
 :PROPERTIES:
 :id: 61fcc52c-a0c2-4b4d-8733-64aef7eafaa7

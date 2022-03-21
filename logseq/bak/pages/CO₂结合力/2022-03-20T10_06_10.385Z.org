@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:	CA02614B-9CEE-43AC-A8EA-4C88610DF174
+:END:
+
+#+ALIAS: 二氧化碳结合力
+
+* （血中HCO₃⁻和H₂CO₃中CO₂含量的总和）

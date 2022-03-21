@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: F2C5241B-FA36-4528-8AC2-D43BEEAEB868
+:END:
+
 * 血型是抗原(凝集原,RBC上),抗体(凝集素,血浆中)
 ** 表型: A,B,AB,O
 ** 基因型:AA.AO,BB.BO,AB,OO

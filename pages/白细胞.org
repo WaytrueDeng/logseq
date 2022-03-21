@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 653F5E1C-DD32-4AC0-A03A-FF85BDEE117B
+:END:
+
 * WBC 4-10 * 10^9
 ** 分类
 *** [[中性粒]]

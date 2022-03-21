@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:	660CFEA6-1DF8-44FC-BFE9-2362D7427345
+:END:
+
+#+title: 间质性肺疾病
+
+* 总论
+** 概念 #card
+:PROPERTIES:
+:id: 621f625c-05fa-4f10-bcae-35e8bf691e8e
+:END:
+*** {{embed ((621c8123-6a8f-4034-a452-9e684915d9e2))}}
+** 临床表现 #card
+:PROPERTIES:
+:id: 621f625c-df35-4fbc-afc5-84f7a575078f
+:END:
+*** 肺功能
+**** {{embed ((621c8302-7f84-40ff-a56b-420f80b3859a))}}
+***
+* [[特发性肺纤维化]]
+*

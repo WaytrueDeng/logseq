@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: EE3F4E6F-FB02-483D-B23D-1CC011004D31
+:END:
+
 * 内科学
 ** [[../assets/内科_ARDS_天天师兄22考研_1647075398579_0.png]]{:height 591, :width 865}
 ** 病因 #card

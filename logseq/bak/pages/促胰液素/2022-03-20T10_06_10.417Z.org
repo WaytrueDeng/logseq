@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:	33737DC1-7620-4649-B7DB-D56BB0FC7B2A
+:END:
+
+#+ALIAS: 胰泌素
+
+* 促进 [[胰岛素]]分泌

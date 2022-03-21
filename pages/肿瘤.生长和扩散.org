@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 1560C968-B212-47AF-B9BE-1BAB621E1703
+:END:
+
 #+title: 肿瘤/生长和扩散
 
 * 肿瘤血管形成

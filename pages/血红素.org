@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 38C967C3-FBFF-4BCA-9A75-AD79FA89217B
+:END:
+
 * 参与构成的蛋白
 ** Hb
 ** 肌红蛋白

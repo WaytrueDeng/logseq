@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:	6223DEEB-7886-4FAA-B4EA-8D76DA01A371
+:END:
+
+#+ALIAS: 原发性干燥综合征
+
+* {{embed [[干燥综合征]]}}

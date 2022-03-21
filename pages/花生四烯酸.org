@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 562218DA-AE62-4C71-90C7-DAFC221C9B7B
+:END:
+
 * 通过 [[环氧合酶]]途径产生 [[PG]]和 [[TXA2]]
 ** {{embed [[PG]]}}
 ** {{embed [[TXA2]]}}

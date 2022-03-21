@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 32434219-DCC6-4C0F-89B0-5F489B36B9FF
+:END:
+
 #+title: 肿瘤/构成
 
 * 实质:肿瘤细胞的 <span style="color:red;">特征,</span>判断肿瘤的分化方向进行分类

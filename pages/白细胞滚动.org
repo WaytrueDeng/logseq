@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: B597BD70-4D86-4E45-B968-4CF522BF0C3C
+:END:
+
 * 内皮细胞表达[[选择素]]
 ** E-selectin (in endothelial cells)
 ** L-selectin (in leukocytes)

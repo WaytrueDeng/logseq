@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:	427BDA74-C529-4680-AFAC-59FDAF38F3E8
+:END:
+
+#+ALIAS: MTX
+
+* [[中枢NS系统白血病]]
+* [[骨肉瘤]]
+*

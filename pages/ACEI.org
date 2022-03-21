@@ -1,2 +1,12 @@
+:PROPERTIES:
+:ID: 99677C62-C19E-42F0-ACC1-6B3AA84DFCCF
+:END:
+
 * 血管紧张素转化酶抑制剂 xx普利
+* {{embed ((62370a18-032d-42b0-a7ef-389e35243cbe))}}
+* #+BEGIN_QUOTE
+ACEI类减少缓激肽降解，促进PGI2（前列腺素）NO生成。NSAIDS会降低ACEI疗效果。
+缓激肽 前列腺素 NO 舒张血管！
+#+END_QUOTE
+* {{embed ((6237130b-3415-451c-b750-c8603e858e83))}}
 *

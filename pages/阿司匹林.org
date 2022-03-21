@@ -1,2 +1,6 @@
+:PROPERTIES:
+:ID: BB914A0E-2D3B-4D6A-8B68-6A2CE61347D0
+:END:
+
 * 抗凝:抑制COX-1→ [[TXA₂]]↓
 * [[../assets/image_1642233727804_0.png]]

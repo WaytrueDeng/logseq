@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:	A9ABAAEC-8A79-4351-82C4-AE8BE5243223
+:END:
+
+* {{renderer :kanban_kowvhp}}
+:PROPERTIES:
+:id: 61e42151-c0e7-4eaf-acb5-87dc7b864430
+:END:
+*
+*
+*
+*

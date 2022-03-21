@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: EFB000E2-5960-4FD8-8FE8-A9641284BB28
+:END:
+
 #+file-path: file:///Users/waytrue/Zotero/storage/PSBE6CCN/傲视天鹰内部题库.pdf
 #+file: [[file:///Users/waytrue/Zotero/storage/PSBE6CCN/傲视天鹰内部题库.pdf][傲视天鹰内部题库.pdf]]
 #+title: hls__傲视天鹰内部题库

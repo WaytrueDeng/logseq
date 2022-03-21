@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 1276342E-0BE3-4B65-B4E3-34356B6A791A
+:END:
+
 * [[et cetera]]
 ** 静息电位
 *** 静息电位的测定和概念 #card

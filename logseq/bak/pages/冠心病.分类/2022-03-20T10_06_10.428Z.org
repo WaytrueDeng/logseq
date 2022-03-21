@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:	23EC8732-73CB-4705-9CEC-E7629B5DBE1A
+:END:
+
+#+title: 冠心病/分类
+
+* {{embed [[慢性冠脉疾病]]}}
+* {{embed [[急性冠脉综合征]]}}

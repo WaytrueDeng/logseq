@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 18AD066C-4D85-4D6C-B503-20DC5C377B66
+:END:
+
 #+ALIAS: 钙离子通道阻断剂
 
 * 分类 #card

@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 0CF7E967-EC7A-46FE-B17D-5AE6ECFFE3FB
+:END:
+
 * 同种细胞修复
 * 不同类型细胞的再生潜能
 ** 不稳定细胞

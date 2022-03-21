@@ -1,0 +1,979 @@
+:PROPERTIES:
+:ID:	A3203C6F-7E30-4256-B0A4-64E7B675E33E
+:END:
+
+#+file-path: file:///Users/waytrue/Zotero/storage/PSBE6CCN/傲视天鹰内部题库.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/PSBE6CCN/傲视天鹰内部题库.pdf][傲视天鹰内部题库.pdf]]
+#+title: hls__傲视天鹰内部题库
+
+* 8.血浆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c400e-78e4-41f3-bfd1-feb3a985812f
+:END:
+* B. 是指细胞外液的各种理化性质发生小范田变动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c4026-ef5a-4cc1-9a6a-83ea8878e793
+:END:
+* B.细胞内液
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c404c-4381-448a-bae1-55c943ad4a69
+:END:
+* B.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c405f-49de-4918-8bad-35028031272f
+:END:
+* C.细胞外液理化性质相对稳定
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c406d-ad9e-45ed-bd37-c5262e7c30de
+:END:
+* A.神经调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c4077-5a65-4996-a547-d388b9db3a00
+:END:
+* ．旁分泌调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c4081-3504-4aef-b2b8-eda1ca2fa5e4
+:END:
+* c.躯体随意运动的调控
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 622c4088-5b10-420c-ac7b-04fec08f61de
+:END:
+* D.男性睾丸功能的调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c4098-2d11-4a20-a1fa-6a581fbc22a9
+:END:
+* C.神经－体液调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40ac-eab4-488a-bb65-35c0cb29b1e5
+:END:
+* E.神经内分泌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40b2-387d-4f11-9b55-64244268e534
+:END:
+* A.肾血流屈调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40b7-af33-4830-be36-b364974f6364
+:END:
+* 8.负反馈调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40cb-32ef-47f4-81b4-982c2c58db56
+:END:
+* B.化学感受性呼吸反射
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40de-4c1d-4e45-ae12-f7a722143191
+:END:
+* B.胰蛋白酶原的激活
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40e6-a57d-42ff-b0e9-1093e71a3cc9
+:END:
+* B.具有预见性，适应范围大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c40f7-c685-4e74-a632-df2cd8c9531c
+:END:
+* E.继发性主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c4103-544b-4c20-b8ba-08a0eb7df658
+:END:
+* E.继发性主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c410d-da64-4df3-b9ec-dc0508765be8
+:END:
+* c.缝隙连接
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c4118-2519-4d3c-b9ea-9993cc51b79b
+:END:
+* C.单纯扩散
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c4127-9f97-47cf-b52e-23d08a124a90
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c414b-7e56-458b-a485-b966dfac62ae
+:hl-type: area
+:hl-stamp: 1647067467167
+:END:
+* 维持细胞内外的Na+、
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 622c416a-6230-4e8a-be7f-82b6744a6501
+:END:
+* C.出胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c4178-9f70-4d7e-95c1-81bdb2b0787a
+:END:
+* B.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c417e-006b-4ada-b0b7-05dad54a086a
+:END:
+* C.电－化学梯度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c4188-e856-4018-9a2f-d92ab07c9485
+:END:
+* D.）膜上Na十－K＋泵的作用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c4195-7e5e-4b83-9a81-128b27138978
+:END:
+* A . N旷有小批的通透性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c419c-96e9-48e1-897f-48f24e3d3bdb
+:END:
+* B.减小
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41a2-d3d5-4e62-9c4f-ab9ee3b59f8e
+:END:
+* A.逐渐减小
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41ad-8eac-4ed9-9e13-bfb52e9e3cf9
+:END:
+* 减小
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41b8-8d6a-4134-a7d9-15d0d662cde1
+:END:
+* B.小I0-20mV
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41c8-cc28-406c-9e4f-806e1b96d2d4
+:END:
+* D.由贮内流所致
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41df-51d3-4648-8887-26d67c3e6db7
+:END:
+* 动作电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c41e4-11f5-454a-99f0-7a5809e3d8b3
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c4206-bc3f-4ca5-ae7a-b717cde68918
+:hl-type: area
+:hl-stamp: 1647067654689
+:END:
+* C.动作电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c4229-551a-449a-8ab9-0ad22a31d932
+:END:
+* E. N旷通道和K十通道同时开放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c423a-b805-4874-b327-b118b042bddd
+:END:
+* D.静息电位值减小，动作电位幅度减小
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c425a-0209-498e-9fe5-76492418b6b4
+:END:
+* 仅出现在复极化期间
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c428a-9f9e-4569-82c1-a79e4453f496
+:END:
+* C.由钠离子通道失活和钾离子通道激活共同引起
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42be-08ca-449f-b579-86f6f7679ff9
+:END:
+* A . N旷通道大址开放的膜电位临界值
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42c5-20e3-4936-8eeb-5b32f3128052
+:END:
+* D.绝对不应期—相对不应期—超常期一低常期
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42d2-5159-4015-96f3-67082364e775
+:END:
+* B.相对不应期
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42db-aa8c-476e-87fd-0257ad2d0174
+:END:
+* D.细胞膜两侧N旷浓度
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42e8-2cda-451f-9f6f-cb6fe6101d66
+:END:
+* B.存在不应期
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42f3-67c3-4973-8171-6e427e4ab9d3
+:END:
+* B.对Na+、K十通透性增加，发生去极化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c42fe-9141-49ae-b29c-6dfcf40e9b83
+:END:
+* C.将屯兴奋传向肌细胞内部
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c430d-0d0c-4297-ba92-2f4afb89f24b
+:END:
+* E.离子跨膜移动总
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c431d-64df-40c2-8c5a-3a1399a61670
+:END:
+* E.锋电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c4323-1b66-4f54-af05-9e19f47e8380
+:END:
+* E.膜内侧K十的净外流为零
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c432b-53a9-4cdc-ae77-79e28e445a10
+:END:
+* D.相当于钠离子的平衡电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c433d-06c4-4f20-bd8f-9400736d339f
+:END:
+* E.都有Na通逆的开放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c4342-8c21-4fa8-9949-7e00395321d9
+:END:
+* A . 同一部位连续的阙下刺激引起的去极化反应的秃加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c4367-1728-41aa-ae5d-87f085b258b9
+:END:
+* D.终板电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c437d-7f5b-4468-b63a-d2bc538a8b68
+:END:
+* A.钠泵
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c4394-4126-432b-8d8d-edc3d0241067
+:END:
+* 逐渐浒大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c43c9-9806-4510-b2c0-1356a4a5ccc0
+:END:
+* A.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c43d3-ae74-4104-9610-9fbd6d91ecd5
+:END:
+* 的内向驱动力将逐渐减小，K十的外向驱动力则
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 622c43f2-e366-4cee-82aa-c4a574e4a83b
+:END:
+* E.纵行肌质网膜
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c43fa-8b8a-4a91-ac4b-a50097ebcf3d
+:END:
+* 8.筒箭诣碱
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4402-2c1d-44c0-a780-780cd1679899
+:END:
+* C.肌钙蛋白
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c441e-4a43-40ed-832a-c9e5e4f787ef
+:END:
+* .运动神经末梢自发释放l个耍泡的ACh所引起的终板膜电活动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4431-e9a5-4536-bdc5-bac92b319d00
+:END:
+* D.胆碱酕酶活性降低
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4436-d678-4e08-847b-62fd034f92c9
+:END:
+* 受体数目减少或功能陷碍
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4447-ca11-4faa-89d0-b36462e676fb
+:END:
+* D.非一对一传递
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4459-bbc3-4230-8bfb-e9b10ffbba98
+:END:
+* D.详见配套视频讲解
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4471-4517-4091-b745-af5131aa23c5
+:END:
+* D.不发生础合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c4485-c2e1-40bf-a9ad-5c6359b5d919
+:END:
+* 如E扩散
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44b4-6eb2-45b2-82ff-704527bd3670
+:END:
+* 顷CO2跨膜转运屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44b6-e1af-4f24-a40f-a1a8b11044a7
+:END:
+* Na1山细胞内向细胞外转运屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44c1-90df-4299-853b-35ab8e0dea8f
+:END:
+* 原发性主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44d0-6173-46bc-a25b-308b3ce05c67
+:END:
+* 肾小忤对葡萄糖的重吸收丿
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44d4-80f3-45ab-898f-b38a154abb2a
+:END:
+* .继发性主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 622c44d8-7565-4d63-98b5-549cd6a5324b
+:END:
+* 用哇巴因抑制钠泵活动后，神经细胞跨膜屯位变化是
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c44f0-b22d-442a-a713-5b6c6ec4adf6
+:END:
+* ±ffl加细胞外液中的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c44fe-8507-4976-9810-b423baa4298d
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4525-d158-447c-8061-037485c21a39
+:END:
+* 静息电位减
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4528-3057-4baa-8d0b-f9728f6d208e
+:END:
+* D.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c452a-ca0b-4de8-9945-17f00a92385b
+:END:
+* 8.静息电位减小，动作电位幅度墩大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4548-fdcf-45d0-b523-35be7d537d98
+:END:
+* .浒加细胞外液中的Na十浓度，神经细胞跨膜电位变化是
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c454b-f097-4d1a-92c5-c08dbdb6a59f
+:END:
+* 终板膜上的ACh受体屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4567-d04a-4a09-96db-034ad8d47c13
+:END:
+* 化学门控通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c456d-ab84-4803-9591-58ab286ce96f
+:END:
+* 4.突触前膜上的钙通道屈于
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c456f-5ac6-4619-8ea3-ba3b27422c13
+:END:
+* A.电压门控通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c457a-f275-4725-aef9-ce786a837ddf
+:END:
+* 骨骼肌细胞中作为C砫受体的是
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4589-575d-4ca3-84d1-0b0fe0bf96b3
+:END:
+* D.肌钙蛋白
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c458e-a040-4963-bdb8-ac13686835fe
+:END:
+* 肌丝滑行时，横桥必须与之结合的蛋白是
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4590-5912-4657-ae26-f6c1a465ccf6
+:END:
+* .肌动蛋白
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4597-7aab-4784-8872-cd2dac1e06a6
+:END:
+* 7.具有ATP酶活性的是
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4599-f0e6-44f2-b816-8665862c8b88
+:END:
+* .肌凝蛋白
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45a9-b13d-4965-a39f-3053995d439f
+:END:
+* ．神经调节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45c5-b2d9-408f-867c-4dabb9e3a9a3
+:END:
+* .食物进入口腔后，引起唾液腺分泌屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45c8-0924-4aaf-8aa4-832306ce9a5e
+:END:
+* .在寒冷环境中甲状腺激素分泌增多屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45cc-6962-4271-9ea3-061b273ca5bc
+:END:
+* C.神经－
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45cf-cb0a-49e4-b4c3-1610269ef964
+:END:
+* 甲状旁腺分泌甲状旁腺激索调节血钙浓度屈千
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45d7-44c0-4312-8d70-7830f8d4fa95
+:END:
+* B.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45dc-4ba4-4010-8614-e72d417235ab
+:END:
+* 包括各种生理功能活动的稳态
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45e6-d2b9-4cf2-915e-983f1b8d173a
+:END:
+* C.是机体维持生命的必要条件
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45e8-427d-4a8a-8ad7-fb1796284668
+:END:
+* D.主要依靠体内的负反馈控制
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45ea-c0dc-4481-a228-2690b4691af8
+:END:
+* A.速度快
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45f9-5c32-4b1b-ad2f-c2648c170a6c
+:END:
+* C.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45fa-308d-4d35-80a7-5a88c85d3761
+:END:
+* D.适应性强
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c45fd-0789-4adc-b46f-2f03ad2181f8
+:END:
+* 8.动作电位去极时相的形成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4635-f7ef-4d17-9491-d5ddbec8d059
+:END:
+* c.动作电位复极时相的形成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4637-aa91-4533-ae2c-356b12c9c691
+:END:
+* D.局部反应的形成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c463a-3b12-46e9-b845-910ffa66e61a
+:END:
+* A.维待正常的静息电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c464a-c0ff-4cd2-8f27-dc56726910cc
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c465c-3d17-4935-bf8f-f1ec2f627666
+:hl-type: area
+:hl-stamp: 1647068777520
+:END:
+* 恙彴A．有结构特异性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c4671-7632-4155-92a1-fe8404554b1b
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c467f-05c6-44f8-9a15-4baf04263939
+:hl-type: area
+:hl-stamp: 1647068799083
+:END:
+* .将向该离子的平衡电位移动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c469a-9329-4be8-b059-a88c27062bc5
+:END:
+* B 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 622c469d-6b0d-4339-bccd-9b475394d2c1
+:END:
+* C.将远离钾离子的平衡电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46a0-6288-45f6-a736-7134cad17022
+:END:
+* D.将发生去极化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46a2-e85f-4e0d-9e98-fd53a1c367de
+:END:
+* 逆浓度差将胞内的Na~转移到胞外，同时将胞外的K十转移到胞内
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46ad-f6f7-47b7-aec6-b9f0a8cdf54d
+:END:
+* . 建立离子势能储备
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46af-6280-49d4-ad97-4708704a904e
+:END:
+* . 维持细胞内正常的渗透压
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46b1-4eef-49ce-98d0-d16c766fa417
+:END:
+* A.双向传导
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46b4-faa1-48c7-8730-2a501b748127
+:END:
+* 不肋距离延长而衰减
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46b7-896b-43da-a231-cae297e62901
+:END:
+* D.相对不疲劳
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46b8-13bb-4068-8914-f8c995f7a585
+:END:
+* C.终板电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46ca-180d-44fa-b5c8-f8c6efb32bf6
+:END:
+* D.突触后电位
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46d4-a904-419d-baf9-1eff70785061
+:END:
+* 三联管或二联管结构处终池中Ca正的释放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46ec-7563-4a4e-baaa-e74906961916
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46ed-945e-43ea-ace1-9809287bed04
+:END:
+8. T管膜的动作电位传导
+* C. 胞质中C
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c46f0-2368-4511-bee2-4b6298bdcbf4
+:END:
+* A . 接头前膜忧子式释放的递质是ACh
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4707-e662-4c3a-ac2a-d0ff1b33ccce
+:END:
+* 8 . 接头后膜有沁型ACh受体阳离子通逆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4709-dd45-4b8b-ba1c-a2f42dcc9b7e
+:END:
+* 兴奋传递是一对一的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c470b-8e57-4de6-bab7-e7ba2f1a375e
+:END:
+* A.结构基础是肌管系统
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4713-157b-444e-9e51-c95a057c7241
+:END:
+* B. Ca2·
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4715-46e9-44da-9c86-d03f29afb73b
+:END:
+* E.三联管结构处的信息传递
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c471b-61d7-43a4-877e-1504a7d97137
+:END:
+* 8.经通迫易化扩散
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4724-3303-44bd-8d02-fff187586771
+:END:
+* 原发性主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4727-6c92-4a96-be9e-eed944f788e7
+:END:
+* A.不是“全或无”式的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c47bc-73a6-4659-adab-55e4ecadb3e9
+:END:
+* 8.没有不应期
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c47bd-6928-4233-933f-0afbb1674d7d
+:END:
+* .电紧张传播
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c47bf-ec69-4fb3-8a31-2ac3aa8f8e49
+:END:
+* B.主动转运
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4836-b7de-4858-aea0-2cfd565a4382
+:END:
+* C.由通道介导的易化扩散
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4838-df16-4bc5-a153-400c1562bbce
+:END:
+* A. 盂诺丁受体（钙释放通道）控制胞浆内钙离子释放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c485f-bb17-4fa9-bff5-10938284ef11
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c4863-6103-46ca-ba10-8304c95be430
+:END:
+8. 细胞膜上动作电位启动肌细胞收缩
+* A . L型钙离子通道激活
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 622c487d-24d1-4cd4-a379-72b4744dfaad
+:END:
+* c.肌质网上的钙释放通道开放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c4889-cd7e-48f8-a27b-461879730e06
+:END:
+* D.肌质网上的钙泵的活动
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c488b-b72f-4e93-b3bd-4f302b5e9ebd
+:END:
+* B.神经末梢乙酰胆碱的释放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c489a-5748-4bc7-94b8-6f3c9173d15b
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c489d-7013-4149-9530-d34c7e6ecfdb
+:END:
+* c.终板膜上的乙酰胆碱受体门控通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c489e-c757-46cb-ad8b-2163fe42d40f
+:END:
+* A.神经末梢的钙离子通道
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48a3-ed3d-4104-8212-3e85336441b1
+:END:
+* A.暗带长度不变
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48a8-6c5f-4877-a5a9-9c2d5c3c8f94
+:END:
+* C.细肌丝向M线方向滑行
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48ab-cd67-432d-9d70-8e36a3e49191
+:END:
+* D.肌小节长度缩短
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48ad-5ddc-4a29-a5e8-339fce5a34fd
+:END:
+* A.是“电－化学－电”的过程
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48cf-b83d-4297-aedd-96d2b7e99396
+:END:
+* C. ACh的释放是噩子释放
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48d2-43ab-43ca-b485-4d02211e9427
+:END:
+* D. ACh发挥作用后被胆碱脂酶分解失活
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 622c48d4-7e5e-4b33-8658-9b6422cc7e29
+:END:
+* [#A] 16.关于[[前馈]]控制的叙述中，正确的是
+:PROPERTIES:
+:hl-page: 6
+:ls-type: annotation
+:id: 622c4ef4-dc94-4c9a-92d0-510cc98cdad8
+:END:
+- [ ] A.具有滞后和波动的缺点
+- [x] B.具有预见性,适应范围大
+- [ ] C.常在局部和短时间内发挥作用 
+#+BEGIN_QUOTE
+为了提前适应可能提前准备时间很长,范围很广
+#+END_QUOTE 
+- [ ] D.前馈不会发生失误
+* [#B] 18.甲状腺上皮细胞的[[聚碘]]属于
+:PROPERTIES:
+:hl-page: 6
+:ls-type: annotation
+:id: 622c4ff9-676a-40c1-999d-038feda41d2e
+:END:
+- [ ] 出胞
+- [ ] 入胞
+- [ ] 单纯扩散
+- [ ] [[原发性主动转运]]
+- [x] [[继发性主动转运]]
+[[Comments]]:典型的[[同向性继发转运]] [[id:621ec3a1-24e0-4118-a89e-9435b5fd1655]]
+* [#A] 24.神经细胞动作电位去极化的幅度
+:PROPERTIES:
+:hl-page: 7
+:ls-type: annotation
+:id: 622c5172-5c47-4c41-83e0-f5864371deb3
+:END:
+- [ ] 钾离子电位
+- [ ] 钠离子平衡电位
+- [ ] 钾离子平衡电位与静息电位之差
+- [x] 钠离子平衡电位与静息电位之差
+- [ ] 钾离子平衡电位与钠离子电位之和
+* D.钠离子平衡屯位与静息电位之差
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 622c517e-f756-45f3-a699-05709ab281be
+:END:
+* [#A] 39.神经元的[[绝对不应期]]
+:PROPERTIES:
+:hl-page: 8
+:ls-type: annotation
+:id: 622c535a-5945-4a0f-8cbc-11e8b076f64b
+:END:
+- [ ] 仅出现在去极化期间
+- [ ] 仅出现在复极化期间
+- [ ] 仅出现在发生超射时
+- [x] 出现在锋电位期间
+- [ ] 出现在后电位期间
+* D.出现在锋电位期间
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 622c535e-193b-4e47-9e73-7f1a67538579
+:END:

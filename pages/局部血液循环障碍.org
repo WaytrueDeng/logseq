@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: CA0685F1-46A2-4240-B98E-9AAA37319F3D
+:END:
+
 * 几个概念
 :PROPERTIES:
 :collapsed: true

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:	50DC086E-9203-4FAF-93E3-06C4AA7C3873
+:END:
+
+* 发生于长骨,骨折等
+* 股骨干骨折→肺栓塞$\begin{cases}肺血栓栓塞(>3天)\\肺脂肪栓塞(短期内发生)\end{cases}$ [[Comments]][[3天]]

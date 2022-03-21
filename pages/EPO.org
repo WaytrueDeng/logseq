@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 8544B4B3-3BFC-49A5-8530-D441D950F9A4
+:END:
+
 * 缺氧刺激EPO生成
 * [[../assets/image_1642231289858_0.png]]
 * ((6204c4d9-e2c4-4d50-ac4d-097e61359993))

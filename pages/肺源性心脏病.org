@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: F1D74C18-CD46-45BE-9B68-131D6385E5EF
+:END:
+
 * 定义 #card
 ** ((621f31e0-58f8-4552-97d7-615d5fef8784))
 * 病因 #card

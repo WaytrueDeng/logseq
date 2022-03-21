@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: CB798803-9E99-4827-A5AD-8DE4FFEF167D
+:END:
+
 #+ALIAS: 血管紧张素II,血管紧张素Ⅱ,AngⅡ
 
 * 生物效应 升血压机制 激活[[AT1受体]]

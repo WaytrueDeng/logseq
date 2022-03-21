@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 18001B45-0622-46E5-95CD-9AECEA843F5B
+:END:
+
 #+file-path: file:///Users/waytrue/Zotero/storage/KL9VD57X/Internal_medicine.pdf
 #+file: [[file:///Users/waytrue/Zotero/storage/KL9VD57X/Internal_medicine.pdf]] 
 #+title: hls__Internal_medicine
@@ -1872,10 +1876,10 @@
 :hl-page: 348
 :id: 623316eb-963b-4fa9-9983-0cae7acbe911
 :END:
-* 亚急性感染性心内膜炎常发生在原有心瓣膜病变或其他心脏病的基础之上，如在这些病人发现周围体征（痕点、线状出血、Roth斑、Osler结节和样状指）提示本病存在，
+* 亚急性感染性心内膜炎常发生在原有心瓣膜病变或其他心脏病的基础之上，如在这些病人发现周围体征（淤点、线状出血、Roth斑、Osler结节和[[杵状指]]）提示本病存在，
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 347
+:ls-type: annotation
 :id: 623318e1-29b8-43cc-9358-d0a6c8e856d6
 :END:
 * ，其中90%以上病人的阳性结果获自人院后第一日采取的标本。
@@ -1920,3 +1924,68 @@
 :hl-page: 293
 :id: 62334ad2-4906-4a3f-9cad-8db6affb3786
 :END:
+* 适用于轻、中度高血压，对单纯收缩期高血压、盐敏感性高血压、合并肥胖或糖尿病、更年期女性、合并心力衰竭和老年人高血压有较强降压效应
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 288
+:id: 6237123f-e737-4872-85f7-ef9cd89d4085
+:END:
+* ACEI具有改善^^胰岛素抵抗^^和减少[[尿蛋白]]作用，对肥胖、糖尿病和心脏、^^肾脏靶器官受损^^的高血压病人具有较好的疗效，特别适用于伴有心力衰竭、心肌梗死、房颤、蛋白尿、糖耐量减退或糖尿病肾病的高血压病人。
+:PROPERTIES:
+:hl-page: 290
+:ls-type: annotation
+:id: 6237130b-3415-451c-b750-c8603e858e83
+:END:
+* 高饵血症、娃振妇女和双侧肾动脉狭窄病人禁用。血肌西干超过3mg/dl的病人使用时需谨慎，应定期监测血肌哥及血饵水平。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 290
+:id: 62371591-54f3-4a28-94a1-09e3765bf8a4
+:END:
+* 急性者多发生于器质性心脏病，首先为心脏瓣膜病，尤其是二尖瓣和主动脉瓣；其次为先天性，心血管病，如室间隔缺损、动脉导管未闭、法洛四联症和主动脉缩窄
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 343
+:id: 62372435-d77b-4516-a0f3-1ff224602471
+:END:
+* 急性者要比亚急性者更易出现杂音强度和性质的变化，或出现新的杂音。瓣膜损害所致的新的或增强的杂音主要为关闭不全的杂音，尤以主动脉瓣关闭不全多见。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 344
+:id: 62372501-598c-480e-9d49-578d57dd2db4
+:END:
+* 为最常见的并发症，主要由瓣膜关闭不全所致，主动脉瓣受损者最常发生（75%),其次为二尖瓣（50%）和三尖瓣(19%）；瓣膜穿孔或臆索断裂导致急性瓣膜关闭不全时可诱发急性左心衰竭
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 345
+:id: 62372619-4395-4260-b224-29f1c25ed323
+:END:
+* ⑤Janeway损害，为手掌和足底处直径1～4mm的元痛性出血红斑，主要见于急性病人。引起这些周围体征的原因可能是微血管炎或微栓塞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 345
+:id: 6237266a-4487-45c1-8214-4e047bde3490
+:END:
+* 高度房室传导阻滞或窦房结功能损害而出现晕厥或明显低血压时，可考虑使用临时心脏起搏器。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 306
+:id: 623855b3-f72f-4951-858d-2ab52d51dd75
+:END:
+* 心脏昕诊第一心音强度变化不定，心律极不规则。当心室率快时可发生脉搏短细，原因是许多心室搏动过弱以致未能开启主动脉瓣，或因动脉血压波太小，未能传导至外周动脉
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 623857a4-86e9-4a59-a31e-2d2370af1c95
+:END:
+* β受体拮抗剂的禁忌症为
+:PROPERTIES:
+:hl-page: 207
+:ls-type: annotation
+:id: 623858b2-7d38-4300-a4d7-1b23b5013d6a
+:END:
+- 支气管痉挛性疾病、
+- 严重心动过缓、
+- 二度及二度以上房室传导阻滞、
+- 严重周围血管疾病（如雷诺病）和
+- 重度急性心衰

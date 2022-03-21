@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 2D773E12-7FAC-4ED8-98A3-DF7A6A98B511
+:END:
+
 #+deck:内科学::呼吸系统::肺动脉高压与肺心病
 
 * 诊断标准 #card

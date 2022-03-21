@@ -1,0 +1,4 @@
+* 耦合钙离子抑制凝血
+:PROPERTIES:
+:ID:       60d70133-2f91-4e1c-b44e-373f03b3fc2f
+:END:

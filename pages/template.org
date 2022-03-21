@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 7036A917-3901-4604-8B2D-12C3818FF4AA
+:END:
+
 * 每日计划
 :PROPERTIES:
 :template: daily

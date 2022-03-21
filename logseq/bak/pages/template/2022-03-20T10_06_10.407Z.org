@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:	037491DC-E46B-4E23-AE4E-FF0CFA722CAF
+:END:
+
+* 每日计划
+:PROPERTIES:
+:template: daily
+:END:
+** 新学inbox
+** 复盘
+* 逐句翻译
+:PROPERTIES:
+:template: 逐句翻译
+:END:
+** 手译:
+** 官译:
+** 反思:
+*** [[生词本]]
+*** 语法
+*** 翻译
+* 英语全书
+:PROPERTIES:
+:template: 英语全书
+:END:
+** [[file:./生词本.org][生词本]]
+** [[语法本]]
+** [[高级替换]]
+*
+*

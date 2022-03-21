@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: D495AA3A-10EF-4160-8760-09C233528581
+:END:
+
 * [[../assets/image_1644658918727_0.png]]{:height 442, :width 778}
 *
 ** |[[下丘脑调节肽]] 9种|[[TRH]]| [[CRH]]|[[GnRH]]| ---|[[GHRH]],[[GHIH]]|[[促黑激素释放因子]]([[MRF]]),[[MIF]]|[[PRP]],[[PIP]]|

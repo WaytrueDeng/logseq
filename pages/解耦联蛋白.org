@@ -1,1 +1,5 @@
+:PROPERTIES:
+:ID: E79B2B8D-4FB2-4FBB-82BE-D3168C708781
+:END:
+
 * {{embed ((6200bc5c-97ad-41cd-acdd-dc526adc93c0))}}

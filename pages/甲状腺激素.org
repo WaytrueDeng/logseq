@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: FEDAFA23-12C1-4ACB-A02F-B179C5AF4862
+:END:
+
 * 脂溶性,受体在胞核
 ** [[考研重点]]
 * {{embed ((62076357-e5cc-4d6b-96b7-d38c8975db40))}}

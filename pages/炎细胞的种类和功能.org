@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 9055F9D3-B8EB-427B-B900-F3FEFECE2C66
+:END:
+
 * 白细胞参与了一系列复杂的连续过程
 ** 白细胞渗出
 :PROPERTIES:

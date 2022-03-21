@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:	8DB73C71-0170-4257-A030-1D34A07FF57A
+:END:
+
+* [[章节小结]] 
+:PROPERTIES:
+:template: 章节小结模板 
+:END:
+** 新增未知或遗忘知识
+** 测试题暴露出的知识盲区

@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 8A9B4D69-E695-455C-B8DF-F4930614B72F
+:END:
+
 #+deck: 内科学::消化系统::肝性脑病
 
 * HBV/HAV→病肝→$\begin{cases}\begin{rcases}肝硬化\\肝癌\end{rcases}\end{cases}→肝性脑病$

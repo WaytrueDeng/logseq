@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: DBE9B814-5945-4B01-9746-3F684C5BE17C
+:END:
+
 * [[../assets/药理学.pdf][药理学.pdf]]
 ** {{embed [[受体分布]]}}
 ** M胆碱阻断药

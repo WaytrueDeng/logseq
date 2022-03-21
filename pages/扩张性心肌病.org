@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: DDA9E1EB-59E3-48D8-AC3D-12EAE733B2D2
+:END:
+
 #+ALIAS: 扩心
 
 * 病因: 多样不清可有遗传性+感染( <span style="color:red;">病毒性最常见,病毒性心肌炎</span>)

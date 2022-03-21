@@ -585,3 +585,9 @@
 :hl-page: 123
 :id: 6234348c-5bba-4ea8-980c-7c6cd727db59
 :END:
+* 主动脉瓣狭窄后，左心室血液排出受阻，左心室发生代偿性肥大，室壁增厚，向心性肥大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623809a4-3f6b-4088-9f65-9e3c8fb080c5
+:END:

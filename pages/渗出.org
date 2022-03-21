@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 3F337A7D-CCE3-4F96-8E91-C8FF5597A882
+:END:
+
 * ((6231b2b1-11b0-4fd0-ade9-bcf74626fc0d))
 * ((6231b2a8-ab3a-44df-96db-49e6b0cf274e))
 * {{embed [[渗出液与漏出液的比较]]}}

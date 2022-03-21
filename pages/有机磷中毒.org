@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 15B94A87-8ACD-4FD6-8235-380E9F02F2F9
+:END:
+
 * 发病机制: Ach→AchE→乙酸+胆碱
 * 临床表现
 ** M样症状(毒蕈碱)

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: F875DC9A-69FB-4A80-978B-9D177AFF8733
+:END:
 #+title: 2002年/Text1
 
 * Comparisons were drawn between the development of television in the 20th century and the [[diffusion]]  of printing in the 15th and 16th centuries.
@@ -31,22 +34,99 @@ diffusion意为传播；扩散”，printing特指“印刷术”，故the diffu
 *** 官译:然而,这两个时间段之间发生了许多事
 *** 反思:
 :PROPERTIES:
-:collapsed: true
 :END:
-**** {{embed [[生词本]]}}
+**** [[生词本]]
 **** 语法
 ***** much作为代词为主语大量许多
 **** 翻译
 * As was discussed before, it was not until the 19th century that the newspaper became the dominant pre-electronic medium, following in the wake of the pamphlet and the book and in the
+:PROPERTIES:
+:collapsed: true
+:END:
 company of the periodical.
 ** 逐句翻译
 :PROPERTIES:
+:collapsed: true
 :END:
 *** 手译:就像在之前讨论的那样,并非直到19世纪.报纸才成为占据主导地位的非电子媒介跟,跟随着小册子和书的苏醒和周刊公司
 *** 官译:全句经整合可译为“正如前面所讲，直到19世纪，报纸才继宣传册和图书之后，在期刊的陪伴下，成为了电子时代到来前最有影响力的传播媒介”。
 *** 反思:
-**** {{embed [[生词本]]}}
+**** [[生词本]]
 **** 语法
+***** 1.主句的主干：
+:PROPERTIES:
+:collapsed: true
+:END:
+****** the newspaper became the dominant pre-electronic medium
+******* 主干为主系表结构（A became B）。表语核心词medium（pl.media）表示“（传播信息的）媒介，手段”：修饰语dominant意为“最重要的：最强大的：最有影响力的”，说明地位；修饰语pre-electronic“前电子时代的”指向时间：故表语整体可译为“电子时代到来前最有影响力的传播媒介”。主句主干整体可译为“报纸成为了电子时代到来前最有影响力的传播媒介”。
+****** 2.[[强调句型]]：it was not until the19 h century that-主句的主干
+本句为＂^^it was＋被强调部分＋tha..强调句型^^，其中时间状语（not）until the 19 th century为被强调的内容，翻译时，应着重突出时间状语，整体可译为“直到19世纪，报纸才成为了电子时代到来前最有影响力的传播媒介”。
+注：until与表变化，完成的动词连用时，一般采用not until.形式，如本句的原形为The newspaper didn't become the dominant pre-electronic medium until the19 the century.，对这一句型进行强调时，应将not提前，采用^^“It was not until-时间状语＋that＋主句”^^句式。
+****** 3.[[伴随状语]]：following in the wake of...and in the company of.
+现在分词短语（following.…）和介词短语（in ...）分别作伴随状语，补充说明主干动作发生所伴随的状态
+(1）following in the wake of the pamphlet and the book
+ <span style="color:red;">follow in the wake of sth</span>本身均可表示“随……之后而来：跟随在……后”，二者连用有两重作用：
+1. 强调”在…… 之后” （时间先后关系） ； 
+2. 暗示“.. …· 促使了主句情形的产生”（因果逻辑关系） 。
+pamphlet 指“小册子； 宣传册＂ 。该部分可译为＂（报纸）继宣传册和图书之后” 。
+(2) in the company of the periodical
+[[company]] 为熟词僻义，意为＂陪伴；做伴", in the company of sth 为固定用法，表示“ 和…… 一起；
+在……的陪伴下”（ 同时发生，并行关系） 。periodical 源自period （周期；时期） ， 表示”期刊；杂志＂ 。该部分可译为＂（报纸）在期刊的陪伴下” 。
+#+BEGIN_QUOTE
+注： in the wake of 和in the company of 并非由and 连接的并列关系； 因为following ( in the wake of)
+表示先后关系，而in the company of 表示同时关系， following 不可与i n the company of 搭配。
+#+END_QUOTE
+****** 4. 全句的非限制性定语从句：As was discussed before
+As 作关系代词，指代整个主句，在从句中作主语，意为“正如”，故从句可译为“正如前面所讲”。常用的类似结构还有as is known to all（众所周知）、as is said above（正如前文所述）等。 [[id:6235ebfb-af0b-4876-826c-7d436b025f9b]]
 **** 翻译
-*
-*
+***** 逻辑梳理：整句翻译时可将定语从句置于句首，在主句前插入伴随状语，以明确事件发生的顺序
+* 4 It was during the same time that the communications revolution speeded up, [[beginning with ]] transport, the railway, and [[leading on]] through the telegraph, the telephone, radio, and motion pictures into the 20th-century world of the motor car and the airplane.
+:PROPERTIES:
+:collapsed: true
+:END:
+** 逐句翻译
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 手译:
+**** 正是同时.交流方式的革命也正开始随着交通铁路和通过电报,电话,收音机和动画 进入20实际世界的摩托车和飞机 而加速
+*** 官译:
+**** 全句经整合可译为“正是在这段时间，通信革命加快了步伐，从铁路运输开始，一路发展到电报、电话、无线电和电影，直到进入20世纪的汽车和飞机时代”。
+*** 反思:
+**** [[生词本]]
+**** 语法
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 3.伴随状语：beginning with ... and leading on ...
+并列的现在分词短语作伴随状语，说明通信革命加速发展的历程。begin with sth表示“以…开
+始”；lead本义为“带路；引领”，on作副词表示“继续向前地；再向前地”，故lead on表示“继续发展；引领……继续往前”，如He led his forces on in gallant style.他英姿飒爽地继续率部前进。该并列结构可译
+为“从…开始，并继续发展……
+（1）（beginning）with transport，the railway
+transport意为“交通运输系统”，the railway作transport的同位语（对其进一步明确），二者整体指向
+“铁路运输”。故本部分可译为“从铁路运输开始”。
+（2）（leading on) through the telegraph，the telephone，radio，and motion pictures into the 20th century world of the motor car and the airplane
+through.into..作状语，补充介绍通信革命加速发展的具体过程，表示“经过……进入……
+此处through意为“通过（障碍、阶段或测试）”，体现通信革命一步一步地艰难跨越技术的障碍，后
+接通信革命加速发展的具体历程（电报→电话→无线电一→电影）。into意为“直到（一段时间的某
+个点）”，后接经过一系列发展后进入的时期或状态（20世纪的汽车和飞机时代），其中motion
+picture意为“电影”。
+**** 翻译
+* 5 Not everyone sees that process in [[perspective]].
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译: 并不是每个人都敏锐察觉了那个过程
+*** 官译: 全句经整合可译为“并不是每一个人都能正确地看待这一进程”。
+*** 反思:
+**** [[生词本]]
+**** 语法
+***** Not与everyone连用，表示部分否定，可译为“并非每个人都…”。see为熟词僻义，意为“认为看待”。that process代指③④句中“通信革命的发展进程”。注：not＋all/both/everyone/everybody/everything及not＋every＋名词表示部分否定。
+in后接抽象名词，可表示“在……（状态或状况）中”，如in order（秩序井然）。perspective为熟词僻义，意为“客观判断力”，故in perspective表示“（看待事物）有判断力地，合理地”，如judge sb＇＇s role inperspective（合理地评价某人的作用）。与之相对，out of perspective则表示“（看待事物）不正确地，轻重倒置地”。in perspective此处作方式状语，说明看待上述通信革命进程的方式。
+**** 翻译
+* 英语全书
+:PROPERTIES:
+:END:
+** {{embed [[file:./生词本.org][生词本]]}}
+** {{embed [[语法本]]}}
+** [[高级替换]]

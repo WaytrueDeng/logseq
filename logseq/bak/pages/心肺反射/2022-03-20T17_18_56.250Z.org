@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:	D12850ED-EE71-4B66-B7E2-A758F8F6857E
+:END:
+
+* {{embed ((622eeff9-e123-4b5a-b1e6-d83e16346c65))}}
+* {{embed ((622ef03d-4fcb-4942-b519-0f74f879a0d2))}}
+* 降低 [[ADH]]和 [[醛固酮]]

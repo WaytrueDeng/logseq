@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 44DF0198-5C3F-44C7-B9E6-02997FEBC60F
+:END:
+
 * 消化道的神经支配
 ** 自主N,O-----<ACH O--------<O/NA/ACH/VIP/NO/(效应器)
 ** 外来N

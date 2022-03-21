@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: CA5BE1AA-4E3C-4CDF-80C3-BD2F425FE5CC
+:END:
+
 #+title: 肿瘤/分类
 
 * 交界性肿瘤

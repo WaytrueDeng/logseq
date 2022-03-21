@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: BFF1AA9A-0F37-46EA-8ED0-9ADCC396817B
+:END:
+
 * 胃期胃液分泌
 * 胃运动
 * 胃排空

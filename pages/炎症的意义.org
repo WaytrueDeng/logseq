@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 6474DC91-128C-47E4-A488-E0A3485D2397
+:END:
+
 * 积极作用
 ** {{embed ((6231b9bc-9ebb-42f2-aa4b-3370aec9b99e))}}
 * 消极作用

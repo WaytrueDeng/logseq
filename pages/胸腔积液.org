@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: F5277822-3EEF-43DE-A1D6-4E75359F088E
+:END:
+
 * 解剖 #own #card
 :PROPERTIES:
 :collapsed: true

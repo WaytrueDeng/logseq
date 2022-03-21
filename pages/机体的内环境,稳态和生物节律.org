@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 4D94DCD8-9A1D-4ADE-980B-E8471B9D3C99
+:END:
+
 * 机体的内环境
 ** 体液 体重的60%  <span style="color:red;">分布在人体各部分的体液量不等</span>
 *** 细胞内液2/3 体重的40%

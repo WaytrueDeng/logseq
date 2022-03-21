@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       440de7fa-5a9c-480f-ae72-38762c99bc4f
+:END:
+#+ALIAS: 迷走N

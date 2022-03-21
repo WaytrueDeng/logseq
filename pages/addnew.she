@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:	ABA14891-CE21-4A2E-A9DD-53A4C8D2F807
+:END:
+
+:PROPERTIES:
+:ID:	47E91BEB-F155-4F1D-B3ED-C057C894D06C
+:END:
+
+#!/bin/sh
+for i in `ls ./`;
+	do
+	sed -ie "1i\\" $i;
+	done
+	

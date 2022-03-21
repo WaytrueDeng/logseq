@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: 0DEC7FAC-4A7E-45BD-B907-847B97EC393B
+:END:
+
 * 定义
 ** 镜下血尿 >3个RBC/HP VS [[白细胞尿]]>5个WBC/HP
 ** 肉眼血尿 >=1ml/L 尿 ([[洗肉水样]])

@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: D17A0309-63BD-4E46-8A79-ECDD617ACCCA
+:END:
+
 #+Alias: 胃泌素
 
 * 作用

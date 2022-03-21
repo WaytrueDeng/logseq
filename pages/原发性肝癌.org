@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID: CDA1D17A-952E-4458-9A46-8C2518C0CAEC
+:END:
+
 #+filters: {"dashboard" false}
 #+FILTERS: {"dashboard" true}
 
