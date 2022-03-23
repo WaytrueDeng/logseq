@@ -1,0 +1,9 @@
+{
+  "emacsyKeys": false,
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "legacyEditor": false,
+  "promptDelete": false
+}

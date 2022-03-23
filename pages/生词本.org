@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID: 2A20BE5B-5BB9-4AC9-B7EB-F00575B0D9ED
 :END:
+
 * 逐句翻译
 ** [[2002年/Text1]]
 *** [[2022-03-18]]
@@ -48,6 +49,13 @@
 ***** n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景；角度；（声音）立体效果
 adj. 透视的
 [ 复数 perspectives ]
+*** [[file:../journals/2022_03_22.org][2022-03-22]]
+**** [[introduction]] #熟词偏意
+**** [[integrated circuit]]
+**** [[radically]]
+*** [[file:../journals/2022_03_23.org][2022-03-23]]
+**** [[be thought of]]
+**** [[in terms of]]
 * [[红宝书]]
 ** [[2022-03-19]]
 *** token

@@ -3,163 +3,208 @@
 :END:
 
 * {{embed [[kanban]]}}
-* 西综
+* Total View
 #+BEGIN: clocktable :scope subtree :maxlevel 10
-#+CAPTION: Clock summary at [2022-03-21 Mon 17:03]
-| Headline                               | Time    |      |      |      |
-|----------------------------------------+---------+------+------+------|
-| *Total time*                           | *14:46* |      |      |      |
-|----------------------------------------+---------+------+------+------|
-| 西综                                   | 14:46   |      |      |      |
-| \_  [[内科学]]                             |         | 5:24 |      |      |
-| \_    循环系统                         |         |      | 5:24 |      |
-| \_      [[动脉粥样硬化]]和[[冠状动脉粥样硬化]] |         |      |      | 2:37 |
-| \_      [[高血压]]                         |         |      |      | 1:20 |
-| \_      [[心脏瓣膜病]]                     |         |      |      | 0:51 |
-| \_      [[感染性心内膜炎]]                 |         |      |      | 0:36 |
-| \_  病理学                             |         | 9:22 |      |      |
-| \_    [[免疫性疾病]]                       |         |      | 2:36 |      |
-| \_    [[file:./肿瘤.org][肿瘤]]                             |         |      | 3:11 |      |
-| \_    心血管系统疾病                   |         |      | 3:35 |      |
-| \_      [[id:5B3910D9-6D1E-4FF6-9169-9E4ABAC327D9][风湿病]]                         |         |      |      | 0:29 |
-| \_      [[id:080D09D7-E236-443C-AE1C-E08ADF627A5C][感染性心内膜炎]]                 |         |      |      | 0:07 |
-| \_      [[id:6C5E12EC-4D91-451D-8628-31C68BE2A3CB][心肌疾病]]                       |         |      |      | 0:31 |
-| \_      [[id:0637BD1F-E988-4699-84B9-F3C977273DFE][高血压]]                         |         |      |      | 0:18 |
-| \_      [[id:87AF71E8-F99F-4696-B04B-4EEAFDD26FE6][动脉粥样硬化]]                   |         |      |      | 2:10 |
+#+CAPTION: Clock summary at [2022-03-23 Wed 23:40:22]
+| Headline                                    | Time       |          |          |          |         |
+|---------------------------------------------+------------+----------+----------+----------+---------|
+| *Total time*                                | *31:46:00* |          |          |          |         |
+|---------------------------------------------+------------+----------+----------+----------+---------|
+| Total View                                  | 31:46:00   |          |          |          |         |
+| \_  西综                                    |            | 26:19:00 |          |          |         |
+| \_    生理学                                |            |          |  0:07:00 |          |         |
+| \_      绪论                                |            |          |          |  0:07:00 |         |
+| \_    [[内科学]]                                |            |          | 11:47:00 |          |         |
+| \_      循环系统                            |            |          |          | 11:47:00 |         |
+| \_        [[id:AB796970-016F-43E1-9294-B6A72F0CDA9E][心力衰竭]]                          |            |          |          |          | 1:42:00 |
+| \_        [[心律失常]]                          |            |          |          |          | 0:24:00 |
+| \_        [[动脉粥样硬化]]和[[冠状动脉粥样硬化]]... |            |          |          |          | 6:16:00 |
+| \_        [[高血压]]                            |            |          |          |          | 1:20:00 |
+| \_        [[心肌病]]                            |            |          |          |          | 0:38:00 |
+| \_        [[心脏瓣膜病]]                        |            |          |          |          | 0:51:00 |
+| \_        [[感染性心内膜炎]]                    |            |          |          |          | 0:36:00 |
+| \_    病理学                                |            |          | 14:25:00 |          |         |
+| \_      细胞和组织的[[适应]]和[[损伤]]              |            |          |          |  0:26:00 |         |
+| \_      [[损伤的修复]]                          |            |          |          |  0:05:00 |         |
+| \_      [[炎症]]                                |            |          |          |  0:29:00 |         |
+| \_      [[免疫性疾病]]                          |            |          |          |  2:36:00 |         |
+| \_      [[file:./肿瘤.org][肿瘤]]                                |            |          |          |  3:11:00 |         |
+| \_      呼吸系统                            |            |          |          |  0:44:00 |         |
+| \_      心血管系统疾病                      |            |          |          |  3:35:00 |         |
+| \_        [[id:5B3910D9-6D1E-4FF6-9169-9E4ABAC327D9][风湿病]]                            |            |          |          |          | 0:29:00 |
+| \_        [[id:080D09D7-E236-443C-AE1C-E08ADF627A5C][感染性心内膜炎]]                    |            |          |          |          | 0:07:00 |
+| \_        [[id:6C5E12EC-4D91-451D-8628-31C68BE2A3CB][心肌疾病]]                          |            |          |          |          | 0:31:00 |
+| \_        [[id:0637BD1F-E988-4699-84B9-F3C977273DFE][高血压]]                            |            |          |          |          | 0:18:00 |
+| \_        [[id:87AF71E8-F99F-4696-B04B-4EEAFDD26FE6][动脉粥样硬化]]                      |            |          |          |          | 2:10:00 |
+| \_      消化系统疾病                        |            |          |          |  3:19:00 |         |
+| \_        [[id:CE4B43F8-72F3-4990-85E5-13D4E313CBF7][慢性胃炎]]                          |            |          |          |          | 0:15:00 |
+| \_        [[id:8A73BC9E-2ACB-48C9-B48B-505BC4CF41E1][消化性溃疡]]                        |            |          |          |          | 0:11:00 |
+| \_        [[id:962592b3-3a97-4133-96e0-290ee2b834a0][消化道肿瘤]]                        |            |          |          |          | 1:17:00 |
+| \_        [[急性阑尾炎与急性胰腺炎]]            |            |          |          |          | 0:03:00 |
+| \_        病毒性肝炎和肝硬化                |            |          |          |          | 1:30:00 |
+| \_        [[id:CDA1D17A-952E-4458-9A46-8C2518C0CAEC][原发性肝癌]]                        |            |          |          |          | 0:03:00 |
+| \_  英语                                    |            |  5:27:00 |          |          |         |
+| \_    逐句翻译                              |            |          |  5:27:00 |          |         |
+| \_      [[id:F875DC9A-69FB-4A80-978B-9D177AFF8733][2002年/Text1]]                        |            |          |          |  5:27:00 |         |
 #+END:
-** {{embed ((62300ca7-df45-4b22-8b74-f9fedfc215b9))}}
-** black 3 days, red 8days orange 20 days green 30 days
-** 生理学
+
+
+** 西综
+*** {{embed ((62300ca7-df45-4b22-8b74-f9fedfc215b9))}}
+*** black 3 days, red 8days orange 20 days green 30 days
+*** 生理学
 :PROPERTIES:
 :collapsed: true
 :END:
-*** TODO 绪论
-SCHEDULED: <2022-03-23 Fri>
+**** TODO 绪论
+SCHEDULED: <2022-04-23 Sat +1m>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-23 Wed 19:59:00]
+:END:
+- CLOSING NOTE [2022-03-23 Wed 19:59:00] \\
+  0/27
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 19:44:53]--[2022-03-23 Wed 19:51:27] =>  0:07
+:END:
 [[Feb 23rd, 2022]]  <span style="color:green;">0/27</span>
-**** [[机体的内环境,稳态和生物节律]]
-**** [[机体生理功能的调节]]
-**** [[人体内自动控制系统]]
+***** [[机体的内环境,稳态和生物节律]]
+***** [[机体生理功能的调节]]
+***** [[人体内自动控制系统]]
 ****
-*** 细胞的基本功能 
+**** 细胞的基本功能
 <span style="color:orange;">9/119</span>
-**** TODO [[细胞膜的物质转运功能]] 
+***** TODO [[细胞膜的物质转运功能]]
 - 寒假  <span style="color:orange;">91%</span>
 - [[Feb 23rd, 2022]], [[Feb 25th, 2022]]  <span style="color:orange;">2/35</span>
-**** TODO [[细胞的信号转导]] 
+***** TODO [[细胞的信号转导]]
 - [[Mar 9th, 2022]]  <span style="color:white;background-color:black;">2/9</span>
-**** TODO [[细胞的电活动]]
+***** TODO [[细胞的电活动]]
 SCHEDULED: <2022-04-01 Fri>
 - 寒假  <span style="color:red;">8-50</span>
 - [[2022-03-10 Thursday]] - [[2022-03-11 Friday]]  <span style="color:orange;">5/66</span>
-**** TODO [[肌细胞的收缩]]
+***** TODO [[肌细胞的收缩]]
 SCHEDULED: <2022-04-12 Tue>
 - 寒假  <span style="color:red;">3/26</span>
 - [[2022-03-11 Friday]]- [[2022-03-12 Saturday]]    <span style="background-color:green;">100</span>
-*** 血液循环 
+**** 血液循环
 <span style="color:orange;">16/182</span>
-**** TODO [[心脏的泵血功能]] 
+***** TODO [[心脏的泵血功能]]
 - 寒假  <span style="color:black;background-color:orange;">mark</span>
 - [[2022-03-12 Saturday]]  <span style="background-color:orange;">mark</span>
-**** TODO [[心脏的电生理学及生理特性]] 
+***** TODO [[心脏的电生理学及生理特性]]
 - 寒假   <span style="background-color:red;">mark</span>
 - [[2022-03-13 Sunday]]  <span style="background-color:orange;">3/33</span>
-**** TODO [[血管生理]] [[冠脉循环]] [[2022-03-18]] 
+***** TODO [[血管生理]] [[冠脉循环]] [[2022-03-18]]
 - 寒假  <span style="background-color:red;">mark</span>
 - [[2022-3-13]]  <span style="background-color:orange;">5/65</span>
-**** TODO [[心脏活动的调节]] [[2022-03-18]]  
+***** TODO [[心脏活动的调节]] [[2022-03-18]]
 - 寒假  <span style="color:white;background-color:black;">mark</span>
 - [[2022-3-14]]  <span style="background-color:orange;">90%</span>
-*** 呼吸系统 2. <span style="background-color:red;">21/144</span>
-**** TODO [[肺通气]]
+**** 呼吸系统 2. <span style="background-color:red;">21/144</span>
+***** TODO [[肺通气]]
 - [[2022-2-21]]  <span style="background-color:red;">mark</span>
-**** TODO [[肺换气和组织换气]]
+***** TODO [[肺换气和组织换气]]
 - [[2022-2-21]] <span style="background-color:red;">mark</span>
-**** TODO [[气体O2/CO2在血液中的运输]]
-- [[2022-2-21]] <span style="background-color:red;">mark</span>
-- [[2022-2-22]] <span style="background-color:red;">mark</span>
-**** TODO [[呼吸运动的调节]]
+***** TODO [[气体O2/CO2在血液中的运输]]
 - [[2022-2-21]] <span style="background-color:red;">mark</span>
 - [[2022-2-22]] <span style="background-color:red;">mark</span>
-*** [[Mar 23rd, 2022]]
-** [[内科学]]
-*** 呼吸系统
-:PROPERTIES:
-:collapsed: true
-:END:
-**** [[慢性支气管炎]]与 [[COPD]]
+***** TODO [[呼吸运动的调节]]
+- [[2022-2-21]] <span style="background-color:red;">mark</span>
+- [[2022-2-22]] <span style="background-color:red;">mark</span>
+**** [[Mar 23rd, 2022]]
+*** [[内科学]]
+**** 呼吸系统
+***** [[慢性支气管炎]]与 [[COPD]]
 - [[2022-02-21]]
 - [[2022-02-23]]  <span style="background-color:red;">rank8/41</span>
-**** [[支气管哮喘]]
+***** [[支气管哮喘]]
 - [[2022-02-21]]
 - [[2022-02-24]]    <span style="color:white;background-color:black;">12/43</span>
-**** [[支气管扩张症]]
+***** [[支气管扩张症]]
 - [[2022-02-21]]
 -  [[2022-02-24]]-[[2022-02-25]]  <span style="background-color:red;">3/15</span>
-**** [[肺部感染性疾病]]
+***** [[肺部感染性疾病]]
 - [[2022-02-21]]
 - [[2022-02-25]]  <span style="background-color:red;">14/54</span>
-**** [[肺结核]]
+***** [[肺结核]]
 - [[2022-02-22]]
 - [[2022-02-27]] <span style="color:white;background-color:black;"> 8/27</span>
-**** [[肺癌]]
-**** [[间质性疾病]]
+***** [[肺癌]]
+***** [[间质性疾病]]
 - [[2022-02-21]]
 - [[2022-02-28]]-[[2022-03-02]]  <span style="background-color:green;">mark</span>
-**** [[肺栓塞]] 
+***** [[肺栓塞]]
 - [[2022-02-21]]
-**** [[肺动脉高压]]与 [[肺源性心脏病]]
+***** [[肺动脉高压]]与 [[肺源性心脏病]]
 - [[2022-02-21]]
 - [[2022-03-02]]  <span style="background-color:red;">2/14</span>
-**** [[胸膜疾病]]
+***** [[胸膜疾病]]
 - [[2022-02-22]]
-**** [[ARDS]]
+***** [[ARDS]]
 - [[2022-02-22]]
 - [[2022-03-12]]  <span style="background-color:green;">mark</span>
-**** [[呼吸衰竭]]与[[呼吸支持技术]]
+***** [[呼吸衰竭]]与[[呼吸支持技术]]
 - [[2022-02-22]]
 - [[2022-03-12]]  <span style="color:white;background-color:black;">mark</span>
-*** 消化系统
+**** 消化系统
 :PROPERTIES:
 :collapsed: true
 :END:
-**** TODO 消化系统总论
-**** TODO [[胃食管反流病]]
+***** TODO 消化系统总论
+***** TODO [[胃食管反流病]]
 - [[2022-02-22]]
-**** TODO [[胃炎]]
+***** TODO [[胃炎]]
 - [[2022-02-23]]
-**** TODO [[消化性溃疡]]
+***** TODO [[消化性溃疡]]
 - [[2022-02-23]]
-**** TODO [[肠结核]]和 [[结核性腹膜炎]]
+***** TODO [[肠结核]]和 [[结核性腹膜炎]]
 - [[2022-02-23]]
-**** TODO [[炎症性肠病]]
+***** TODO [[炎症性肠病]]
 - [[2022-02-24]]
-**** TODO [[结直肠癌]]
-**** TODO [[功能性胃肠病]]
+***** TODO [[结直肠癌]]
+***** TODO [[功能性胃肠病]]
 - [[2022-02-24]]
-**** TODO [[自身免疫性肝病]]
-**** TODO [[肝硬化]]
+***** TODO [[自身免疫性肝病]]
+***** TODO [[肝硬化]]
 - [[2022-02-24]]
-**** TODO [[原发性肝癌]]
+***** TODO [[原发性肝癌]]
 - [[2022-02-26]]
-**** TODO [[胰腺炎]]
-**** TODO [[消化道出血]]
+***** TODO [[胰腺炎]]
+***** TODO [[消化道出血]]
 ****
-*** 循环系统
+**** 循环系统
 :PROPERTIES:
+:collapsed: true
 :END:
-**** TODO [[循环系统总论]]
-**** TODO [[心力衰竭]]
-- [[2022-02-28]]-[[2022-03-01]]
-**** TODO [[心律失常]]
-- [[2022-03-06]]
-**** TODO [[动脉粥样硬化]]和[[冠状动脉粥样硬化]]
+***** TODO [[循环系统总论]]
+***** TODO [[id:AB796970-016F-43E1-9294-B6A72F0CDA9E][心力衰竭]]
 :LOGBOOK:
-CLOCK: [2022-03-18 Fri 20:43:13]--[2022-03-18 Fri 22:05:34] =>  01:22:21
-CLOCK: [2022-03-19 Sat 17:22:14]--[2022-03-19 Sat 18:37:47] =>  01:15:33
+CLOCK: [2022-03-22 Tue 19:32:33]--[2022-03-22 Tue 21:14:55] =>  1:42
 :END:
-***** [[2022-03-05]]
-***** [[file:../journals/2022_03_18.org][2022-03-18]], [[file:../journals/2022_03_19.org][2022-03-19]]
-**** TODO [[高血压]]
+- [[2022-02-28]]-[[2022-03-01]]
+***** TODO [[心律失常]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 20:40:30]--[2022-03-23 Wed 21:04:22] =>  0:24
+:END:
+- [[2022-03-06]]
+***** TODO [[动脉粥样硬化]]和[[冠状动脉粥样硬化]] [[id:0B6F217E-D5C5-42F9-8F17-07F0CC501E48][冠心病]]
+SCHEDULED: <2022-03-25 Fri +3d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-22 Tue 18:09:17]
+:END:
+- CLOSING NOTE [2022-03-22 Tue 18:09:17] \\
+  65%
+:LOGBOOK:
+CLOCK: [2022-03-22 Tue 16:09:23]--[2022-03-22 Tue 17:57:58] =>  1:48
+CLOCK: [2022-03-22 Tue 15:23]--[2022-03-22 Tue 15:37] =>  0:14
+CLOCK: [2022-03-22 Tue 12:08]--[2022-03-22 Tue 13:45] =>  1:37
+CLOCK: [2022-03-18 Fri 20:43:13]--[2022-03-18 Fri 22:05:34] =>  1:22
+CLOCK: [2022-03-19 Sat 17:22:14]--[2022-03-19 Sat 18:37:47] =>  1:15
+CLOCK: [2022-03-22 Tue 15:41:50]--[2022-03-22 Tue 15:41:51] =>  00:00:01
+:END:
+****** [[2022-03-05]]
+****** [[file:../journals/2022_03_18.org][2022-03-18]], [[file:../journals/2022_03_19.org][2022-03-19]] [[file:./2022-03-22.org]]
+***** TODO [[高血压]]
 SCHEDULED: <2022-03-28 Mon +8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-21 Mon 01:18]
@@ -168,10 +213,10 @@ SCHEDULED: <2022-03-28 Mon +8d>
 :LOGBOOK:
 CLOCK: [2022-03-20 Sun 18:44:38]--[2022-03-20 Sun 20:04:37] =>  01:19:59
 :END:
-***** [[2022-03-05]]
-***** [[2022-03-17]]  <span style="color:white;background-color:black;">63.2%</span>
-***** [[file:../journals/2022_03_20.org][2022-03-20]] <span style="background-color:red;"> 89.5%</span>
-**** TODO [[心肌病]]
+****** [[2022-03-05]]
+****** [[2022-03-17]]  <span style="color:white;background-color:black;">63.2%</span>
+****** [[file:../journals/2022_03_20.org][2022-03-20]] <span style="background-color:red;"> 89.5%</span>
+***** TODO [[心肌病]]
 SCHEDULED: <2022-03-28 Mon +8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-21 Mon 19:00]
@@ -182,24 +227,23 @@ CLOCK: [2022-03-21 Mon 18:19:41]--[2022-03-21 Mon 18:57:45] =>  00:38:04
 - [[2022-03-04]]
 - [[2022-03-17]] <span style="color:white;background-color:black;"> 65.8%</span>
 - CLOSING NOTE [2022-03-21 Mon 19:00]  <span style="background-color:red;">86.8%</span>
-**** TODO [[心脏瓣膜病]]
+***** TODO [[心脏瓣膜病]]
 SCHEDULED: <2022-03-28 Mon +8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-21 Mon 17:00]
 :END:
-- CLOSING NOTE [2022-03-21 Mon 17:00] \\
-  84.8%
 :LOGBOOK:
 CLOCK: [2022-03-21 Mon 13:54:24]--[2022-03-21 Mon 13:54:25] =>  00:00:01
 CLOCK: [2022-03-21 Mon 15:19:21]--[2022-03-21 Mon 16:10:49] =>  00:51:28
 :END:
 - [[2022-03-05]]
 - [[2022-03-15]]  <span style="color:white;background-color:black;">69%</span>
-**** TODO [[心包疾病]]
+- CLOSING NOTE [2022-03-21 Mon 17:00]  <span style="background-color:red;">  84.8%</span>
+***** TODO [[心包疾病]]
 SCHEDULED: <2022-03-25 Fri>
 - [[2022-03-04]]
 - [[2022-03-17]]  <span style="background-color:red;">84%</span>
-**** TODO [[感染性心内膜炎]]
+***** TODO [[感染性心内膜炎]]
 SCHEDULED: <2022-04-04 Mon +15d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-21 Mon 01:16]
@@ -209,87 +253,114 @@ CLOCK: [2022-03-20 Sun 20:45:27]--[2022-03-20 Sun 21:21:10] =>  00:35:43
 CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 :END:
 - State "DONE"       from "TODO"       [2022-03-21 Mon 01:16]
-***** [[2022-03-05]]
-***** [[2022-03-17]]  <span style="color:white;background-color:black;">77%</span>
-***** [[file:../journals/2022_03_20.org][2022-03-20]]  <span style="background-color:orange;">90.9%</span>
-**** TODO [[心脏骤停]]与 [[心脏性猝死]]
+****** [[2022-03-05]]
+****** [[2022-03-17]]  <span style="color:white;background-color:black;">77%</span>
+****** [[file:../journals/2022_03_20.org][2022-03-20]]  <span style="background-color:orange;">90.9%</span>
+***** TODO [[心脏骤停]]与 [[心脏性猝死]]
 - [[2022-03-05]]
 ****
-*** 泌尿系统
+**** 泌尿系统
 :PROPERTIES:
 :collapsed: true
 :END:
-**** TODO [[泌尿系统总论]]
-**** TODO [[原发性肾小球疾病]]
-**** TODO [[间质性肾炎]]
-**** TODO [[尿路感染]]
-**** TODO [[肾小管疾病]]
-**** TODO [[肾血管疾病]]
-**** TODO [[急性肾损伤]]
-**** TODO [[慢性肾衰竭]]
+***** TODO [[泌尿系统总论]]
+***** TODO [[原发性肾小球疾病]]
+***** TODO [[间质性肾炎]]
+***** TODO [[尿路感染]]
+***** TODO [[肾小管疾病]]
+***** TODO [[肾血管疾病]]
+***** TODO [[急性肾损伤]]
+***** TODO [[慢性肾衰竭]]
 ****
-*** 内分泌系统疾病
+**** 内分泌系统疾病
 :PROPERTIES:
 :collapsed: true
 :END:
-**** TODO [[内分泌系统总论]]
-**** TODO [[甲亢]]
+***** TODO [[内分泌系统总论]]
+***** TODO [[甲亢]]
 - [[2022-03-10]]
-**** TODO [[甲减]]
+***** TODO [[甲减]]
 - [[2022-03-11]]
-**** TODO [[甲状腺炎]]
+***** TODO [[甲状腺炎]]
 - [[2022-03-11]]
-**** TODO [[库欣综合征]]
+***** TODO [[库欣综合征]]
 - [[2022-03-11]]
-**** TODO [[原醛]]
+***** TODO [[原醛]]
 - [[2022-03-11]]
-**** TODO [[嗜铬细胞瘤]]
+***** TODO [[嗜铬细胞瘤]]
 - [[2022-03-11]]
-**** TODO [[伴瘤内分泌综合征]]
+***** TODO [[伴瘤内分泌综合征]]
 - [[2022-03-11]]
-**** TODO [[糖尿病]]
+***** TODO [[糖尿病]]
 - [[2022-03-11]]
-**** TODO [[低血糖症]]
+***** TODO [[低血糖症]]
 - [[2022-03-11]]
 ****
-*** 风湿系统疾病
+**** 风湿系统疾病
 :PROPERTIES:
 :collapsed: true
 :END:
-**** TODO [[风湿系统总论]]
+***** TODO [[风湿系统总论]]
 - [[2022-03-11]]
-**** TODO [[类风关]]
+***** TODO [[类风关]]
 - [[2022-03-12]]
-**** TODO [[SLE]]
+***** TODO [[SLE]]
 - [[2022-03-12]]
-**** TODO [[pSS]]
+***** TODO [[pSS]]
 - [[2022-03-12]]
-**** TODO [[血管炎]]
+***** TODO [[血管炎]]
 - [[2022-03-12]]
-**** TODO [[贝赫切特病]]
+***** TODO [[贝赫切特病]]
 - [[2022-03-12]]
-*** 中毒
+**** 中毒
 :PROPERTIES:
 :collapsed: true
 :END:
-**** TODO 急性重毒 
+***** TODO 急性重毒
 - [[2022-03-12]]
-** 病理学
-*** {{embed ((622d3b98-2b4b-4b3d-b043-15706781c989))}}
+*** 病理学
+**** {{embed ((622d3b98-2b4b-4b3d-b043-15706781c989))}}
 [[病理学医考帮真题]]
-*** TODO 细胞和组织的[[适应]]和[[损伤]] 
-SCHEDULED: <2022-03-21 Mon>
-**** - [[2022-03-13]]  <span style="background-color:red;">9/77</span>
-*** TODO [[损伤的修复]]
-SCHEDULED: <2022-03-22 Tue>
-**** - [[2022-03-14]]-[[2022-03-15]]  <span style="background-color:red;">84%</span>
-*** TODO ^^[[局部血液循环障碍]]^^
-SCHEDULED: <2022-03-23 Wed>
-**** - [[2022-03-15]]-[[2022-03-16]]  <span style="background-color:red;">81.5%</span>
-*** TODO [[炎症]]
-SCHEDULED: <2022-03-23 Wed>
-**** [[2022-03-16]]   <span style="background-color:red;">81.4%</span>
-*** TODO [[免疫性疾病]]
+**** TODO 细胞和组织的[[适应]]和[[损伤]]
+SCHEDULED: <2022-03-26 Sat +5d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-21 Mon 20:51]
+:END:
+:LOGBOOK:
+CLOCK: [2022-03-21 Mon 20:24]--[2022-03-21 Mon 20:50] =>  0:26
+:END:
+- [[2022-03-13]]  <span style="background-color:red;">9/77</span>
+- CLOSING NOTE [2022-03-21 Mon 20:51]  <span style="background-color:red;">81.4%</span>
+****
+**** TODO [[损伤的修复]]
+SCHEDULED: <2022-03-30 Wed +8d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-22 Tue 18:17:42]
+:END:
+- [[2022-03-14]]-[[2022-03-15]]  <span style="background-color:red;">84%</span>
+- CLOSING NOTE [2022-03-22 Tue 18:17:42] 88%
+:LOGBOOK:
+CLOCK: [2022-03-22 Tue 18:11:02]--[2022-03-22 Tue 18:16:48] =>  0:05
+:END:
+**** TODO ^^[[局部血液循环障碍]]^^
+SCHEDULED: <2022-03-31 Thu +8d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-23 Wed 19:03:03]
+:END:
+- CLOSING NOTE [2022-03-23 Wed 19:03:03] \\88.9%
+***** - [[2022-03-15]]-[[2022-03-16]]  <span style="background-color:red;">81.5%</span>
+**** TODO [[炎症]]
+SCHEDULED: <2022-04-12 Tue +20d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-03-23 Wed 20:28:56]
+:END:
+- CLOSING NOTE [2022-03-23 Wed 20:28:56] \\
+  94.3%
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 19:59:39]--[2022-03-23 Wed 20:28:15] =>  0:29
+:END:
+***** [[2022-03-16]]   <span style="background-color:red;">81.4%</span>
+**** TODO [[免疫性疾病]]
 SCHEDULED: <2022-03-26 Sat>
 :PROPERTIES:
 :id: 6233eec4-1754-4408-b6a4-f8836193062d
@@ -300,8 +371,8 @@ CLOCK: [2022-03-18 Fri 14:33:02]--[2022-03-18 Fri 15:50:53] =>  01:17:51
 CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
 CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
 :END:
-**** [[2022-03-18]]  <span style="background-color:red;">81.1%</span>
-*** TODO [[file:./肿瘤.org][肿瘤]]
+***** [[2022-03-18]]  <span style="background-color:red;">81.1%</span>
+**** TODO [[file:./肿瘤.org][肿瘤]]
 SCHEDULED: <2022-03-27 Sun>
 :PROPERTIES:
 :id: 623545c2-22f2-42f5-98ae-bdabd2f58feb
@@ -311,8 +382,13 @@ CLOCK: [2022-03-19 Sat 11:26:55]--[2022-03-19 Sat 12:42:58] =>  01:16:03
 CLOCK: [2022-03-19 Sat 14:51:32]--[2022-03-19 Sat 16:06:21] =>  01:14:49
 CLOCK: [2022-03-19 Sat 16:37:28]--[2022-03-19 Sat 17:17:31] =>  00:40:03
 :END:
-**** [[file:../journals/2022_03_19.org][2022-03-19]]  <span style="background-color:red;">80%</span>
-*** TODO 心血管系统疾病
+***** [[file:../journals/2022_03_19.org][2022-03-19]]  <span style="background-color:red;">80%</span>
+**** TODO 呼吸系统
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 21:04:32]--[2022-03-23 Wed 21:48:00] =>  0:44
+:END:
+***** [[file:./COPD.org][COPD]]
+**** TODO 心血管系统疾病
 SCHEDULED: <2022-03-29 Tue +8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-21 Mon 13:52]
@@ -322,36 +398,67 @@ CLOCK: [2022-03-21 Mon 13:53:10]--[2022-03-21 Mon 13:53:11] =>  00:00:01
 CLOCK: [2022-03-21 Mon 13:54:15]--[2022-03-21 Mon 13:54:16] =>  00:00:01
 :END:
 - CLOSING NOTE [2022-03-21 Mon 13:52]  <span style="background-color:red;">86.5%</span>
-**** TODO [[id:5B3910D9-6D1E-4FF6-9169-9E4ABAC327D9][风湿病]]
+***** TODO [[id:5B3910D9-6D1E-4FF6-9169-9E4ABAC327D9][风湿病]]
 :LOGBOOK:
 CLOCK: [2022-03-20 Sun 12:03]--[2022-03-20 Sun 12:10] =>  0:07
 CLOCK: [2022-03-20 Sun 11:39:17]--[2022-03-20 Sun 12:01:46] =>  00:22:29
 :END:
-**** TODO [[id:080D09D7-E236-443C-AE1C-E08ADF627A5C][感染性心内膜炎]]
+***** TODO [[id:080D09D7-E236-443C-AE1C-E08ADF627A5C][感染性心内膜炎]]
 :LOGBOOK:
 CLOCK: [2022-03-20 Sun 12:47]--[2022-03-20 Sun 12:54] =>  0:07
 :END:
-**** TODO [[id:6C5E12EC-4D91-451D-8628-31C68BE2A3CB][心肌疾病]]
+***** TODO [[id:6C5E12EC-4D91-451D-8628-31C68BE2A3CB][心肌疾病]]
 :LOGBOOK:
 CLOCK: [2022-03-20 Sun 13:35]--[2022-03-20 Sun 13:38] =>  0:03
 CLOCK: [2022-03-20 Sun 13:05]--[2022-03-20 Sun 13:33] =>  0:28
 :END:
-**** TODO [[id:0637BD1F-E988-4699-84B9-F3C977273DFE][高血压]]
+***** TODO [[id:0637BD1F-E988-4699-84B9-F3C977273DFE][高血压]]
 :LOGBOOK:
 CLOCK: [2022-03-21 Mon 09:29]--[2022-03-21 Mon 09:42] =>  0:13
 CLOCK: [2022-03-21 Mon 09:13]--[2022-03-21 Mon 09:18] =>  0:05
 :END:
-**** TODO [[id:87AF71E8-F99F-4696-B04B-4EEAFDD26FE6][动脉粥样硬化]]
+***** TODO [[id:87AF71E8-F99F-4696-B04B-4EEAFDD26FE6][动脉粥样硬化]]
 :LOGBOOK:
 CLOCK: [2022-03-21 Mon 12:54]--[2022-03-21 Mon 13:40] =>  0:46
 CLOCK: [2022-03-21 Mon 11:15]--[2022-03-21 Mon 12:30] =>  1:15
 CLOCK: [2022-03-21 Mon 10:04]--[2022-03-21 Mon 10:13] =>  0:09
 :END:
-* 英语
-** 逐句翻译
-*** TODO [[id:F875DC9A-69FB-4A80-978B-9D177AFF8733][2002年/Text1]]
+**** TODO 消化系统疾病
+***** TODO [[id:CE4B43F8-72F3-4990-85E5-13D4E313CBF7][慢性胃炎]]
 :LOGBOOK:
-CLOCK: [2022-03-18 Fri 22:30:57]--[2022-03-19 Sat 00:20:35] =>  01:49:38
-CLOCK: [2022-03-19 Sat 22:04:35]--[2022-03-19 Sat 23:34:18] =>  01:29:43
+CLOCK: [2022-03-23 Wed 11:55:09]--[2022-03-23 Wed 12:10:17] =>  0:15
 :END:
-** [[@句句真研]]
+***** TODO [[id:8A73BC9E-2ACB-48C9-B48B-505BC4CF41E1][消化性溃疡]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 12:26:40]--[2022-03-23 Wed 12:37:22] =>  00:10:42
+:END:
+***** TODO [[id:962592b3-3a97-4133-96e0-290ee2b834a0][消化道肿瘤]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 16:38:14]--[2022-03-23 Wed 16:58:11] =>  0:20
+CLOCK: [2022-03-23 Wed 12:49:53]--[2022-03-23 Wed 13:46:13] =>  0:57
+:END:
+***** TODO [[急性阑尾炎与急性胰腺炎]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 17:01:38]--[2022-03-23 Wed 17:04:41] =>  0:03
+:END:
+***** TODO 病毒性肝炎和肝硬化
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 17:55:22]--[2022-03-23 Wed 19:03:54] =>  1:08
+CLOCK: [2022-03-23 Wed 17:14:11]--[2022-03-23 Wed 17:36:41] =>  0:22
+:END:
+****** [[肝脏组胚]]
+***** TODO [[id:CDA1D17A-952E-4458-9A46-8C2518C0CAEC][原发性肝癌]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 19:25:31]--[2022-03-23 Wed 19:28:50] =>  0:03
+:END:
+**** TODO 泌尿系统
+** 英语
+*** 逐句翻译
+**** TODO [[id:F875DC9A-69FB-4A80-978B-9D177AFF8733][2002年/Text1]]
+:LOGBOOK:
+CLOCK: [2022-03-23 Wed 22:01:19]--[2022-03-23 Wed 23:08:11] =>  1:07
+CLOCK: [2022-03-18 Fri 22:30:57]--[2022-03-19 Sat 00:20:35] =>  1:50
+CLOCK: [2022-03-19 Sat 22:04:35]--[2022-03-19 Sat 23:34:18] =>  01:29:43
+CLOCK: [2022-03-22 Tue 22:05:46]--[2022-03-22 Tue 23:05:00] =>  1:00
+:END:
+*** [[@句句真研]]

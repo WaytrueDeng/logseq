@@ -232,6 +232,9 @@
  {:block/name "2022-03-21",
   :block/created-at 1647792001937,
   :block/updated-at 1647792001937}
+ {:block/name "2022-03-22",
+  :block/created-at 1647920069911,
+  :block/updated-at 1647920069911}
  {:block/name "20220320125556-心肌疾病",
   :block/created-at 1647770828741,
   :block/updated-at 1647770828741}
@@ -1630,6 +1633,9 @@
  {:block/name "6237257b-1bbb-4c2a-af74-7f8699b155b4",
   :block/created-at 1647781582679,
   :block/updated-at 1647781582679}
+ {:block/name "62376213-68d9-47b8-8848-9d7c8618392c",
+  :block/created-at 1647934311297,
+  :block/updated-at 1647934311297}
  {:block/name "6237621b-6712-4e9c-86c8-80ddf94af892",
   :block/created-at 1647848585415,
   :block/updated-at 1647848585415}
@@ -1678,6 +1684,9 @@
  {:block/name "[胃容受性舒张",
   :block/created-at 1646741477218,
   :block/updated-at 1646741477218}
+ {:block/name "_+title_ 心梗后综合征",
+  :block/created-at 1647923609144,
+  :block/updated-at 1647923609144}
  {:block/name "a",
   :block/created-at 1646741477207,
   :block/updated-at 1646741477207}
@@ -1801,6 +1810,12 @@
  {:block/name "aschoff小体",
   :block/created-at 1647318157032,
   :block/updated-at 1647318157032}
+ {:block/name "assets",
+  :block/created-at 1647952353019,
+  :block/updated-at 1647952353019}
+ {:block/name "assets/pasted image 20220322201853_455.png",
+  :block/created-at 1647952295365,
+  :block/updated-at 1647952295365}
  {:block/name "at1受体",
   :block/created-at 1647245790599,
   :block/updated-at 1647245790599}
@@ -2109,7 +2124,7 @@
   :block/updated-at 1646741477213}
  {:block/name "dashboard",
   :block/created-at 1647770821703,
-  :block/updated-at 1647860516261}
+  :block/updated-at 1647934911298}
  {:block/name "development",
   :block/created-at 1647621018492,
   :block/updated-at 1647621018492}
@@ -2155,6 +2170,15 @@
  {:block/name "draw comparisons",
   :block/created-at 1647621018491,
   :block/updated-at 1647621018491}
+ {:block/name "drawing 2022-03-22 20",
+  :block/created-at 1647951430740,
+  :block/updated-at 1647951430740}
+ {:block/name "drawing 2022-03-22 20/17",
+  :block/created-at 1647951430740,
+  :block/updated-at 1647951430740}
+ {:block/name "drawing 2022-03-22 20/17/08",
+  :block/created-at 1647951430741,
+  :block/updated-at 1647951430741}
  {:block/name "du",
   :block/created-at 1646741477211,
   :block/updated-at 1646741477211}
@@ -2242,6 +2266,9 @@
  {:block/name "ff",
   :block/created-at 1646741477213,
   :block/updated-at 1646741477213}
+ {:block/name "file_./2022-03-22.org",
+  :block/created-at 1647934676967,
+  :block/updated-at 1647934676967}
  {:block/name "file_///users/waytrue/zotero/storage/j5f4pli3/生理学.pdf",
   :block/created-at 1647247282367,
   :block/updated-at 1647247282367}
@@ -2249,6 +2276,9 @@
   "file_///users/waytrue/zotero/storage/kl9vd57x/internal_medicine.pdf",
   :block/created-at 1646741477213,
   :block/updated-at 1646741477213}
+ {:block/name "forrester分类",
+  :block/created-at 1647924321530,
+  :block/updated-at 1647924321530}
  {:block/name "frank-starling机制",
   :block/created-at 1646741477216,
   :block/updated-at 1646741477216}
@@ -2636,6 +2666,9 @@
  {:block/name "kf",
   :block/created-at 1646741477216,
   :block/updated-at 1646741477216}
+ {:block/name "killip分级",
+  :block/created-at 1647924132855,
+  :block/updated-at 1647924132855}
  {:block/name "kronig峡",
   :block/created-at 1646741477208,
   :block/updated-at 1646741477208}
@@ -3169,7 +3202,7 @@
   :block/updated-at 1646741477214}
  {:block/name "st段抬高型心肌梗死",
   :block/created-at 1647607453970,
-  :block/updated-at 1647607679137}
+  :block/updated-at 1647940234477}
  {:block/name "t-h蛋白",
   :block/created-at 1646741477214,
   :block/updated-at 1646741477214}
@@ -4114,12 +4147,15 @@
  {:block/name "内皮舒张因子",
   :block/created-at 1646741477207,
   :block/updated-at 1646741477207}
+ {:block/name "内科_心力衰竭含串讲_天天师兄22考研_1647949694638_0.png",
+  :block/created-at 1647951468347,
+  :block/updated-at 1647951468347}
  {:block/name "内科学",
   :block/created-at 1646741477208,
   :block/updated-at 1646741477208}
  {:block/name "内科学医考帮考研真题",
   :block/created-at 1646221222909,
-  :block/updated-at 1647858740482}
+  :block/updated-at 1647933705883}
  {:block/name "内脏疼痛反射",
   :block/created-at 1646741477208,
   :block/updated-at 1646741477208}
@@ -4143,7 +4179,7 @@
   :block/updated-at 1646741477214}
  {:block/name "冠心病",
   :block/created-at 1646455543695,
-  :block/updated-at 1647686453524}
+  :block/updated-at 1647937122997}
  {:block/name "冠心病/分类",
   :block/created-at 1647609356439,
   :block/updated-at 1647609356562}
@@ -5179,9 +5215,6 @@
  {:block/name "微小病变性肾病",
   :block/created-at 1646741477206,
   :block/updated-at 1646741477206}
- {:block/name "心力衰竭",
-  :block/created-at 1646272455635,
-  :block/updated-at 1646287774727}
  {:block/name "心功能不全",
   :block/created-at 1647607599278,
   :block/updated-at 1647607599278}
@@ -5571,7 +5604,7 @@
   :block/updated-at 1646741477213}
  {:block/name "损伤",
   :block/created-at 1647770788880,
-  :block/updated-at 1647770788880}
+  :block/updated-at 1647921701241}
  {:block/name "损伤性骨化",
   :block/created-at 1647138507167,
   :block/updated-at 1647138507167}
@@ -6798,7 +6831,7 @@
   :block/updated-at 1646741477215}
  {:block/name "禁忌症",
   :block/created-at 1647770785564,
-  :block/updated-at 1647860070902}
+  :block/updated-at 1647927892224}
  {:block/name "离子通道受体",
   :block/created-at 1646741477213,
   :block/updated-at 1646741477213}
@@ -8010,7 +8043,7 @@
   :block/updated-at 1647770805578}
  {:block/name "脚气病",
   :block/created-at 1646741477218,
-  :block/updated-at 1646741477218}
+  :block/updated-at 1647949369291}
  {:block/name "脯aa",
   :block/created-at 1647315064171,
   :block/updated-at 1647315064171}

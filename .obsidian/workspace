@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "de9b193ec692137e",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c02e36207486fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2022_01_06.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c0c32ca3daf173a",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d1297cfde0c71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35eea992a3901d3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6760a75309a7c8d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72f34502f5461d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ab14358d9e6f21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8fb9741b3ad7ec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2022_01_06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7862be1ada298790",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2022_01_06.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51c02e36207486fb",
+  "lastOpenFiles": [
+    "journals/2022_01_06.md",
+    "draws/生理血液.svg",
+    "draws/心力衰竭.md",
+    "draws/test_1647270918497_0.excalidraw",
+    "draws/2022-01-06-19-16-50.excalidraw",
+    "draws/2022-01-06-17-50-39.excalidraw",
+    "draws/2022-01-12-20-56-55.excalidraw",
+    "draws/2022-03-14-23-15-39.excalidraw",
+    "draws/2022-03-12-17-06-37.excalidraw",
+    "draws/2022-02-21-21-18-57.excalidraw"
+  ]
+}

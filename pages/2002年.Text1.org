@@ -124,6 +124,87 @@ picture意为“电影”。
 ***** Not与everyone连用，表示部分否定，可译为“并非每个人都…”。see为熟词僻义，意为“认为看待”。that process代指③④句中“通信革命的发展进程”。注：not＋all/both/everyone/everybody/everything及not＋every＋名词表示部分否定。
 in后接抽象名词，可表示“在……（状态或状况）中”，如in order（秩序井然）。perspective为熟词僻义，意为“客观判断力”，故in perspective表示“（看待事物）有判断力地，合理地”，如judge sb＇＇s role inperspective（合理地评价某人的作用）。与之相对，out of perspective则表示“（看待事物）不正确地，轻重倒置地”。in perspective此处作方式状语，说明看待上述通信革命进程的方式。
 **** 翻译
+* It is important to do so
+:PROPERTIES:
+:collapsed: true
+:END:
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译: 正确的看到那个过程很重要
+*** 官译: 做到这一点是非常重要的
+*** 反思:
+**** [[生词本]]
+**** 语法
+**** 翻译
+* it is generally [[recognized]], however, that the [[introduction]] of the computer in the early 20th century, followed by the invention of the [[integrated circuit]] during the 1960s, [[radically]] changed the process ,although its impact on the media was not immediately apparent.
+:PROPERTIES:
+:id: 6239d8aa-5124-4f0d-8787-ea0374e89156
+:collapsed: true
+:END:
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译: 它通常被认为, 然而,  关于20世纪初期电脑的介绍,跟随着20世纪60年集成电路的的发明,急剧的改变了这个过程,虽然它在媒体方面的冲击没有立马的表现
+*** 官译: 然而,人们普遍承认20世纪初期计算机的问世以及随后60年代集成点路的发明从根本上改变了这一进程,尽管其对媒体的影响并未立刻显现
+*** 反思:
+**** {{embed [[生词本]]}}
+**** 语法
+***** 主句 : It is generally recognized, however
+-  [[It is generally recognized that]] 为固定句型 表示人们普遍承认意识到
+- however 作为插入语明确上文的转折关系
+***** 主语从句 that A, followed by B, radically changed C
+****** 2. 主语从句:that A, followed by B, radically changed C (be) followed by 表示“被……跟随”,radically 意为"(尤其指行为或行动)彻底地,根本地,意义深远地 ”,故该句可译为“A及随后的B彻底改变了C”。
+****** (1)A:the introduction of the computer || in the early 20th century
+****** introduction 为熟词僻义,意为“初次投入使用",故 the introduction of the computer 表示“计算机的问 世”。介词短语 in the early 20th century 作后置定语,说明计算机问世的时间。A 整体可译为“20世纪初期计算机的问世"。
+****** (2)B:the invention of the integrated circuit || during the 1960s
+****** invention 与 introduction 近义,指向“(某物的)发明"integrated circuit 表示“集成电路”,故 the invention of the integrated circuit 表示“集成电路的发明”。during the 1960s 作后置定语,说明集成电路发 明的时间。B 整体可译为“20世纪60年代集成电路的发明”。
+****** (3)C:the process the process 指“通信革命的发展进程”。主语从句整体可译为“20世纪初期计算机的问世,以及随后60年代集成电路的发明从根本上改变了这个过程
+**** 翻译
+***** 将Howerver放句首,还有再次省略20世纪
+***
+* As time went by, computers became smaller and more powerful, and they became "personal" too, as well as institutional, with display becoming sharper and storage capacity increasing.
+** 逐句翻译
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 手译: 随着时间的流逝,电脑变得更小巧,更强大,同时也变得更私人化,随着显示效果更加的清晰和容量的增加,也被越来越多的机构所采用 .
+*** 官译: 随着时间的推移计算机体积越来越小,性能越来越强；而且,随着显示效果越来越清晰及储存容量越来越大,计算机已不只是机构的工具,也成为个人的工具
+*** 反思:
+**** [[生词本]]
+**** 语法
+*****
+***** 1. 分句1:compulers became smaller and more powerful
+***** 分句1为主系表结构,两个形容词比较级作表语凸显电脑的"优化"趋势,powerful 指"(机器､引擎 等)效能高的,强大的”。分句1可译为“计算机体积越来越小,性能越来越强”。
+***** 2. 分句 2:and they became " personal" too, as well as institutional+伴随状语 分句2主干依然是主系表结构,两个形容词作表语凸显电脑的“个人化"趋势。personal 与 Institutional 相对,前者指向“个人的",后者指向"机构的”。as well as 功能上相当于 and,但语义上Aus well as B 更強调前者(personal)。翻译时可调整语序以凸显计算机的个人化趋势,即“计算机已不只是 机构的用具,也成为了个人的工具”。
+***** 分句2的伴随状语为"with+独立结构"形式,说明主干动作所伴随的状态,可译为“随着……"display 意为"(计算机屏幕上的)显示,显像";shup 为熟词僻义,意为"清晰的",display becoming sharper 即指"显 示效果越来越清晰":storage capacity 为固定用法,特指"存储容量”,故伴随状语可译为“随着显示效果越來
+***** 越清晰及存储容量越来越大”。 3. 时间状语从句:As time went by
+***** As 引导时间状语从句,表示“当………时;随着"+go by 为固定短语,意为“(时间)流逝”;从句整体可译为随着时间的推移
+**** 翻译
+*****
+* 3 They were thought of, like people, in terms of generations, with the distance between generations much smaller.
+:PROPERTIES:
+:collapsed: true
+:END:
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译: 他们被认为像人一样具有代而且代间的距离要更小的多
+*** 官译:像人一样,记算机也按"代"来划分而且,代与代之间的距离越来越小
+*** 反思:
+**** {{embed [[生词本]]}}
+**** 语法
+**** 翻译
+* It was within the computer age that the term "information society" began to be widely used to describe the context within which we now live.
+** 逐句翻译
+:PROPERTIES:
+:END:
+*** 手译: 学术名词信息社会正是在计算机时代开始被广泛的用于描述这种我们正生活在的这种语境
+*** 官译:正是在计算机时代,信息社会这个术语开始被广泛地用于描述我们现在生活的环境
+*** 反思:
+**** [[生词本]]
+**** 语法
+**** 翻译
 * 英语全书
 :PROPERTIES:
 :END:
