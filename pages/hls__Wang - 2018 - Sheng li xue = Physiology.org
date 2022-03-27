@@ -3577,3 +3577,225 @@
 :hl-page: 167
 :id: 622f3455-06df-4bae-854c-748bdb94072c
 :END:
+* 消化腺的分泌包括内分泌和外分泌，前者分泌的激素通过局部或者血液循环到全身，调节消化系统的活动，后者分泌消化液到胃肠腔内，参与食物的化学性消化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623e987e-0467-4e5c-9a81-643c597aa9ad
+:END:
+* 在整个消化道中，除口、咽和食管上端的肌组织以及肛门外括约肌为骨骼肌外，其余部分的肌组织均属于平滑肌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623e98c9-b787-4689-a437-459d3b3e48c1
+:END:
+* 能保持一定的形状和位置,与
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623e9948-e137-4e61-8d22-0e17a18e40f3
+:END:
+* 保持一定的基础压力
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623e994b-347c-4b0e-a658-1a079cc2c94f
+:END:
+* 平滑肌的各种收缩活动也都在紧张性的基础上进行。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623e9950-60d4-434c-b6e0-97e03c492a89
+:END:
+* 化道平滑肌对电刺激较不敏感，而对机械牵拉、温度和化学性刺激却特别敏感。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 623e9a63-f1e0-435a-9c42-1be5ef7b9376
+:END:
+* 消化道平滑肌细胞在静息电位的基础上，自发地产生周期性的轻度去极化和复极化，由于其频率较慢，故称为慢波（slowwave）；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 623e9acc-f1c0-4d20-8676-40e8f2949c36
+:END:
+* 慢波起源于消化道纵行肌和环行肌之间的Cajal间质细胞（interstitialcellofCajal,ICC）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 623e9b0c-07bd-47a6-9c4c-c8ffccd20d8d
+:END:
+* 当细胞内Ca²⁺浓度增高时，激活细胞膜上钙激活的氯通道,Cl⁻外流，膜电位去极化
+:PROPERTIES:
+:hl-page: 205
+:ls-type: annotation
+:id: 623e9b53-c5ae-4b2f-8928-6582a6a6a576
+:END:
+* ICC与平滑肌细胞之间的缝隙连接扩布到平滑肌细胞，引起平滑肌细胞电压门控钙通道开放,Ca²⁺内流
+:PROPERTIES:
+:hl-page: 205
+:ls-type: annotation
+:id: 623e9ba8-f768-42de-97ee-381d87187380
+:END:
+* 由于Ca2+内流量远大于慢波去极化达机械阈时的Ca2+内流量，所以在只有慢波而无动作电位时，平滑肌仅发生轻度收缩,而当发生动作电位时，收缩幅度明显增大，并随动作电位频率的增高而加大（见图6-1）o可见，动作电位与收缩之间存在很好的相关性，每个慢波上所出现的动作电位数目可作为收缩力大小的指标。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 623e9d23-e823-4902-8edd-ab2bdae2b126
+:END:
+* 支配消化道的副交感神经主要来自[[迷走神经]]和[[盆神经]]，其节前纤维直接终止于消化道的壁内神经元，与壁内神经元形成突触，然后发出节后纤维支配消化道的腺细胞、上皮细胞和平滑肌细胞。
+:PROPERTIES:
+:hl-page: 206
+:ls-type: annotation
+:id: 623e9f31-4a30-4edc-bfeb-6ca40b34aada
+:END:
+* 有些胃肠激素可促进消化系统组织的生长，例如，促胃液素和缩胆囊素分别能促进胃黏膜上皮和胰腺外分泌部组织的生长。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623eaf25-7db2-4549-aa2b-07066e2c1517
+:END:
+* 一些被认为是胃肠激素的肽类物质也存在于中枢神经系统,而原来认为只存在于中枢神经系统的神经肽也在消化道中被发现
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623eafcb-67ae-4863-af44-d9baa11e74d5
+:END:
+* 目前认为，唾液中电解质成分随分泌率变化的原因是分泌液在流经导管时，导管上皮细胞对电解质的吸收不相同而造成的，而分泌液从腺泡细胞中排出时是与血浆等渗的,电解质的组成也与血浆相似。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 209
+:id: 623eb197-d44d-45e9-a92a-e9a98347ba1b
+:END:
+* 当食团通过食管进入胃后，迷走神经的兴奋性纤维兴奋，末梢释放ACh,使食管下括约肌收缩。体液因素也能影响食管下括约肌的活动，如食物入胃后,可引起促胃液素和胃动素等的释放，使食管下括约肌收缩;而促胰液素、缩胆囊素和前列腺素A?等则能使其舒张。此外，妊娠、过量饮酒和吸烟等可使食管下括约肌的张力降低。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 210
+:id: 623eb5d1-2a43-4f48-b941-988ce8d62956
+:END:
+* 贲门腺，为黏液腺，位于胃与食管连接处宽1〜4cm的环状区
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb71b-f87a-40ce-84be-878542a562e9
+:END:
+* 为混合腺，存在于胃底的大部及胃体的全部，包括壁细胞(parietalcell)、主细胞(chiefcell)和颈黏液细胞(neckmu­couscell)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb772-1c7f-4c9b-8b42-076a712843ec
+:END:
+* 分泌碱性黏液，分布于幽门部
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb78c-614c-402e-b7a5-7fd47901dc10
+:END:
+* G细胞，分泌促胃液素和促肾上腺皮质激素(ACTH)样物质，分布于胃窦;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb7bf-1fd9-49e6-ab97-79116d20c2e2
+:END:
+* δ细胞,分泌生长抑素，对促胃液素和胃酸的分泌起调节作用，分布于胃底、胃体和胃窦
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb7d2-3d99-4733-9240-747645a3b3a1
+:END:
+* 肠嗜铭样细胞(enterochromaffin-likecell,ECLcell),合成和释放组胺,分布于胃泌酸区内。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623eb7e3-5070-4d52-8580-4acae7cae267
+:END:
+* 在消化期，由于胃酸大量分泌的同时有大量HCO3一进入血液，使血液暂时碱化，形成所谓的餐后碱潮(postprandialalkalinetide)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 212
+:id: 623ebacb-b948-4482-bdc8-d1950350652b
+:END:
+* ，胃和十二指肠黏膜和肌层中含有高浓度的前列腺素（如PGE?和PGL）和表皮生长因子（EGF），它们能抑制胃酸和胃蛋白酶原的分泌,刺激黏液和碳酸氢盐的分泌，使胃黏膜的微血管扩张，增加黏膜的血流量，有助于胃黏膜的修复和维持其完整性，因而能有效地抵抗强酸、强碱、酒精和胃蛋白酶等对消化道黏膜的损伤
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 213
+:id: 623ebdbc-6cad-44b1-9cca-6da9137d89b1
+:END:
+* 。幽门螺杆菌能产生大量活性很高的尿素酶，将尿素分解为氨和C02O氨能中和胃酸，从而使这种细菌能在酸度很高的胃内生存。尿素酶和氨的积聚还能损伤胃黏液层和黏膜细胞，破坏黏液-碳酸氢盐屏障和胃黏膜屏障，致使H+向黏膜逆向扩散，从而导致消化性溃疡的发生
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 213
+:id: 623ebe80-6a8a-4324-a882-ce920f462991
+:END:
+* ECL细胞膜中还存在促胃液素/缩胆囊素(CCKb)受体和M3受体,可分别与促胃液素和ACh结合而引起组胺释放,间接调节胃液的分泌，因此抑制H₂受体也能部分抑制促胃液素和ACh的促胃酸分泌作用。ECL细胞膜中还有生长抑素受体，由δ细胞释放的生长抑素可通过激活此受体而抑制组胺的释放，间接抑制胃液的分泌
+:PROPERTIES:
+:hl-page: 215
+:ls-type: annotation
+:id: 623ec548-a9cb-45cc-a2ac-84ff9f1e46aa
+:END:
+* 二指肠黏膜中的内分泌细胞分泌的促胰液素和缩胆囊素也能刺激胃蛋白酶原的分泌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 216
+:id: 623ec74e-d279-4f2b-bf54-8fdb78e8fca6
+:END:
+* 十二指肠黏膜中的内分泌细胞分泌的促胰液素和缩胆囊素也能刺激胃蛋白酶原的分泌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 216
+:id: 623ec7d9-eaa0-4ccd-93cc-bd1769896c4c
+:END:
+* CCK可因结合不同的受体而对胃酸分泌产生完全不同的效应。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 217
+:id: 623ec9ee-af51-4441-9548-475fad836c1c
+:END:
+* CCKb受体对促胃液素和对CCK具有同等的亲和力，而CCKa受体对CCK的亲和力约3倍于对促胃液素的亲和力
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 217
+:id: 623eca9c-5b67-4a3a-990c-e74a1634b0b0
+:END:
+* 在体实验中,CCK既可刺激禁食动物的胃酸分泌(即基础胃酸分泌)，又有竞争性抑制促胃液素刺激胃酸分泌的作用。在整体情况下,CCK还可通过与δ细胞的CCK.受体结合，引起δ细胞释放生长抑素而抑制胃酸分泌。所以，CCK对胃酸的分泌主要表现为抑制效应。
+:PROPERTIES:
+:hl-page: 217
+:ls-type: annotation
+:id: 623ecab4-4b1e-4696-9299-6fac4b4644b0
+:END:
+* 其节后纤维释放的递质可能是VIP和NO。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 218
+:id: 623ecfea-1c7f-4c46-9ba4-2e1b8b684b55
+:END:
+* 胰蛋白酶和糜蛋白酶的作用极为相似，都能分解蛋白质为豚和豚，当两者一同作用于蛋白质时,则可将蛋白质消化为小分子多肽和游离氨基酸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 220
+:id: 623edec1-b347-4d12-b39b-44dba7323e40
+:END:
+* 胆汁中最重要的成分是胆盐，其主要作用是促进脂肪的消化和吸收
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 623ee39a-f3a9-43f3-8602-bb2d64e9e6fe
+:END:
+* 胆盐与卵磷脂都是双嗜性分子,因而可聚合成微胶粒(micelle)，胆固醇可溶入微胶粒中。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 623ee3eb-2973-4431-a7c0-b13a05ad4b49
+:END:
+* 当胆固醇含量过多或卵磷脂含量过少时，胆固醇便从胆汁中析出而形成胆固醇结石。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 623ee403-911a-4718-8a2e-2e633c49735b
+:END:
+* 人们若对便意经常予以制止，将使直肠对粪便刺激逐渐失去正常的敏感性,即感觉阈升高，加之粪便在结肠内停留过久,水分吸收过多而变得干硬,引起排便困难，这就是产生功能性便秘最常见的原因。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 228
+:id: 623efd5a-880b-4a18-b491-1cfe253559ff
+:END:

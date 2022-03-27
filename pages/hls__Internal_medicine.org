@@ -1989,3 +1989,429 @@
 - 二度及二度以上房室传导阻滞、
 - 严重周围血管疾病（如雷诺病）和
 - 重度急性心衰
+* 心力衰竭（heart failure , HF）是各种心脏结构或功能性疾病导致心室充盈和（或）射血功能受损，心排血量不能满足机体组织代谢需要，以肺循环和（或）体循环淤血，器官、组织血液灌注不足为临床表现的一组综合征，主要表现为呼吸困难、体力活动受限和体液满留。心功能不全（c盯diacdysfunction）或心功能障碍理论上是一个更广泛的概念，伴有临床症状的心功能不全称之为心力衰竭（简称心衰）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 623c32aa-5528-4584-a6b7-16be6460ab6d
+:END:
+* 此外，伴有全身循环血量增多的疾病如慢性贫血、甲状腺功能亢进症、围生期心肌病、体循环动静脉屡等，心脏的容量负荷增加。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 623c348e-ee88-424d-9973-9b15558cc5ed
+:END:
+* 在心脏功能受损，心腔扩大、心肌肥厚的代偿过程中，心肌细胞、胞外基质、胶原纤维网等均发生相应变化，即心室重塑（ventricular remodeling）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 623c3d62-3085-48e2-85c5-bb67ad6adb50
+:END:
+* 心肌细胞的能量供应不足及利用障碍导致心肌细胞坏死、纤维化也是失代偿发生的一个重要因素。心肌细胞减少使心肌整体收缩力下降；纤维化的增加又使心室顺应性下降，重塑更趋明显，心肌收缩力不能发挥其应有的射血效应，形成恶性循环，最终导致不可逆转的终末阶段。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 623c3da9-49e8-4675-983e-1221485262d4
+:END:
+* 是能量供应不足时钙离子回摄入肌浆网及泵出胞外的耗能过程受损，导致主动舒张功能障碍，如冠心病明显心肌缺血时，在出现收缩功能障碍前即可出现舒张功能障碍。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 200
+:id: 623c3e41-eb05-4c7b-b60a-d508f68aa322
+:END:
+* 长期慢性肺淤血肺静脉压力升高，导致肺循环和支气管血液循环之间在支气管勃膜下形成侧支，此种血管一旦破裂可引起大咯血
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 202
+:id: 623c4429-8cc9-429b-ab2b-d186a8a3af90
+:END:
+* ：除基础心脏病的相应体征外，可因右心室显著扩大而出现三尖瓣关闭不全的反流性杂音。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 202
+:id: 623c447b-899f-4ed5-838d-7dc1843d7c38
+:END:
+* 是心衰诊断、病人管理、临床事件风险评估中的重要指标，临床上常用BNP及NT­proBNP。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 623c4568-b882-4c52-83f3-f5cd0c7c9fd4
+:END:
+* 利纳肤升高，因此其特异性不高。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 623c457d-7640-4005-b76d-90b151d7e042
+:END:
+* ，是诊断心力衰竭最主要的仪器检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 623c4591-c753-4b33-bc7d-8352008acb9c
+:END:
+* 心动周期中舒张早期心室充盈速度最大值为E峰，舒张晚期（心房收缩）心室充盈最大值为A 峰，E/A比值正常人不应小于1.2，中青年更大。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 203
+:id: 623c45a4-760a-43c3-873a-adfeb0fcd4a6
+:END:
+* 利尿剂是心力衰竭治疗中改善症状的基石，是心衰治疗中唯一能够控制体液潴留的药物，但不能作为单一治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 623c48a2-efda-4c81-a385-e35f1b71d6c6
+:END:
+* GFR<30mνmin时作用明显受限。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c498f-9e5a-4a83-9ca5-dc59bc29f7e3
+:END:
+* 因可抑制尿酸排泄引起高尿酸血症，长期大剂量应用可影
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c49a5-8a36-4cbb-a196-927a28cf46f3
+:END:
+* 对于低铀血症应谨慎区分缺铀性（容量减少性）与稀释性（难治性水肿）。前者尿少而比重高，应给予高渗盐水补充铀盐；后者见于心力衰竭进行性恶化病人，尿少而比重低，应严格限制水的摄人
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c4b4f-229c-403a-9e0c-50f23588e530
+:END:
+* 通过抑制ACE减少血管紧张素Il( angiotensin Il , AT Il ）生成而抑制RAAS；并通过抑制缓激肤降解而增强缓激肤活性及缓激肤介导的前列腺素生成，发挥扩血管作用，改善血流动力学；通过降低心衰病人神经·体液代偿机制的不利影响，改善心室重塑。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c4d3e-c1a6-4025-9d15-a67f749822ca
+:END:
+* 非甾体类抗炎药（NSAIDs）会阻断ACEI的疗效并加重其副作用，应避免使用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c4d6f-833f-4bd0-b4b1-d25bebbb0143
+:END:
+* ARB可阻断经ACE和非ACE途径产生的ATE与AT，受体结合，阻断RAS的效应，但无抑制缓激肤降解作用，因此干咳和血管性水肿的副作用较少见。心衰病人治疗首选ACEI，当ACEI引起干咳、血管性水肿时，不能耐受者可改用ARB，但已使用ARB且症状控制良好者无须换为ACEI。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c4de7-b202-425f-9e5a-b6852f45fb59
+:END:
+* HFrEF病人。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 206
+:id: 623c4e95-28d4-4f62-a480-7e04157c0f81
+:END:
+* 血浆肾素活性是[[动脉粥样硬化]]、[[糖尿病]]和[[心力衰竭]]等病人发生心血管事件和预测死亡率的独立危险因素。
+:PROPERTIES:
+:hl-page: 207
+:ls-type: annotation
+:id: 623c51ed-f272-4141-9a77-8bd02bf54e53
+:END:
+* 心力衰竭病人长期应用自受体拮抗剂能减轻症状、改善预后、降低死亡率和住院率，且在己接受ACEI治疗的病人中仍能观察到自受体拮抗剂的上述益处，说明这两种神经内分泌系统阻滞剂的联合应用具有叠加效应。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c535a-8129-41d3-b1fe-cea5c3b062b1
+:END:
+* 所有病情稳定并无禁忌证的心功能不全病人一经诊断均应立即以小剂量起始应用自受体拮抗剂，逐渐增加达最大耐受剂量并长期维持。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c54fe-65e9-4f2b-a756-119728d718c6
+:END:
+* 在慢性心力衰竭急性失代偿期或急性心力衰竭时，持续服用原剂量自受体拮抗剂不仅不增加风险，且较减量或中断治疗者临床转归更好。因此，对于慢性心衰急性失代偿的病人，应根据病人的实际临床情况，在血压允许的范围内尽可能地继续自受体拮抗剂治疗，以获得更佳的治疗效果
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c5558-5e6e-4ff4-b46e-3dc595179bef
+:END:
+* 洋地黄类药物通过抑制Na•-K•-ATP酶发挥药理作用：①正性肌力作用：促进心肌细胞Ca2•-Na+ 交换，升高细胞内Ca2＋浓度而增强心肌收缩力。而细胞内K＋浓度降低，成为洋地黄中毒的重要原因。②电生理作用：一般治疗剂量下，洋地黄可抑制心脏传导系统，对房室交界区的抑制最为明显。当血伺过低时，更易发生各种快速型心律失常。③迷走神经兴奋作用：作用于迷走神经传人纤维增加心脏压力感受器的敏感性，反馈抑制中枢神经系统的兴奋冲动，可对抗心衰时交感神经兴奋的不利影响，但尚不足以取代自受体拮抗剂的作用。④作用于肾小管细胞，减少钠的重吸收并抑制[[肾素]]分泌。
+:PROPERTIES:
+:hl-page: 207
+:ls-type: annotation
+:id: 623c55f6-559f-48e1-ba8c-08d80714a1e0
+:END:
+* 毛花昔丙（lanatoside C，西地兰）、毒毛花昔K( strophanthin K）为快速起效的静脉注射用制剂，适用于急性心力衰竭或慢性，心衰加重时。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c5750-84a3-4dfc-9159-b6043e945725
+:END:
+* 洋地黄的临床应用：伴有快速心房颤动／心房扑动的收缩性心力衰竭是应用洋地黄的最佳指征，包括扩张型心肌病、二尖瓣或主动脉瓣病变、陈旧性心肌梗死及高血压性心脏病所致慢性心力衰竭。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c578e-3ac1-4ec3-9a79-c7438657bd0f
+:END:
+* 但对代谢异常引起的高排血量心衰如贫血性心脏病、甲状腺功能亢进以及心肌炎、心肌病等病因所致心衰，洋地黄治疗效果欠佳。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c5851-60d3-43e4-98cd-686fa1d64da4
+:END:
+* 肺源性心脏病常伴低氧血症，与心肌梗死、缺血性心肌病均易发生洋地黄中毒，应慎用；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c5862-f1c6-44b7-bdae-655512f3efa2
+:END:
+* ；存在流出道梗阻如肥厚型心肌病、主动脉瓣狭窄的病人，增加心肌收缩性可能使原有的血流动力学障碍更为加重，禁用洋地黄；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c586a-ddf5-4a49-9b2a-a6122f0c86b7
+:END:
+* 风湿性心脏病单纯二尖瓣狭窄伴窦性心律的肺水肿病人因增加右心室收缩功能可能加重肺水肿程度而禁用；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c58ab-4b97-4e21-90c1-346f324d992b
+:END:
+* 严重窦性心动过缓或房室传导阻滞病人在未植入起搏器前禁用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 207
+:id: 623c5912-ebe3-4cee-993c-c7d17214414a
+:END:
+* ，其最重要的表现为各类心律失常，以室性期前收缩常见，多表现为二联律，非阵发性交界区心动过速，房性期前收缩，心房颤动及房室传导阻滞等。快速房性心律失常伴传导阻滞是洋地黄中毒的特征性表现。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5955-0dd8-48ea-be4b-f411e8051ea3
+:END:
+* 胃肠道表现如恶心、呕吐，以及神经系统症状如视物模糊、黄视、绿视，定向力障碍、意识障碍等则较少见。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5964-ed40-4dee-82fa-9f1807e19d56
+:END:
+* 如血饵浓度低则可用静脉补饵，如血饵不低可用利多卡因或苯妥英锅，电复律因易致心室颤动，一般禁用；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5989-1cfb-479e-b640-2be89bf966a3
+:END:
+* 多巴胶是去甲肾上腺素前体，较小剂量［<2 μ.g/ ( kg • min) J激动多巴胶受体，可降低外周阻力，扩张肾血管、冠脉和脑血管；中等剂量［2～5μ.g/( kg· min) J激动自l和自2受体，表现为心肌收缩力增强，血管扩张，特别是肾小动脉扩张，心率加快不明显，能显著改善心力衰竭的血流动力学异常；大剂量［5～10μ.g/ ( kg · min ) ］则可兴奋α受体，出现缩血管作用，增加左心室后负荷。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5a28-a701-4227-a972-25ad4f8e18a5
+:END:
+* 多巴酚丁胺是多巴胺的衍生物，扩血管作用不如多巴胶明显，加快，心率的效应也比多巴胶小。两者均只能短期静脉应用，在慢性心衰加重时起到帮助病人渡过难关的作用，连续用药超过72小时可能出现耐药，长期使用将增加死亡率。
+:PROPERTIES:
+:hl-page: 208
+:ls-type: annotation
+:id: 623c5aa6-90ff-4f21-b119-846065d19c7d
+:END:
+* ，通过抑制磷酸二醋酶活性促进Ca2＋通道膜蛋白磷酸化，Ca2＋内流增加，从而增强心肌收缩力。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5b35-4d78-4739-9179-1bc6e1e0d61c
+:END:
+* 长期应用米力农治疗重症慢性心力衰竭，死亡率增加，其他的相关研究也得出同样的结论。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5b60-8962-415e-8d03-1328e38ff4f9
+:END:
+* 慢性心力衰竭的治疗并不推荐血管扩张药物的应用，仅在伴有心绞痛或高血压的病人可考虑联合治疗，对存在心脏流出道或瓣膜狭窄的病人应禁用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 623c5fd4-d2fb-470b-867e-238f5d8bf1af
+:END:
+* (2）磷酸二醋酶抑制剂：米力农兼有正性肌力及降低外周血管阻力的作用，在扩血管利尿的基础上短时间应用米力农可能取得较好的疗效。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623c6833-9fae-4094-90f5-b23b1a27c6ce
+:END:
+* 过结合于心肌细胞上的肌钙蛋白C
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623c68c4-6663-4dac-9d30-dc640b1a8d5c
+:END:
+* 收缩外周血管重分配血流但以增加左室后负荷为代价提高血压，保证重要脏器灌注
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 623c692f-6c41-4f34-b8d0-d08738c9246a
+:END:
+* 房室结的血供通常来自右冠状动脉。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 212
+:id: 623c70e9-1bc4-455c-96b4-b2d560592318
+:END:
+* 左、右束支的终末部呈树枝状分布，组成浦肯野纤维网，潜行于心内膜下。这些组织的血液供应来自冠状动脉前降支与后降支。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 212
+:id: 623c7127-749f-43eb-ac28-c348f1b49908
+:END:
+* ；冲动在房室结内传导速度极为缓慢
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 212
+:id: 623c7133-3342-40ad-abf3-1aa422cf8796
+:END:
+* 遗传性心律失常多为基因突变导致的离子通道病
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 213
+:id: 623c71bc-8acd-423a-9b29-917ba6332532
+:END:
+* 目前已经明确的遗传性心律失常包括长QT间期综合征、短QTI可期综合征、Bmgada综合征、儿茶酣胶敏感性室性心动过速、早期复极综合征等，部分心房颤动和预激综合征病人也具有基因突变位点。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 213
+:id: 623c71d7-c098-4bd2-ad10-bc92db93110b
+:END:
+* 脏本身的因素主要为各种器质性心脏病，包括冠心病、高血压性心脏病、风湿性心脏病、瓣膜病、心肌病、心肌炎和先天性心脏病等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 213
+:id: 623c7222-efbf-4ea9-bfc0-859ad6af403e
+:END:
+* 发活动（triggered activity）是指心房、心室与希氏柬－浦肯野组织在动作电位后产生的除极活动，又称为后除极（after depolarization）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 214
+:id: 623c747e-ddfb-46f3-b01d-f906187c655c
+:END:
+* 常同时合并心房自律性异常，部分病人同时有房室传导功能障碍。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 219
+:id: 623c7632-62fa-423f-953a-fa5d6cdca11c
+:END:
+* 用自受体阻滞剂、非二氢毗睫类钙通道阻滞剂和洋地黄以减慢心
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 221
+:id: 623c7bb0-f4ff-4ac5-81f0-9a195e12c1f2
+:END:
+* 扑动波之间的等电线消失，频率常为250～350次／分；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 623c7c98-509b-4550-9e1c-b2108f114140
+:END:
+* 才．药物治疗减慢心室率的药物包括自受体阻滞剂、钙通道阻滞剂（维拉帕米、地尔硫革）或洋地黄制剂（地高辛、毛花昔丙）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 623d8141-b7fe-405f-8d74-3c1e05a2bbd9
+:END:
+* ，多在左心耳部，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 623d8284-7b97-4d48-9295-776cbcbedb45
+:END:
+* 如心室律变为慢而规则（30～60次／分），提示可能出现完全性房室传导阻滞。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 623d82c2-cb38-4673-9045-71b52e2d67b9
+:END:
+* 否则应在复律前接受华法林有效抗凝治疗3周，待成功复律后继续治疗3～4周；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623d8423-e096-4c9d-bed9-70a789bf34ee
+:END:
+* 紧急复律治疗可选用静注肝素或皮下注射低分子量肝素抗凝。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623d8431-6021-4aa2-8500-2860b1dc16b8
+:END:
+* 胶腆自同致，心律失常发生率最低，是目前常用的维持窦性心律药物，特别适用于合并器质性心脏病的病人。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623d84be-fb53-4cc0-912b-dd02aacb6231
+:END:
+* 如病人发作开始时已呈现急性心力衰竭或血压下降明显，宜紧急施行电复律。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623d84d3-d256-439b-bb9b-6911ee325595
+:END:
+* 对于症状明显、药物治疗无效的阵发性房颤，导管消融可以作为一线治疗；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623d84db-a6c6-471e-889d-3bab4fde40b3
+:END:
+* 心室率超过150次／分，病人可发生心绞痛与充血性心力衰竭。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 623d8515-caae-4477-98d8-6ffe2f95b693
+:END:
+* 洋地黄缩短旁路不应期使心室率加快，因此不应单独用于曾经发作心房颤动或扑动的病人。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 230
+:id: 623d857f-7384-4ad1-9bdd-3ab85871a1f4
+:END:
+* 避免使用IA类抗心律失常药物，尽管其能有效减少室性期前收缩，但由于药物本身具有致心律失常作用，可能使总死亡率和猝死的风险增加。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 232
+:id: 623d861d-5157-4798-b8fc-a940d27df92a
+:END:
+* 如长QT间期综合征、Brugada综合征等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 232
+:id: 623d864a-d9b7-4ffb-9573-b375a44d491f
+:END:
+* 心动过速发作期间，施行心房超速起搏，如果随着剌激频率的增加，QRS波群的频率相应增加，且形态变为正常，说明原有的心动过速为室速。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 234
+:id: 623d86e1-b359-4a78-85fb-57e2e58e3b94
+:END:
+* 目前除了自受体阻滞剂、胶腆酣以外，尚未能证实其他抗心律失常药物能降低心脏性猝死的发生率。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 234
+:id: 623d86ff-7e39-4afd-94f7-95a817e8262d
+:END:
+* 无器质性心脏病病人发生非持续性室速，如无症状或血流动力学影响，处理原则与室性期前收缩相同；有器质性心脏病或有明确诱因者应首先给予针对性治疗；持续性室速发作，无论有无器质性心脏病，均应给予治疗
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 234
+:id: 623d871f-44ab-49c3-a8ae-b75ca1ee1573
+:END:
+* 元显著血流动力学障碍的室速，可选用利多卡因、自受体阻滞剂或胶腆酣静脉推注，但经中心静脉用药会引起低血压，因此用药时要严密监测生命体征。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 234
+:id: 623d8746-e604-4021-b91a-4bf3b9906d10
+:END:
+* 二度E型与三度房室阻滞如心室率显著缓慢，伴有明显症状或血流动力学障碍，甚至Adams­Stokes综合征发作者，应给予起搏治疗。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 238
+:id: 623d8864-b8b1-4968-8c86-8eb62019dabb
+:END:
+* 阿托品（0.5～2.0吨，静脉注射）可提高房室阻滞的心率
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 238
+:id: 623d8878-773a-4cb3-a120-1dddd6e77d5a
+:END:
+* 肾上腺素(1～4μ,g/min静脉滴注）适用于任何部位的房室阻滞，但应用于急性心肌梗死时应十分慎重，因可能导致严重室性心律失常。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 238
+:id: 623d887d-67fe-4aa6-9fb6-a72bf3c05b54
+:END:

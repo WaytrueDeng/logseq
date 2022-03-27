@@ -3,8 +3,14 @@
 :END:
 
 * 定义 #card
+:PROPERTIES:
+:id: 6239c1ed-b2b8-403d-b870-5c2e27d20fe0
+:END:
 ** ((621f31e0-58f8-4552-97d7-615d5fef8784))
 * 病因 #card
+:PROPERTIES:
+:id: 6239c1ed-3ff3-4810-9f19-6cac583cb060
+:END:
 ** $$\begin{rcases}支气管肺组织的疾病:COPD\\胸廓疾病\\肺血管病变\end{rcases}→肺血管阻力↑→肺动脉压力高→右心室肥大肥厚→肺心病$$
 ** 四部曲
 *** 吸烟→慢支$\xrightarrow[]{肺气肿}$→$\underbrace{COPD\xrightarrow[]{肺动脉高压}肺心病}_{PaCO₂↑(II型呼衰)→肺性脑病→昏迷}$
@@ -48,6 +54,7 @@
 *** 血液黏稠度增加和血容量↑ #card
 :PROPERTIES:
 :collapsed: true
+:id: 6239c1ed-4768-4642-8be6-5b8b07c67ec2
 :END:
 **** [[et cetera]]
 ***** {{embed ((621f52d3-09fd-4f12-a924-e00026e3115b))}}
@@ -89,12 +96,30 @@
 ** $积极,关键常规:\underbrace{\textcolor{red}{控制感染}+改善通气功能}_{纠正缺O₂和CO₂的潴留→大部分出院回家}\xrightarrow[心衰加重]{少数病人无效}\underset{利尿→强心→扩血管}{抗心衰治疗}$
 ((ca6deadb-6c72-4c55-ac36-e5bc91d9be11))
 ** 利尿剂 #card
+:PROPERTIES:
+:id: 6239c1ed-7161-4ee8-afc6-79265e3700dc
+:END:
 *** {{cloze 温和}}, {{cloze 小剂量}}, {{cloze 短程}}, 联合 {{cloze 保K⁺利尿剂}}
+:PROPERTIES:
+:id: 6239c1ed-8519-49ff-b396-77b7860701c8
+:END:
 *** 副作用
 **** {{cloze 低K⁺,低氯性碱中毒}}
+:PROPERTIES:
+:id: 6239c1ed-0657-449d-b070-f3bfd6869471
+:END:
 **** {{cloze 痰液黏稠不易排出}}
+:PROPERTIES:
+:id: 6239c1ed-63d5-4370-a321-f71d2664fa6b
+:END:
 **** {{cloze 血液浓缩}}
+:PROPERTIES:
+:id: 6239c1ed-89b5-4aaf-bfe4-03e4f694f282
+:END:
 ** 强心 #card
+:PROPERTIES:
+:id: 6239c1ed-a3f3-41c8-b952-9ea8823a82d3
+:END:
 *** [[洋地黄]](易中毒)(低氧时ATP本身不够,还抑制钠钙交换促进钙钠交换)
 *** 使用作用快排泄快([[毛花苷c]]/丙,[[西地兰]])不用[[地高辛]](口服发挥作用慢)
 ((e316f33d-8cad-428e-b055-98739c121dd6))

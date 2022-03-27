@@ -4,6 +4,9 @@
 
 * 逐句翻译
 ** [[2002年/Text1]]
+:PROPERTIES:
+:collapsed: true
+:END:
 *** [[2022-03-18]]
 :PROPERTIES:
 :id: 6234b469-9996-464e-a753-c6beb5942449
@@ -56,6 +59,28 @@ adj. 透视的
 *** [[file:../journals/2022_03_23.org][2022-03-23]]
 **** [[be thought of]]
 **** [[in terms of]]
+** 墨墨背单词
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[file:../journals/2022_03_24.org][2022-03-24]]
+**** [[sole]]
+*** [[file:../journals/2022_03_26.org][2022-03-26]]
+**** [[retain]]
+**** [[formidable]]
+**** [[inaugurate]]
+**** [[authentic]]
+**** [[clutch]]
+**** [[fabricate]]
+**** [[allege]]
+**** [[plaintiff]]
+***** [[plaint]]
+***** [[stiff]]
+**** [[defendant]]
+**** [[antenna]]
+**** [[indispensable]]
+**** [[aesthetic]]
+**** [[paraphrase]]
 * [[红宝书]]
 ** [[2022-03-19]]
 *** token
