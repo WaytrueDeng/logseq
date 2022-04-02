@@ -1537,7 +1537,6 @@ GC：鸟苷酸环化酶
 - [X] D.反射的效果是使呼吸变浅娈快
 * 生理 消化系统
 :PROPERTIES:
-:collapsed: true
 :END:
 ** 1.1991N158X 消化道平滑肌基本电节律的特
 :PROPERTIES:

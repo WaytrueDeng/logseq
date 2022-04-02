@@ -681,3 +681,221 @@
 :hl-page: 234
 :id: 623fdfa4-5d33-4446-96b2-b1fdb2284b71
 :END:
+* 病变往往从一个或一组淋巴结开始，逐渐由近及远地向周围的淋巴结扩散;②显微镜下,HL的肿瘤细胞是一种独特的瘤巨细胞,分别由Sternberg（1898年）和Reed（1902年）首先描述，故称Reed-Sternberg细胞（R-Scell）,在病变组织中只有少数肿瘤性大细胞（R-S细胞），瘤细胞仅占所有细胞成分的0.1%〜10%,R-S细胞在不同病例的肿瘤组织或同一病例不同时期的病变组织中所占的数量和比例各异;③病变组织中常有数量不等的、反应性的各种炎细胞存在;④在HL的后期，少数的病例（约5%）可出现骨髓累及;⑤现已证实98%以上病例的R-S细胞有Ig基因克隆性重排，支持R-S细胞起源于滤泡生发中心B细胞的观点。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 283
+:id: 62412850-8013-4fad-97ea-bce78fe9db09
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 624142aa-f392-4786-846a-4490141c9a8c
+:hl-type: area
+:hl-stamp: 1648444073150
+:END:
+* 所有CLL和大多数SLL都有骨髓累及。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 276
+:id: 624152a2-0697-40bb-98ee-8666cff3666c
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 277
+:id: 624164c5-23f1-427b-aff6-22d79af7c4ab
+:hl-type: area
+:hl-stamp: 1648452804447
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 277
+:id: 624164d9-9d6c-4e26-971d-05842b0532cd
+:hl-type: area
+:hl-stamp: 1648452824201
+:END:
+* 肿瘤细胞在副皮质区浸润或呈弥漫浸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 281
+:id: 62417463-b092-4cb7-a245-973b17637188
+:END:
+* 病变好发于主动脉的后壁及其分支开口处，以腹主动脉病变最为严重，其后依次为胸主动脉、主动脉弓和升主动脉。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 6243b639-7b39-4a2d-9726-7c24b6af1fcf
+:END:
+* 根据病变检出率和统计结果，以左冠状动脉前降支为最高，其余依次为右主干、左主干或左旋支、后降支。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 6243b661-f178-452b-9e80-d91ffdb2b504
+:END:
+* 颈动脉及脑动脉粥样硬化最常见于颈内动脉起始部、基底动脉、大脑中动脉和Willis环。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6a3-9dee-4b26-9b21-9272b39e65bd
+:END:
+* 多个瘢痕可使肾脏缩小，称为AS性固缩肾
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6c6-674c-4106-93b2-64f8faba762e
+:END:
+* 四肢动脉粥样硬化以下肢动脉为重，常发生在骼动脉、股动脉及前后胫动脉。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6f3-fdcc-44d5-9322-43798c88dcda
+:END:
+* 7天~2周，边缘区开始出现肉芽组织，或肉芽组织向梗死灶内长入，呈红色。3周后肉芽组织开始机化,逐渐形成瘢痕组织。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 6243b7b4-755e-407c-9ce9-f3eecbe483f0
+:END:
+* ③脑出血(cerebralhemorrhage)，是高血压最严重的、往往是致命的并发症。脑出血多为大出血。^^常发生于基底节、内囊，其次为大脑白质、脑桥和小脑。^^当出血范围扩大时，可破入侧脑室。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6243bbbf-f3c4-4d1b-9085-2508d8851d1b
+:END:
+* 风湿热病变可呈急性或慢性反复发作，急性期过后，常造成轻重不等的心脏病变,可遗留心脏瓣膜病变，形成风湿性心瓣膜病
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6243bfc2-e1c2-4529-9bc1-c6bcfb409155
+:END:
+* 变质渗出期(alterativeandexudativephase)是风湿病的早期改变。在心脏、浆膜、关节、皮肤等病变部位表现为结缔组织基质的黏液样变性和胶原纤维素样坏死。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6243c0d3-491d-48da-a83d-b5d2e224b413
+:END:
+* HCM特征性的变化是非对称性室间隔肥厚图9-28肥厚型心肌病室间隔非对称性肥厚，心室腔及左室流出道狭窄也可见均匀肥厚型、心尖肥厚型和左心室前壁肥厚型等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6243c420-0a83-4008-b17c-0f1031c52a46
+:END:
+* 光镜下，心内膜纤维化，可发生玻璃样变和钙化，伴有附壁血栓形成。^^心内膜下心肌常见萎缩和变性改变，亦称心内膜心肌纤维化^^(endomyocardialfibrosis)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6243c4ae-3970-4342-80f6-6f62a876cb68
+:END:
+* 病灶处可见^^心肌灶状坏死和肉芽肿形成^^，中心有红染、无结构的坏死物，周围有淋巴细胞、单核细胞、浆细胞或嗜酸性粒细胞浸润，并混有多量的多核巨细胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 6243c5c9-3c81-4820-860d-bd72980079d7
+:END:
+* 骨髓中的多能干细胞可以向两个方向分化:向髓细胞方向克隆性增生形成粒细胞、单核细胞、红细胞和巨核细胞系别的肿瘤，统称为髓系肿瘤；向淋巴细胞方向克隆性增生则形成淋巴组织肿瘤。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 6243ccf0-0b32-4992-908b-9b84ba4fa14c
+:END:
+* 故也称绿色瘤(chloroma)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 287
+:id: 6243cf46-4429-4164-8c0d-3ccaabe74f33
+:END:
+* 髓系原始细胞在骨髓以外的器官或组织内聚集增生而形成的肿块
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 287
+:id: 6243cf4f-3679-49ce-a92d-aac8bc0e55b2
+:END:
+* 在WHO分类中，急性髓系白血病（AML）及其相关的前体细胞肿瘤包括下列疾病:①伴重现性遗传学异常的AML；②伴有骨髓增生异常改变的AML；③治疗相关的髓系肿瘤;④髓系肉瘤;®Down综合征相关骨髓增殖症;⑥原始（母）细胞性浆细胞样树突状细胞肿瘤;⑦非特指AML。并用非特指型AML囊括了不符合上述单列肿瘤特征的其他AML类型，如:微分化型、有成熟迹象型、急性单核细胞白血病、急性巨核细胞白血病、急性红白血病等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 288
+:id: 6243d1ed-75e7-4169-9831-2e863a11bf7b
+:END:
+* ①慢性粒细胞白血病（chronicmyelogenousleukemia,CML）,BCR-ABL1阳性（chronicmyelogenousleukemia, BCR-ABL1positive）；②慢性中性粒细胞白血病（chronicneutrophilicleukemia,CNL），其特征是外周血中性粒细胞持续增多，骨髓的中性粒细胞显著增生，无Ph染色体或BCR-ABL1融合基因;③真性红细胞增多症（polycythemiavera,PV）,由于酪氨酸激酶基因JAK2的突变，具有不依赖于红细胞生成素正常调节的红系细胞增殖，同时伴有粒系、巨核细胞系的增殖，外周血以红细胞、血红蛋白增多为主要表现;④原发性骨髓纤维化（primarymyelofibrosis,PMF）,骨髓中以巨核细胞和粒系细胞增生为主，在疾病后期出现纤维结缔组织显著增生和纤维化；⑤特发性血小板增多症（essentialthrombocythemia,ET）,以骨髓中细胞体积大、胞核分叶多的巨核细胞显著增生为特征，外周血中的血小板持续增多。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 288
+:id: 6243d3a1-93d1-4a11-8f84-5d2b84b54003
+:END:
+* 现今根据CML发病的分子机制，在治疗中引入酪氨酸激酶的阻断剂（imatinib,伊马替尼,商品名称:格列卫）实施特定的分子靶向治疗，可使90%的患者血象获得完全缓解
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 289
+:id: 6243d725-9e02-431b-951b-0fe9daca7a70
+:END:
+* 然而,酪氨酸激酶的阻断剂只能够抑制肿瘤细胞的增生，但不能够清除CML克隆,不能够阻止肿瘤向急变期的演进。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 290
+:id: 6243d740-9c1c-4fdb-9e62-c730b1f41be3
+:END:
+* 一般认为,子宫颈癌的发生与早婚、多产、宫颈裂伤、局部卫生不良、包皮垢刺激等多种因素有关，流行病学调查说明性生活过早和性生活紊乱是子宫颈癌发病的最主要原因。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 312
+:id: 62466312-5ff1-4591-bc37-afad4a20bc06
+:END:
+* 此外,吸烟和免疫缺陷可增加致癌风险,HIV感染可使子宫颈原位癌的发生几率增加5倍
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 312
+:id: 6246653a-693e-4e43-baf9-124a8067db70
+:END:
+* CIN多无自觉症状，肉眼观亦无特殊改变，子宫颈鳞状上皮和柱状上皮交界处是发病的高危部位,可疑之处可用碘液染色进行鉴别。正常子宫颈鳞状上皮富含糖原，故对碘着色，如患处对碘不着色,提示有病变。此外，醋酸可使子宫颈有CIN改变的区域呈白色斑片状。如要确诊,需进一步进行脱落细胞学或组织病理学检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 313
+:id: 62466cab-433d-4546-9273-062204c6a52e
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 321
+:id: 62469bf2-6a0b-4cd2-888f-fba1fa6ebc0a
+:hl-type: area
+:hl-stamp: 1648794608014
+:END:
+* 在血栓机化过程中，由于水分被吸收，血栓干燥收缩或部分溶解而出现裂隙，周围新生的血管内皮细胞长入并被覆于裂隙表面形成新的血管，并相互吻合沟通，使被阻塞的血管部分重建血流，这一过程称为再通(recanalization)(图3-9)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 85
+:id: 6246b165-9883-44bb-9160-93eb51f3bae3
+:END:
+* 血管血栓形成导致动脉血流中断或灌流不足是梗死形成的最常见原因。主要见于冠状动脉、脑动脉粥样硬化合并血栓形成时引起的心肌梗死和脑梗死。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 90
+:id: 6246b23c-2d61-42ad-9e8c-67c97dee4a3a
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 327
+:id: 62471996-0c2e-4e30-8dda-8058fc3ed070
+:hl-type: area
+:hl-stamp: 1648826773194
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 62471e83-54f9-4eb9-81e6-3395412c8b7f
+:hl-type: area
+:hl-stamp: 1648828034573
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 62471fad-7dc4-48d2-b02d-32dbc847ed66
+:hl-type: area
+:hl-stamp: 1648828332743
+:END:

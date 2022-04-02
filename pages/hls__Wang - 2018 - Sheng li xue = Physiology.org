@@ -3799,3 +3799,125 @@
 :hl-page: 228
 :id: 623efd5a-880b-4a18-b491-1cfe253559ff
 :END:
+* 因慢波频率对平滑肌的收缩节律起决定性作用,故又称基本电节律（basalelectricalrhythm,BER）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6243dad8-cc70-414e-a7eb-bba8f53176db
+:END:
+* HC1的分泌量与壁细胞的数目和功能状态直接相关。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 211
+:id: 6243dcec-6475-412c-80db-eafd8c4198b6
+:END:
+* 存在于食物中的大多数维生素B₁₂是与蛋白质结合的。胃蛋白酶消化蛋白质的作用和胃内的低pH环境，使维生素B₁₂能从结合的形式释放出来，游离的维生素B₁₂迅速与一种称为R蛋白的糖蛋白结合
+:PROPERTIES:
+:hl-page: 232
+:ls-type: annotation
+:id: 6243de83-960e-4d24-b221-7f0a980fcbb5
+:END:
+* 促胃液素可通过血液循环作用于肝细胞引起肝胆汁分泌;也可先引起盐酸分泌，然后由盐酸作用于十二指肠黏膜，使之释放促胰液素，进而促进胆汁分泌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 6243e0a3-cb03-40cb-896c-9bcabc0cba17
+:END:
+* 促胰液素、胰高血糖素、抑胃肽和血管活性肠肽对促胃液素的分泌都有抑制作用。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 216
+:id: 6243e136-68e2-48d0-82b3-f094a61aa0cc
+:END:
+* 进食时食物刺激口腔、咽、食管等处的感受器，可反射性引起胃底和胃体（以头区为主）舒张，称为容受性舒张（receptiverelaxation）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 218
+:id: 6243e1d8-a938-44ec-83e8-056c98f25f29
+:END:
+* 容受性舒张是通过迷走-迷走反射实现的，但参与该反射的迷走神经传出纤维属于抑制性纤维，其节后纤维释放的递质可能是VIP和NO。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 218
+:id: 6243e235-aaf1-482a-8df8-2d6688a35e93
+:END:
+* 食物对胃的扩张刺激可通过迷走-迷走反射和胃壁的内在神经丛局部反射引起胃运动的加强,促进胃排空。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 218
+:id: 6243e2a3-0a9c-4942-befc-185fe093bd65
+:END:
+* 胰液(pancreaticjuice)是无色无臭的碱性液体,pH为7.8〜8.4,渗透压与血浆大致相等。人每日分泌的胰液量为1~2L°
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 220
+:id: 6243e413-5d5e-466f-a2d2-0d49c4449db9
+:END:
+* 在无机成分中,HCO3一的含量很高
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 220
+:id: 6243e423-2cc2-4b65-a09f-edc0d14881f6
+:END:
+* 胰液中的正离子有Na\K\Ca2+等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 220
+:id: 6243e433-02de-47bc-988b-6a751570d777
+:END:
+* 此外,正常胰液中还含有梭基肽酶、核糖核酸酶、脱氧核糖核酸酶等水解酶。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 220
+:id: 6243e44f-a27a-49a1-802f-aea7721a4c1e
+:END:
+* 影响胰液分泌的体液因素还有胃窦分泌的促胃液素、小肠分泌的血管活性肠肽等,它们在作用上分别与缩胆囊素和促胰液素相似。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 6243e50f-bd39-4933-a7d6-658e1e688bcd
+:END:
+* 迷走神经主要作用于胰腺的腺泡细胞，对小导管细胞的作用较弱，因此，迷走神经兴奋引起胰液分泌的特点是水和碳酸氢盐含量很少，而酶的含量却很丰富
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 221
+:id: 6243e5b9-eb7c-4ef9-8ea1-0f09e43272fe
+:END:
+* 胆囊胆汁因被浓缩而颜色加深，为深棕色，因HCO3-在胆囊中被吸收而呈弱酸性(pH6.8)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 6243e7a3-976a-4a48-90ef-f80f46e84082
+:END:
+* 胆汁是唯一不含消化酶的消化液。胆汁中最重要的成分是胆盐，其主要作用是促进脂肪的消化和吸收;胆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 6243e809-90c4-4f02-bda4-9e35f1e332c6
+:END:
+* 入小肠的胆盐绝大部分由回肠黏膜吸收入血，通过门静脉回到肝脏再形成胆汁，这一过程称为胆盐的肠-肝循环(enterohepaticcirculation)0返回到肝脏的胆盐有刺激肝胆汁分泌的作用，称为胆盐的利胆作用(图6-13)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 222
+:id: 6243e959-d010-4074-bb5a-5faaaad4fb48
+:END:
+* 在大肠还有一种进行很快且前进很远的蠕动,称为集团蠕动(massperistalsis)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 227
+:id: 6243e9db-e121-44f1-9880-8840c8e1ab3b
+:END:
+* 小肠是吸收的主要部位，糖类、蛋白质和脂肪的消化产物大部分在十二指肠和空肠被吸收
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 228
+:id: 6243ea3f-8929-4fcc-91f7-dfd9b0f80885
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 228
+:id: 6243ea4f-10e8-41ba-ac15-9f6f89c43d3f
+:hl-type: area
+:hl-stamp: 1648618061665
+:END:

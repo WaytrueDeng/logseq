@@ -61,7 +61,6 @@ adj. 透视的
 **** [[in terms of]]
 ** 墨墨背单词
 :PROPERTIES:
-:collapsed: true
 :END:
 *** [[file:../journals/2022_03_24.org][2022-03-24]]
 **** [[sole]]
@@ -81,6 +80,12 @@ adj. 透视的
 **** [[indispensable]]
 **** [[aesthetic]]
 **** [[paraphrase]]
+*** [[file:../journals/2022_03_27.org][2022-03-27]]
+**** [[discrimination]]
+**** [[outweight]]
+**** [[impinge]]
+**** [[conspicuous]]
+**** [[sarcastic]]
 * [[红宝书]]
 ** [[2022-03-19]]
 *** token
