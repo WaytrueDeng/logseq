@@ -191,7 +191,7 @@
  ;; :editor/extra-codemirror-options {:keyMap "emacs" :lineWrapping true}
   :zotero/settings-v2 {"default" {:zotero-linked-attachment-base-directory "/Users/waytrue/PDFs", :zotero-data-directory "/Users/waytrue/Zotero", :type-id "6626953"}}
  :ui/show-brackets? false
- :favorites ["@2022考研大纲" "@Internal_medicine" "DASHBOARD"]
+ :favorites ["@Wai ke xue = Surgery" "@2022考研大纲" "@Internal_medicine" "DASHBOARD"]
  :journal/page-title-format "yyyy-MM-dd"
 
  }

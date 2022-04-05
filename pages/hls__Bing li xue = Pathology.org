@@ -899,3 +899,246 @@
 :hl-type: area
 :hl-stamp: 1648828332743
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 335
+:id: 6247be13-b76c-4085-bede-1270825a282e
+:hl-type: area
+:hl-stamp: 1648868882203
+:END:
+* 可将甲状腺炎分为急性、亚急性和慢性三种。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247ce9c-c751-4a7e-89cf-8cd92d5d3cf3
+:END:
+- 急性甲状腺炎是多由细菌感染引起的^^化脓性炎症^^;
+- 亚急性甲状腺炎一般认为是与^^病毒感染有关的炎症^^;
+- 慢性淋巴细胞性甲状腺炎是一种^^自身免疫性疾病^^；纤维性甲状腺炎目前病因不明
+* 又称肉芽肿性甲状腺炎它是一种与病毒感染有关的^^肉芽肿性炎症^^。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d282-29e6-435c-8bb6-59330fca60aa
+:END:
+* 甲状腺呈^^不均匀结节状^^,轻至中度增大，质实，橡皮样。切面病变呈灰白或淡黄色，可见^^坏死或瘢痕^^,常与周围组织有粘连。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d2fd-b2e1-4acd-a808-83e5546aa141
+:END:
+* 病变呈灶性分布，^^部分滤泡被破坏,胶质外溢^^，引起^^类似结核结节的肉芽肿^^形成,并有多量的^^中性粒细胞及不等量的嗜酸性粒细胞^^、淋巴细胞和浆细胞浸润，可形成微小脓肿，^^伴异物巨细胞反应，但无干酪样坏死。^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d414-dc18-40b9-bc87-98cc2d64788f
+:END:
+* 愈复期:巨噬细胞消失,滤泡上皮细胞再生、间质纤维化、瘢痕形成。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d46d-8323-4a0c-b039-ce6e9cd0b95f
+:END:
+* 又称桥本甲状腺炎(Hashimoto，sthyroiditis)、自身免疫性甲状腺炎(autoimmunethyroiditis)，是一种自身免疫性病。^^多见于中年女性^^
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 336
+:id: 6247d4f6-5c8a-497a-b630-23391c505630
+:END:
+* TSH较高,T3,T4低，患者血内^^出现多种自身抗体^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d50f-12b4-4d2f-ad40-4efad72e0502
+:END:
+* ^^甲状腺弥漫性对称性肿大^^，质较韧，重量一般为60~200g,被膜轻度增厚，但^^与周围组织无粘连^^，切面呈分叶状,色灰白灰黄。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d54b-dae6-4b24-a88e-4bbc253467d1
+:END:
+* ^^甲状腺广泛破坏、萎缩^^，大量^^淋巴细胞^^及不等量的^^嗜酸性粒细胞^^浸润、^^淋巴滤泡形成，纤维组织增生^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d58b-bf84-44a8-b2e1-760bb46fac35
+:END:
+* 肉眼观，^^甲状腺中度肿大^^，病变范围和程度不一,^^病变呈结节状，质硬似木样^^，与^^周围组织明显粘连^^，切面灰白(cmt:毕竟是纤维性)
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d633-14d2-451b-80a4-884538d4f8f5
+:END:
+* 光镜下，滤泡萎缩，^^大量纤维组织增生^^、^^[[玻璃样变]]^^,有^^淋巴细胞浸润^^(cmt:毕竟是慢性炎症)。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d699-2729-4a48-8bd3-a54f0a7cb34e
+:END:
+* ①本病向周围组织蔓延、侵犯、粘连；后者仅限于甲状腺内；
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d7ba-7b6e-4672-9ad4-b4345361d127
+:END:
+②本病虽有淋巴细胞浸润，但不形成^^淋巴滤泡^^；
+③本病有显著的^^纤维化及玻璃样变^^,质硬
+* 肉眼观，多为单发，圆或类圆形，有完整的包膜，常压迫周围组织，直径一般3~5cm,切面多为实性,可并发出血、囊性变、钙化和纤维化。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247da38-65e1-4037-a6fb-206e8852ba0f
+:END:
+* 包膜完整,瘤组织由大小较一致、排列拥挤、内含胶质,由与成人正常甲状腺相似的滤泡构成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 337
+:id: 6247dfb3-71ae-4b18-b5ec-89f29ae7b217
+:END:
+* 肿瘤组织由大滤泡或^^大小不一的滤泡组成^^，滤泡内充满胶质,并^^可互相融合成囊^^
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247dff1-57e6-4945-9bb0-5ea8af8c8277
+:END:
+* 主要由^^小而一致^^、仅含^^少量胶质或没有胶质^^的小滤泡构成,上皮细胞为^^立方形,似胎儿甲状腺组织。^^
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e02b-d10b-445f-ab0f-ec585eba4cb3
+:END:
+* ^^瘤细胞小，大小较一致，分化好^^，呈片状或条索状排列,偶见不完整的小滤泡，^^无胶质^^,间质疏松呈水肿状。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e07e-149b-4722-88a1-808c881bd916
+:END:
+* 又称Hurthle(许特莱)细胞腺瘤。较少见，瘤细胞大而多角形，核小，胞质丰富、^^嗜酸性，内含嗜酸性颗粒^^。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e0f6-0163-4d45-85c7-fc3eacf79b51
+:END:
+- 电镜下见^^嗜酸性细胞内有丰富的线粒体，即Hurthle细胞^^。瘤细胞排列成索网状或巢状，很少形成滤
+* :PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e160-e9f5-4b6b-9c05-1b625834731b
+:END:
+- 瘤细胞丰富，部分为梭形，有轻度^^非典型增生^^，可见核分裂象。瘤细胞排列成索或巢片状，^^不形成滤泡^^，间质少，^^但无包膜和血管侵犯^^。
+- 本瘤应与髓样癌和转移癌鉴别，可作TTF-1、降钙素(calcitonin,CT)、上皮膜抗原(epithelialmembraneantigen,EMA)和角蛋白(keratin)等免疫组织化学检查，^^髓样癌细胞呈TTF-1、CT阳性,转移癌不表达甲状腺球蛋白(thyro­globulin,TG)^^
+* ①前者常为多发结节、无完整包膜;后者一般单发,有完整包膜。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e296-b314-4811-8ece-3e49ffca270a
+:END:
+②前者滤泡大小不一致，一般比正常的大;后者则滤泡及滤泡上皮细胞大小较一致。
+③前者周围甲状腺组织无压迫现象，邻近的甲状腺内与结节内有相似病变;后者周围甲状腺有压迫现象，周围和邻近处甲状腺组织均正常。
+* 是^^原发性甲状腺癌中最常见的类型^^，占甲状腺癌的60%，^^青少年女性较多见^^，肿瘤生长缓慢，^^恶性程度较低，预后较好^^，10年生存率达80%以上。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e5a0-08d1-4b54-8988-5cc04109a226
+:END:
+* 但局部淋巴结转移较早
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e5d0-ef59-4a0f-970c-a6776103da71
+:END:
+* 肉眼观，肿瘤一般呈球形，直径约3cm,无包膜，切面灰白色，质地较硬。部分病例有囊形成，囊内可见乳头，又称为乳头状囊腺癌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e60a-821b-4da6-88e4-58a6a54ef30a
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e676-375c-4167-8c36-4af8f01d5238
+:hl-type: area
+:hl-stamp: 1648879218323
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 371
+:id: 6248e516-f26a-424f-8253-bf07f1ceb701
+:hl-type: area
+:hl-stamp: 1648944404030
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 375
+:id: 6248f4d9-1fa7-494a-ba5b-ddff71ab77a6
+:hl-type: area
+:hl-stamp: 1648948440030
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 351
+:id: 624905d7-e058-48a2-b3fa-e36103cbaaa1
+:hl-type: area
+:hl-stamp: 1648952790488
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 351
+:id: 624905f9-8747-4e92-8f8f-94a398c9c8c3
+:hl-type: area
+:hl-stamp: 1648952823592
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490c72-375c-40e1-880e-b31230132694
+:hl-type: area
+:hl-stamp: 1648954481377
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490c97-da9a-42cc-b32c-2de30cfe5325
+:hl-type: area
+:hl-stamp: 1648954517355
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490d10-610d-4d1d-a976-d50c0b6ff54d
+:hl-type: area
+:hl-stamp: 1648954639588
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 378
+:id: 62491165-cd02-4642-9689-31e770671621
+:hl-type: area
+:hl-stamp: 1648955748533
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 379
+:id: 624917bd-6acb-4f7b-b1a8-d6f6fbefa853
+:hl-type: area
+:hl-stamp: 1648957371845
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 387
+:id: 62491cb1-5cf0-42fb-9a8d-7dd387c9b3e6
+:hl-type: area
+:hl-stamp: 1648958639096
+:END:

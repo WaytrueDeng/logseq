@@ -2706,12 +2706,15 @@
 :hl-page: 73
 :id: 6229f7d5-88fa-457a-be3a-43d47e50e412
 :END:
-* 局部电位具有电紧张电位的电学特征:①等级性电位，即其幅度与刺激强度相关，而不具有“全或无”特点;②衰减性传导，局部电位以电紧张的方式向周围扩布，扩布范围一般不超过1mm半径;③没有不应期，反应可以叠加总和，其中相距较近的多个局部反应同时产生的叠加称为空间总和（spatialsummation）,多个局部反应先后产生的叠加称为时间总和（temporalsummation）o较大的局部兴奋或小的局部兴奋经总和后可使细胞膜去极化达到阈电位，从而引发动作电位（图2-26B中电压变化曲线5）。
+* 局部电位具有电紧张电位的电学特征:
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 73
+:ls-type: annotation
 :id: 6229f836-e545-43e9-b1d7-e877642482ba
 :END:
+- ①等级性电位，即其^^幅度与刺激强度相关^^，而不具有“全或无”特点;
+- ②衰减性传导，局部电位以^^电紧张的方式^^向周围扩布，扩布范围一般不超过1mm半径;
+- ③^^没有不应期，反应可以叠加总和^^，其中相距较近的多个局部反应同时产生的叠加称为^^空间总和^^（spatialsummation）,多个局部反应先后产生的叠加称为^^时间总和^^（temporalsummation）o较大的局部兴奋或小的局部兴奋经总和后可使细胞膜去极化达到阈电位，从而引发动作电位（图2-26B中电压变化曲线5）。
 * 静息电位略小于K*平衡电位的原因是，安静时细胞膜对Na*也有一定的通透性（为K⁺通透性的1/100〜1/50），少量进入细胞的Na⁺可部分抵消由K+外流所形成的膜内负电位
 :PROPERTIES:
 :hl-page: 61
@@ -3920,4 +3923,58 @@
 :id: 6243ea4f-10e8-41ba-ac15-9f6f89c43d3f
 :hl-type: area
 :hl-stamp: 1648618061665
+:END:
+* 锋电位是动作电位的主要部分，被视为动作电位的标志。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 624835da-5a1e-4cfd-8eff-203896c5b91b
+:END:
+* 锋电位是动作电位的主要部分，被视为动作电位的标志。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 624835df-8fdd-431b-ade4-a3a2ac5aa71d
+:END:
+* 前一部分的膜电位仍
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 624835e3-c81b-4003-84bf-e54afd5125a6
+:END:
+* 原因就与高血钾引起静息电位减小，膜发生去极化进而使电压门控钠通道失活(见后文)有关。②膜对K+和Na+的相对通透性:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 624835e6-4752-442e-9111-6ab1075b6855
+:END:
+* 锋电位是动作电位的主要部分，被视为动作电位的标志
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 6248361c-4b89-4bb6-a2ad-1fa2e9878a08
+:END:
+* 因此，若将细胞外液中的Na+用其他物质取代或给予钠通道阻断剂TTX后,神经纤维动作电位的幅度将下降或消失。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 62483729-8c07-45a2-99ea-092b7d73d079
+:END:
+* 在静息状态下，因囊泡的随机运动也会发生单个囊泡的自发释放,并引起终板膜电位的微弱去极化，称作微终板电位（miniatureend-platepotential,MEPP）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 62483a36-39e6-4b1e-9f9d-f74d3c9f2b8a
+:END:
+* 其次是药物和病理因素的影响，如筒箭毒碱和a-银环蛇毒可特异性阻断终板膜中的N2型ACh受体阳离子通道而松弛肌肉；
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 62483b03-8518-4f1f-bd02-f91e64e44fec
+:END:
+* 新斯的明可抑制乙酰胆碱酯酶而改善肌无力患者的症状;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 62483b15-5cdd-482d-9414-87f915b26b16
 :END:

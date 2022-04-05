@@ -10,9 +10,6 @@
 :END:
 ** 新增未知或遗忘知识
 ** 测试题暴露出的知识盲区
-:PROPERTIES:
-:collapsed: true
-:END:
 *** [[file:../journals/2022_03_27.org][2022-03-27]]
 **** :PROPERTIES:
 :id: 623fe1bc-ce52-42fb-9079-9279f56cf2fb

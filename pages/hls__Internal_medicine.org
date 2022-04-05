@@ -426,7 +426,7 @@
 :hl-page: 64
 :id: 621612bd-994a-42ec-84bd-fd1d1e2dde56
 :END:
-* ，临床上还存在没有喘息症状的不典型哮喘，病人可表现为发作性咳嗽、胸闷或其他症状
+* ，临床上还^^存在没有喘息症状^^的不典型哮喘，病人可表现为发作性咳嗽、胸闷或其他症状
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 64
@@ -522,10 +522,10 @@
 :hl-page: 66
 :id: 621618ef-cbda-4f68-8cc6-eed29244c767
 :END:
-* 度：休息时感气短，端坐呼吸，只能发单字表达，常有焦虑和烦躁，大汗淋漓，呼吸频率＞30次／分，常有三凹征，闻及响亮、弥漫的哮鸣音，心率增快常＞120次／分，奇脉，使用支气管舒张剂后PEF占预计值＜60%或绝对值＜1001/min或作用时间＜2小时，Pa02<60mmHg, PaC02 >45mmHg, Sa02运90%,pH可降低。
+* 重度：休息时感气短，^^端坐呼吸，只能发单字表达^^，常有焦虑和烦躁，大汗淋漓，呼吸频率＞30次／分，^^常有三凹征，闻^^及响亮、弥漫的哮鸣音，心率增快常＞120次／分，^^奇脉^^，使用支气管舒张剂后PEF占预计值＜60%或绝对值＜100L/min或作用时间＜2小时，Pa02<60mmHg, PaC02 >45mmHg, Sa02运90%,pH可降低。
 :PROPERTIES:
-:ls-type: annotation
 :hl-page: 66
+:ls-type: annotation
 :id: 62161900-3bdb-4bac-ae32-4578424964fc
 :END:
 * 讲话常有中断
@@ -534,7 +534,7 @@
 :hl-page: 66
 :id: 62161909-520e-4ebb-9421-ab2e6a6d9742
 :END:
-* ：病人不能讲话，嗜睡或意识模糊，胸腹矛盾运动，哮鸣音减弱甚至消失，脉率变慢或不规则，严重低氧血症和高二氧化碳血症，pH降低。
+* ：病人不能讲话，^^嗜睡或意识模糊，胸腹矛盾运动，哮鸣音减弱甚至消失^^，脉率变慢或不规则，严重低氧血症和高二氧化碳血症，pH降低。
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 66
@@ -2714,4 +2714,40 @@
 :id: 6246fb79-3578-4a6f-aef7-9d8e74b174be
 :hl-type: area
 :hl-stamp: 1648819084460
+:END:
+* 步行或上楼时气短，可有焦虑，^^呼吸频率轻度增加，闻及散在哮鸣音^^，肺通气功能和血气^^检查正常。^^
+:PROPERTIES:
+:hl-page: 66
+:ls-type: annotation
+:id: 62494081-4744-4850-8105-4deb975f394e
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 62494279-8604-4333-9719-53ad4214b6a8
+:hl-type: area
+:hl-stamp: 1648968311754
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 624959ec-b42b-4e97-814d-4bc8635c6168
+:hl-type: area
+:hl-stamp: 1648974319167
+:END:
+* 起病急，寒战、高热、全身衰竭、咳砖红肺叶或肺段实变，蜂窝状腺肿，叶间隙下坠色胶冻状痰
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 62496cc7-1dd2-4ea5-a810-407b9db2acda
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 62496cd5-0df2-47bd-81b0-5823575e8d5d
+:hl-type: area
+:hl-stamp: 1648979156705
 :END:
