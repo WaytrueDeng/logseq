@@ -10,3 +10,115 @@
 :hl-type: area
 :hl-stamp: 1649037828973
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 624d1382-ac27-49f2-a47c-0e58e1b2b19d
+:hl-type: area
+:hl-stamp: 1649218433331
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 624d3179-243e-4947-bb4c-dbfb7f73a532
+:hl-type: area
+:hl-stamp: 1649226102862
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 624d3537-3dc6-4f2a-b58e-b812b7e33bb3
+:hl-type: area
+:hl-stamp: 1649227062932
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 624d3e8d-1e71-4d9c-98f3-17a1758297d7
+:hl-type: area
+:hl-stamp: 1649229452410
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:id: 624d587d-bf74-43b5-be43-8eb37eb9ca9b
+:hl-type: area
+:hl-stamp: 1649236100816
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:id: 624d5a75-3d8b-4628-8536-244702f2fed4
+:hl-type: area
+:hl-stamp: 1649236609710
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 141
+:id: 624e810e-b43d-4763-94cf-27e9d8aba66a
+:hl-type: area
+:hl-stamp: 1649312013100
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 150
+:id: 624ea772-bcdb-469f-96e3-c0001da72c2e
+:hl-type: area
+:hl-stamp: 1649321841017
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 153
+:id: 624ebb05-ab0a-4b79-b498-98a4e5f5547f
+:hl-type: area
+:hl-stamp: 1649326852355
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 155
+:id: 624ec1c9-c49a-4a6b-854d-369b17329022
+:hl-type: area
+:hl-stamp: 1649328580264
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 156
+:id: 624ecc96-7c95-46e9-951e-dc6a1159acda
+:hl-type: area
+:hl-stamp: 1649331349299
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 624fb9cf-eb4f-4188-b9ea-b136fca2693e
+:hl-type: area
+:hl-stamp: 1649392078066
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 624fbaef-ea84-49a2-9525-1dfae92a990d
+:hl-type: area
+:hl-stamp: 1649392366200
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 173
+:id: 624fbaf8-8576-44a3-b49b-8b96202bd4da
+:hl-type: area
+:hl-stamp: 1649392375872
+:END:

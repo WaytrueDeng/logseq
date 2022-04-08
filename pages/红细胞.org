@@ -12,7 +12,7 @@
 *** 变形能力取决于
 **** RBC几何形状(双凹圆盘状) 最重要
 :PROPERTIES:
-:background-color: #793e3e
+:color: #793e3e
 :END:
 **** RBC黏度(Hb量)呈^^负相关^^
 :PROPERTIES:

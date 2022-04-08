@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: 2D773E12-7FAC-4ED8-98A3-DF7A6A98B511
+:END:
+
+#+deck:内科学::呼吸系统::肺动脉高压与肺心病
+
+* 诊断标准 #card
+:PROPERTIES:
+:id: 621f6257-4aed-4324-9ba1-d5e8f0d8fd61
+:END:
+** 右心导管测量平均肺动脉压$\geq${{cloze 25mmHg}}
+:PROPERTIES:
+:id: 621f6257-1510-4715-847c-70181d69f0e6
+:END:
+* 临床表现 #card
+:PROPERTIES:
+:id: 621f6257-a3fc-4ae9-9edd-3581e5b86110
+:END:
+** 症状
+早期无症状$\xrightarrow[]{压力↑}$全身表现→类似于[[肺栓塞]]$$\begin{cases} 胸痛\\呼吸困难\\咯血\\头晕\end{cases}$$
+** 体征
+*** 肺动脉瓣区的第二心音亢进,P₂>A₂
+*** S2分裂→通常分裂→A₂在前,P₂在后通常分裂(主动脉高压产生[[逆分裂]])
+*** 右心室肥大肥厚$$\begin{cases}心尖搏动向左侧移位\\胸骨左缘3~4肋间抬举样搏动\end{cases}$$ VS 左心室肥大肥厚$$\begin{cases}心尖搏动向左下移位\\\underset{胸骨左缘第5肋间与锁骨中线}{心尖部抬举样搏动}\end{cases}$$
+*
+* 实验室检查
+** ((65df3384-8688-42ca-af77-20d98c77c5dd))
+*
+*

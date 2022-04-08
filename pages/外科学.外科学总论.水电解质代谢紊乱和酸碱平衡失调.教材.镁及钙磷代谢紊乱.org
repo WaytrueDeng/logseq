@@ -6,46 +6,184 @@
 :collapsed: true
 :END:
 ** 低镁血症/病因 #card
-*** ①长期禁食、厌食或长时间肠外营养而 <span style="background-color:yellow;">没有补充镁</span>;
-*** ②严重腹泻、长期胃肠减压引流、肠痿以及短肠综合征等导致经 <span style="background-color:yellow;">胃肠道丢失镁</span>;
-*** ③大量应用利尿剂及某些肾脏疾病,导致经 <span style="background-color:yellow;">肾排出镁增多而重吸收减少</span>;
-*** ④ <span style="background-color:yellow;">高钙血症</span>可使肾小管对镁及磷酸盐重吸收减少;
-*** ⑤糖尿病酮症酸中毒(此处错误)、甲状腺功能亢进以及严重甲状旁腺功能减退均使 <span style="background-color:yellow;">肾小管对镁重吸收减少</span>。
+:PROPERTIES:
+:id: 624c1bec-b4d1-4d61-8a57-50b2078ada10
+:END:
+*** ①长期禁食、厌食或长时间肠外营养而 <span style="color:yellow;">没有补充镁</span>;
+*** ②严重腹泻、长期胃肠减压引流、肠痿以及短肠综合征等导致经 <span style="color:yellow;">胃肠道丢失镁</span>;
+*** ③大量应用利尿剂及某些肾脏疾病,导致经 <span style="color:yellow;">肾排出镁增多而重吸收减少</span>;
+*** ④ <span style="color:yellow;">高钙血症</span>可使肾小管对镁及磷酸盐重吸收减少;
+*** ⑤糖尿病酮症酸中毒(此处错误)、甲状腺功能亢进以及严重甲状旁腺功能减退均使 <span style="color:yellow;">肾小管对镁重吸收减少</span>。
 ** 低镁血症/临床表现 #card
 :PROPERTIES:
 :collapsed: true
+:id: 624c1bec-f7c3-472b-81fb-9507fff8c1cd
 :END:
-*** 【临床表现】临床表现与 <span style="background-color:yellow;">钙缺乏很相似,有肌震颤</span>、手足抽搐及Chvostek征阳性等,严重者表现为癫痫大发作。 <span style="background-color:yellow;">血清镁浓度与机体镁缺乏不一定相平行,即镁缺乏时血清镁浓度不一定降低,有时低镁血症常有眩晕、共济失调、手足徐动症、肌无力和肌萎缩。</span>因此,凡有诱因且有症状者,应疑有镁缺乏。
-*** <span style="background-color:yellow;">低镁血症容易引起心律失常</span>,心电图表现包括 <span style="background-color:yellow;">P-R间期和Q-T间期延长</span>。此外,低镁血症者急性缺血性心脏病、充血性心力衰竭及冠状动脉性心脏病发生率均高于正常。
+*** 【临床表现】临床表现与 <span style="color:yellow;">钙缺乏很相似,有肌震颤</span>、手足抽搐及Chvostek征阳性等,严重者表现为癫痫大发作。 <span style="color:yellow;">血清镁浓度与机体镁缺乏不一定相平行,即镁缺乏时血清镁浓度不一定降低,有时低镁血症常有眩晕、共济失调、手足徐动症、肌无力和肌萎缩。</span>因此,凡有诱因且有症状者,应疑有镁缺乏。
+*** <span style="color:yellow;">低镁血症容易引起心律失常</span>,心电图表现包括 <span style="color:yellow;">P-R间期和Q-T间期延长</span>。此外,低镁血症者急性缺血性心脏病、充血性心力衰竭及冠状动脉性心脏病发生率均高于正常。
 ** 低镁血症/治疗
+:PROPERTIES:
+:id: 624c1bec-d8fc-4b30-8f3a-3a07028f872e
+:END:
 
 #+BEGIN_QUOTE
 轻,重症,疗程和合并症
 #+END_QUOTE 
 #card
-*** 【治疗】轻度无症状低镁血症可以通过 <span style="background-color:yellow;">口服补充镁剂加以纠正，但由于口服镁剂特别是高剂量 时容易发生腹泻</span>，故当 <span style="background-color:yellow;">口服吸收障碍者或严重低镁血症病人应静脉补充镁</span>。
-*** 重症:对于 <span style="background-color:yellow;">有症状性的低镁血 症或严重低镁血症病人,临床上一般可用25%硫酸镁5～10ml 加入5%葡萄糖溶液中缓慢滴注</span>。
-*** 疗程: <span style="background-color:yellow;">由 于镁从细胞外液向细胞内分布相对较慢，因此即使血清镁浓度正常仍应谨慎继续补充镁1~2 天</span>。
+*** 【治疗】轻度无症状低镁血症可以通过 <span style="color:yellow;">口服补充镁剂加以纠正，但由于口服镁剂特别是高剂量 时容易发生腹泻</span>，故当 <span style="color:yellow;">口服吸收障碍者或严重低镁血症病人应静脉补充镁</span>。
+*** 重症:对于 <span style="color:yellow;">有症状性的低镁血 症或严重低镁血症病人,临床上一般可用25%硫酸镁5～10ml 加入5%葡萄糖溶液中缓慢滴注</span>。
+*** 疗程: <span style="color:yellow;">由 于镁从细胞外液向细胞内分布相对较慢，因此即使血清镁浓度正常仍应谨慎继续补充镁1~2 天</span>。
 *** 合并症:此 外，在纠正低镁血症同时，应纠正低血钙、低血钾、低血磷及碱中毒等其他电解质紊乱。
 ** 高镁血症/病因 #card
-*** 【病因】高镁血症常见于：① <span style="background-color:yellow;">肾衰竭是高镁血症最常见的病因</span>，多见于急、慢性肾衰竭少尿或无 尿时;
-*** <span style="background-color:yellow;">②严重脱水伴少尿时，镁随尿排出减少;</span>
-*** <span style="background-color:yellow;">③肾上腺皮质功能减退、甲状腺功能减退时，肾脏排镁 障碍；</span>
-*** <span style="background-color:yellow;">④静脉内补镁过多过快；</span>
-*** <span style="background-color:yellow;">⑤分解代谢亢进疾病，如糖尿病酮症酸中毒使细胞内镁移至细胞外。</span>
+:PROPERTIES:
+:id: 624c1bec-e0f1-421e-8402-d0a8b39f1339
+:END:
+*** 【病因】高镁血症常见于：① <span style="color:yellow;">肾衰竭是高镁血症最常见的病因</span>，多见于急、慢性肾衰竭少尿或无 尿时;
+*** <span style="color:yellow;">②严重脱水伴少尿时，镁随尿排出减少;</span>
+*** <span style="color:yellow;">③肾上腺皮质功能减退、甲状腺功能减退时，肾脏排镁 障碍；</span>
+*** <span style="color:yellow;">④静脉内补镁过多过快；</span>
+*** <span style="color:yellow;">⑤分解代谢亢进疾病，如糖尿病酮症酸中毒使细胞内镁移至细胞外。</span>
 ** 高镁血症/临床表现 #card
-*** 抑制内脏平滑肌 高镁血症可抑制内脏平滑肌功能，临床表现有 <span style="background-color:yellow;">嗳气、呕吐、便秘和尿潴留</span>等症状。
-*** 高镁抑制神经肌兴奋性传递  <span style="background-color:yellow;">出现乏力、疲倦、腱反射减退</span>，严重时出现 <span style="background-color:yellow;">肌肉迟缓性麻痹、嗜睡或昏迷</span>。
-*** 高镁血症对心血管的影响表现为 <span style="background-color:yellow;">抑制房室和心室内传导，降低心肌兴奋性</span>,心电图检查 <span style="background-color:yellow;">表现为传导性 阻滯和心动过缓</span>，严重时出现血压下降甚至心搏骤停。
+:PROPERTIES:
+:id: 624c1bec-0219-4056-9280-8bc50d6a6a68
+:END:
+*** 抑制内脏平滑肌 高镁血症可抑制内脏平滑肌功能，临床表现有 <span style="color:yellow;">嗳气、呕吐、便秘和尿潴留</span>等症状。
+*** 高镁抑制神经肌兴奋性传递  <span style="color:yellow;">出现乏力、疲倦、腱反射减退</span>，严重时出现 <span style="color:yellow;">肌肉迟缓性麻痹、嗜睡或昏迷</span>。
+*** 高镁血症对心血管的影响表现为 <span style="color:yellow;">抑制房室和心室内传导，降低心肌兴奋性</span>,心电图检查 <span style="color:yellow;">表现为传导性 阻滯和心动过缓</span>，严重时出现血压下降甚至心搏骤停。
 ** 高镁血症/治疗 #card
-*** 轻症: <span style="background-color:yellow;">肾功能正常的轻度高镁血症无需特殊治疗</span>，因为肾脏能快速清除镁，且 <span style="background-color:yellow;">镁的血清半衰期 仅为1天。</span>
-*** 重症: <span style="background-color:yellow;">有明显心血管症状病人应立即静脉注射钙剂，可用10%葡萄糖酸钙（或氯化钙）溶液 10~ 20ml 缓慢注射，可以对抗镁对心脏和肌肉的抑制</span>。也可在 <span style="background-color:yellow;">充分扩容时应用利尿剂以利镁排出</span>。若疗 效不佳采用透析治疗, <span style="background-color:yellow;">血液透析是治疗肾衰竭伴高镁血症的有效方法。</span>
-* 钙磷代谢紊乱
+:PROPERTIES:
+:id: 624c1bec-e225-48e8-97fe-4fe7e34402c0
+:END:
+*** 轻症: <span style="color:yellow;">肾功能正常的轻度高镁血症无需特殊治疗</span>，因为肾脏能快速清除镁，且 <span style="color:yellow;">镁的血清半衰期 仅为1天。</span>
+*** 重症: <span style="color:yellow;">有明显心血管症状病人应立即静脉注射钙剂，可用10%葡萄糖酸钙（或氯化钙）溶液 10~ 20ml 缓慢注射，可以对抗镁对心脏和肌肉的抑制</span>。也可在 <span style="color:yellow;">充分扩容时应用利尿剂以利镁排出</span>。若疗 效不佳采用透析治疗, <span style="color:yellow;">血液透析是治疗肾衰竭伴高镁血症的有效方法。</span>
+* 钙代谢紊乱
+:PROPERTIES:
+:collapsed: true
+:END:
 ** 钙磷代谢紊乱/概述 #card
-*** 钙和磷是人体内含量最丰富的无机元素， <span style="background-color:red;">体内约 99%钙和 86%磷以羟磷灰石形式存在于骨骼和 牙齿中，其余以溶解状态分布于体液和软组织中。血钙指血清中所含的总钙量，成人正常浓度为 2.25~2.75mmol/L。</span>血液中磷以有机磷和无机磷两种形式存在，血磷通常是指血浆中的无机磷，成人 正常浓度为1.1~1.3mmol/L。
-*** 钙主要生理功能是 <span style="background-color:yellow;">形成和维持骨骼、牙齿的结构，维持细胞的正常生 理功能，调节细胞功能和酶的活性，维持神经-肌肉兴奋性，参与凝血过程。</span>磷是机体所有细胞中的核 酸组成成分，细胞膜的必需构成物质,也是物质代谢反应以及骨骼体液构成等不可少的成分。磷参与 机体能量代谢过程，调控生物大分子的活性。磷酸盐还是血液缓冲体系的重要组成部分。
-** 低钙血症/病因
-*** 【病因】① <span style="background-color:red;">维生素D缺乏：食物中维生素 D摄人缺少或光照不足;梗阻性黄疸、慢性腹泻、脂肪泻 等影响肠道吸收，肝硬化或肾衰竭等导致维生素D羟化障碍。</span>
-*** <span style="background-color:red;">②甲状旁腺功能减退，临床上常见于甲 状旁腺或甲状腺手术误切除了甲状旁腺，导致甲状旁腺素缺乏，破骨减少、成骨增加，造成低血钙。</span>
-*** <span style="background-color:red;">3.慢性肾衰竭时肠道钙吸收减少,同时血磷升高，血钙降低。</span>
-*** <span style="background-color:red;">④急性胰腺炎时机体对甲状旁腺素的反 应性下降,胰高糖素分泌亢进，胰腺炎症或坏死释放出的脂肪酶与钙结合成钙皂影响肠吸收。</span>
+:PROPERTIES:
+:id: 624c1bec-035d-433f-8254-9544b1858a90
+:collapsed: true
+:END:
+*** 钙和磷是人体内含量最丰富的无机元素， <span style="color:red;">体内约 99%钙和 86%磷以羟磷灰石形式存在于骨骼和 牙齿中，其余以溶解状态分布于体液和软组织中。血钙指血清中所含的总钙量，成人正常浓度为 2.25~2.75mmol/L。</span>血液中磷以有机磷和无机磷两种形式存在，血磷通常是指血浆中的无机磷，成人 正常浓度为1.1~1.3mmol/L。
+*** 钙主要生理功能是 <span style="color:yellow;">形成和维持骨骼、牙齿的结构，维持细胞的正常生 理功能，调节细胞功能和酶的活性，维持神经-肌肉兴奋性，参与凝血过程。</span>磷是机体所有细胞中的核 酸组成成分，细胞膜的必需构成物质,也是物质代谢反应以及骨骼体液构成等不可少的成分。磷参与 机体能量代谢过程，调控生物大分子的活性。磷酸盐还是血液缓冲体系的重要组成部分。
+** 低钙血症/病因 #card
+:PROPERTIES:
+:id: 624c1bec-88a7-4675-a17c-64a47df97d7e
+:collapsed: true
+:END:
+*** 【病因】① <span style="color:red;">维生素D缺乏：食物中维生素 D摄人缺少或光照不足;梗阻性黄疸、慢性腹泻、脂肪泻 等影响肠道吸收，肝硬化或肾衰竭等导致维生素D羟化障碍。</span>
+*** <span style="color:red;">②甲状旁腺功能减退，临床上常见于甲 状旁腺或甲状腺手术误切除了甲状旁腺，导致甲状旁腺素缺乏，破骨减少、成骨增加，造成低血钙。</span>
+*** <span style="color:red;">3.慢性肾衰竭时肠道钙吸收减少,同时血磷升高，血钙降低。</span>
+*** <span style="color:red;">④急性胰腺炎时机体对甲状旁腺素的反 应性下降,胰高糖素分泌亢进，胰腺炎症或坏死释放出的脂肪酶与钙结合成钙皂影响肠吸收。</span>
+** 低钙血症/临床表现 #card
+:PROPERTIES:
+:id: 624c24c9-8aa3-4cd8-9e80-a25804b3110d
+:collapsed: true
+:END:
+*** 低钙血症时 <span style="color:yellow;">神经肌肉兴奋性升高，出现口周和指(趾)尖麻木及针刺感、手足抽搐、 腱反射亢进、Chvostek 征阳性,严重时可导致喉、气管痉挛</span>、癫痫发作甚至呼吸暂停。
+*** 精神症状表现为  <span style="color:yellow;">烦躁不安、抑郁及认知能力减退</span>。
+*** 低钙对心血管的影响主要为 <span style="color:yellow;">传导阻滞等心律失常</span>，严重时可出现 <span style="color:yellow;">室 颤、心力衰竭</span>。
+*** 心电图典型 <span style="color:yellow;">表现为Q-T间期和 ST 段明显延长</span>。
+*** 低钙时可出现骨骼疼痛、病理性骨折、 骨骼畸形。
+** 低钙血症/诊断 #card
+:PROPERTIES:
+:id: 624c24d8-f37f-4e24-a73d-6008e69c7227
+:collapsed: true
+:END:
+*** 【诊断】根据病史、体格检查及实验室检测常可明确诊断， <span style="color:yellow;">血钙浓度低于2.25mmol/L.</span>有诊断 价值。
+** 低钙血症/治疗 #card
+:PROPERTIES:
+:id: 624c24e5-e293-42ce-9a52-97b7c5a6087e
+:collapsed: true
+:END:
+*** 【治疗】低钙血症 <span style="color:yellow;">出现手足抽搐、喉头痉挛等症状时应立即处理，一般用 10% 葡萄糖酸钙 10~ 20ml 稀释后缓慢静脉注射，通常用药后立即起作用。</span>然后可用10% 葡萄糖酸钙稀释于5%葡萄糖溶 液中滴注，调整滴注速度直至血清钙浓度达到正常值下限。
+*** <span style="color:yellow;">对伴有低镁血症病人，镁的补充有助于低 钙血症的纠正</span>
+*** 慢性低钙血症首先要治疗原发病,如维生素D缺乏、甲状旁腺功能减退， <span style="color:yellow;">通常推荐联 合应用钙和维生素D 制剂</span>,临床上应用最多的是骨化三醇加碳酸钙或葡萄糖酸钙等钙剂，治疗目标是 维持血清钙浓度于正常值低限。
+** 高钙血症/病因 #card
+:PROPERTIES:
+:id: 624c270c-7af4-4af8-9410-b1ee3a218e07
+:collapsed: true
+:END:
+*** <span style="color:red;">①甲状旁腺功能亢进症：常见于甲状旁腺腺瘤或增生;</span>
+*** <span style="color:red;">②白血病、多发性骨髓瘤等恶性 肿瘤或恶性肿瘤骨转移;</span>
+*** <span style="color:red;">③维生素 D 中毒：长期大量服用维生素D可造成维生素D中毒，导致高钙高 磷血症。</span>
+** 高钙血症/临床表现 #card
+:PROPERTIES:
+:id: 624c27c1-2931-4c68-aea7-1591e6332441
+:collapsed: true
+:END:
+*** <span style="color:yellow;">轻度高钙血症常无特异性症状</span>
+*** 血钙浓度进一步增高尤其是合并甲状旁腺功能亢 进病人，可出现 <span style="color:yellow;">疲乏无力、精神不集中、失眼、抑郁、腱反射迟钝、</span>肌力下降等,严重者可出现神志不清 甚至昏迷。恶心、呕吐、便秘在高钙血症病人中十分常见，少数病人合并溃疡病及胰腺炎。
+*** 对骨骼系 统影响为 <span style="color:yellow;">尿路结石、骨骼疼痛、畸形或病理性骨折</span>。
+*** <span style="color:yellow;">高钙可使心肌兴奋性增加，容易出现心律失常及 洋地黄中毒,心电图表现为Q-T间期缩短</span>，很多病人合并高血压。
+** 高钙血症/治疗 #card
+:PROPERTIES:
+:id: 624c2860-7f70-4b76-9ffe-7f454899d3d9
+:collapsed: true
+:END:
+*** 【治疗】高钙血症治疗包括病因治疗和降低血钙治疗， <span style="color:yellow;">甲状旁腺功能亢进者手术切除腺瘤或增 生的腺组织可彻底治愈</span>。常用的降低血钙方法有：
+*** ① <span style="color:yellow;">增加尿钙排出</span>：高钙血症常有低血容量，补充血 容量可增加尿钙排出; <span style="color:yellow;">袢利尿剂可抑制钙重吸收而增加尿钙排泄。</span>
+*** ② <span style="color:yellow;">抑制骨吸收：降钙素可抑制骨吸 收</span>、增加尿钙排泄;唑来膦酸盐是目前治疗恶性肿瘤骨转移的标准治疗。
+*** ③ <span style="color:yellow;">减少肠道钙吸收</span>：糖皮质激素通过抑制维生素 D减少肠道对钙的吸收，增加肾脏排出钙；口服磷制剂可以降低肠道对钙的吸 收。
+*** ④透析： <span style="color:yellow;">透析可有效降低血钙浓度，对肾功能不全或心功能不全病人尤为适用。</span>
+* 磷代谢紊乱
+:PROPERTIES:
+:collapsed: true
+:END:
+** 低磷血症
+*** 低磷血症/病因 #card
+:PROPERTIES:
+:id: 624c294b-f241-48e1-bdf3-23d80e565cc8
+:collapsed: true
+:END:
+**** ①饥饿、长期禁食，反复呕吐、腹泻等 <span style="color:yellow;">导致肠道吸收磷减少。</span>
+**** ② <span style="color:yellow;">急性乙醇中毒、甲状旁腺 功能亢进</span>、长期应用糖皮质激素或利尿剂、代谢性酸中毒、糖尿病等可使得尿磷排泄增加。
+**** ③应用 <span style="color:yellow;">胰岛素、雄性激素、大量静脉输注葡萄糖等可促使磷进人细胞内</span>。
+**** ④ <span style="color:yellow;">长期肠外营养未补充磷制剂。</span>
+*** 低磷血症/临床表现 #card
+:PROPERTIES:
+:id: 624c29ff-4ca5-4496-8fd9-33c9b60c368c
+:collapsed: true
+:END:
+**** 【临床表现】 <span style="color:yellow;">轻度低磷血症往往因无特异性的临床表现而被忽略</span>。
+**** 低磷血症 <span style="color:yellow;">可引起代谢性脑 病，表现为易激动、神志障碍</span>、重症者可有木僵、昏迷。神经肌肉症状表现为肌无力，甚至可因呼吸肌 无力出现呼吸因难，呼吸衰竭。 <span style="color:yellow;">胃肠道症状</span>为食欲下降、恶心、呕吐、腹泻、便秘等。重度低磷血症临 床上还可出现心律失常、急性心力衰竭、心搏骤停、低血压、休克等表现。
+*** 低磷血症/诊断 #card
+:PROPERTIES:
+:id: 624c2a16-e1da-47ef-a767-cc7e312ebb24
+:collapsed: true
+:END:
+**** 【诊断】根据病史、临床症状及实验室检查常可明确诊断，测定尿磷和血磷有助于诊断， <span style="color:yellow;">血清无机磷<0.8mmol/L 时诊断成立。</span>
+*** 低磷血症/治疗 #card
+:PROPERTIES:
+:id: 624c2a16-b593-4d44-a0fd-adc6a51a2ec4
+:collapsed: true
+:END:
+**** 【治疗】 <span style="color:yellow;">低磷血症主要是针对病因治疗,</span>轻度无症状的低磷血症无需特别处理，或每日口服补充 磷1~2g,分次给予。严重低磷血症或症状明显病人需要静脉补充磷，当血清磷<0.3mmol/L每日静脉 补充磷酸盐量为0.3mmol/kg,在24小时内给子。血磷浓度在0.3~0.6mmol/L时一般每日静脉补充 50~60mmol 磷酸盐安全且有效。 <span style="color:yellow;">补充磷制剂时应注意低钙血症</span>、抽搐、低血压、腹泻等， <span style="color:yellow;">应及时纠正 存在的低钾血症和低镁血症以及水、酸碱代谢紊乱</span>,维护心、肺等重要脏器功能。
+** 高磷血症
+*** 高磷血症/病因 #card
+:PROPERTIES:
+:id: 624c2af0-dd30-4812-bfb0-32f96462b6e6
+:END:
+**** <span style="color:yellow;">【病因】①急、慢性肾功能不全，肾排磷减少;</span>
+**** <span style="color:yellow;">②甲状旁腺功能低下，尿磷排出减少;</span>
+**** <span style="color:yellow;">③维生素D 中毒时可促进肠道及肾脏对磷的重吸收;</span>
+**** <span style="color:yellow;">④甲状腺功能亢进可促进溶骨发生;</span>
+**** <span style="color:yellow;">⑤急性酸中毒、骨骼肌 破坏、高热、恶性肿瘤等可促使磷向细胞外移出。</span>
+*** 高磷血症/临床表现 #card
+:PROPERTIES:
+:id: 624c2ba5-f240-4221-aaa3-502539cb4ab0
+:END:
+**** 高磷血症并不产生特殊临床症状， <span style="color:yellow;">急性高磷血症增加钙磷沉淀风险</span>，从而导致软组 织及肾脏钙化，引起肾衰竭。
+**** <span style="color:yellow;">高磷常继发性低钙血症，病人可因为低钙引起抽搐、心律失常、低血压等</span> 临床症状。
+*** 高磷血症/诊断 #card
+:PROPERTIES:
+:id: 624c2cc2-5c2b-49f9-9a76-68e8166a1c22
+:END:
+**** 成人血清无机磷≥1.6mmol/L为高磷血症(hyperphosphatemia）。
+*** 高磷血症/治疗 #card
+:PROPERTIES:
+:id: 624c2c0f-2828-4c8e-b80a-9fa767f8e85f
+:END:
+**** <span style="color:yellow;">除对原发病作防治外，无症状或肾功能正常的高磷血症无需特殊治疗</span>，过量的磷可以通过肾脏排出。
+**** 急性肾衰竭或伴明显高磷血症者， <span style="color:yellow;">可通过血液透析治疗清除过高的血磷</span>。慢性高磷血 症的治疗包括限制食物中磷的摄人，口服钙盐、氢氧化铝等。

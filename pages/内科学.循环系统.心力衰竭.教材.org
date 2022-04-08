@@ -137,7 +137,7 @@
 :END:
 ***** 洋地黄类药物
 :PROPERTIES:
-:background-color: #793e3e
+:color: #793e3e
 :END:
 ****** {{embed ((623c55f6-559f-48e1-ba8c-08d80714a1e0))}}
 ****** ((623c5750-84a3-4dfc-9159-b6043e945725))

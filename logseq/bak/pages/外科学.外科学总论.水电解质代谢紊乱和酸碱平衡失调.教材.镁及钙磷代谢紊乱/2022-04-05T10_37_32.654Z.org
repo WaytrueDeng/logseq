@@ -1,0 +1,51 @@
+#+title: 外科学/外科学总论/水电解质代谢紊乱和酸碱平衡失调/教材/镁及钙磷代谢紊乱
+#+deck:外科学::外科学总论::水电解质代谢紊乱和酸碱平衡失调::教材::镁及钙磷代谢紊乱
+
+* 镁代谢紊乱
+:PROPERTIES:
+:collapsed: true
+:END:
+** 低镁血症/病因 #card
+*** ①长期禁食、厌食或长时间肠外营养而 <span style="color:yellow;">没有补充镁</span>;
+*** ②严重腹泻、长期胃肠减压引流、肠痿以及短肠综合征等导致经 <span style="color:yellow;">胃肠道丢失镁</span>;
+*** ③大量应用利尿剂及某些肾脏疾病,导致经 <span style="color:yellow;">肾排出镁增多而重吸收减少</span>;
+*** ④ <span style="color:yellow;">高钙血症</span>可使肾小管对镁及磷酸盐重吸收减少;
+*** ⑤糖尿病酮症酸中毒(此处错误)、甲状腺功能亢进以及严重甲状旁腺功能减退均使 <span style="color:yellow;">肾小管对镁重吸收减少</span>。
+** 低镁血症/临床表现 #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 【临床表现】临床表现与 <span style="color:yellow;">钙缺乏很相似,有肌震颤</span>、手足抽搐及Chvostek征阳性等,严重者表现为癫痫大发作。 <span style="background-color:yellow;">血清镁浓度与机体镁缺乏不一定相平行,即镁缺乏时血清镁浓度不一定降低,有时低镁血症常有眩晕、共济失调、手足徐动症、肌无力和肌萎缩。</span>因此,凡有诱因且有症状者,应疑有镁缺乏。
+*** <span style="color:yellow;">低镁血症容易引起心律失常</span>,心电图表现包括 <span style="background-color:yellow;">P-R间期和Q-T间期延长</span>。此外,低镁血症者急性缺血性心脏病、充血性心力衰竭及冠状动脉性心脏病发生率均高于正常。
+** 低镁血症/治疗
+
+#+BEGIN_QUOTE
+轻,重症,疗程和合并症
+#+END_QUOTE 
+#card
+*** 【治疗】轻度无症状低镁血症可以通过 <span style="color:yellow;">口服补充镁剂加以纠正，但由于口服镁剂特别是高剂量 时容易发生腹泻</span>，故当 <span style="background-color:yellow;">口服吸收障碍者或严重低镁血症病人应静脉补充镁</span>。
+*** 重症:对于 <span style="color:yellow;">有症状性的低镁血 症或严重低镁血症病人,临床上一般可用25%硫酸镁5～10ml 加入5%葡萄糖溶液中缓慢滴注</span>。
+*** 疗程: <span style="color:yellow;">由 于镁从细胞外液向细胞内分布相对较慢，因此即使血清镁浓度正常仍应谨慎继续补充镁1~2 天</span>。
+*** 合并症:此 外，在纠正低镁血症同时，应纠正低血钙、低血钾、低血磷及碱中毒等其他电解质紊乱。
+** 高镁血症/病因 #card
+*** 【病因】高镁血症常见于：① <span style="color:yellow;">肾衰竭是高镁血症最常见的病因</span>，多见于急、慢性肾衰竭少尿或无 尿时;
+*** <span style="color:yellow;">②严重脱水伴少尿时，镁随尿排出减少;</span>
+*** <span style="color:yellow;">③肾上腺皮质功能减退、甲状腺功能减退时，肾脏排镁 障碍；</span>
+*** <span style="color:yellow;">④静脉内补镁过多过快；</span>
+*** <span style="color:yellow;">⑤分解代谢亢进疾病，如糖尿病酮症酸中毒使细胞内镁移至细胞外。</span>
+** 高镁血症/临床表现 #card
+*** 抑制内脏平滑肌 高镁血症可抑制内脏平滑肌功能，临床表现有 <span style="color:yellow;">嗳气、呕吐、便秘和尿潴留</span>等症状。
+*** 高镁抑制神经肌兴奋性传递  <span style="color:yellow;">出现乏力、疲倦、腱反射减退</span>，严重时出现 <span style="background-color:yellow;">肌肉迟缓性麻痹、嗜睡或昏迷</span>。
+*** 高镁血症对心血管的影响表现为 <span style="color:yellow;">抑制房室和心室内传导，降低心肌兴奋性</span>,心电图检查 <span style="background-color:yellow;">表现为传导性 阻滯和心动过缓</span>，严重时出现血压下降甚至心搏骤停。
+** 高镁血症/治疗 #card
+*** 轻症: <span style="color:yellow;">肾功能正常的轻度高镁血症无需特殊治疗</span>，因为肾脏能快速清除镁，且 <span style="background-color:yellow;">镁的血清半衰期 仅为1天。</span>
+*** 重症: <span style="color:yellow;">有明显心血管症状病人应立即静脉注射钙剂，可用10%葡萄糖酸钙（或氯化钙）溶液 10~ 20ml 缓慢注射，可以对抗镁对心脏和肌肉的抑制</span>。也可在 <span style="background-color:yellow;">充分扩容时应用利尿剂以利镁排出</span>。若疗 效不佳采用透析治疗, <span style="background-color:yellow;">血液透析是治疗肾衰竭伴高镁血症的有效方法。</span>
+* 钙磷代谢紊乱
+** 钙磷代谢紊乱/概述 #card
+*** 钙和磷是人体内含量最丰富的无机元素， <span style="color:red;">体内约 99%钙和 86%磷以羟磷灰石形式存在于骨骼和 牙齿中，其余以溶解状态分布于体液和软组织中。血钙指血清中所含的总钙量，成人正常浓度为 2.25~2.75mmol/L。</span>血液中磷以有机磷和无机磷两种形式存在，血磷通常是指血浆中的无机磷，成人 正常浓度为1.1~1.3mmol/L。
+*** 钙主要生理功能是 <span style="color:yellow;">形成和维持骨骼、牙齿的结构，维持细胞的正常生 理功能，调节细胞功能和酶的活性，维持神经-肌肉兴奋性，参与凝血过程。</span>磷是机体所有细胞中的核 酸组成成分，细胞膜的必需构成物质,也是物质代谢反应以及骨骼体液构成等不可少的成分。磷参与 机体能量代谢过程，调控生物大分子的活性。磷酸盐还是血液缓冲体系的重要组成部分。
+** 低钙血症/病因
+*** 【病因】① <span style="color:red;">维生素D缺乏：食物中维生素 D摄人缺少或光照不足;梗阻性黄疸、慢性腹泻、脂肪泻 等影响肠道吸收，肝硬化或肾衰竭等导致维生素D羟化障碍。</span>
+*** <span style="color:red;">②甲状旁腺功能减退，临床上常见于甲 状旁腺或甲状腺手术误切除了甲状旁腺，导致甲状旁腺素缺乏，破骨减少、成骨增加，造成低血钙。</span>
+*** <span style="color:red;">3.慢性肾衰竭时肠道钙吸收减少,同时血磷升高，血钙降低。</span>
+*** <span style="color:red;">④急性胰腺炎时机体对甲状旁腺素的反 应性下降,胰高糖素分泌亢进，胰腺炎症或坏死释放出的脂肪酶与钙结合成钙皂影响肠吸收。</span>
