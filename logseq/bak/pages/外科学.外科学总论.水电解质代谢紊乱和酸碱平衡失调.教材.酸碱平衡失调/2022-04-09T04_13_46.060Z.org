@@ -1,0 +1,117 @@
+#+deck:外科学::外科学总论::水电解质代谢紊乱和酸碱平衡失调::教材::酸碱平衡紊乱
+
+* 代谢性酸中毒
+** 代谢性酸中毒/病因 #card
+:PROPERTIES:
+:id: 624c3f06-7d67-4b34-835a-c3364186887b
+:END:
+*** 【病因】 <span style="background-color:red;color:white;">①碱性物质丢失过多：严重腹泻、肠瘘、胰瘘、胆道引流等均可引起 NaHCO₃⁻大量丢失。</span>
+*** ② <span style="background-color:red;color:white;">肾脏排酸保碱功能障碍：肾衰竭、肾小管中毒时体内固定酸由尿中排出障碍，</span>HCO₃⁻在近曲小管重 吸收下降;应用 <span style="background-color:yellow;color:black;">碳酸酐酶抑制剂如乙酰唑胺可抑制肾小管上皮细胞内碳酸酐酶活性</span>，排 H⁺及重吸收 HCO₃⁻减少。
+*** ③酸性物质产生过多：任何原因引起的缺氧和组织低灌注时，细胞 <span style="background-color:yellow;color:black;">无氧糖酵解增强而产生乳酸性酸中毒</span>;糖尿病、严重饥饿或酒精中毒时， <span style="background-color:yellow;color:black;">体内脂肪分解加速,产生大量酮体，引起酮症酸中 毒</span>。
+*** ④ <span style="background-color:yellow;color:black;">外源性固定酸摄人过多，消耗 HCO₃⁻⁻缓冲</span>，如大量摄入阿司匹林、长期服用氯化铵、盐酸精氨酸 或盐酸赖氨酸等药物。
+*** ⑤高钾血症：各种原因引起细胞外液K*增高，K*与细胞内 H⁺交换，引起细胞 外H⁺增加，导致代谢性酸中毒。
+*** 代谢性酸中毒时血液中增多的H⁺立即被血浆缓冲系统进行缓冲，HCO₃⁻”等缓冲碱被消耗。此外， <span style="background-color:yellow;color:black;"> H浓度增高通过化学感受器引起呼吸中枢兴奋</span>,增加呼吸深度和频率,加速 CO,呼出，降低血液中 H,CO,浓度，维持 HCO₃⁻/H,CO,的比值接近正常，从而使血液 pH 超向正常。 <span style="background-color:yellow;color:black;">代谢性酸中毒时肾通过 增加H和 NH₄⁺的分泌以及回吸收 HCO₃⁻“进行调节，但肾功能障碍引起的代谢性酸中毒，肾的代偿机 制几乎不能发挥。</span>
+** 代谢性酸中毒/临床表现 #card
+:PROPERTIES:
+:id: 624c3f06-4678-431e-83df-9f79fe7cbc22
+:END:
+*** <span style="background-color:red;color:white;">轻度代谢性酸中毒可无明显症状。</span>
+:PROPERTIES:
+:id: 624c3044-1d8d-4a38-a172-b7aad057d92a
+:END:
+*** 重症病人可有疲乏、眩晕、嗜睡，感觉迟钝或烦 躁。 <span style="background-color:red;color:white;">最明显的表现是呼吸加快加深，典型者称为 Kussmaul 呼吸</span>。 <span style="background-color:red;color:white;">酮症酸中毒者呼出气带有酮味，病 人面颊潮红，心率加快，血压常偏低。可出现腱反射减弱或消失、神志不清或昏迷。</span>病人常有轻微腹 痛、腹泻、恶心、呕吐、胃纳下降等胃肠道症状。代谢性酸中毒可 <span style="background-color:yellow;color:black;">降低心肌收缩力和周围血管对儿茶酚 胺的敏感性</span>,病人容易发生心律不齐、急性肾功能不全和休克，一旦产生则很难纠治。
+** 代谢性酸中毒/诊断 #card
+:PROPERTIES:
+:id: 624c3f06-c180-4275-995e-12a640ab4467
+:END:
+*** 【诊断】 <span style="background-color:red;color:white;">根据病人有严重腹泻、肠痿或休克等病史，又有深而快的呼吸，即应怀疑有代谢性酸中 毒</span>。
+*** 动脉血气分析及血生化检测可以明确诊断，并可了解代偿情况和酸中毒严重程度。此时血液 <span style="background-color:red;color:white;">H⁺<7.35、HCO₃⁻⁻明显下降。</span>代谢性酸中毒代偿期，血 PH 可在正常范围， <span style="background-color:yellow;color:black;">但 HCO₃⁻⁻、碱剩余（BE）和 PaCO, 均有一定程度降低</span>。代谢性酸中毒的血气分析参数：标准碳酸氢盐 <span style="background-color:yellow;color:black;">（SB）、实际碳酸氢盐(AB）以及缓 冲碱(BB)值均降低,BE 负值加大，pH下降、PaCO,继发性降低,AB<SB。</span>
+** 代谢性酸中毒/治疗 #card
+:PROPERTIES:
+:id: 624c3f06-b390-48fc-b50a-8cb9195deba5
+:END:
+*** <span style="background-color:red;color:white;">代谢性酸中毒治疗最重要是针对原发病的治疗，</span>如乳酸性酸中毒应首先纠正循环障碍、 改善组织灌注、控制感染;糖尿病酮症酸中毒应及时输液、应用胰岛素、纠正电解质紊乱。 <span style="background-color:red;color:white;">由于机体具 有较强调节酸碱平衡能力，可通过肺通气排出更多 CO,，又能通过肾排出H⁺和保留 Na*及 HCO₃⁻”,因 此只要能消除病因，再辅以补充液体以纠正缺水，较轻的代谢性酸中毒(血浆 HCO₃⁻”为16~ 18mmol/ L)常可自行纠正，不必应用碱性药物。</span> <span style="background-color:yellow;color:black;">低血容量性休克所致的轻度代谢性酸中毒，经补液、输血以纠 正休克之后也随之可被纠正，不宜过早使用碱剂，否则反而可能造成代谢性碱中毒。</span>
+*** <span style="background-color:red;color:white;">对血浆 HCO₃⁻⁻低于10mmol/L 的重症酸中毒病人,应立即输液和用碱剂进行治疗。</span>常用的碱性药 物是碳酸氢钠溶液，该溶液进人体液后即离解为Na*和 HCO₃⁻,HICO,”与体液中的日*化合成 H,CO,，再 离解为H,0及CO,,C0,则自肺部排出，从而减少体内 H⁺，使酸中毒得以改善。Na*留于体内则可提高 细胞外液渗透压和增加血容量。临床上根据酸中毒严重程度，首次可静脉输注 5% NaHCO₃⁻溶液100~ 250ml,用后2~4 小时复查动脉血血气分析及血浆电解质浓度，根据测定结果再决定是否需继续给药 及用量。5% NaHCO₃⁻溶液为高滲溶液,过快过多输人可致高钠血症和高渗透压,应注意避免。 <span style="background-color:yellow;color:black;">此外， 酸中毒纠正时容易导致低钾血症和低钙血症，出现相应的临床表现,应及时注意防治。</span>
+* 代谢性碱中毒
+** 代谢性碱中毒/病因 #card
+:PROPERTIES:
+:id: 624c3f06-dcad-4a28-8091-9f98f6bcc991
+:END:
+*** ①酸性物质丢失过多：
+**** <span style="background-color:red;color:white;">呕吐剧烈、长时间胃肠减压使得胃液中H、CI及K*丢失，肠液和 胰腺的 HCO₃⁻”得不到 H⁺中和而被吸收人血，导致低氯低钾性碱中毒;</span>
+**** <span style="background-color:red;color:white;">使用髓袢或噻嗪类利尿剂可抑 制髓袢对 Cl的主动重吸收和 Na'的被动重吸收，促进远曲小管和集合管细胞分泌H及K*增加，H经 肾大量丢失使 HCO₃⁻吸收增加;</span>
+**** <span style="background-color:red;color:white;">肾上腺皮质激素增多尤其是醛固酮可促进 H⁺经肾排出，也可通过 保 Na*排K*促进 H⁺排泄，造成低钾性碱中毒。</span>
+*** ② <span style="background-color:yellow;color:black;">碱性物质摄人过多</span>：消化性溃疡病人服用过多 NaHCO₃⁻,或静脉输注过量 NaHCO₃⁻; <span style="background-color:yellow;color:black;">摄入乳酸钠、乙酸钠或大量输注含柠檬酸盐抗凝的库血,这些有机酸盐在体内氧化可产生 NaHCO₃⁻，造成浓缩性碱中毒</span>。
+***
+*** ③ <span style="background-color:yellow;color:black;">H⁺向细胞内移动：低钾血症引起细胞内K*向 细胞外转移，同时细胞外 H⁺向细胞内移动，可发生代谢性碱中毒。此时，肾小管细胞内缺钾，K*-Na 交换减少，代之H⁺-Na*交换增加，H⁺排出及 HCO₃⁻”重吸收增加，尿液呈酸性，称为反常性酸性</span>尿。
+*** 呼吸对代谢性碱中毒的代偿反应较快，血浆 H⁺浓度下降使得呼吸中枢抑制，呼吸变浅变慢以减 少CO,排出,血浆 H,CO,升高，使 HCO₃⁻/H,Co,的比值接近正常以降低血 pH。肾的代偿较慢，肾 <span style="background-color:yellow;color:black;">小管 上皮细胞的碳酸酐酶和谷氨酰酶活性降低，H和 NH;分泌减少，,HCO₃⁻重吸收减少，从而使血 HCO₃⁻ 减少。</span>
+** 代谢性碱中毒/临床表现 #card
+:PROPERTIES:
+:id: 624c3f06-8f78-4f00-85da-b6a61e83815f
+:END:
+*** <span style="background-color:yellow;color:black;">轻度代谢性碱中毒一般无明显症状，其临床表现往往被原发病所掩盖。</span>
+*** 神经肌肉 系统的影响表现为 <span style="background-color:yellow;color:black;">烦躁不安、精神错乱或谵安等中枢神经兴奋的表现，面部及肢体肌肉抽动、腱反射 亢进及手足抽搐。</span>
+*** 碱中毒抑制呼吸中枢可导致呼吸变浅变慢，换气量减少。碱中毒可 <span style="background-color:yellow;color:black;">引起各种心律 失常、心脏传导阻滞、血压下降甚至心搏骤停。</span>
+** 代谢性碱中毒/诊断 #card
+:PROPERTIES:
+:id: 624c3f06-8e6d-4c00-a592-7afb1a083a29
+:END:
+*** 【诊断】根据病史可作出初步诊断。 <span style="background-color:yellow;color:black;">血气分析可确定诊断及其严重程度</span>，代偿期血液 pH 可基本 正常，但 HCO₃⁻“和 BE 均有一定程度的增高。失代偿时血液pH 和 HCO₃⁻”明显增高，PaCO,正常。代谢 性碱中毒的血气分析参数变化规律：pH 升高，AB、SB及 BB 值均升高， <span style="background-color:yellow;color:black;">AB>SB,BE 正值加大，PaCO₂继 发性升高。</span>
+** 代谢性碱中毒/治疗 #card
+:PROPERTIES:
+:id: 624c3f06-2463-4bc6-8419-774dade3fa58
+:END:
+*** 【治疗】 <span style="background-color:red;color:white;">首先应积极治疗原发族病，对丧失胃液所致的代谢性碱中毒，输注等渗盐水或葡萄糖盐 水，既恢复了细胞外液量又补充 CI,血液稀释后 HCO₃⁻”很快下降并随尿排出，即可纠正轻症低氯性碱 中毒。另外，代谢性碱中毒时常伴有低钾血症，可同时补给氯化钾，补充后K*进人细胞内将其中的H 交换出来。另外，通过补钾可促进肾脏排泄 HCO₃⁻”增加，将利于加速碱中毒的纠正。</span>
+*** <span style="background-color:yellow;color:black;">治疗严重碱中毒 时为迅速中和细胞外液中过多的 HCO₃⁻血浆HCO₃⁻⁻45-50mmol/L,pH>7.65),可应用0.1~0.2mol/L 稀盐酸溶液，可将 1mol/L 盐酸 100ml 溶人0.9%NaCl 或 5％葡萄糖溶液1000ml 中，经中心静脉导管缓慢滴人(25~50ml/h）。</span>每4~6小时 监测血气分析及血电解质，必要时第2天可重复治疗。
+* 呼吸性酸中毒
+** 呼吸性酸中毒/病因 #card
+:PROPERTIES:
+:id: 624c3f06-9012-4f65-949c-9890132c8526
+:END:
+*** 【病因】
+*** <span style="background-color:yellow;color:black;">CO₂排出障碍: ①颅脑损伤、脑血管意外</span>、呼吸中枢抑制剂或麻醉药物用量过大，呼吸机使用不当使得 co,排出障碍。
+*** <span style="background-color:yellow;color:black;">②喉头痉挛或水肿、异物堵塞气管、溺水等可以引起急性呼吸性酸中毒</span>;慢性阻塞性肺 部疾病、支气管哮喘、严重胸廓畸形、呼吸肌麻痹、气胸或胸腔积液等均可引|起慢性呼吸性酸中毒。
+*** <span style="background-color:yellow;color:black;">③心源性急性肺水肿、重度肺气肿、严重肺炎、肺广泛纤维化等均可引起通气障碍。</span>
+*** <span style="background-color:yellow;color:black;">④环境中 CO,浓 度过高，吸入CO,过多。</span> 急性呼吸性酸中毒时主要靠细胞内外离子交换及细胞内缓冲系统代偿，但这种调节和代偿十分 有限，常表现为失代偿状态。 <span style="background-color:yellow;color:black;">慢性呼吸性酸中毒时 PaCO₂和H⁺浓度持续升高，肾小管上皮细胞内碳酸 酑酶和谷氨酰酶活性增高，肾小管上皮排泄H⁺和 NH,*以及对 HCO₃⁻”的重吸收增加。</span>
+** 呼吸性酸中毒/临床表现 #card
+:PROPERTIES:
+:id: 624c3f06-d702-475c-8758-6e08f599bfc9
+:END:
+*** 急性严重的呼吸性酸中毒常表现为 <span style="background-color:yellow;color:black;">呼吸急促、呼吸困难以及明显的神经系统症状</span>， 起初病人可有头痛、视野模糊、烦躁不安、进一步发展可出现震颤、神志不清甚至谵安、昏迷等 <span style="background-color:yellow;color:black;">。脑缺 氧可致脑水肿、脑疝，甚至呼吸骤停</span>。pH 下降以及高 CO,血症可引起外周血管扩张,导致心律失常、 血压下降等症。慢性呼吸性酸中毒病人大多数是因为慢性阻塞性肺部庆病等引起,因此临床上常以 这些疾病相关表现为主，包括咳嗽、气促、呼吸困难、发绀等缺氧症状。
+** 呼吸性酸中毒/诊断 #card
+:PROPERTIES:
+:id: 624c3f06-2b93-4381-a68d-4f826c4f0101
+:END:
+*** 【诊断】病人多有呼吸功能受影响病史，又出现上述症状，即应怀疑有呼吸性酸中毒。呼吸性酸 中毒的血气分析参数变化规律： <span style="background-color:yellow;color:black;">PaCO,增高，pH降低,通过肾代偿后，代谢性指标继发性升高，AB、SB 及 BB 值均升高，AB>SB,BE 正值加大。</span>
+** 呼吸性酸中毒/治疗 #card
+:PROPERTIES:
+:id: 624c3f06-aff6-41f9-ab05-9bb8f6a75c1c
+:END:
+*** 【治疗】急性呼吸性酸中毒时 <span style="background-color:yellow;color:black;">应迅速去除引起通气障碍的原因</span>，改善通气功能，使蓄积的 CO,尽 快排出。如呼吸停止、气道阻塞引起者应尽快插管，机械通气，可有效地改善机体通气及换气功能;由  <span style="background-color:yellow;color:black;">吗啡导致的呼吸中枢抑制者可用纳络酮静脉注射</span> <span style="background-color:yellow;color:black;">。慢性呼吸性酸中毒病人应积极治疗原发病</span>，针对 性地采取控制感染、扩张小支气管、促进排痰等措施，以改善换气功能和减轻酸中毒程度。
+* 呼吸性碱中毒
+** 呼吸性碱中毒/病因 #card
+:PROPERTIES:
+:id: 624c3f06-88ff-4c00-b22e-2b6295f6927a
+:END:
+*** 【病因】① <span style="background-color:red;color:white;">中枢神经系统庆病如脑血管障碍、脑炎、脑外伤或脑肿瘤等刺激呼吸中枢引起通气过 度；癔症发作时可引起精神性通气过度;某些药物如水杨酸、铵盐等可以直接兴奋呼吸中枢使得通气 增强;机械通气使用不当,潮气量设置过大可引起严重呼吸性碱中毒。</span>
+*** <span style="background-color:red;color:white;">②高热、甲状腺功能亢进、疼 痛、创伤、革兰阴性杆菌败血症等机体代谢亢进可刺激引起呼吸中枢兴奋，导致通气过度。</span>
+*** <span style="background-color:red;color:white;">③环境氧 分压低、各种原因引起的低氧血症均可因为缺氧刺激引起呼吸运动增强，CO,排出增多。</span>
+*** 急性呼吸性碱中毒时主要靠细胞内外离子交换及细胞内缓冲系统代偿，由于血浆 H,CO,浓度降 低而 HCO₃⁻，相对增高，H从细胞内移出至细胞外并与 HCO₃⁻结合，从而降低血浆 HCO₃⁻浓度。此外， 细胞内其他缓冲系统也参与了代偿 <span style="background-color:yellow;color:black;">。慢性呼吸性碱中毒时才会发生肾脏的代偿调节，</span>持续低碳酸血 症时，肾小管上皮排泄H⁺和 NH,减少，而随尿排出却增加，使血浆中 HCO₃⁻代偿性降低。
+** 呼吸性碱中毒/临床表现 #card
+:PROPERTIES:
+:id: 624c3f06-a10a-41b6-839d-b596702e490f
+:END:
+*** 多数病人有呼吸急促、心率加快表现。 <span style="background-color:red;color:white;">碱中毒可促进神经肌肉兴奋性增高，表现为 手、足和口周麻木和针刺感,肌震颤、手足抽搐等症状。</span>此外,呼吸性碱中毒病人可有胘晕、神志淡漠、 意识障碍等神经系统功能障碍表现,这除碱中毒对脑功能损伤外还与低碳酸血症引起脑血管收缩所 致的脑血流量减少有关 <span style="background-color:yellow;color:black;">。危重病人发生急性呼吸性碱中毒常提示预后不良，或将发生急性呼吸窘迫 综合征。</span>
+** 呼吸性碱中毒/诊断 #card
+:PROPERTIES:
+:id: 624c3f06-f0a9-46c9-9f16-b52a5d37909c
+:END:
+*** 【诊断】结合病史和临床表现常可作出诊断。呼吸性碱中毒的血气分析参数变化规律：PaCO₂降 低，pH 升高,AB<SB,代偿后，代谢性指标继发性降低,AB、SB及 BB 值均降低,BE 负值加大。
+** 呼吸性碱中毒/治疗 #card
+:PROPERTIES:
+:id: 624c3f06-1086-4e11-939c-412c6096dff1
+:END:
+*** 【治疗】首先应防治原发病和去除引起通气过度的原因。 <span style="background-color:yellow;color:black;">急性呼吸性碱中毒病人可吸人含5% CO,的混合气体或嘱病人反复屏气，或用纸袋罩住口鼻使其反复吸回呼出的 CO,以维持血浆 HCO₃⁻ 度,症状即可迅速得到控制。</span>
+*** 对精神性通气过度病人 <span style="background-color:yellow;color:black;">可酌情使用镇静剂。</span>
+*** 对因呼吸机使用不当所造 成的通气过度, <span style="background-color:yellow;color:black;">应调整呼吸频率及潮气量。</span>危重病人或中枢神经系统病变所致的呼吸急促，可用药物 阻断其自主呼吸，由呼吸机进行适当的辅助呼吸。
+*** <span style="background-color:yellow;color:black;">有手足抽搐的病人可静脉注射葡萄糖酸钙进行 治疗。</span>

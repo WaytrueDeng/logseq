@@ -2,7 +2,7 @@
 :ID: 68783D4C-250E-4A64-956E-5D9A1C7759E4
 :END:
 
-* <span style="color:red;">前驱感染史</span> 1-[[3周]]
+* <span class="tested">前驱感染史</span> 1-[[3周]]
 * 临床表现
 ** 随后心悸(^^心率快但体温不高^^)
 ** 胸痛

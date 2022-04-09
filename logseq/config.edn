@@ -193,5 +193,6 @@
  :ui/show-brackets? false
  :favorites ["@Wai ke xue = Surgery" "@2022考研大纲" "@Internal_medicine" "DASHBOARD"]
  :journal/page-title-format "yyyy-MM-dd"
+ :publishing/all-pages-public? true
 
  }

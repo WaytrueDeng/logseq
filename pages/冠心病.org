@@ -126,12 +126,12 @@
 **** 诊断冠心病
 :PROPERTIES:
 :END:
-***** - 冠脉CTA无创+效果好 诊断 <span style="color:red;">冠心病首选</span>
+***** - 冠脉CTA无创+效果好 诊断 <span class="tested">冠心病首选</span>
 - 冠脉造影DSA有创 [[金标准]] 串联 [[肺栓塞]]
 - 放射性核素心肌显像: 心肌缺血摄取核素↓显示为灌注缺损:提示缺血或瘢痕
 - 放射性核素心腔造影: 显示缺血区室壁的节段性运动障碍,测定射血分数
 - PET
-	- 判断 <span style="color:red;">心肌血流灌注</span>和 <span style="color:red;">心肌的代谢</span>→评估心肌活力在形态学之前
+	- 判断 <span class="tested">心肌血流灌注</span>和 <span class="tested">心肌的代谢</span>→评估心肌活力在形态学之前
 **** 冠心病的原因
 :PROPERTIES:
 :collapsed: true

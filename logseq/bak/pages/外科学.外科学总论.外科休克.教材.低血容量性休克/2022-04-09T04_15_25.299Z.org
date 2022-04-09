@@ -1,0 +1,25 @@
+#+title: 外科学/外科学总论/外科休克/教材/低血容量性休克
+#+deck: 外科学::外科学总论::外科休克::教材::低血容量性休克
+
+* 失血性休克
+** 失血性休克/梗概 #card
+:PROPERTIES:
+:id: 624d2fb0-eb86-4a63-9b0b-5c604a54a07d
+:collapsed: true
+:END:
+*** 失血性休克(hemorrhagic shock)在外科休克中很常见。 <span style="background-color:yellow;color:black;">多见于大血管破裂、腹部损伤引起的肝、脾破裂、胃、十二指肠出血、门静脉高压症</span>所致的食管、胃底曲张静脉破裂出血等。 <span style="background-color:yellow;color:black;">大量血液丢失,导致有效循环血量的不足</span>。 <span class="tested">通常在迅速失血超过全身总血量的20%时,即发生休克</span>。不同年龄病人对休克的代偿能力差异大。年轻人心血管代偿能力强,即使大量出血,部分病人在一定的期限内血压仍能维持近正常范围;老年人常因伴随心血管疾病,大出血时往往发生心力衰竭,表现为失血性休克和心源性休克同时存在的状况。
+** 失血性休克/治疗 #card
+:PROPERTIES:
+:id: 624d2fc9-14ca-44be-b00c-26de72cccbc0
+:collapsed: true
+:END:
+*** 补充血容量
+**** 1.补充血容量 可根据血压和脉率的变化来估计失血量,见表5-1。 <span style="background-color:yellow;color:black;">失血性休克时,快速建立补液通路非常重要,特别是建立中心静脉输液通路</span>,必要时可建立几条通路同时补液,甚至进行加压输液。液体种类的选择, <span class="tested">原则是首先经静脉快速滴注平衡盐溶液和人工胶体液(如第三代的羟乙基淀粉)</span>,其中, <span style="background-color:yellow;color:black;">快速输入胶体液更容易恢复血管内容量和维持血液流力学的稳</span>定,同时能维持胶体渗透压,持续时间也较长。
+**** 一 <span style="background-color:yellow;color:black;">般认为,若血红蛋白浓度大于100g/L不必输血;低于70g/L可输浓缩红细胞;在70~100g/L时</span>,可根据病人出血是否停止、一般情况、代偿能力和其他重要器官功能来决定是否输红细胞。输入液体的量应根据病因、尿量和血流动力学进行评估,临床上常以血压结合CVP测定指导补液,见表5-2。 
+#+BEGIN_QUOTE
+急性失血量超过30%可输全血(补液原则可记忆为"先晶后胶,先盐后糖,先液后血,先快后慢")
+#+END_QUOTE
+**** ((624d3179-243e-4947-bb4c-dbfb7f73a532))
+*** 止血
+**** 在补充血容量同时，如仍有出血，难以维持血容量稳定，休克也不易纠正。若病人对初始的充分补液反应较差，很可能仍有活动性出血，应尽快查明，及时处理。 <span style="background-color:yellow;color:black;">对于肝脾破裂、急性活动性上消化道出血病例，应强调的是在恢复血容量的同时积极进行手术准备，实施紧急手术止血。</span>
+*

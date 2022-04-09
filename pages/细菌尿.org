@@ -4,4 +4,4 @@
 
 * 中段尿培养(+): 培养菌落计数>10^5 个
 * 中段尿图片(+):均可见细菌/HP
-* <span style="color:red;">是诊断尿路感染最重要依据</span>
+* <span class="tested">是诊断尿路感染最重要依据</span>

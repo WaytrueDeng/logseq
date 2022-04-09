@@ -9,7 +9,7 @@ vt.断言,声称
 verb.（未提出证据而）断言，指称，声称
 If you allege that something bad is true, you say it but do not prove it.
   [V that] [be V-ed to-inf] [it be V-ed that] [Also V with quote] [FORMAL 正式]
- <span style="color:red;">同义词辨析</span>
+ <span class="tested">同义词辨析</span>
 [[allege]], testify, affirm, maintain, assert, claim
 这组词都有“断言，声称”的意思，其区别是：
 [[allege]]: 多指无真凭实据，不提供证据的断言或宣称。

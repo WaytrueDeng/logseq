@@ -1,0 +1,29 @@
+#+title: 外科学/外科学总论/水电解质代谢紊乱和酸碱平衡失调/教材/概述
+#+deck:外科学::外科学总论::水电解质代谢紊乱和酸碱平衡失调::教材::概述
+
+* 各种体液的占比 #card
+:PROPERTIES:
+:id: 624a6727-2294-407f-bacb-948fb1f872ad
+:collapsed: true
+:END:
+** 体液是由水和溶解于其中的电解质、低分子有机化合物及蛋白质等组成,广泛分布于组织细胞内 外。 <span style="background-color:red;color:white;">成人体液总量占体重 60%左右,其中细胞内液( intracellular fluid,ICF) 约占体重 40% 左右，细胞 外液(extracellular fluid,ECF)约占体重20%左右，细胞外液中血浆约占体重5%，其余的15%为组织 间液。</span>细胞外液构成了人体内环境，是沟通组织细胞之间和机体与外界环境之间的媒介，内环境相对 稳定是机体各种生理功能发挥和新陈代谢正常进行的前提。
+* 细胞内外液电解质与渗透压 #card
+:PROPERTIES:
+:id: 624a67df-0821-4b03-a57d-f13689d6ab13
+:collapsed: true
+:END:
+** 细胞外液和细胞内液中电解质成分差异很大。细胞外液中 <span style="background-color:yellow;color:black;">最主要阳离子是 Na，其次是K、 Ca、Mg等</span>， <span style="background-color:yellow;color:black;">阴离子主要是 CI、HCO、HPO₃、SO₄和有机酸及蛋白质</span>。细胞内液中主要阳离子是  <span style="background-color:yellow;color:black;">K⁺其次是 Na、Ca、Mg等</span>。 <span style="background-color:yellow;color:black;">主要阴离子是HPO₄</span>和蛋白质,其次是HCO₃,Cl、SO₄等。溶液的滲透压取决于溶质分子或离子的数目，体液中起滲透作用的溶质主要是电解质。 <span style="background-color:red;color:white;">细胞外液和细胞内液 渗透压相等,正常血浆渗透压 280 ~310mOsm/L。渗透压的稳定是维持细胞内</span>、外液平衡的基本保证。
+* 渗透压调节 #card
+:PROPERTIES:
+:id: 624a843f-b49c-4401-bf58-d00892489c10
+:collapsed: true
+:END:
+** 正常人每天水摄人和排出处于动态平衡中,水的来源有饮水、食物水和代谢水。机体排出水途径有消化道、肾脏、皮肤和肺。体液容量及渗透压的稳定通过神经-内分泌系统调节,渗透压感受器主要分布在 <span style="background-color:yellow;color:black;">下丘脑视上核和室旁核</span>,当渗透压变化时可 <span style="background-color:yellow;color:black;">影响抗利尿激素分泌</span>。血容量和血压等非渗透性变化则可通过容量感受器和颈动脉窦、主动脉弓的压力感受器而影响抗利尿激素分泌。当机体水分不足或摄入较多食盐时,细胞外液渗透压增高,刺激下丘脑渗透压感受器,产生口渴感觉,机体会主动饮水以补充水。此外,高渗透压促进抗利尿激素分泌,增加肾远曲小管和集合管对水重吸收,减少水排出。另一方面,高渗透压抑制醛固酮分泌,降低肾小管对Na的重吸收,增加Na的排泄,从而降低细胞外液渗透压。反之,当体内水过多时,细胞外液渗透压降低,一方面通过抑制抗利尿激素分泌,减弱肾远曲小管和集合管对水重吸收,排出体内多余水;另一方面促进醛固酮分泌,加强肾小管对Na的重吸收,减少Na的排出,使已降低的细胞外液渗透压回升至正常。 <span style="background-color:red;color:white;">抗利尿激素分泌对渗透压的反应十分敏感,只要细胞外液渗透压有1%~2%变化就可影响抗利尿激素释放</span>
+* 酸碱调节 #card
+:PROPERTIES:
+:id: 624a84e5-ec7f-48f0-a3fc-31ea247ddb62
+:collapsed: true
+:END:
+** 人体体液环境同样必须具有适宜的酸碱度才能维持正常代谢和生理功能, <span style="background-color:yellow;color:black;">正常人体血浆酸碱度在很窄范围内变动,用动脉血pH表示为7.35~7.45</span>。 <span style="background-color:red;color:white;">机体对体液酸碱度的调节主要通过体液缓冲系、肺、组织细胞和肾的调节来维持。</span> <span style="background-color:yellow;color:black;">血液缓冲系统主要有碳酸氢盐缓冲系统、磷酸盐缓冲系统、血浆蛋白缓冲系统、血红蛋白和氧合血红蛋白缓冲系统</span>
+** 其中 <span style="background-color:yellow;color:black;">以碳酸氢盐缓冲系统最为重要,其约占血液缓冲系统总量的1/2以上,缓冲能力强,可以缓冲所有固定酸。</span> <span style="background-color:yellow;color:black;">挥发酸的缓冲主要靠非碳酸氢盐缓冲系统,特别是血红蛋白和氧合血红蛋白缓冲系统。</span>肺在酸碱平衡中的作用是通过改变CO₂排出量来调节血浆碳酸浓度,使血浆中HCO₃与HCO₃⁻比值接近正常,以保持pH相对恒定。组织细胞内液缓冲作用主要是通过离子交换进行,如H-K、H-Na、Na-K交换以维持电中性,当细胞外液H过多时,H弥散入细胞内,而从细胞内移出;反之,当细胞外液H减少时,H由细胞内移出。肾脏调节作用是通过排出固定酸及保留碱性物质来维持血浆HCO₃⁻浓度,使血浆pH保持相对恒定。
+*

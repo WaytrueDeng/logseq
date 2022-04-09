@@ -1,0 +1,35 @@
+#+title: 外科学/外科学总论/移植/教材/器官移植
+#+deck: 外科学::外科学总论::移植::教材::器官移植
+
+* 肾移植 #card
+** <span style="background-color:red;color:white;">肾移植(renal transplantation) 在临床各类器官移植中肾移植技术最为成熟、其短期和长期预后最好</span>。随着外科技术提高、组织配型技术改变、多种强力免疫抑制剂问世和使用,肾移植急性排斥发生率已明显下降,多数中心1年急性排斥发生率控制在10%以下,而慢性排斥反应成为最棘手的免疫学问题,也是造成移植肾失功的主要因素。肾移植病人/移植物生存率逐年在提高,目前尸体供肾人/肾1年和5年生存率可达到95%/90%和90%/80%以上,脑死亡和心死亡来源肾移植的长期预后在两者间已无明显差异,而亲属活体供肾肾移植的人/肾生存率更高。影响肾移植病人长期生存的主要原因是感染、心血病疾病和肿瘤等,大多与免疫抑制剂应用有关,免疫抑制剂合理应用仍
+在不断改进中。
+** <span style="background-color:yellow;color:black;">肾移植的适应证是</span>
+*** <span style="background-color:yellow;color:black;">各种肾病进展到慢性肾衰竭(尿毒症)期,包括慢性肾小球肾炎(在中国占60%以上)、慢性肾孟肾炎、多囊肾、糖尿病性肾病、高血压肾病、间质性肾炎和自身免疫性肾病等。</span>
+** 在长期寿命、生活质量、医疗费用等方面肾移植明显优于尿毒症透析治疗,存活者可恢复良好的工作、生活、心理和精神状态。研究表明,肾衰竭病人接受透析时间越长其长期预后越差,所以在没有禁忌证的前提下,尽早接受肾移植能带来更满意的长期存活。
+肾移植术式已经定型:移植肾放在腹膜后的露窝,肾动脉与露内或豁外动脉吻合,肾静脉与髂外静脉吻合,输尿管经过一段膀胱浆肌层形成的短隧道与膀胱黏膜吻合,以防止尿液回流,通常在输尿管膀胱吻合放置双“J”管以防止输尿管并发症(图15-1)。
+* 肝移植 #card
+** 经半个多世纪的不断探索研究，目前术后1年生存率近90%,3年生存率近809毛，最长存活时间已近40年。儿童肝移植术后存活率较成人更为理想。
+*** 肝移植适应证为
+**** <span style="background-color:yellow;color:black;">进行性、不可逆性和致死性终末期肝病，且无其他有效治疗方法</span>
+**** <span style="background-color:yellow;color:black;">病人预期生存期低于－年的肝脏良恶性病变</span>。
+***** 良性病变如病毒性或酒精性 <span style="background-color:yellow;color:black;">肝硬化失代偿期、暴发性肝功能衰竭、先天性胆道闭锁、肝豆状核变性等</span>，
+***** 恶性病变如原发性肝细胞肝癌等。目前国际上主要的肝癌肝移植标准包括米兰标准和杭州标准等。 <span style="background-color:yellow;color:black;">米兰标准即单个肿瘤直径不超过5cm，或肿瘤数目少于3个且最大直径不超过3cm,无大血管侵犯、淋巴结或肝外转移。</span>
+** 肝移植的经典术式, <span style="background-color:yellow;color:black;">包括原位肝移植(orthotopic liver transplantation)、背驮式肝移植(piggyback liver transplantation)和改良背驮式肝移植(ameliorated piggyback liver transplantation)。</span>原位肝移植将受体下腔静脉连同病肝一并切除,并将供肝作原位吻合。背驮式肝移植则保留受体下腔静脉,将受体肝静脉合并成形后与供体肝上下腔静脉作吻合。背驮式的优点在于,做供、受肝上下腔静脉吻合和门静脉吻合时,可完全或部分保留下腔静脉回心血流,以维持受体循环稳定(图15-2)。改良背驮式肝移植则把供肝下腔静脉和受体三支肝静脉开口,分别扩大成相同形状的三角形开口进行吻合,有利于流出道的畅通。劈离式肝移植(split-liver transplantation),是把一个供者肝脏劈割成两半分别移植给 两个不同的受体。活体亲属供肝移植(living-related liver transplantation) ,则取亲属的部分肝(左外叶、左或右半肝)移植给受体,前提是务必保证对供体尽量少的危害性,而受体又能获得与常规肝移植相 似效果。此外,还有减体积肝移植( reduced-size liver transplantation)、异位辅助肝移植(heterotopic and auxiliary liver transplantation)等,但近年来临床应用有限
+* (三)胰腺移植(pancreas transplantation) #card
+** 临床上分为三种类型: <span style="background-color:yellow;color:black;">同期胰肾联合移植(sim- ultaneous pancreas-kidney transplantation, SPK)、Y移植后胰腺移植(pancreas-after-kidney transplantation, PAK)和单纯胰腺移植(pancreas transplantation alone, PTA)。</span>SPK是临床上应用最多的胰腺移植术式,近年来临床数据显示所有类型胰腺移植的受者1年存活率均超过95%,移植物1年存活率则可达
+85%以上。
+** <span style="background-color:yellow;color:black;">胰肾联合移植已成为公认的治疗合并有尿毒症的1型糖尿病和部分2型糖尿病病人的最有效方法</span>,单纯胰腺移植可延缓甚至部分逆转糖尿病相关的严重并发症,但更需细致衡量手术风险和病人获益,严格掌握适应证,依据糖尿病并发症的严重程度、血糖控制情况及肾功能状况选择手术。
+胰腺移植外科手术的要点是重建移植胰腺的外分泌和内分泌引流。移植胰腺外分泌处理方式主要有经肠道引流和膀胱引流。早期胰腺移植多采用膀胱引流的方式,即采用带节段十二指肠与膀胱吻合[图15-3(1)],但其主要缺点是大量的胰液随尿液丢失,造成难以纠正的慢性代谢性酸中毒,并易引起化学性膀胱炎、慢性尿道感染、尿道狭窄等远期并发症。目前多采用经肠道引流胰液,即将移植胰带节段十二指肠与受体空肠或十二指肠吻合[(图15-3(2)]。胰液经肠道引流则更符合生理,且无胰液经尿路排泄的缺点,已成为标准术式。移植胰腺内分泌回流方式有经体循环系统回流和门静脉系统回流两种。理论上经门静脉系统回流比体静脉系统更为符合生理,但两者实际临床疗效的差
+异不显著,目前胰腺移植手术仍多采用体循环回流。
+* (四)小肠移植(bowel transplantation)
+** 因小肠的特殊生理状况, <span style="background-color:red;color:white;">移植术后排斥反应发生率高、易并发严重感染,还可能发生移植物抗宿主病(graft-versus-host disease, GVHD)</span>。随着小肠移植20多年的不断发展,目前全球的小肠移植病人的总体1年和5年生存率已分别超过70%和50%。而美国Pittsburgh移植中心小肠移植术后病人的1年和5年生存率分别达91%和75%。
+小肠移植的主要适应证是 <span style="background-color:yellow;color:black;">各种病因导致小肠功能衰竭,且不能很好耐受营养支持者</span>。全球小肠 移植登记中心(Intestinal Transplant Registry, ITR)将小肠移植分类为单独小肠移植( small intestine transplant)、肝小肠联合移植(liver and small intestine transplant)、改良腹腔多器官簇移植(modified
+ multivisceral transplant)和腹腔多器官簇移植(multivisceral transplant)
+* (五)肺移植(lung transplantation) #card
+** 肺移植的实验研究开始于1946年的前苏联。1963年6月11日,美国密西西比大学医学中心James Hardy为一位58岁病人进行了首例人类肺移植,术后第18天病人死于肾衰竭。1983年11月7日加拿大多伦多总院Cooper为一位58岁男性终末期肺纤维化病人行右单肺移植。6周后病人出院恢复工作,该例移植成功标志了现代肺移植的开端。
+目前肺移植已在世界各地广泛开展,根据国际心肺移植协会(ISHLT)的报告,截至2016年6月30日,全世界已完成60107例成人肺移植手术。全球肺移植术后3个月、1年、3年和5年生存率分别为89%、80%,65%和54%。肺移植术后病人的中位生存期为5.7年,存活满一年的病人中位生存期为7.9年。 <span style="background-color:red;color:white;">肺移植术后早期的原发性移植物失功(primary graft dysfunction, PGD),以及术后远期的闭 塞性细支气管炎综合征(bronchiolitis obliterans syndrome, BOS),是影响生存率的主要原因。</span>
+** <span style="background-color:yellow;color:black;">适合肺移植的疾病主要为各类无法继续内科治疗的终末期肺部疾病</span>，主要包括：特发性肺纤维化（间质性肺炎IPF）、慢性阻塞性肺疾病（COPD）、砂肺、原发性肺动脉高压（pp町、肺囊性纤维化、支气管扩张、α1－抗膜蛋白酶缺乏症（al-AT）、肺淋巴管平滑肌瘤病（LAM）等。肺移植的主要术式包括：单肺移植、序贯式双肺移植、肺叶移植、肺减容后移植和心肺联合移植等。
+* 心脏移植 #card
+** (六)心脏移植( cardiac transplan-tation) 目前术后1年、5年、10年的存活率分别为87%、74%和60%。经内科治疗无 <span style="background-color:yellow;color:black;">效的广泛心肌不可逆性损害</span>如心肌病、终末期冠心病和瓣膜病,或先天性复杂性心脏畸形不适合外科手术矫正或矫正术无效者,均是心脏移植的主要适应证。此外,原发性肺动脉高压、艾森曼格综合征,以及严重的心肌病、缺血性心脏病、风湿性心脏病等伴有不可逆性的肺或肺血管病变者可选择作心肺联合移植。 <span style="background-color:red;color:white;">移植心因慢性排斥反应所致的冠状动脉硬化是影响术后长期存活的主要原因。</span>原位心移植的手术方式有 经典法(standard HT)、全心法(total HT)和双腔静脉法(bi-venacava HT),目前 <span style="background-color:yellow;color:black;">双腔静脉法(图15-4)是国内外心脏移植的主流术式。</span>
+*

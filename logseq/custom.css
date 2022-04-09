@@ -1,0 +1,10 @@
+.tested {
+background-color: red;
+  color:white;
+  border-radius: 0.5em;
+}
+.untestedHL {
+  background-color:yellow;
+  color:black;
+  border-radius: 0.5em;
+}

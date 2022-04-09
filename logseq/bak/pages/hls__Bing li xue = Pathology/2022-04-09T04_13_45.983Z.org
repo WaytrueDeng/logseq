@@ -1,0 +1,1144 @@
+#+file-path: file:///Users/waytrue/Zotero/storage/KLMPU2LT/Bing li xue = Pathology.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/KLMPU2LT/Bing li xue = Pathology.pdf][Bing li xue = Pathology.pdf]]
+#+title: hls__Bing li xue = Pathology
+
+* 细胞和由其构成的组织、器官对于内、外环境中的持续性刺激和各种有害因子而产生的非损伤性应答反应，称为适应(adaptation)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d3dcf-6f8c-4201-a976-31754c32468d
+:END:
+* 萎缩(atrophy)是指^^已发育正常^^的细胞、组织或器官的体积缩小。萎缩时细胞合成代谢降低，能量需求减少，原有功能下降。组织与器官的萎缩,除了实质细胞内物质丧失而致体积缩小外，^^还可以伴有实质细胞数量的减少^^
+:PROPERTIES:
+:hl-page: 37
+:ls-type: annotation
+:id: 622d3e86-c5cd-4744-8817-d78b33982df2
+:END:
+[[Comments]]:细胞的萎缩是通过减小体积,组织以上还可通过减少细胞数量.未曾发育或发育不全的不属于萎缩
+* 在生理性负荷过多或过少时，或遇到轻度持续的病理性刺激时，细胞、组织和器官可表现为适应性变化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d42c2-688b-4c89-8b13-79118313afc2
+:END:
+* 细胞死亡
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 622d42d3-681b-40fc-9c4f-c8e79050a694
+:END:
+* 萎缩的细胞、组织和器官体积减小，重量减轻，色泽变深。心肌细胞和肝细胞等萎缩细胞胞质内可出现[[脂褐素]]颗粒。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 622d4487-3aae-4aec-98c2-7d7f278e1292
+:END:
+* 脂褐素是细胞内未被彻底消化的、富含磷脂的膜包被的细胞器残体。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 622d451e-f12a-41ed-a859-1b2ddbffadc2
+:END:
+* 可因蛋白质摄入不足、消耗过多和血液供应不足引起
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4751-a147-41e4-b38f-6b248c3e4867
+:END:
+* 身营养不良性萎缩，如糖尿病、结核病及肿瘤等慢性消耗性疾病时，由于长期营养不良引起全身肌肉萎缩,称为[[恶病质]]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4798-6836-4d11-b94f-38556aef2240
+:END:
+* 萎缩的细胞、组织和器官通过调节细胞体积、数量和功能，以适应降低的血液供应和营养补给
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d4824-d23b-4720-a79e-f5ee1a2d9262
+:END:
+* 因组织与器官长期受压所致，其机制是受压组织和细胞缺氧、缺血
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d48b5-d61f-4649-9909-97a14dab2a50
+:END:
+* 尿路梗阻时肾盂积水,压迫周围肾组织，引起肾皮质、髓质萎缩(图1-3)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 622d48d9-c79a-4933-8dd2-492ba958a20e
+:END:
+* 由于功能增加，合成代谢旺盛，使细胞、组织或器官体积增大，称为肥大(hypertrophy)o组织和器官的肥大通常是由于实质细胞的体积增大所致,^^但也可伴有实质细胞数量的增加。^^
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 622d4d46-2558-4e89-8668-f00d6fb72841
+:END:
+* 一种分化成熟的细胞类型被另一种分化成熟的细胞类型所取代的过程，称为化生(metaplasia)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 622d4e71-4bf7-4c60-a9d9-51c303761835
+:END:
+* 细胞可逆性损伤(reversibleinjury)的形态学变化称变性(degeneration)，是指细胞或细胞间质受损伤后，由于代谢障碍，使细胞内或细胞间质内出现异常物质或正常物质异常蓄积的现象
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 622d5961-7374-4d23-908a-ba3324f6e120
+:END:
+* 细胞间质内淀粉样蛋白质和黏多糖复合物蓄积
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 622d628c-0255-45c1-b4ac-edb2305ba400
+:END:
+* 淀粉样蛋白成分来自于[[免疫球蛋白轻链]]、[[肽类激素]]、[[降钙素]]前体蛋白和血清淀粉样A蛋白等。
+:PROPERTIES:
+:hl-page: 50
+:ls-type: annotation
+:id: 622d6313-865b-4c7d-bde4-98b75f54361a
+:END:
+* 蛋白质变性凝固且溶酶体酶水解作用较弱时,坏死区呈灰黄、干燥、质实状态，称为凝固性坏死(coagulativenecrosis)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 622eb9bc-c32c-4a5a-a919-568e6808e6b4
+:END:
+* 镜下特点为细胞^^微细结构消失^^，^^而组织结构轮廓仍可保存^^，坏死区周围形成充血、出血和炎症反应
+:PROPERTIES:
+:hl-page: 53
+:ls-type: annotation
+:id: 622eb9cf-d1d7-4722-8472-36c70e2b54b2
+:END:
+* 在结核病时，因病灶中含脂质较多,坏死区呈黄色，状似干酪，称为干酪样坏死
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 622eba1d-ad27-4b5a-9cbd-9e3fa234196f
+:END:
+* 如肾小管上皮细胞具有吞饮作用的小泡，重吸收原尿中的蛋白质,与溶酶体融合，形成玻璃样小滴;浆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 623013ee-373c-465e-9ecc-a189ad42cbaa
+:END:
+* 若断离的两端相隔太远，或者两端之间有瘢痕或其他组织阻隔，或者因截肢失去远端，再生轴突均不能到达远端,而与增生的结缔组织混杂在一起
+:PROPERTIES:
+:hl-page: 65
+:ls-type: annotation
+:id: 62301e7f-b924-4dec-98b5-c747e0493be0
+:END:
+* 肉芽组织中一些成纤维细胞的胞质中含有肌细丝，此种细胞除有成纤维细胞的功能外，尚有平滑肌细胞的收缩功能,因此应称其为肌成纤维细胞（myofibroblast）。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 62301f72-5952-454b-a78b-4aca25e371a2
+:END:
+* 巨噬细胞及中性粒细胞能吞噬细菌及组织碎片，这些细胞破坏后释放出各种蛋白水解酶，能分解坏死组织及纤维蛋白。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 62302031-3ae0-461d-86fd-4398af34f54a
+:END:
+* 部分毛细血管管腔闭塞、数目减少，按正常功能的需要少数毛细血管管壁增厚,改建为小动脉和小静脉
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 623020e3-18a6-4eae-a952-a3e5f81c5915
+:END:
+* 纤维性胶原是修复部位结缔组织的主要成分，对创伤愈合过程中张力的形成尤为重要。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:id: 62302141-2e6c-425b-904e-461d784165b2
+:END:
+* 器官或组织因动脉输入血量的增多，称动脉性充血(arterialhyperemia)，一般简称充血，是一种 <span style="background-color:red;color:white;">主动过程</span>，表现为局部组织或器官[[小动脉]]和[[毛细血管]]扩张，血液输入量增加。
+:PROPERTIES:
+:hl-page: 76
+:ls-type: annotation
+:id: 623150da-1ca6-491a-b781-ec9a0b55b6b7
+:END:
+* 局部组织或器官静脉血液回流受阻，血液淤积于[[小静脉]]和毛细血管内，导致血量增加，称静脉性充血(venoushyperemia),一般简称淤血(congestion)o淤血是一种 <span style="background-color:red;color:white;">被动过程</span>，可发生于局部或全身
+:PROPERTIES:
+:hl-page: 77
+:ls-type: annotation
+:id: 62315103-dfea-4ff5-94a3-8dcb1650e408
+:END:
+* 内皮细胞损伤后，暴露出内皮下的胶原，激活血小板和凝血因子xn,启动了内源性凝血过程。与此同时，损伤的内皮细胞释放组织因子，激活凝血因子VD,启动外源性凝血过程。在启动凝血过程中，血小板的活化极为重要，主要表现为以下三种连续的反应：
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 6231815e-890a-4029-91a2-4e9deaaa4bd7
+:END:
+* 黏附后，血小板被激活，释放含纤维蛋白原、[[纤维连接蛋白]](fibronectin). V因子、vW因子、血小板第IV因子、血小板源性生长因子和转化生长因子等的«颗粒和含ADP、ATP、Ca2+、组胺、5-羟色胺、肾上腺素等的8颗粒，以及颗粒内的物质，其中Ca?+参与血液凝固的连锁反应过程，而ADP是血小板与血小板间黏集的强有力介质。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 81
+:id: 623181d9-9bbb-4341-ae85-1fa68c07c24f
+:END:
+* ;或由于感染、缺氧、酸中毒等引起广泛性内皮细胞损伤，启动内源性凝血，引起微血管内广泛性纤维素性血栓形成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:id: 62318581-2360-47e4-a763-61e8e23ac988
+:END:
+* 炎症（inflammation）是具有血管系统的活体组织对各种损伤因子的刺激所发生的以防御反应为主的基本病理过程。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:id: 6231b03f-8d01-4118-9a0e-b1e58d6f4bc3
+:END:
+* 才能发生以血管反应为中心环节
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:id: 6231b0b3-a09b-44fb-9d51-0e65a0be5d6a
+:END:
+* 炎症是损伤、抗损伤和修复的动态过程
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:id: 6231b0bf-6467-47e7-ae2e-3d6a2ed32cf8
+:END:
+* 高温、低温、机械性创伤、紫外线和放射线等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:id: 6231b0f4-7c0b-480e-abd6-9618c121ea59
+:END:
+* 凡是能引起组织和细胞损伤的因子都能引起炎症
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:id: 6231b103-3615-427b-a94d-236c04ed04dc
+:END:
+* 变质是损伤性过程,渗出和增生是抗损伤和修复过程。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:id: 6231b1e1-23a9-47f6-b2a2-fdc423fc30e8
+:END:
+* 症局部组织发生的变性和坏死统称为变质(alteration
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:id: 6231b223-875a-4142-9e60-6b91f3a61ecb
+:END:
+* 渗出液的产生是由于血管通透性增高和白细胞主动游出血管所致。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:id: 6231b2a8-ab3a-44df-96db-49e6b0cf274e
+:END:
+* 炎症局部组织血管内的液体成分、纤维素等蛋白质和各种炎症细胞通过血管壁进入组织间隙、体腔、体表和黏膜表面的过程叫渗出(exudation)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:id: 6231b2b1-11b0-4fd0-ade9-bcf74626fc0d
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:id: 6231b376-9bcd-4c35-8b5e-754e41b0dc85
+:END:
+:①稀释和中和毒素,减轻毒素对局部组织的损伤作用;②为局部浸润的白细胞带来营养物质，运走代谢产物;③渗出液中所含的抗体和补体有利于消灭病原体;④渗出液中的纤维素交织成网，不仅可限制病原微生物的扩散,还有利于白细胞吞噬消灭病原体,在炎症后期的纤维素网架可成为修复的支架，并有利于成纤维细胞产生胶原纤维;⑤渗出液中的白细胞吞噬和杀灭病原微生物,清除坏死组织;⑥炎症局部的病原微生物和毒素随渗出液的淋巴回流而到达局部淋巴结，刺激细胞免疫和体液免疫的产生
+* 炎症性增生具有限制炎症扩散和修复损伤组织的功能。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:id: 6231b52f-0c38-46be-9a4a-3dca8cf4ce64
+:END:
+* 例如发热、末梢血白细胞数目改变、心率加快、血压升高、寒战、厌食等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:id: 6231b78b-159b-47d7-821a-a8822eaa705f
+:END:
+* 主要是由于IL-1和TNF促进了白细胞从骨髓储存库释放，故而相对不成熟的杆状核中性粒细胞所占比例增加，称之为“核左移”。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 99
+:id: 6231b89e-9c48-4102-85a8-ec3aabdd7e06
+:END:
+* 多数病毒、立克次体和原虫感染，甚至极少数细菌（如伤寒杆菌）感染则引起末梢血白细胞计数减少
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 99
+:id: 6231b905-b490-4719-a2cb-846f3b08cac9
+:END:
+* ①阻止病原微生物蔓延全身:炎性渗出物中的[[纤维素]]交织成网，可限制病原微生物的扩散，炎症性[[增生]]也可限制炎症扩散;
+:PROPERTIES:
+:hl-page: 99
+:ls-type: annotation
+:id: 6231b9bc-9ebb-42f2-aa4b-3370aec9b99e
+:END:
+②液体和白细胞的渗出可稀释毒素、消灭致炎因子和清除坏死组织;
+③炎症局部的实质细胞和间质细胞在相应生长因子的作用下进行增生,修复损伤组织，恢复组织和器官的功能。
+* 毛细血管后小静脉
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 100
+:id: 6231bf3f-f4ad-4014-9f96-8a547d7b5598
+:END:
+* 组胺、缓激肽、白细胞三烯
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 100
+:id: 6231bf44-8e18-4541-8e0f-95fc9403cd95
+:END:
+* 烧伤和化脓菌感染等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 100
+:id: 6231bf52-fbf5-4b90-983f-fbaeb724269b
+:END:
+* 在靠近内皮细胞连接处的胞质内，存在着由相互连接的囊泡所构成的囊泡体,这些囊泡体形成穿胞通道。富含蛋白质的液体通过穿胞通道穿越内皮细胞的现象称为[[穿胞作用]]（transcytosis），这是血管通透性增加的另一机制。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 101
+:id: 6231bfb0-87cd-41bd-a925-e92d01cb663a
+:END:
+* 白细胞通过血管壁游出到血管外的过程称为白细胞渗出，其是炎症反应最重要的特征
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 101
+:id: 6231c1c8-8eaf-40e3-bda6-2d765177f5a1
+:END:
+* 内皮细胞通常不表达或仅表达少量选择素，感染灶或损伤灶释放的细胞因子激活内皮细胞，选择素表达水平增高。因此，白细胞主要结合于炎症病灶处的血管内皮细胞并游出血管。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 102
+:id: 6231c33e-99c4-4a06-8f6b-d7484cf398be
+:END:
+* 紧紧黏附
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 102
+:id: 6231c3e2-1001-4d2d-a45b-23f010670d43
+:END:
+* 血小板内皮细胞黏附分子
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 102
+:id: 6231c5f2-7d74-4839-89f5-18194ea2cd59
+:END:
+* ①中性粒细胞寿命短，经过24-48小时后，中性粒细胞由于凋亡和坏死而消失，而单核细胞在组织中寿命长;②中性粒细胞停止游出后，单核细胞可继续游出；③炎症的不同阶段所激活的化学趋化因子不同，已证实^^中性粒细胞能释放[[单核细胞趋化因子]]^^，因此中性粒细胞游出后必然引起单核细胞游出。
+:PROPERTIES:
+:hl-page: 102
+:ls-type: annotation
+:id: 6231c755-4518-47af-89dc-8a5dc5fb5b7e
+:END:
+* 趋化作用是指白细胞沿化学物质浓度梯度向着化学刺激物作定向移动。这些具有吸引白细胞定向移动的化学刺激物称为趋化因子(chemotacticagents)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 102
+:id: 6231c7ea-351b-4622-81f7-96de2e2e4854
+:END:
+* N-甲酰甲硫氨酸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:id: 6231ca0e-6861-4538-9c98-23058495ae76
+:END:
+* 调理素(opsonins)是指一类通过包裹微生物而增强吞噬细胞吞噬功能的血清蛋白质，包括抗体[[IgG]]的Fc段、补体[[C3b]]和[[凝集素]](lectins)。调理素包裹微生物而提高吞噬作用的过程,称为调理素化(opsonization)
+:PROPERTIES:
+:hl-page: 103
+:ls-type: annotation
+:id: 6231ca66-8018-439d-8202-835898a962d5
+:END:
+* 酸性磷酸酶和过氧化物酶
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:id: 6231cbd6-800c-4cfc-84e5-0b730dd82970
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:id: 6231cc11-47f0-4e8b-8aa4-5fa2e843e735
+:END:
+:吞噬细胞表面的甘露糖受体、清道夫受体和各种调理素受体都有识别、结合和摄入微生物的功能
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:id: 6231dc54-208b-43ef-8fb9-6e4fa80634aa
+:hl-type: area
+:hl-stamp: 1647434834611
+:END:
+* PGD2.PGE2和PGF2a协同作用，可以引起血管扩张并促进水肿发生。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 106
+:id: 6231dec2-9827-4930-9e61-65e5ac59b176
+:END:
+* AA首先转化为5-羟基过氧二十碳四烯酸(5-HPETE),然后再转化为白细胞三烯LTA4,LTB4,LTC4,LTD4,LTE₄以及5-羟基二十碳四烯酸(5-HETE)等。5-HETE是中性粒细胞的趋化因子。LTB4是中性粒细胞的趋化因子和白细胞功能反应(黏附于内皮细胞、产生氧自由基和释放溶酶体酶)的激活因子。ltc4,LTD4,LTE4主要由肥大细胞产生，可引起明显支气管痉挛和静脉血管通透性增加
+:PROPERTIES:
+:hl-page: 106
+:ls-type: annotation
+:id: 6231df99-04b2-4235-9ade-56016bca7580
+:END:
+* 脂质素也是AA通过[[脂质氧合酶途径]]产生的，是白细胞三烯的 <span style="background-color:red;color:white;">内源性拮抗剂</span>。主要功能是抑制中性粒细胞的趋化反应及黏附于内皮细胞，与炎症的消散有关。
+:PROPERTIES:
+:hl-page: 106
+:ls-type: annotation
+:id: 6231dfe5-a0bc-4bdb-80be-8fa1b8163a5d
+:END:
+* 组胺主要通过血管内皮细胞的[[H1受体]]起作用，可使细动脉扩张和细静脉通透性增加
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:id: 6231e07f-7876-47b7-a141-e6d9d2232f4d
+:END:
+* 中性蛋白酶包括[[弹力蛋白酶]]、[[胶原酶]]和[[组织蛋白酶]]，可降解各种细胞外成分，包括胶原纤维、基底膜、纤维素、弹力蛋白和软骨基质等,在化脓性炎症的组织破坏中起重要作用。中性蛋白酶还能直接剪切C3和C5而产生血管活性介质[[C3a]]和[[C5a]],并促进激肽原产生[[缓激肽]]样多肽。
+:PROPERTIES:
+:hl-page: 106
+:ls-type: annotation
+:id: 6231e2a8-bdeb-4d0c-bc01-0f84af23a655
+:END:
+* 缓激肽(bradykinin)可以使细动脉扩张、血管通透性增加、支气管平滑肌收缩，并可引起疼痛。激活的刈因子，使前激肽原酶转变成激肽原酶，激肽原酶作用于血浆中激肽原使其转化为缓激肽。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 107
+:id: 6231e36b-8d99-4f4b-ba5b-c517b8f4e90e
+:END:
+* 产生炎症介质C3a和C5a,发挥扩张血管和增加血管通透性、趋化白细胞、杀伤细菌等生物学功能
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 107
+:id: 6231e3ab-d857-41a9-93f0-3efe6876b8fe
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 107
+:id: 6231e427-16ed-4b3f-b618-3b1cdc5190d8
+:hl-type: area
+:hl-stamp: 1647436837638
+:END:
+* 在急性炎症过程中,通常渗出性病变表现明显
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 107
+:id: 6231e5a9-7ea5-4198-bbca-d629a3721892
+:END:
+* 当渗出的纤维素较少时，其可被纤维蛋白水解酶降解，或被吞噬细胞搬运清除，或通过自然管道排出体外,病变组织得以愈复。若渗出的纤维素过多、渗出的中性粒细胞（其含蛋白水解酶）较少、或组织内抗胰蛋白酶（其抑制蛋白水解酶活性）含量过多时，均可导致渗出的纤维素不能被完全溶解吸收，随后发生机化,形成浆膜的纤维性粘连或大叶性肺炎时肺肉质变
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:id: 6231e8ef-c5e8-4f87-9fb1-a859178d2c96
+:END:
+* 此时中性粒细胞向黏膜表面渗出，深部组织的中性粒细胞浸润不明显
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:id: 6231ea77-7ad7-4af3-9f09-f873f31fb621
+:END:
+* 炎症病变组织内大量中性粒细胞弥漫性浸润，与周围组织界限不清（图4-8）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:id: 6231eb7b-2168-4b0d-9d56-aaaf24e9887b
+:END:
+* 主要由[[金黄色葡萄球菌]]引起，这些细菌可产生毒素使局部组织坏死，继而大量中性粒细胞浸润,之后中性粒细胞坏死形成[[脓细胞]]，并释放蛋白溶解酶使坏死组织液化形成含有脓液的空腔。金黄色葡萄球菌可产生[[凝血酶]],使渗出的纤维蛋白原转变成纤维素，因而病变较局限。金黄色葡萄球菌具有层粘连蛋白受体，使其容易通过血管壁而在远部产生迁徙性脓肿（图4-9）o
+:PROPERTIES:
+:hl-page: 109
+:ls-type: annotation
+:id: 6231ec19-7607-4573-bd7e-6fceb7266b40
+:END:
+* 通过周围正常细胞的再生，可以完全恢复原来的组织结构和功能，称为完全愈复;如果组织坏死范围较大，则由肉芽组织增生修复，称为不完全愈复
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ed4f-a680-4da4-b371-2855abf16896
+:END:
+* 炎症局部的病原微生物可通过^^组织间隙^^或^^自然管道^^向周围组织和器官扩散蔓延,如急性膀胱炎可向上蔓延到输尿管和肾盂。
+:PROPERTIES:
+:hl-page: 110
+:ls-type: annotation
+:id: 6231ed7d-b4e9-45d5-8f6f-66d6d1e11f19
+:END:
+* 其中所含的病原微生物也可沿淋巴液扩散，引起淋巴管炎和局部淋巴结炎。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231edaa-b580-404d-b070-a5724681beef
+:END:
+* 例如，足部感染时腹股沟淋巴结可肿大，在足部感染灶和肿大的腹股沟淋巴结之间出现红线，即为淋巴管炎。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231edb8-455f-42bc-aa7d-4291640381e3
+:END:
+* 细菌由局部病灶入血，全身无中毒症状，但从血液中可查到细菌，称为菌血症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231edfb-1b7b-470f-b966-2cf8a2cd2c7c
+:END:
+* 细菌的毒性产物或毒素被吸收入血称为毒血症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ee0f-230c-44e7-a807-1f4b8d07f258
+:END:
+* 但血培养查不到病原菌。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ee1c-b719-4a86-9ab2-27be3b07ae80
+:END:
+* 细菌由局部病灶入血后,大量繁殖并产生毒素，引起全身中毒症状和病理变化，称为败血症。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ee32-2e25-4a26-9f02-98073b632d73
+:END:
+* 此时血液中常可培养出病原菌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ee3c-2753-48e5-89b7-06290fe5a49c
+:END:
+* 化脓菌所引起的败血症可进一步发展成为脓毒败血症。脓毒败血症是指化脓菌除产生败血症的表现外，可在全身一些脏器中出现多发性栓塞性脓肿(embolicabscess),或称转移性脓肿(metastaticabscess)o
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:id: 6231ee79-b191-4bbd-a896-75467eedf5b3
+:END:
+* 炎症假瘤本质上是炎症，由肉芽组织、炎细胞、增生的实质细胞和纤维结缔组织构成，为境界清楚的瘤样病变。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 111
+:id: 6231ef6b-d65b-4dde-ab0a-ca8ba43c9220
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 111
+:id: 6231efc8-8dbf-4cba-88e1-ff9fc14daea5
+:END:
+:①吞噬、清除微生物和坏死组织;②启动组织修复，参与瘢痕形成和组织纤维化;③分泌TNFJL-1、化学趋化因子、二十烷类等炎症介质，巨噬细胞是启动炎症反应、并使炎症蔓延的重要细胞;④为T细胞呈递抗原物质,并参与T细胞介导的细胞免疫反应,杀伤微生物。
+* 另外,巨噬细胞吞噬并处理抗原后,把抗原呈递给T淋巴细胞,并产生IL-12刺激T淋巴细胞;激活的T淋巴细胞产生细胞因子IFN-γ,反过来又可激活巨噬细胞。因此，淋巴细胞和巨噬细胞在慢性炎症过程中相互作用,使炎症反应周而复始、连绵不断
+:PROPERTIES:
+:hl-page: 111
+:ls-type: annotation
+:id: 6231f06d-f571-4bcf-9c2c-7db9fcc62b1d
+:END:
+* 手术缝线、石棉、铍,滑石粉（可见于静脉吸毒者）、隆乳术的填充物、移植的人工血管等可以引起异物性肉芽肿。
+:PROPERTIES:
+:hl-page: 112
+:ls-type: annotation
+:id: 6231f20d-be47-4a10-98cb-dcfb8792e6e1
+:END:
+* 结核结节中的多核巨细胞又称为[[朗汉斯巨细胞]]，由上皮样细胞融合而来,其细胞核排列于细胞周边呈马蹄形或环形，胞浆丰富。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 112
+:id: 6231f320-3c4f-40f9-9f05-e50239ce69f1
+:END:
+* 以结核肉芽肿为例，典型的结核肉芽肿中心常为[[干酪样坏死]]，周围为放射状排列的[[上皮样细胞]],并可见[[朗汉斯巨细胞]]掺杂于其中,再向外为大量淋巴细胞浸润，结节周围还可见纤维结缔组织包绕
+:PROPERTIES:
+:hl-page: 112
+:ls-type: annotation
+:id: 6231f384-fd8e-404f-8c8e-32bff00f3bb3
+:END:
+* 急性炎症24~48小时后，单核细胞在黏附分子和化学趋化因子的作用下，从血管中渗出并聚集到炎症灶，转化为巨噬细胞。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 111
+:id: 6232a9aa-75dd-42f0-a76a-f3461e8018b4
+:END:
+* 是指由机体自身产生的自身抗体或致敏淋巴细胞，破坏自身组织和细胞,导致组织和器官功能障碍的原发性免疫性疾病。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:id: 6233f568-28f1-4057-a37b-208db3aeab80
+:END:
+* 自身免疫耐受性的丧失是自身免疫病发生的根本机制。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:id: 6233f6fc-4df2-4159-9a80-02cf60bec9f8
+:END:
+* ，经D型超敏反应导致相应血细胞的损伤和溶解，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 6233fc85-8fb4-4f2d-9aa2-7b13bee8c2e0
+:END:
+* 吞噬了狼疮小体的细胞称狼疮细胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:id: 6233fd98-24a6-464a-a99c-1203191d3eac
+:END:
+* 过ID型超敏反应引起组织损伤。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:id: 62342acf-9040-4718-8613-f80fdd72af49
+:END:
+* 免疫功能正常的个体，接受异体移植物后，如果不经任何免疫抑制处理,将立即发生宿主免疫系统对移植物的排斥反应，即宿主抗移植物反应,导致移植物被排斥
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:id: 6234348c-5bba-4ea8-980c-7c6cd727db59
+:END:
+* 主动脉瓣狭窄后，左心室血液排出受阻，左心室发生代偿性肥大，室壁增厚，向心性肥大
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 204
+:id: 623809a4-3f6b-4088-9f65-9e3c8fb080c5
+:END:
+* WHO肿瘤分类对大肠癌的定义已有明确的界定，大肠肿瘤组织只有侵犯黏膜肌层到达黏膜下层才称为癌。只要不超过黏膜肌层，就不称为癌，而称为上皮内瘤变。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 265
+:id: 623acf1c-7790-43b3-b9d4-d64a5b2987ea
+:END:
+* 免疫荧光检查显示肾小球内有颗粒状IgGJgM和C3沉积
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 299
+:id: 623d401b-bbe5-43c2-8e0f-6e7c6aed70f7
+:END:
+* ，多位于脏层上皮细胞和肾小球基膜之间(
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 299
+:id: 623d4303-fd9f-498b-b8ac-0f7f0943fc20
+:END:
+* 显示增厚的基膜及与之垂直的钉突，形如梳齿。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 301
+:id: 623d431a-a749-47ff-a9f6-d437aa860dbd
+:END:
+* 内皮细胞和系膜细胞增生，
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 298
+:id: 623d448c-5937-4a05-ac3f-8d7658097d67
+:END:
+* 支气管扩张症多继发于慢性支气管炎、麻疹和百日咳后的支气管肺炎及肺结核病等。因反复感染，特别是化脓性炎症常导致管壁平滑肌、弹力纤维和软骨等支撑结构破坏；同时受支气管壁外周肺组织慢性炎症所形成的纤维瘢痕组织的牵拉及咳嗽时支气管腔内压的增加，最终导致支气管壁持久性扩张。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 223
+:id: 623fdaee-6bde-4aad-93d2-08aaedd79087
+:END:
+* 此型最为常见，多见于中老年吸烟者或有慢性支气管炎病史者。病变特点是位于肺腺泡中央的呼吸性细支气管呈囊状扩张,而肺泡管和肺泡囊扩张不明显
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 225
+:id: 623fdb80-8e4d-442d-aec8-f65758918000
+:END:
+* I期硅肺:主要表现为肺门淋巴结肿大,有硅结节形成和纤维化改变,肺组织内硅结节数量较少,主要分布于双肺中、下叶近肺门处，结节直径一般为1〜3mm。X线检查肺门阴影增大，密度增强，肺野内可见少量类圆形或不规则形小阴影。肺的重量、体积和硬度无明显改变。胸膜可有硅结节形成,但增厚不明显。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 227
+:id: 623fdc5e-ceb0-4dc9-9166-2954989c2bcc
+:END:
+* 常引起肺心病的是慢性阻塞性肺疾病,其中又以慢性支气管炎并发阻塞性肺气肿最常见，占80%〜90%,其后依次为支气管哮喘、支气管扩张症、肺尘埃沉着病、慢性纤维空洞型肺结核和肺间质纤维化等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 229
+:id: 623fdda9-6dfb-4651-a79d-91e2e073c126
+:END:
+* 也可见缺氧引起的心肌纤维萎缩、肌浆溶解、横纹消失，间质水肿和胶原纤维增生等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 229
+:id: 623fddb8-f6a5-4747-a56a-a11beef60b71
+:END:
+* 甚少见。原发性肺动脉高压症及广泛或反复发生的肺小动脉栓塞（如虫卵、肿瘤细胞栓子）等可直接引起肺动脉高压,导致肺心病。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 229
+:id: 623fdded-4492-4f51-986d-c5ba6909c675
+:END:
+* 除原有肺疾病（如慢性支气管炎、肺尘埃沉着病等）所表现的多种肺部病变外，肺心病时肺内的主要病变是肺小动脉的变化，特别是肺腺泡内小血管的构型重建,包括无肌型细动脉肌化及肌型小动脉中膜增生、肥厚，内膜下出现纵行平滑肌束等。此外，还可见肺小动脉炎，肺小动脉弹力纤维及胶原纤维增生，腔内血栓形成和机化以及肺泡间隔毛细血管数量减少等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 229
+:id: 623fde68-dce0-495c-a151-24a6c9d33d78
+:END:
+* 鳞状细胞癌：为肺癌中最常见的类型之一，其中80%~85%为中央型肺癌。患者绝大多数为中老年男性且大多有吸烟史。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 235
+:id: 623fdf3c-07cc-4fd4-8ef3-f574ed723308
+:END:
+* 小细胞癌是肺癌中分化最低、恶性度最高的一种。生长迅速、转移早,五年存活率仅1%~2%。手术切除效果差,但对放疗及化疗较为敏感。多为中央型，常发生于大支气管，向肺实质浸润生长，形成巨块。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 235
+:id: 623fdf58-15db-453b-86b2-6e1e790025e5
+:END:
+* 弥漫型:该型较少见，仅占全部肺癌的2%〜5%。癌组织起源于末梢的肺组织，沿肺泡管及肺泡弥漫性浸润生长，形成多数粟粒大小结节布满大叶的一部分或全肺叶;也可形成大小不等的多发性结节散布于多个肺叶内，易与肺转移癌混淆。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 234
+:id: 623fdfa4-5d33-4446-96b2-b1fdb2284b71
+:END:
+* 病变往往从一个或一组淋巴结开始，逐渐由近及远地向周围的淋巴结扩散;②显微镜下,HL的肿瘤细胞是一种独特的瘤巨细胞,分别由Sternberg（1898年）和Reed（1902年）首先描述，故称Reed-Sternberg细胞（R-Scell）,在病变组织中只有少数肿瘤性大细胞（R-S细胞），瘤细胞仅占所有细胞成分的0.1%〜10%,R-S细胞在不同病例的肿瘤组织或同一病例不同时期的病变组织中所占的数量和比例各异;③病变组织中常有数量不等的、反应性的各种炎细胞存在;④在HL的后期，少数的病例（约5%）可出现骨髓累及;⑤现已证实98%以上病例的R-S细胞有Ig基因克隆性重排，支持R-S细胞起源于滤泡生发中心B细胞的观点。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 283
+:id: 62412850-8013-4fad-97ea-bce78fe9db09
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 624142aa-f392-4786-846a-4490141c9a8c
+:hl-type: area
+:hl-stamp: 1648444073150
+:END:
+* 所有CLL和大多数SLL都有骨髓累及。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 276
+:id: 624152a2-0697-40bb-98ee-8666cff3666c
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 277
+:id: 624164c5-23f1-427b-aff6-22d79af7c4ab
+:hl-type: area
+:hl-stamp: 1648452804447
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 277
+:id: 624164d9-9d6c-4e26-971d-05842b0532cd
+:hl-type: area
+:hl-stamp: 1648452824201
+:END:
+* 肿瘤细胞在副皮质区浸润或呈弥漫浸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 281
+:id: 62417463-b092-4cb7-a245-973b17637188
+:END:
+* 病变好发于主动脉的后壁及其分支开口处，以腹主动脉病变最为严重，其后依次为胸主动脉、主动脉弓和升主动脉。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 6243b639-7b39-4a2d-9726-7c24b6af1fcf
+:END:
+* 根据病变检出率和统计结果，以左冠状动脉前降支为最高，其余依次为右主干、左主干或左旋支、后降支。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 188
+:id: 6243b661-f178-452b-9e80-d91ffdb2b504
+:END:
+* 颈动脉及脑动脉粥样硬化最常见于颈内动脉起始部、基底动脉、大脑中动脉和Willis环。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6a3-9dee-4b26-9b21-9272b39e65bd
+:END:
+* 多个瘢痕可使肾脏缩小，称为AS性固缩肾
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6c6-674c-4106-93b2-64f8faba762e
+:END:
+* 四肢动脉粥样硬化以下肢动脉为重，常发生在骼动脉、股动脉及前后胫动脉。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 192
+:id: 6243b6f3-fdcc-44d5-9322-43798c88dcda
+:END:
+* 7天~2周，边缘区开始出现肉芽组织，或肉芽组织向梗死灶内长入，呈红色。3周后肉芽组织开始机化,逐渐形成瘢痕组织。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 190
+:id: 6243b7b4-755e-407c-9ce9-f3eecbe483f0
+:END:
+* ③脑出血(cerebralhemorrhage)，是高血压最严重的、往往是致命的并发症。脑出血多为大出血。^^常发生于基底节、内囊，其次为大脑白质、脑桥和小脑。^^当出血范围扩大时，可破入侧脑室。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 196
+:id: 6243bbbf-f3c4-4d1b-9085-2508d8851d1b
+:END:
+* 风湿热病变可呈急性或慢性反复发作，急性期过后，常造成轻重不等的心脏病变,可遗留心脏瓣膜病变，形成风湿性心瓣膜病
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 198
+:id: 6243bfc2-e1c2-4529-9bc1-c6bcfb409155
+:END:
+* 变质渗出期(alterativeandexudativephase)是风湿病的早期改变。在心脏、浆膜、关节、皮肤等病变部位表现为结缔组织基质的黏液样变性和胶原纤维素样坏死。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 199
+:id: 6243c0d3-491d-48da-a83d-b5d2e224b413
+:END:
+* HCM特征性的变化是非对称性室间隔肥厚图9-28肥厚型心肌病室间隔非对称性肥厚，心室腔及左室流出道狭窄也可见均匀肥厚型、心尖肥厚型和左心室前壁肥厚型等。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6243c420-0a83-4008-b17c-0f1031c52a46
+:END:
+* 光镜下，心内膜纤维化，可发生玻璃样变和钙化，伴有附壁血栓形成。^^心内膜下心肌常见萎缩和变性改变，亦称心内膜心肌纤维化^^(endomyocardialfibrosis)0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 205
+:id: 6243c4ae-3970-4342-80f6-6f62a876cb68
+:END:
+* 病灶处可见^^心肌灶状坏死和肉芽肿形成^^，中心有红染、无结构的坏死物，周围有淋巴细胞、单核细胞、浆细胞或嗜酸性粒细胞浸润，并混有多量的多核巨细胞
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 208
+:id: 6243c5c9-3c81-4820-860d-bd72980079d7
+:END:
+* 骨髓中的多能干细胞可以向两个方向分化:向髓细胞方向克隆性增生形成粒细胞、单核细胞、红细胞和巨核细胞系别的肿瘤，统称为髓系肿瘤；向淋巴细胞方向克隆性增生则形成淋巴组织肿瘤。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 285
+:id: 6243ccf0-0b32-4992-908b-9b84ba4fa14c
+:END:
+* 故也称绿色瘤(chloroma)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 287
+:id: 6243cf46-4429-4164-8c0d-3ccaabe74f33
+:END:
+* 髓系原始细胞在骨髓以外的器官或组织内聚集增生而形成的肿块
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 287
+:id: 6243cf4f-3679-49ce-a92d-aac8bc0e55b2
+:END:
+* 在WHO分类中，急性髓系白血病（AML）及其相关的前体细胞肿瘤包括下列疾病:①伴重现性遗传学异常的AML；②伴有骨髓增生异常改变的AML；③治疗相关的髓系肿瘤;④髓系肉瘤;®Down综合征相关骨髓增殖症;⑥原始（母）细胞性浆细胞样树突状细胞肿瘤;⑦非特指AML。并用非特指型AML囊括了不符合上述单列肿瘤特征的其他AML类型，如:微分化型、有成熟迹象型、急性单核细胞白血病、急性巨核细胞白血病、急性红白血病等
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 288
+:id: 6243d1ed-75e7-4169-9831-2e863a11bf7b
+:END:
+* ①慢性粒细胞白血病（chronicmyelogenousleukemia,CML）,BCR-ABL1阳性（chronicmyelogenousleukemia, BCR-ABL1positive）；②慢性中性粒细胞白血病（chronicneutrophilicleukemia,CNL），其特征是外周血中性粒细胞持续增多，骨髓的中性粒细胞显著增生，无Ph染色体或BCR-ABL1融合基因;③真性红细胞增多症（polycythemiavera,PV）,由于酪氨酸激酶基因JAK2的突变，具有不依赖于红细胞生成素正常调节的红系细胞增殖，同时伴有粒系、巨核细胞系的增殖，外周血以红细胞、血红蛋白增多为主要表现;④原发性骨髓纤维化（primarymyelofibrosis,PMF）,骨髓中以巨核细胞和粒系细胞增生为主，在疾病后期出现纤维结缔组织显著增生和纤维化；⑤特发性血小板增多症（essentialthrombocythemia,ET）,以骨髓中细胞体积大、胞核分叶多的巨核细胞显著增生为特征，外周血中的血小板持续增多。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 288
+:id: 6243d3a1-93d1-4a11-8f84-5d2b84b54003
+:END:
+* 现今根据CML发病的分子机制，在治疗中引入酪氨酸激酶的阻断剂（imatinib,伊马替尼,商品名称:格列卫）实施特定的分子靶向治疗，可使90%的患者血象获得完全缓解
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 289
+:id: 6243d725-9e02-431b-951b-0fe9daca7a70
+:END:
+* 然而,酪氨酸激酶的阻断剂只能够抑制肿瘤细胞的增生，但不能够清除CML克隆,不能够阻止肿瘤向急变期的演进。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 290
+:id: 6243d740-9c1c-4fdb-9e62-c730b1f41be3
+:END:
+* 一般认为,子宫颈癌的发生与早婚、多产、宫颈裂伤、局部卫生不良、包皮垢刺激等多种因素有关，流行病学调查说明性生活过早和性生活紊乱是子宫颈癌发病的最主要原因。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 312
+:id: 62466312-5ff1-4591-bc37-afad4a20bc06
+:END:
+* 此外,吸烟和免疫缺陷可增加致癌风险,HIV感染可使子宫颈原位癌的发生几率增加5倍
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 312
+:id: 6246653a-693e-4e43-baf9-124a8067db70
+:END:
+* CIN多无自觉症状，肉眼观亦无特殊改变，子宫颈鳞状上皮和柱状上皮交界处是发病的高危部位,可疑之处可用碘液染色进行鉴别。正常子宫颈鳞状上皮富含糖原，故对碘着色，如患处对碘不着色,提示有病变。此外，醋酸可使子宫颈有CIN改变的区域呈白色斑片状。如要确诊,需进一步进行脱落细胞学或组织病理学检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 313
+:id: 62466cab-433d-4546-9273-062204c6a52e
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 321
+:id: 62469bf2-6a0b-4cd2-888f-fba1fa6ebc0a
+:hl-type: area
+:hl-stamp: 1648794608014
+:END:
+* 在血栓机化过程中，由于水分被吸收，血栓干燥收缩或部分溶解而出现裂隙，周围新生的血管内皮细胞长入并被覆于裂隙表面形成新的血管，并相互吻合沟通，使被阻塞的血管部分重建血流，这一过程称为再通(recanalization)(图3-9)。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 85
+:id: 6246b165-9883-44bb-9160-93eb51f3bae3
+:END:
+* 血管血栓形成导致动脉血流中断或灌流不足是梗死形成的最常见原因。主要见于冠状动脉、脑动脉粥样硬化合并血栓形成时引起的心肌梗死和脑梗死。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 90
+:id: 6246b23c-2d61-42ad-9e8c-67c97dee4a3a
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 327
+:id: 62471996-0c2e-4e30-8dda-8058fc3ed070
+:hl-type: area
+:hl-stamp: 1648826773194
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 62471e83-54f9-4eb9-81e6-3395412c8b7f
+:hl-type: area
+:hl-stamp: 1648828034573
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 328
+:id: 62471fad-7dc4-48d2-b02d-32dbc847ed66
+:hl-type: area
+:hl-stamp: 1648828332743
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 335
+:id: 6247be13-b76c-4085-bede-1270825a282e
+:hl-type: area
+:hl-stamp: 1648868882203
+:END:
+* 可将甲状腺炎分为急性、亚急性和慢性三种。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247ce9c-c751-4a7e-89cf-8cd92d5d3cf3
+:END:
+- 急性甲状腺炎是多由细菌感染引起的^^化脓性炎症^^;
+- 亚急性甲状腺炎一般认为是与^^病毒感染有关的炎症^^;
+- 慢性淋巴细胞性甲状腺炎是一种^^自身免疫性疾病^^；纤维性甲状腺炎目前病因不明
+* 又称肉芽肿性甲状腺炎它是一种与病毒感染有关的^^肉芽肿性炎症^^。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d282-29e6-435c-8bb6-59330fca60aa
+:END:
+* 甲状腺呈^^不均匀结节状^^,轻至中度增大，质实，橡皮样。切面病变呈灰白或淡黄色，可见^^坏死或瘢痕^^,常与周围组织有粘连。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d2fd-b2e1-4acd-a808-83e5546aa141
+:END:
+* 病变呈灶性分布，^^部分滤泡被破坏,胶质外溢^^，引起^^类似结核结节的肉芽肿^^形成,并有多量的^^中性粒细胞及不等量的嗜酸性粒细胞^^、淋巴细胞和浆细胞浸润，可形成微小脓肿，^^伴异物巨细胞反应，但无干酪样坏死。^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d414-dc18-40b9-bc87-98cc2d64788f
+:END:
+* 愈复期:巨噬细胞消失,滤泡上皮细胞再生、间质纤维化、瘢痕形成。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d46d-8323-4a0c-b039-ce6e9cd0b95f
+:END:
+* 又称桥本甲状腺炎(Hashimoto，sthyroiditis)、自身免疫性甲状腺炎(autoimmunethyroiditis)，是一种自身免疫性病。^^多见于中年女性^^
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 336
+:id: 6247d4f6-5c8a-497a-b630-23391c505630
+:END:
+* TSH较高,T3,T4低，患者血内^^出现多种自身抗体^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d50f-12b4-4d2f-ad40-4efad72e0502
+:END:
+* ^^甲状腺弥漫性对称性肿大^^，质较韧，重量一般为60~200g,被膜轻度增厚，但^^与周围组织无粘连^^，切面呈分叶状,色灰白灰黄。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d54b-dae6-4b24-a88e-4bbc253467d1
+:END:
+* ^^甲状腺广泛破坏、萎缩^^，大量^^淋巴细胞^^及不等量的^^嗜酸性粒细胞^^浸润、^^淋巴滤泡形成，纤维组织增生^^
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d58b-bf84-44a8-b2e1-760bb46fac35
+:END:
+* 肉眼观，^^甲状腺中度肿大^^，病变范围和程度不一,^^病变呈结节状，质硬似木样^^，与^^周围组织明显粘连^^，切面灰白(cmt:毕竟是纤维性)
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d633-14d2-451b-80a4-884538d4f8f5
+:END:
+* 光镜下，滤泡萎缩，^^大量纤维组织增生^^、^^[[玻璃样变]]^^,有^^淋巴细胞浸润^^(cmt:毕竟是慢性炎症)。
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d699-2729-4a48-8bd3-a54f0a7cb34e
+:END:
+* ①本病向周围组织蔓延、侵犯、粘连；后者仅限于甲状腺内；
+:PROPERTIES:
+:hl-page: 336
+:ls-type: annotation
+:id: 6247d7ba-7b6e-4672-9ad4-b4345361d127
+:END:
+②本病虽有淋巴细胞浸润，但不形成^^淋巴滤泡^^；
+③本病有显著的^^纤维化及玻璃样变^^,质硬
+* 肉眼观，多为单发，圆或类圆形，有完整的包膜，常压迫周围组织，直径一般3~5cm,切面多为实性,可并发出血、囊性变、钙化和纤维化。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247da38-65e1-4037-a6fb-206e8852ba0f
+:END:
+* 包膜完整,瘤组织由大小较一致、排列拥挤、内含胶质,由与成人正常甲状腺相似的滤泡构成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 337
+:id: 6247dfb3-71ae-4b18-b5ec-89f29ae7b217
+:END:
+* 肿瘤组织由大滤泡或^^大小不一的滤泡组成^^，滤泡内充满胶质,并^^可互相融合成囊^^
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247dff1-57e6-4945-9bb0-5ea8af8c8277
+:END:
+* 主要由^^小而一致^^、仅含^^少量胶质或没有胶质^^的小滤泡构成,上皮细胞为^^立方形,似胎儿甲状腺组织。^^
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e02b-d10b-445f-ab0f-ec585eba4cb3
+:END:
+* ^^瘤细胞小，大小较一致，分化好^^，呈片状或条索状排列,偶见不完整的小滤泡，^^无胶质^^,间质疏松呈水肿状。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e07e-149b-4722-88a1-808c881bd916
+:END:
+* 又称Hurthle(许特莱)细胞腺瘤。较少见，瘤细胞大而多角形，核小，胞质丰富、^^嗜酸性，内含嗜酸性颗粒^^。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e0f6-0163-4d45-85c7-fc3eacf79b51
+:END:
+- 电镜下见^^嗜酸性细胞内有丰富的线粒体，即Hurthle细胞^^。瘤细胞排列成索网状或巢状，很少形成滤
+* :PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e160-e9f5-4b6b-9c05-1b625834731b
+:END:
+- 瘤细胞丰富，部分为梭形，有轻度^^非典型增生^^，可见核分裂象。瘤细胞排列成索或巢片状，^^不形成滤泡^^，间质少，^^但无包膜和血管侵犯^^。
+- 本瘤应与髓样癌和转移癌鉴别，可作TTF-1、降钙素(calcitonin,CT)、上皮膜抗原(epithelialmembraneantigen,EMA)和角蛋白(keratin)等免疫组织化学检查，^^髓样癌细胞呈TTF-1、CT阳性,转移癌不表达甲状腺球蛋白(thyro­globulin,TG)^^
+* ①前者常为多发结节、无完整包膜;后者一般单发,有完整包膜。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e296-b314-4811-8ece-3e49ffca270a
+:END:
+②前者滤泡大小不一致，一般比正常的大;后者则滤泡及滤泡上皮细胞大小较一致。
+③前者周围甲状腺组织无压迫现象，邻近的甲状腺内与结节内有相似病变;后者周围甲状腺有压迫现象，周围和邻近处甲状腺组织均正常。
+* 是^^原发性甲状腺癌中最常见的类型^^，占甲状腺癌的60%，^^青少年女性较多见^^，肿瘤生长缓慢，^^恶性程度较低，预后较好^^，10年生存率达80%以上。
+:PROPERTIES:
+:hl-page: 337
+:ls-type: annotation
+:id: 6247e5a0-08d1-4b54-8988-5cc04109a226
+:END:
+* 但局部淋巴结转移较早
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e5d0-ef59-4a0f-970c-a6776103da71
+:END:
+* 肉眼观，肿瘤一般呈球形，直径约3cm,无包膜，切面灰白色，质地较硬。部分病例有囊形成，囊内可见乳头，又称为乳头状囊腺癌
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e60a-821b-4da6-88e4-58a6a54ef30a
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 338
+:id: 6247e676-375c-4167-8c36-4af8f01d5238
+:hl-type: area
+:hl-stamp: 1648879218323
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 371
+:id: 6248e516-f26a-424f-8253-bf07f1ceb701
+:hl-type: area
+:hl-stamp: 1648944404030
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 375
+:id: 6248f4d9-1fa7-494a-ba5b-ddff71ab77a6
+:hl-type: area
+:hl-stamp: 1648948440030
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 351
+:id: 624905d7-e058-48a2-b3fa-e36103cbaaa1
+:hl-type: area
+:hl-stamp: 1648952790488
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 351
+:id: 624905f9-8747-4e92-8f8f-94a398c9c8c3
+:hl-type: area
+:hl-stamp: 1648952823592
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490c72-375c-40e1-880e-b31230132694
+:hl-type: area
+:hl-stamp: 1648954481377
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490c97-da9a-42cc-b32c-2de30cfe5325
+:hl-type: area
+:hl-stamp: 1648954517355
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 353
+:id: 62490d10-610d-4d1d-a976-d50c0b6ff54d
+:hl-type: area
+:hl-stamp: 1648954639588
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 378
+:id: 62491165-cd02-4642-9689-31e770671621
+:hl-type: area
+:hl-stamp: 1648955748533
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 379
+:id: 624917bd-6acb-4f7b-b1a8-d6f6fbefa853
+:hl-type: area
+:hl-stamp: 1648957371845
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 387
+:id: 62491cb1-5cf0-42fb-9a8d-7dd387c9b3e6
+:hl-type: area
+:hl-stamp: 1648958639096
+:END:

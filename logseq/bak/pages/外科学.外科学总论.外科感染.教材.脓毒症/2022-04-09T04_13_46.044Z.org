@@ -1,0 +1,62 @@
+#+title: 外科学/外科学总论/外科感染/教材/脓毒症
+#+deck:外科学::外科学总论::外科感染::教材::脓毒症
+
+* 脓毒症/概念 #card
+:PROPERTIES:
+:id: 33088cdf-09de-48d2-81ff-105234d99e89
+:collapsed: true
+:END:
+** 脓毒症(sepsis)常继发于严重的外科感染, <span style="background-color:yellow;color:black;">是机体对感染的反应失调而导致危及生命的器官功能障碍</span>。现定义尤为强调“危及生命的器官功能障碍”,既往使用的“重症脓毒症”的概念不复存在。 <span style="background-color:yellow;color:black;">当脓毒症合并出现严重的循环障碍和细胞代谢素乱时,称为脓毒症休克(septic shock),其死亡风险与单纯脓毒症相比显著升高。</span>
+** <span style="background-color:red;color:white;">临床上常使用菌血症(bacteremia)的概念描述血培养阳性者,应注意与脓毒症的概念相区别。</span>
+** 全身性感染对机体的有害因素全身性感染中 <span style="background-color:yellow;color:black;">病原菌</span>及其产物，如 <span style="background-color:yellow;color:black;">内毒素、外毒素等</span>它们介导的多种炎症介质(如 <span style="background-color:yellow;color:black;">肿瘤坏死因子、IL - 1、IL -6、IL -8、氧自由基和一氧化氮等</span>)均对机体产物损害。
+* 脓毒症/病因 #card
+:PROPERTIES:
+:id: 617106c6-07d2-4ad7-aead-6a50ef922bf6
+:collapsed: true
+:END:
+** 导致脓毒症的原因包括致病菌数量多、毒力强和机体免疫力低下。它常继发于严重创伤后的感染和各种化脓性感染,如大面积烧伤创面感染、开放性骨折合并感染、急性弥漫性腹膜炎、急性梗阻性化性胆管炎等。 <span style="background-color:yellow;color:black;">机体免疫力低下者,如糖尿病、尿毒症、长期或大量应用皮质激素或抗癌药的病人,一旦发生化脓性感染,也较易引发脓毒症</span>。另外,一些潜在的感染途径需要注意。
+静脉导管感染(catheter-related infection):静脉留置导管,尤其是中心静脉置管,如果护理不慎或留置时间过长,很容易成为病原菌直接侵入血液的途径。一旦形成感染灶,可不断向机体播散病菌和毒素。
+肠源性感染(gut derived infection) :肠道是人体中最大的“储菌所”和“内毒素库”。健康情况下,肠黏膜有严密的屏障功能。但是,在危重病人肠黏膜屏障功能受损或衰竭时,肠内病原菌和内毒素可经肠道移位而导致肠源性感染。
+* 脓毒症/常见致病菌 #card 
+:PROPERTIES:
+:id: fb5d7019-908a-4ae1-b5df-63ac293df090
+:collapsed: true
+:END:
+#+BEGIN_QUOTE
+||革兰阴性菌|革兰阳性菌|厌氧菌|真菌|
+|病因|
+|原发病灶|
+|特点|
+#+END_QUOTE
+** 脓毒症的常见致病菌包括:
+*** 革兰阴性菌,如大肠埃希菌、铜绿假单胞菌、变形杆菌、克雷伯菌、肠杆菌等; <span style="background-color:yellow;color:black;">现在，革兰阴性菌引起的脓毒症发病率已明显高于革兰阳性菌</span>，且由于抗生素的不断筛选，出现了一些此前较少见的机会菌，如鲍曼不动杆菌、嗜麦芽窄食单胞菌等
+*** 革兰阳性菌,如金黄色葡萄球菌、表皮葡萄球菌、肠球菌(粪链球菌、屎肠球菌)、化脓性链球菌等;
+*** 厌氧菌,如脆弱拟杆菌、梭状杆菌、厌氧葡萄球菌、厌氧链球菌等;
+*** 真菌,如白色念珠菌、曲霉菌、毛霉菌、新型隐球菌等。
+** 除此之外，条件性感染的真菌也需要特别注意。
+** ![](../assets/image_1649330147033_0.png)
+* 脓毒症/临床表现 #card
+:PROPERTIES:
+:id: 7a72c0da-c0a5-4212-a9bc-f0cdbb1eb3d0
+:collapsed: true
+:END:
+** <span style="background-color:yellow;color:black;">【临床表现】脓毒症常见表现包括:①发热,可伴寒战;②心率加快、脉搏细速,呼吸急促或困难;③神志改变,如淡漠、烦躁、诡妄、昏迷;④肝脾可肿大,可出现皮疹。</span>
+** 不同病原菌引发的脓毒症有不同的临床特点。革兰阴性菌所致的脓毒症常继发于 <span style="background-color:yellow;color:black;">腹膜炎、腹腔感染、大面积烧伤感染</span>等,一般比较严重, <span style="background-color:yellow;color:black;">可出现三低现象(低温、低白细胞、低血压)</span>,发生脓毒症休克者也较多。革兰阳性菌所致的脓毒症常继发于严重的痈、蜂窝织炎、骨关节化脓性感染等,多数为金黄色葡萄球菌所致,常伴高热、皮疹和转移性脓肿。厌氧菌常与需氧菌掺杂形成混合感染,其所致的脓毒症常继发于各类脓肿、会阴部感染、口腔领面部坏死性感染等,感染灶组织坏死明显,有特殊腐臭味。真菌所致的脓毒症常继发于长期使用广谱抗生素或免疫抑制剂,或长期留置静脉导管,可出现结膜瘀斑、视网膜灶性絮样斑等栓塞表现
+* 脓毒症/诊断 #card
+:PROPERTIES:
+:id: 17c5eae7-a6ad-45d8-9fb9-7a3111f9771a
+:collapsed: true
+:END:
+** ①qSOFA 由于 SOFA 计算繁琐，且需要血液化验检查，临床上常使用快速 SOFA（qSOFA）对感染或疑似感染者先进行初步评估。 <span style="background-color:yellow;color:black;">qSOFA 的评分标准为∶呼吸频率≥22 次/分（1分），意识状态改变（1分），收缩压≤100mmHg（1分）。若 qSOFA≥2分时，再使用 SOFA 进一步评估病人情况。</span>
+** ②脓毒症  <span style="background-color:yellow;color:black;">如果感染导致病人 SOFA 比原基线水平高出 2 分以上，表示病人存在器官功能障碍，即可诊断为脓毒症。</span>
+** ③ <span style="background-color:yellow;color:black;">脓毒症休克 如果脓毒症病人在充分液体复苏后仍需使用血管活性药物维持平均动脉压≥65mmHg，且伴血清乳酸浓度>2mmol/L，即可诊断为脓毒症休克。</span>
+** ((624ecc96-7c95-46e9-951e-dc6a1159acda))
+* 脓毒症/治疗 #card
+:PROPERTIES:
+:id: 6eaba7aa-c49c-40c0-9cf3-6397395283ff
+:END:
+** 1.早期复苏 对确诊为脓毒症或脓毒症休克的病人,应立即进行液体复苏。 <span style="background-color:yellow;color:black;">如果病人有脓毒症诱导的低灌注表现(急性器官功能障碍、低血压或高乳酸)或脓毒症休克,在最初3小时内应给予不少于30ml/kg的晶体液。</span>对需要使用血管活性药物的脓毒症休克病人,建议 <span style="background-color:yellow;color:black;">复苏初始目标为平均动脉压65mmHg</span>。完成早期液体复苏后,应根据病人血流动力学的检测结果决定进一步的复苏策略。
+** 2.抗微生物治疗  <span style="background-color:yellow;color:black;">对确诊为脓毒症或脓毒症休克的病人,应在1小时内启动静脉抗生素治疗</span>。对于早期的抗生素治疗,建议经验性地使用一种或几种广谱抗生素,以期覆盖所有可能的病原体(包括潜在的真菌或病毒);一旦致病菌和药敏结果明确,建议使用针对性的窄谱抗生素进行治疗。 <span style="background-color:yellow;color:black;">抗生素的治疗疗程一般维持7~10天,在病人体温正常、白细胞计数正常、病情好转、局部病灶控制后停药。</span>
+** 3.感染源控制  <span style="background-color:yellow;color:black;">感染的原发灶应尽早明确,并及时采取相应措施控制感染源,如清除坏死组织和异物、消灭死腔、脓肿引流等</span>;同时,如果存在血流障碍、梗阻等致病因素,也应及时处理。 <span style="background-color:yellow;color:black;">静脉导管感染时,拔除导管应属首要措施。</span>危重病人疑为肠源性感染时,应及时纠正休克,尽快恢复肠黏膜的血流灌注,并通过早期肠道营养促使肠黏膜尽快修复,口服肠道生态制剂以维护肠道正常菌群。
+** 4.其他辅助治疗  <span style="background-color:yellow;color:black;">早期复苏成功后,应重新评价病人的血流动力学状态,酌情补液和使用血管活性药物。</span>如果血流动力学仍不稳定,可静脉给予氢化可的松(200mg/d)。当病人血红蛋白低于70g/L时,给予输血。对于无急性呼吸窘迫综合征(ARDS)的脓毒症病人,建议使用小潮气量(6ml/kg)辅助通气。对于高血糖者,应给予胰岛素治疗,控制血糖上限低于10mmol/L。对于无禁忌证的病人建议使用低分子肝素预防静脉血栓。对于存在消化道出血风险的病人,建议给予质子泵抑制剂预防应激性溃癌。对于能够耐受肠内营养的病人，应尽早启动肠内营养。
+*

@@ -1,0 +1,43 @@
+#+title: 外科学/外科学总论/输血/教材/自体输血
+#+deck:外科学::外科学总论::输血::教材::自体输血
+
+* 自体输血/概念 #card
+:PROPERTIES:
+:id: 624cef35-764b-4eca-98d2-d5e2c61ce4b9
+:END:
+** <span class="tested">自体输血（autologous blood transfusion）或称自身输血（au to transfusion）是收集病人自身血液后在需要时进行回输。主要优点是既可节约库存血，又可减少输血反应和疾病传播，且不需检测血型和交叉配合试验。目前外科自体输血常用的有三种方法。</span>
+** 回收式自体输血
+** 预存式自体输血
+** 稀释式自体输血
+* 自体输血/回收式自体输血 #card
+:PROPERTIES:
+:id: 624cf17b-2b43-43b2-b425-07cace2311a5
+:END:
+** <span class="tested">是将收集到的创伤后体腔内积血或手 术过程中的失血，经抗凝、过滤后再回输给病人</span>。
+** <span class="tested">它主要适用于外伤性脾破裂、异位妊娠破裂等造成 的腹腔内出血</span>;大血管、心内直视手术及门静脉高压症等 <span style="background-color:yellow;color:black;">手术时的失血回输和术后6 小时内所引流血 液的回输等。</span>
+** <span class="tested">目前多采用血液回收机收集失血，经自动处理后去除血浆和有害物质，可得到 HCT 达 50%~65％的浓缩红细胞,然后再回输。</span>
+** 回收式自体输血除了可以避免异体输血的大量并发症， <span style="background-color:yellow;color:black;">回收 的洗涤红细胞的变形能力和携氧能力也要远强于库血，回输后可以立刻起到氧传递的生理作用。</span>
+* 自体输血/预存式自体输血 #card
+:PROPERTIES:
+:id: 624cf20c-9527-47ae-bfaa-f269c0390d9c
+:END:
+** 预存式自体输血（ predeposited autotransfusion ） <span class="tested">适用于择期手术病人估计术中出血 量较大需要输血者。</span>
+** <span class="tested">对无感染且血细胞比容(HCT)≥30%的病人，可根据所需的预存血量，从择期手 术前的一个月开始采血</span>， <span style="background-color:yellow;color:black;">每3~4 天一次</span>， <span style="background-color:yellow;color:black;">每次 300 ~400ml</span>， <span style="background-color:yellow;color:black;">直到术前3 天为止</span>，存储采得的血液以备手术之需。
+** <span class="tested">术前自体血预存者必须每日补充铁剂、维生素C、叶酸和给予营养支持。</span>
+* 自体输血/稀释式自体输血 #card
+:PROPERTIES:
+:id: 624cf296-8eba-4186-a6d1-7450c8567b49
+:END:
+** <span class="tested">指麻醉前从病人一侧静脉采血，同 时从另一侧静脉输入为采血量3~4 倍的电解质溶液，或适量血浆代用品等以补充血容量</span>。
+** 采血量取 决于病人状况和术中可能的失血量， <span class="tested">每次可采800~1000ml</span>，一般以血细胞比容不低于25%、白蛋白 30g/L以上、血红蛋白100g/L左右为限， <span class="tested">采血速度约为每5 分钟 200ml</span>,采得的血液备术中回输用。  <span class="tested">手术中失血量超过300ml 时可开始回输自体血，应先输最后采的血液</span>。 <span style="background-color:yellow;color:black;">由于最先采取的血液中含红 细胞和凝血因子的成分最多，宜在最后输人。</span>
+* 自体输血/禁忌症 #card
+:PROPERTIES:
+:id: 624cf393-c23c-4ddf-a858-8bc27ce8bb65
+:END:
+** <span class="tested">①血液已受胃肠道内容物、消化液或尿液等污染;</span>
+** <span class="tested">②血液可能受肿瘤细 胞污染;</span>
+** <span class="tested">③肝、肾功能不全的病人;</span>
+** <span class="tested">④已有严重贫血的病人，不宜在术前采血或血液稀释法作自体输 血;</span>
+** <span class="tested">⑤有脓毒症或菌血症者;</span>
+** <span class="tested">⑥胸、腹腔开放性损伤超过4 小时或血液在体腔中存留过久者。</span>
+*

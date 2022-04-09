@@ -1,0 +1,73 @@
+#+title: 外科学/外科学总论/代谢及营养治疗/教材/肠外营养
+#+deck: 外科学::外科学总论::代谢及营养治疗::教材::肠外营养
+
+* 肠外营养/定义 #card
+:PROPERTIES:
+:id: 624e8840-896b-473d-8823-7cdaad2aaaf9
+:END:
+** <span style="background-color:yellow;color:black;">肠外营养(parenteral nutrition, PN)是指通过胃肠道以外途径(即静脉途径)提供营养的方式。</span>
+** 分完全肠外营养和部分肠外营养
+* 肠外营养/适应症 #card
+:PROPERTIES:
+:id: 624e8837-dba8-450f-8ca3-754e3111a998
+:END:
+** 肠外营养是肠功能衰竭病人必不可少的治疗措施,挽救了大量危重病人的生命,疗效确切。 <span style="background-color:yellow;color:black;">凡是需要营养支持,但又不能或不宜接受肠内营养(enteral nutrition, EN)者均为肠外营养的适应证</span>,具体为:
+** <span style="background-color:yellow;color:black;">①一周以上不能进食或因胃肠道功能障碍或不能耐受肠内营养者;</span>
+** <span style="background-color:yellow;color:black;">②通过肠内营养无法达到机体需要的目标量时应该补充肠外营养。</span>
+* 肠外营养制剂/梗概 #card
+:PROPERTIES:
+:id: 624e88e7-c62b-49ad-8211-caa9c229b1de
+:END:
+** 肠外营养由碳水化合物、脂肪乳剂、氨基酸、水、维生素、电解质及微量元素等基本营养素组成，以提供病人每日所需的能量及各种营养物质，维持机体正常代谢。
+** 碳水化合物制剂
+** 氨基酸制剂
+** 脂肪乳剂制剂
+** 电解质制剂
+** 维生素及微量元素制剂
+** ![](../assets/image_1649314319351_0.png)
+* 肠外营养途的途径选择 #card 
+:PROPERTIES:
+:id: 624e89bf-ce0c-4fa8-b96b-d3bc2cb12b8f
+:END:
+#+BEGIN_QUOTE
+常用静脉
+适应证
+优点
+缺点
+#+END_QUOTE
+** 【肠外营养途径选择】 <span style="background-color:yellow;color:black;">肠外营养输注途径主要有中心静脉和周围静脉途径</span>。 <span style="background-color:yellow;color:black;">中心静脉途径适用于需要长期肠外营养,需要高渗透压营养液的病人</span>。
+** 临床上常用的中心静脉途径有:
+*** <span style="background-color:yellow;color:black;">①颈内静脉途径;②锁骨下静脉途径;③经头静脉或贵要静脉插入中心静脉导管(PICC)途径。</span>
+** 周围静脉途径是指浅表静脉,大多数是上肢末梢静脉。
+*** <span style="background-color:yellow;color:black;">周围静脉途径具有应用方便、安全性高、并发症少而轻等优点,适用于只需短期(<2周)肠外营养者。</span>
+** ![](../assets/image_1649314753191_0.png)
+* 肠外营养的输注 #card
+:PROPERTIES:
+:id: 624e8b33-688f-48ee-9a20-363d51831232
+:END:
+** 肠外营养的输注有持续输注法和循环输注法两种。
+** <span style="background-color:yellow;color:black;">持续输注是指营养液在24小时内持续均匀输入体内。由于各种营养素同时按比例输入,对机体复源、能量及其他营养物质的供给处于持续状态,对机体的代谢及内环境的影响较少。</span>
+** <span style="background-color:yellow;color:black;">循环输注法是在持续输注营养液基础上缩短输注时间,使病人每天有一段不输液时间,此法适合于病情稳定、需长期肠外营养、而且肠外营养量无变化者。</span>
+* 肠外营养/并发症/
+** 肠外营养/并发症/1.静脉导管相关并发症 #card
+:PROPERTIES:
+:id: 624e8c4f-3d0d-42a9-9172-fed43f1070a6
+:END:
+*** 分为 <span style="background-color:yellow;color:black;">非感染性并发症及感染性并发症</span>两大类,前者大多数发生在中心静脉导管放置过程中 <span style="background-color:yellow;color:black;">发生气胸(最常见</span>)、 <span style="background-color:yellow;color:black;">空气栓塞(严重,最致命)</span>、血管、神经损伤等,少数是长期应用、导管护理不当或拔管操作所致,如导管脱出、导管折断、导管堵塞等。 <span style="background-color:yellow;color:black;">感染性并发症主要指中心静脉导管相关感染,周围静脉则可发生血栓性静脉炎。</span>
+** 肠外营养/并发症/2.代谢性并发症 #card
+:PROPERTIES:
+:id: 624e8c65-e426-4557-b8d6-abbe756aa924
+:END:
+*** <span style="background-color:yellow;color:black;">肠外营养时提供的营养物质直接进入循环中</span>,营养底物过量或不足容易引起或加重机体代谢素乱和器官功能异常, <span style="background-color:yellow;color:black;">产生代谢性并发症,如高血糖、低血糖、氨基酸代谢素乱、高血脂、电解质及酸碱代谢失衡、必需脂肪酸缺乏、再喂养综合征、维生素及微量元素缺乏症等。</span>
+** 肠外营养/并发症/3.脏器功能损害 #card
+:PROPERTIES:
+:id: 624e8c67-bce2-46e3-ae86-1dccd81e622e
+:END:
+*** <span style="background-color:red;color:white;">长期肠外营养可引起肝脏损害,主要病理改变为肝脏脂肪浸润和胆汁淤积,其原因与长期禁食时肠内缺乏食物刺激、肠道激素的分泌受抑制、过高能量供给或不恰当的营养物质摄人等有关。</span>
+*** 此外,长期禁食可导致肠黏膜上皮绒毛萎缩,肠黏膜上皮通透性增加,肠道免疫功能障
+ <span style="background-color:red;color:white;">碍,导致肠道细菌易位而引发肠源性感染。</span>
+** 肠外营养/并发症/4.代谢性骨病 #card
+:PROPERTIES:
+:id: 624e8c69-c76c-48f9-8d6f-8a11badaaaf0
+:END:
+*** <span style="background-color:red;color:white;">部分长期肠外营养病人出现骨钙丢失、骨质疏松、血碱性磷酸酶增高、高钙血症、尿钙排出增加、四肢关节疼痛甚至出现骨折等表现,称之为代谢性骨病。</span>

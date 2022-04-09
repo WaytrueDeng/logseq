@@ -5,8 +5,8 @@
 #+ALIAS: 肾病综合征
 
 * 诊断标准
-** 大量蛋白尿 定量>3.5g/d 定性(++++)  <span style="color:red;">必备条件</span>
-** 低蛋白血症(<30g/L)  <span style="color:red;">必备条件</span>
+** 大量蛋白尿 定量>3.5g/d 定性(++++)  <span class="tested">必备条件</span>
+** 低蛋白血症(<30g/L)  <span class="tested">必备条件</span>
 ** 水肿(漏出液)
 ** 血脂升高 → 血液黏稠 → 血栓形成
 *** 肝脏合成脂蛋白增加([[VLDL]])

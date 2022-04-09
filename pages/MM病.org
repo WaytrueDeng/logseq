@@ -18,7 +18,7 @@
 *** 单克隆浆细胞
 **** 累及骨髓→全血细胞↓
 **** 浸润脏器→"Crab"(螃蟹)
-* 临床表现  <span style="color:red;">Crab</span>
+* 临床表现  <span class="tested">Crab</span>
 ** C→Ca²⁺→高钙血症
 ** R→Renal Injury→肾功能损伤→机制
 *** 本周蛋白轻链损伤

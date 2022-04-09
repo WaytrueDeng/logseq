@@ -153,13 +153,13 @@
 :hl-page: 72
 :id: 62302141-2e6c-425b-904e-461d784165b2
 :END:
-* 器官或组织因动脉输入血量的增多，称动脉性充血(arterialhyperemia)，一般简称充血，是一种 <span style="color:red;">主动过程</span>，表现为局部组织或器官[[小动脉]]和[[毛细血管]]扩张，血液输入量增加。
+* 器官或组织因动脉输入血量的增多，称动脉性充血(arterialhyperemia)，一般简称充血，是一种 <span class="tested">主动过程</span>，表现为局部组织或器官[[小动脉]]和[[毛细血管]]扩张，血液输入量增加。
 :PROPERTIES:
 :hl-page: 76
 :ls-type: annotation
 :id: 623150da-1ca6-491a-b781-ec9a0b55b6b7
 :END:
-* 局部组织或器官静脉血液回流受阻，血液淤积于[[小静脉]]和毛细血管内，导致血量增加，称静脉性充血(venoushyperemia),一般简称淤血(congestion)o淤血是一种 <span style="color:red;">被动过程</span>，可发生于局部或全身
+* 局部组织或器官静脉血液回流受阻，血液淤积于[[小静脉]]和毛细血管内，导致血量增加，称静脉性充血(venoushyperemia),一般简称淤血(congestion)o淤血是一种 <span class="tested">被动过程</span>，可发生于局部或全身
 :PROPERTIES:
 :hl-page: 77
 :ls-type: annotation
@@ -379,7 +379,7 @@
 :ls-type: annotation
 :id: 6231df99-04b2-4235-9ade-56016bca7580
 :END:
-* 脂质素也是AA通过[[脂质氧合酶途径]]产生的，是白细胞三烯的 <span style="color:red;">内源性拮抗剂</span>。主要功能是抑制中性粒细胞的趋化反应及黏附于内皮细胞，与炎症的消散有关。
+* 脂质素也是AA通过[[脂质氧合酶途径]]产生的，是白细胞三烯的 <span class="tested">内源性拮抗剂</span>。主要功能是抑制中性粒细胞的趋化反应及黏附于内皮细胞，与炎症的消散有关。
 :PROPERTIES:
 :hl-page: 106
 :ls-type: annotation

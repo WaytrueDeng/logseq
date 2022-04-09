@@ -122,3 +122,19 @@
 :hl-type: area
 :hl-stamp: 1649392375872
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 278
+:id: 62513624-805e-4aed-94db-48efef50e904
+:hl-type: area
+:hl-stamp: 1649489443575
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 278
+:id: 6251366c-6fdd-4325-8a1d-1f27b5618e5b
+:hl-type: area
+:hl-stamp: 1649489521457
+:END:

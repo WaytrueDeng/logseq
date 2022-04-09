@@ -1,0 +1,7 @@
+#+title: 感染性心内膜炎/临床表现
+
+* 发热:  <span style="background-color:red;color:white;">最常见的症状</span>
+* 心脏杂音:^^关闭不全多见,尤其主动脉瓣^^  <span style="background-color:red;color:white;">警惕以往杂音发生变化</span> ((62372501-598c-480e-9d49-578d57dd2db4))
+* {{embed ((6222cc9f-c2b1-439f-88d4-a9d8fbe7abbb))}} {{embed ((623318e1-29b8-43cc-9358-d0a6c8e856d6))}}
+* 动脉栓塞: [[脑栓塞]]最常见,[[视网膜栓塞]]失明
+* 非特异性症状: ^^[[脾大]]^^ ^^[[贫血]]^^

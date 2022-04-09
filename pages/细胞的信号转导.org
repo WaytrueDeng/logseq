@@ -181,7 +181,7 @@
 :PROPERTIES:
 :id: 6239c1ec-295d-4d9b-85b2-c75dcae9f787
 :END:
-**** <span style="color:red;">配体</span>
+**** <span class="tested">配体</span>
 ***** 3A
 ***** TRH
 ***** 胃泌素

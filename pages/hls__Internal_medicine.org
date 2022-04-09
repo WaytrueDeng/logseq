@@ -636,7 +636,7 @@
 :hl-page: 68
 :id: 6217250c-d866-4e71-b51b-c8c728efb1c8
 :END:
-* <span style="color:red;">LABA不能单独用于哮喘的治疗</span>
+* <span class="tested">LABA不能单独用于哮喘的治疗</span>
 :PROPERTIES:
 :hl-page: 68
 :ls-type: annotation
@@ -1672,7 +1672,7 @@
 :hl-page: 322
 :id: 62303d3b-8e16-4267-987e-5fd9b4e7ceb1
 :END:
-* 严重肺动脉高压时，由于肺动脉及其 <span style="color:red;">瓣环的扩张</span>，导致相对性肺功脉瓣关闭不全，因而在胸骨左缘第2肋间可闻及递减型高调叹气样舒张早期杂音（即Graham-Steel杂音）。
+* 严重肺动脉高压时，由于肺动脉及其 <span class="tested">瓣环的扩张</span>，导致相对性肺功脉瓣关闭不全，因而在胸骨左缘第2肋间可闻及递减型高调叹气样舒张早期杂音（即Graham-Steel杂音）。
 :PROPERTIES:
 :ls-type: annotation
 :hl-page: 323
