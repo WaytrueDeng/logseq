@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       b604b15a-fb67-4e5e-8304-6da9dbec781a
-:END:
-#+ALIAS: AD

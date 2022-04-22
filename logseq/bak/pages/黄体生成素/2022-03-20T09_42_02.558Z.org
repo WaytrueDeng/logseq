@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       0acf8a92-7c90-4625-992e-2597cdfbf0d4
-:END:
-#+ALIAS: LH
-
-* ((656c0232-5dc9-4032-9495-4c406616cf63))

@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       1887b139-8439-4b88-bf87-b76a346cc00d
-:END:
-#+ALIAS: 钠泵

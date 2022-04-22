@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:	F0AA1591-BB08-47B1-BD74-23BED7C6C209
-:END:
-
-#+title: α1<β2
-
-* 骨骼肌血管
-* 肝脏血管
-* 冠状血管

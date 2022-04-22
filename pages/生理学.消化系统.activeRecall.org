@@ -1,0 +1,174 @@
+*
+* #+title: 生理学/消化系统/activeRecall
+#+deck: 生理学::消化系统::activeRecall
+** 消化道有哪五个生理特性?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 兴奋性较低,舒缩缓慢、具有自律性
+*** 具有紧张性（各种收缩活动的基础）、具有伸展性（胃最大）、对不同刺激的敏感不同
+*** 对电刺激不敏感而对食物的机械牵拉、温度、化学性刺激等敏感。
+** Cajal细胞激活是靠什么离子?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Cl⁻外流
+** 唾液
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 唾液中的水占比是多少?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 90%
+*** 唾液中是否含有免疫球蛋白?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** IgA
+***
+** 胃
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 容受性舒张时迷走神经释放的是什么递质?
+**** VIP([[file:../pages/血管活性肽.org][血管活性肽]])和 [[file:./NO.org][NO]]
+*** 铃蟾素是由谁分泌的?
+*** 胃液分泌三期胃液特点?
+*** 胰岛素对胃酸分泌的作用?
+*** 什么可以促进胃泌素分泌增加?
+*** 什么叫做直接细胞保护作用
+*** 什么叫做适应性细胞保护作用
+** 血管活性肠肽对小肠液的分泌是什么作用,对小肠运动是什么作用?
+** 动作电位(快波)产生的机制是什么内流?
+** 肌肉收缩的频率、传播速度和方向由什么控制?
+** 胰高血糖素的作用是什么?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 胰高血糖素升高血糖，但是却抑制胃酸分泌，促进消化吸收。
+** 胆
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 最强刺激物是?最强食物是?
+**** 胆汁,蛋白质
+*** 促进胆汁分泌最强的激素是?
+**** ((625aabe9-53f6-4581-b30d-8c2672dc1403))
+** 激惹征可见于?
+** 胰腺
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 什么是促胰液素最强的刺激物,什么是CCK最强的刺激物?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** HCL,蛋白质
+*** 胰液中有哪些酶原?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 胰蛋白酶原和麋蛋白酶原
+**** ((62595c09-2d38-44cb-ae17-7ea90ee346b3))
+** 小肠
+:PROPERTIES:
+:collapsed: true
+:END:
+*** I细胞分泌什么?
+*** 促胰液素对于小肠的运动是什么?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 抑制胃肠运动
+**** ((62597869-eac1-41c5-b5c4-6e62c0580f49))
+*** 促胰液素为什么是促进小肠液分泌的?
+**** 你想因为高渗高张食物可以促进促胰液素分泌为,分泌小肠液当然是使之渗透压变低
+*** 促胰液素由什么分泌?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** S细胞
+*** 小肠有哪几种运动?
+*** 什么是小肠的特征运动?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 蠕动冲
+*** 小肠分节运动的意义?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 促进消化,促进接触,促进从血淋巴回收
+*** 小肠上皮内重新合成的甘油三脂与什么合成乳糜微粒?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ((62595325-f65b-41e3-9896-7409bdfa9fc9))
+*** 果糖在小肠的吸收属于哪种方式?为什么果糖的吸收速度慢于葡萄糖和半乳糖?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 葡萄糖在小肠、肾小管的转运方式是依赖Na+的继发性主动转运。果糖在小肠的吸收是易化扩散，因此速率慢于葡萄糖的吸收。
+*** 血管活性肠肽VIP对于胃液小肠液的作用?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 刺激小肠液分泌,抑制胃酸分泌,抑制小肠运动
+*** 小肠液的分泌以什么调节为主?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 局部神经反射
+** 大肠
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 大肠集团蠕动的原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 十二指肠-结肠反射引起
+*** 什么是大肠空腹时最常见的运动
+*** 大肠内消化什么是发酵什么是腐败 ?
+*** 大肠内细菌能合成哪些维生素?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** B,K
+*** 大肠环形肌无规则运动是什么方式,规则运动是什么方式?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ((625956af-4a88-4057-ab50-76e614da3522))
+**** {{embed ((625956c5-f02d-47b7-92f2-6afcddfbd94e))}}
+*** 排便反射的传入神经和传出神经是什么?作用于哪些肌?
+** 氨基酸酸碱性的吸收速度差异?为什么?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 因为有三种转运系统,而中性的转运最快
+** 胆盐,胆固醇.磷脂与脂肪四者有什么关系?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 胆盐与卵磷脂溶解胆固醇三者乳化脂肪
+** 中短链氨基酸产生的脂肪酸与一酰甘油进入小肠上皮细胞吗?下一步怎么转运?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((625953ba-707b-4dd3-8d62-a2836a01516b))
+** 哪些因素促进钙的吸收?为什么葡萄糖与盐酸能促进钙吸收?为什么脂肪酸能促进钙吸收?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 盐,脂肪,氨基酸,乳酸促吸收+葡萄糖
+*** ((625951ec-8fc6-4e3f-a6a1-3d46e3061a27))
+*** {{embed ((62595237-562b-4ee9-a517-d178eff1fa47))}}
+** 脂溶性维生素ADEK的吸收方式如何?  
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((62595479-6c02-4630-be11-e7103f880d19))
+***

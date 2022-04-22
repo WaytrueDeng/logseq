@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	F4BE1EDF-366E-407C-B90A-8131316B4179
-:END:
-
-#+ALIAS: 3Na⁺-2K⁺泵
-
-* [[甲状腺激素]]
-* [[醛固酮]]

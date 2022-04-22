@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:	180BD1DD-122F-495F-B0F8-BFF50260243D
-:END:
-
-#+ALIAS: 凝血素A₂,血栓烷素A₂
-
-* 主要由含有 [[TXA₂]]合成酶的 [[PLT]]产生.使 [[PLT]]聚集和血管收缩
-* [[../assets/image_1642233711858_0.png]]
-* [[../assets/image_1642233781787_0.png]]

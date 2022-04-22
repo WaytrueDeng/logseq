@@ -1,4 +1,0 @@
-* ((6231ee79-b191-4bbd-a896-75467eedf5b3))
-:PROPERTIES:
-:ID:       6bf680a0-ab3e-43b3-8331-4420f6954fe6
-:END:

@@ -1,4 +1,0 @@
-* 有三种
-:PROPERTIES:
-:ID:       fd05223f-9fa7-4e4c-afa8-01e1a1f75379
-:END:

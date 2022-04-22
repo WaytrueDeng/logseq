@@ -1,4 +1,0 @@
-* {{embed ((6200bc5c-97ad-41cd-acdd-dc526adc93c0))}}
-:PROPERTIES:
-:ID:       1affb29e-e416-45e2-bdd7-15c601403897
-:END:

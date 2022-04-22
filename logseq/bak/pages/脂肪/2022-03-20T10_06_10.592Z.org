@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	E02C0470-567B-48A5-94E6-470B8EC6DB61
-:END:
-
-* 肝内合成,肝外储存 通过 [[VLDL]]运输至肝外
-:PROPERTIES:
-:id: 622d5aab-b6b1-4b16-8bd5-cd57d25ef56b
-:END:

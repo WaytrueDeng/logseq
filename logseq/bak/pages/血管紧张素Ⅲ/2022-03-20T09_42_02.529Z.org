@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       7d8e4f58-03f0-427f-8864-4942e667cff1
-:END:
-#+ALIAS: 血管紧张素III,AngIII,AngⅢ
-
-* ((7ad23e70-6014-4b7a-9faa-81ec1e85a76c))
-* {{embed ((622efb2a-8773-49fc-83ed-ab76301237e0))}}

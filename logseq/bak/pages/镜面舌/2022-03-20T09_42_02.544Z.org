@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       b2d31b80-58c9-44ed-b3e3-2de5c3a9759f
-:END:
-#+ALIAS: 牛肉样舌
-
-* [[牛肉样舌]]

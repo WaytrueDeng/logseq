@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:	CCE487BE-60AE-4E66-BD7B-A314A6E9F18D
-:END:
-
-* Apoptosis小体即[[凋亡小体]]，是细胞凋亡的重要形态学标志，不属于玻璃样变性。

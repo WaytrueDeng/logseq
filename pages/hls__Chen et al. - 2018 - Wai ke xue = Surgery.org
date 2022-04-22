@@ -138,3 +138,51 @@
 :hl-type: area
 :hl-stamp: 1649489521457
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 310
+:id: 62524b3b-f741-4b96-9d1c-a3bfb7c6129a
+:hl-type: area
+:hl-stamp: 1649560377666
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 314
+:id: 62524ea8-754a-4c95-96f8-b632b8a4da82
+:hl-type: area
+:hl-stamp: 1649561255512
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 322
+:id: 62525ace-72a1-408a-b887-e911fc90c76d
+:hl-type: area
+:hl-stamp: 1649564364343
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 322
+:id: 62525b69-9e2a-4f5d-b613-f86e619b8e69
+:hl-type: area
+:hl-stamp: 1649564520334
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 349
+:id: 62526bfb-a8ce-4752-b0ca-77b0240cb821
+:hl-type: area
+:hl-stamp: 1649568762017
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 351
+:id: 62529710-5d0a-455b-99cf-44b1a713fb22
+:hl-type: area
+:hl-stamp: 1649579790145
+:END:

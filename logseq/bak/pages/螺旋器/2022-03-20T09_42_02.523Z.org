@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       59338d1a-1fe7-41dc-850c-ba0784e3ef1d
-:END:
-#+ALIAS: 柯蒂氏器

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:	4CB56DFA-4CED-4E43-B2B5-56DF9D4CC3AA
-:END:
-
-#+ALIAS: P
-
-* [[Q&A]]:为什么孕激素没有雌激素类似的第一次高峰?
-因为与合成机制有关,孕激素为中间产物而雌激素为最终产物
-[[../assets/image_1644830232222_0.png]]

@@ -1,0 +1,77 @@
+* 什么是所有关节脱位的共同表现
+:PROPERTIES:
+:collapsed: true
+:END:
+** 弹性固定
+* 治疗规律?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 先手法复位外固定,无法解决者用手术
+*
+* 锁骨骨折
+:PROPERTIES:
+:collapsed: true
+:END:
+** 怀疑骨折脱位靠什么诊断?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** X线
+** 为什么近端向后上,远端向前下
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 胸锁乳突肌牵拉向后上,胸大肌向前下
+** 为什么表现为健手托住患侧肘部、头向患侧倾斜?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[../assets/image_1650071501701_0.png]]
+*** 减轻重力牵引
+* 肩锁关节脱位
+:PROPERTIES:
+:collapsed: true
+:END:
+** 周围有哪些韧带?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[../assets/image_1650071946069_0.png]]
+:PROPERTIES:
+:id: 625a1989-1b6c-48b3-8f03-6eff1a46578e
+:END:
+* 肩关节
+:PROPERTIES:
+:collapsed: true
+:END:
+** 为前突位还是后突位,其他关节脱位都是什么脱位?
+*** 前,后
+** 典型临床表现是什么?
+*** 方肩 [[../assets/image_1650072206547_0.png]]
+** 有什么征?
+*** Dugas征,手肘紧贴胸壁搭对侧肩膀无法为阳性
+** 用什么手法复位
+*** 希波克拉底足蹬法r
+* 肱骨近端骨折
+:PROPERTIES:
+:collapsed: true
+:END:
+** 胸长神经与腋神经损伤分别出现什么表现?
+* 肱骨干骨折
+:PROPERTIES:
+:collapsed: true
+:END:
+** 三角肌止点是?胸大肌是?
+** 骨折线三角肌上下时分别如何运动?
+*** [[../assets/image_1650073234916_0.png]]
+* 肱骨髁上骨折
+* 桡骨头半脱位
+:PROPERTIES:
+:collapsed: true
+:END:
+** 为什么为半脱位
+*** 环状韧带未发育好,受向上牵拉病史
+** X线表现如何
+*** 唯一阴性脱位看不到韧带
+**

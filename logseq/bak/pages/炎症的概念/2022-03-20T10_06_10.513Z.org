@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:	A1269359-1DF8-4F35-9E53-6FC03591DACD
-:END:
-
-* [[id:6231b03f-8d01-4118-9a0e-b1e58d6f4bc3]]
-* [[id:6231b0b3-a09b-44fb-9d51-0e65a0be5d6a]]
-* [[id:6231b0bf-6467-47e7-ae2e-3d6a2ed32cf8]]

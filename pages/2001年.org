@@ -1,0 +1,33 @@
+* {{embed [[file:./生词本.org][生词本]]}}
+* Use of English
+** The government is to ban payments to witnesses by newspapers seeking to buy up people involved in  <span class="tested">prominent</span> cases such as the trial of Rosemary West.
+*** seek to
+*** buy up
+*** prominent
+*** trial
+** In a significant  <span class="tested">tightening</span> of legal controls  <span class="tested">over the press</span>, Lord Irvine, the Lord  <span class="tested">Chancellor</span>, will introduce a  <span class="tested">draft bill</span> that will  <span class="tested">propose</span> making payments to witnesses illegal and will strictly control the amount of publicity that can be given to a case before a trial begins.
+在（政府）对报界加紧进行具有深远影响的法律控制的过程中，大法官欧文勋爵将要提交讨论一项草拟法案。该草案提议把报界付款给证人的做法定为非法，并且将对案件在开庭前的公开程度进行严格控制。
+***
+*** tightening
+*** Chancellor
+*** over the press
+*** draft bill
+*** propose
+** 1. In a letter to Gerald Kaufman, chairman of the House of Commons Media Select Committee, Lord Irvine said he agreed with a committee report this year which said that self regulation did not offer sufficient control.
+** Publication of the letter came two days after Lord Irvine caused a storm of media  <span class="tested">protes</span>t when he said the interpretation of privacy controls contained in European legislation would be left to judges rather than to Parliament.
+
+欧文勋爵说,对欧洲立法中所包含的关于隐私监控的解释(权),将留给法官而不是议会。此言一出，立刻引发了媒体的强烈抗议。此后两天，这封信被公之于世。
+*** protest
+*** judge
+** The Lord Chancellor said  <span class="tested">introduction</span> of the Human Rights Bill, which makes the European  <span class="tested">Convention</span> on Human Rights legally  <span class="tested">binding i</span>n Britain, <span class="tested"> laid down </span>that everybody was  <span class="tested">entitled </span>to privacy and that  <span class="tested">public figures</span> could go to court to protect themselves and their families.
+
+大法官说《人权法案》的引入使《欧洲人权公约》在英国具有了法律约束力。它规定每个人都享有隐私权，公众人物可以走上法庭去保护自己和家人。
+*** introduction
+*** Convention
+*** Legally binding
+*** lay down
+*** entitled
+*** public figures
+***
+* Reading Comprehension
+** Specialisation can be seen as a response to the problem of an increasing accumulation of scientific knowledge. By splitting up the subject matter into smaller units, one man could continue to handle the information and use it as the basis for further research. But specialisation was only one of a series of related developments in science affecting the process of communication. Another was the growing professionalisation of scientific activity.

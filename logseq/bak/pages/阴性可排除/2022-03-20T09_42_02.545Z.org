@@ -1,7 +1,0 @@
-* 特异性低
-:PROPERTIES:
-:ID:       cd923793-a01e-46c6-aa04-4c96fc1f5a0d
-:END:
-** [[D-二聚体]]
-** [[BNP]]
-** [[ANA]]

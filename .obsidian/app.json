@@ -1,9 +1,14 @@
 {
   "emacsyKeys": false,
   "vimMode": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
   "legacyEditor": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }

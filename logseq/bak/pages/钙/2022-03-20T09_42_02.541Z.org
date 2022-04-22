@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       c4830389-fb46-4cdd-8488-eb39324287a2
-:END:
-#+ALIAS: Ca,Ca²⁺,钙离子

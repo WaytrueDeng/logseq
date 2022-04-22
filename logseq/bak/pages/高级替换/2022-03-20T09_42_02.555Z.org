@@ -1,5 +1,0 @@
-* 语句替换
-:PROPERTIES:
-:ID:       cb4a4d96-e41f-4f5c-acab-d694da47a560
-:END:
-* 词汇替换

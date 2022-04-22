@@ -1,4 +1,0 @@
-#+ALIAS: functional residual capicity,FRC
-
-* ((62136df7-0acd-4536-b9d8-75346e81e2da))
-*

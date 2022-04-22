@@ -1,8 +1,0 @@
-* [[../assets/image_1644380844139_0.png]]
-:PROPERTIES:
-:ID:       1cedd3af-f48b-429f-b1f9-8e86329ad431
-:END:
-* [[逆流倍增机制]]
-[[../assets/image_1644381023095_0.png]]
-** [[髓袢]]
-** [[直小血管]]

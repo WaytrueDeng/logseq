@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	90248B33-4284-4CAD-AEC6-53C951622445
-:END:
-
-#+ALIAS: functional residual capicity,FRC
-
-* ((62136df7-0acd-4536-b9d8-75346e81e2da))
-*

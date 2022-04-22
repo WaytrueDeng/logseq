@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	DBFFDDDC-D31C-4AA6-B37D-F7E77A4C035A
-:END:
-
-* 遗传性疾病 → 凝血活酶生成障碍
-* A型 VIII
-* B型 IX
-* C型 XI 症状较轻

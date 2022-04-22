@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	AF3CBE0D-CA35-4318-BEE3-B5BC0E5B03AC
-:END:
-
-#+ALIAS: 噻嗪类
-
-* [[氢氯噻嗪]]
-*

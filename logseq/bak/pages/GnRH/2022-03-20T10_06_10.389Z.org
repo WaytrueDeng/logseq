@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	F00796AC-2D7D-4FF6-8038-1C27F91D38DE
-:END:
-
-#+ALIAS: 促性腺激素释放激素,Gonadotropin-releasing hormone,
-
-*
-*

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	8EA4C357-C8AC-4761-9133-4DCBE09AA8DB
-:END:
-
-#+ALIAS: 丝苏氨酸蛋白激酶
-
-* #+title: 丝氨酸/苏氨酸蛋白激酶
-*

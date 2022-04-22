@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:	84181E19-93ED-4700-BFE5-CE26AD9198D8
-:END:
-
-* [[id:862bb3e7-9d71-48ab-8cac-7c68b2ccaaf5]]
-* [[id:af8b91c1-d2e4-4ea5-ac7b-3bce922159fd]]
-* [[id:61dff854-a532-42dd-98ed-8d11c30fb0a9]]
-* [[id:622a04b3-8d0f-4d2a-b941-39720685e4a1]]
-*

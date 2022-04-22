@@ -1,0 +1,28 @@
+#+title: 2002年/Ⅱ/Text1
+
+* If you intend using humor in your talk to make people smile, you must know how to identify shared(与听众共有的经历) experiences and problems.
+* Your humor must be relevant to the audience and should help to show them that you are one of them or that you understand their situation and are in sympathy with their point of view.
+* Depending on whom you are  <span class="tested">addressing</span>, the problems will be different.
+** address
+* If you are talking to a group of managers, you may refer to the  <span class="tested">disorganized</span> methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
+** disorganized
+* Here is an example, which I heard at a nurses’ convention, of a story (介词引导 [[同位语]]) which works well because the audience all shared the same view of doctors.
+* A man arrives in heaven and is  <span class="tested">being shown around</span> by St. Peter.
+** be shown around
+* He sees wonderful accommodations, beautiful gardens, sunny weather, and so on.
+* Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and  <span class="tested">stomps</span> over to a table by himself.
+** stomps
+* “Who is that?” the new arrival asked St. Peter.
+* “Oh, that’s God,” came the reply, “but sometimes he thinks he’s a doctor.”
+* If you are part of the group which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it’ll be appropriate for you to make a  <span class="tested">passing</span> remark about the inedible canteen food or the chairman’s notorious bad taste in  <span class="tested">ties</span>.
+** passing
+** ties
+* With other audiences you mustn’t attempt to  <span class="tested">cut in</span> with humor as they will  <span class="tested">resent</span> an outsider making  <span class="tested">disparaging</span> remarks about their canteen or their chairman.
+全句经整合可译为“而对于其他听众，你千万不要试图插入这类幽默，因为他们会反感一个外人对他们的食堂或领导发表轻蔑性的评论”。
+* You will be on safer  <span class="tested">ground</span> if you  <span class="tested">stick to</span>  <span class="tested">scapegoats</span> like the Post Office or the telephone system.
+* If you feel awkward being humorous, you must practice so that it becomes more natural.
+* Include a few casual and  <span class="tested">apparently</span>  <span class="tested">off-the-cuff</span> remarks which you can  <span class="tested">deliver</span> in a relaxed and  <span class="tested">unforced</span> manner.
+* Often it’s the delivery which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a  <span class="tested">light-hearted </span>remark.
+* A  <span class="tested">twist</span> on a familiar quote “If at first you don’t succeed, give up” or a  <span class="tested">play on words </span>or on a situation.
+* Search for  <span class="tested">exaggeration</span> and  <span class="tested">understatement</span>.
+* Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.

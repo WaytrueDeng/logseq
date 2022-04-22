@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:	B7D6D232-BA4D-46A8-B6ED-12DDDA9A3824
-:END:
-
-* {{embed [[ANP]]}}
-* {{embed [[BNP]]}}

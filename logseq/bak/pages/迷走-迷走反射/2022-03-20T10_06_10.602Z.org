@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	0DC53006-61F0-4642-AA13-ECEA5DBF32DB
-:END:
-
-* 胃期胃液分泌
-* 胃运动
-* 胃排空
-* [[id:61fdd988-7c3d-4817-b489-b3f23fac2c65]]

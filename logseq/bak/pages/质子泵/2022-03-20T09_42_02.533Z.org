@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       ed3a1c09-39b3-4cbc-8ce8-fc7d43ac3d94
-:END:
-#+ALIAS: H-K泵,H⁺-K⁺泵,H-泵,H⁺泵

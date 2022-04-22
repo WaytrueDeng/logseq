@@ -2751,3 +2751,32 @@
 :hl-type: area
 :hl-stamp: 1648979156705
 :END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 413
+:id: 62519d39-45f6-49f7-9fb5-24787ffe3982
+:hl-type: area
+:hl-stamp: 1649515837906
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 413
+:id: 62519d3e-7343-42a7-8354-314cb8021178
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 442
+:id: 6252d372-20ad-47b4-88dd-5c2b01103d65
+:hl-type: area
+:hl-stamp: 1649595249058
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 444
+:id: 6252da91-7973-4b23-996f-75720f169546
+:hl-type: area
+:hl-stamp: 1649597072783
+:END:

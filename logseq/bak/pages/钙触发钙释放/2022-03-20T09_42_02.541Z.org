@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       1e02804a-4c7f-4677-bde8-2d0d9c474cf7
-:END:
-#+ALIAS: CICR

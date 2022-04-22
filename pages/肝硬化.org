@@ -1,8 +1,6 @@
 :PROPERTIES:
-:ID: 1538B1D4-7280-4427-B960-4E8BD0DF3DB9
+:id: 1538B1D4-7280-4427-B960-4E8BD0DF3DB9
 :END:
-
-#+PUBLIC: true
 #+deck: 内科学::消化系统::肝硬化
 
 * 病因和发病机制
@@ -16,9 +14,15 @@
 :collapsed: true
 :END:
 ** 代偿期
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 症状:无/轻,腹部不适,乏力,纳差
 *** 体征:早期肝脏肿大→晚期肝脏可缩小
 ** 失代偿期 症状体征明显
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 肝功能减退 [[口诀]]出液治黄,小姐姐多黑丝多
 **** 出血
 ***** 血管壁:因为激素问题出现cap脆性↑
@@ -137,6 +141,9 @@
 *** 腹腔穿刺抽液+输白蛋白(扩容)+利尿(8g/1000ml)
 **
 * 病理学
+:PROPERTIES:
+:collapsed: true
+:END:
 ** [[../assets/病理_肝硬化_天天师兄22考研_1648032417488_0.png]]
 ** 必备条件
 *** 肝细胞大量 坏死

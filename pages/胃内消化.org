@@ -5,7 +5,6 @@
 
 * 胃液
 :PROPERTIES:
-:collapsed: true
 :END:
 ** 性质 酸性液体(0.9~1.5),分泌量(1.5~2.5L)
 ** 成分:
@@ -31,7 +30,6 @@
 #+END_TIP
 * 消化期胃液分泌
 :PROPERTIES:
-:collapsed: true
 :END:
 ** [[../assets/image_1643792097938_0.png]]
 ** [[../assets/Screenshot_2022-02-04-10-10-11-732_com.hujiang.cctalk_1643940833786_0.jpg]]
@@ -89,12 +87,10 @@
 *** [[file:../journals/2022_03_26.org][2022-03-26]]
 **** 胃液的分泌
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** 胃黏膜的三种分泌腺 #card
 :PROPERTIES:
 :id: 623eb6df-4ba8-46ac-aeca-440d626fe1fd
-:collapsed: true
 :END:
 ****** 贲门腺: ((623eb71b-f87a-40ce-84be-878542a562e9))
 ****** 泌酸腺: ((623eb772-1c7f-4c9b-8b42-076a712843ec))
@@ -150,7 +146,6 @@
 *******
 ***** 消化期胃液的分泌
 :PROPERTIES:
-:collapsed: true
 :END:
 ****** 头期:
 ******* 头期胃液分泌机制 #card
@@ -196,7 +191,6 @@
 ******** 酸度不高,消化力也不强
 ***** 调节胃液分泌的神经和体液因素
 :PROPERTIES:
-:collapsed: true
 :END:
 ****** 促进胃液分泌的主要因素
 :PROPERTIES:
@@ -293,9 +287,11 @@
 ******** 仅在胃上皮受损时才出抑制胃酸 分泌而有利于胃黏膜的修复
 ******** 也与抑制细胞内cAMP生成有关
 **** 胃的运动: 头区主要功能为储存食物,尾区主要为磨碎食物
-***** 胃的运动形式
 :PROPERTIES:
 :collapsed: true
+:END:
+***** 胃的运动形式
+:PROPERTIES:
 :END:
 ****** 紧张性收缩 #card
 :PROPERTIES:
@@ -320,6 +316,9 @@
 ******* 意义在于磨碎进入胃内的食团使之与胃液充分浑合,并将食物推入十二指肠
 ******
 ***** 胃排空及其控制
+:PROPERTIES:
+:collapsed: true
+:END:
 ****** 胃排空 #card
 :PROPERTIES:
 :id: 623ed101-60c4-46c2-b912-a0697089cdab

@@ -1,8 +1,0 @@
-* {{embed [[急性肾损伤]]}}
-:PROPERTIES:
-:ID:       c60b0a6f-f0db-4138-802d-a5986b67c4f1
-:END:
-*
-* {{embed [[慢性肾衰]]}}
-*
-*

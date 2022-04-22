@@ -1,9 +1,0 @@
-* 参与构成的蛋白
-:PROPERTIES:
-:ID:       56fbbbb7-d34c-4afc-a9ae-83bccc45df5e
-:END:
-** Hb
-** 肌红蛋白
-** 细胞色素C
-** 过氧化物酶
-** 过氧化氢酶

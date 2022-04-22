@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       78d3cf4c-904b-4fc1-9cb2-589dcc9a2aac
-:END:
-#+ALIAS: PNH
-
-*

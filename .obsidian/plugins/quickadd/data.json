@@ -1,0 +1,12 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "pop",
+      "id": "540ce781-e1bb-45d8-9a87-a0edf7c3a7ae",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

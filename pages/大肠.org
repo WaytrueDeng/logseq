@@ -11,6 +11,9 @@
 :END:
 ** 新增未知或遗忘知识
 *** [[file:../journals/2022_03_26.org][2022-03-26]]
+:PROPERTIES:
+:collapsed: true
+:END:
 **** 大肠液的分泌 #card
 :PROPERTIES:
 :id: 623ef991-7062-464c-875f-e6aa103a79ad

@@ -1,0 +1,13 @@
+* 生理学
+** {{embed [[生理学/消化系统/activeRecall]]}}
+* 内科学
+:PROPERTIES:
+:collapsed: true
+:END:
+** {{embed [[内科学/循环系统/activeRecall]]}}
+*
+* 外科学
+** 骨科
+*** {{embed [[外科学/骨科/上肢骨、关节损伤/activeRecall]]}}
+**** {{embed [[外科学/骨科/下肢骨、关节损伤/activeRecall]]}}
+*** {{embed [[外科学/骨科/其他骨、关节损伤/activeRecall]]}}

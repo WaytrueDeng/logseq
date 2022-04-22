@@ -3,9 +3,9 @@
 :END:
 
 * 逐句翻译
-** [[2002年/Text1]]
+** 2001年Text1
+** [[2002年/USEOFENGLISHText1]]
 :PROPERTIES:
-:collapsed: true
 :END:
 *** [[2022-03-18]]
 :PROPERTIES:
@@ -13,7 +13,6 @@
 :END:
 **** [[diffusion]]
 :PROPERTIES:
-:collapsed: true
 :id: 6234b39a-2c23-497c-b192-eca820726bf6
 :END:
 ***** [[diffuse]]
@@ -61,6 +60,7 @@ adj. 透视的
 **** [[in terms of]]
 ** 墨墨背单词
 :PROPERTIES:
+:collapsed: true
 :END:
 *** [[file:../journals/2022_03_24.org][2022-03-24]]
 **** [[sole]]

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:	D5CBFDD9-ACBA-462B-BF07-06E5C107D9FE
-:END:
-
-* 上腹部连续高调血管杂音
-* 肾动脉造影DSA确诊
-* 双侧肾动脉狭窄禁用 [[ACEI]]/ [[ARB]] [[禁忌症]]
-* ((623349ca-515c-468b-9859-bf8e12ca7edc))

@@ -1,0 +1,128 @@
+* ^^Failing^^ the poor
+The pandemic has reversed years of progress in reducing extreme poverty.
+Once again, politicians bear much ^^blame^^ 
+#+BEGIN_QUOTE
+ fail 辜负：fail最常见的意思是失败、失灵。标题中的fail为及物动词，表示有负于；
+ the + adj. xxx的人：可加各种形容词，比如往期提到的the well-heeled「富裕的」；
+pandemic 大流行病：epidemic为「流行病」，具体差异点我复习；
+ extreme poverty 赤贫；
+bear blame 背锅：blame做名词意为（错事的）责任/责备，也就是俗称的「锅」，它的搭配用法还包括shift blame「甩锅」、take the blame「承担责任」；
+#+END_QUOTE
+* This	coronavirus	affects	everyone,	but	not	equally.	The	young	often	shrug	off	the	 virus;	the	old	often	die	of	it.	The	rich	shrug	off	the	economic	shock;	the	poor	 cannot.	Because	of	covid-19,	the	number	of	extremely	poor	people	(ie,	those	 making	less	than	$1.90	a	day)	will	rise	by	70m-100m	this	year,	the	World	Bank	 predicts.	Using	a	broader	measure,	including	those	who	lack	basic	shelter	or	 clean	water	and	children	who	go	hungry,	the	ranks	of	the	poor	will	swell	by	 240m-490m	this	year,	says	the	UN.	That	could	reverse	almost	a	decade	of	 progress.	If	a	vaccine	is	found,	economies	will	no	doubt	bounce	back.	But	 widespread	vaccination	will	take	years	and	the	very	poor	cannot	wait	that	long.	 By	then,	malnutrition	will	have	stunted	a	tragic	number	of	children’s	bodies	and	 minds. 
+#+BEGIN_QUOTE
+▲ shrug off 摆脱：shrug意为「耸肩」，off指「脱落」，合起来就是耸耸肩抖落，意为「摆脱」。shrug off还有一个引申义是「不予理睬」，近义词是dismiss；
+▲ extremely poor 赤贫的：近义词是impoverished。联合国和世界银行制定的赤贫标准为每人每天生活费1.9美元，中国的标准则为农村居民家庭人均纯收入2300元人民币/年；
+▲ World Bank 世界银行；
+▲ shelter （基本的）居所；
+▲ the ranks （团体/组织的）成员：例如，the ranks of the jobless「失业人口」；
+▲ swell 扩大：原意为「肿胀」，在此引申为「扩大」。和上一个词组构成了一个常用搭配swell the ranks of ...「...人数增加」，大家平时可以和increase the number of...换着使用；
+▲ bounce back 反弹：衍生的名词为bounceback，意为「恢复」，比如「经济复苏」就是economic bounceback；
+▲ the very poor 赤贫人口；
+▲ malnutrition 营养不良：前缀mal-意为「差的、坏的」，比如malicious或malevolent 意思皆为「恶毒的」；
+▲ stunt 阻碍生长：stunt做动词意为「阻碍生长」，作名词则衍生为「发育不良的人」。此外，stunt还有一个常见的意思是飞檐走壁之类的「特技表演」。
+
+段落大意：
+
+疫情之下，赤贫人口激增，数十年来取得的进展面临开倒车的局面。就算疫苗问世拯救经济，营养不良也会荼毒儿童的身心。
+#+END_QUOTE
+* Governments	in	rich	countries	have	spent	over	10%	of	GDP	to	ease	the	economic	 pain.	Others	cannot	be	so	^^ambitious^^.	Emerging	economies	have	spent	just	3%,	 and	the	poorest	nations	less	than	1%.	^^Safety-nets^^	in	low-income	countries	are	 ^^cobweb-thin^^.	Governments	there	have	handed	out	only	$4	extra	per	person	on	 social	programmes—in	total,	not	per	day. 
+#+BEGIN_QUOTE
+
+▲ ease the pain 缓解疼痛：ease也可以用relieve或alleviate替换；
+▲ emerging economy 新兴经济体：更多用法点我复习；
+▲ safety net 安全网：原指杂技表演用的安全网，引申义为「社会保障措施」；
+▲ cobweb 蜘蛛网；
+▲ ...-thin 像...一样薄：比如paper-thin「像纸片一样薄」，或者wafer-thin「像威化一样薄」；
+▲ hand out 分发：将这个动词词组变成名词便是上周提到的handout「救济品」；
+
+段落大意：
+
+富裕国家可以慷慨解囊刺激经济，但新兴经济体和贫困国家做不到，低收入国家的安全保障体系更是形同虚设。
+
+#+END_QUOTE
+* Donors	should	help.	Rich	countries	are	on	course	to	cut	direct	aid	by	a	third	 compared	with	last	year.	The	IMF	and	World	Bank	have	raised	lending,	but	only	 31%	more	of	the	bank’s	money	has	reached	poor	countries,	says	the	Centre	for	 Global	Development,	a	think-tank,	about	half	the	increase	in	the	global	financial	 crisis,	a	much	smaller	shock.
+
+#+BEGIN_QUOTE
+▲ donor 捐赠者：指援助的国家或组织；
+▲ on course to do sth. 很可能做成...；
+▲ lending 放贷：相当于loan；
+▲ think-tank 智库/智囊团：例如，economic think-tank「经济智库」和foreign policy think-tank「外交智库」；
+
+长句解析
+
+The IMF and World Bank have raised lending, but only 31% more of the bank’s money has reached poor countries, says the Centre for Global Development, a think-tank, about half the increase in the global financial crisis, a much smaller shock. 
+
+这句话的复杂之处在于插入语较多，我们先从找同位语入手。
+
+think-tank是Centre for Global Development的同位语，解释这个Center是一个智库。a much smaller shock是global financial crisis的同位语，解释08年的全球金融危机是一个（相比之下）小得多的冲击。
+
+而says the Centre for Global Development表示的是「这句话是Centre说的」，同样也是一个插入语。
+
+由于插入语只作补充说明，不影响主句意思，因此我们把插入语都删除后得到主干：
+
+The IMF and World Bank have raised lending, but only 31% more of the bank’s money has reached poor countries, about half the increase in the global financial crisis. 
+
+翻译一下：国际货币基金组织和世界银行已经增加了放贷，但是只有31%的贷款给到了贫困国家，而这次所增加的贷款只有08年金融危机的一半。
+
+再加上三个插入语成分，整句意思为：智库全球发展中心表示，国际货币基金组织和世界银行已经增加了放贷，但是只有31%的贷款给到了贫困国家。尽管08年金融危机带来的冲击相比之下要小很多，这次所增加的贷款只有08年的一半。
+#+END_QUOTE
+* Governments	in	poor	countries,	meanwhile,	need	to	spend	their	money	wisely.	 Too	many	offer	pork	for	^^chums^^	and	crumbs	for	the	poor.	Since	the	crisis	began,	 Mexico	has	provided	no	new	programmes	for	the	hard-up	but	has	given	Pemex,	 the	state	oil	giant,	tax	breaks	worth	$2.7bn,	or	$21	per	Mexican.	India	has	poured	 $7bn	down	coal	mines.	South	Africa	is	expected	soon	to	confirm	another	 wasteful	effort	to	keep	its	money-losing	airline	aloft.	Even	when	money	is	 earmarked	for	good	ends,	it	is	too	often	wasted	or	stolen.	South	African	 investigators	are	^^probing^^	possible	fraud	in	658	contracts	worth	$300m	for	covid fighting	kit.	Nigeria’s	health	ministry	bought	some	masks	for	$53	each.	In	a	 leaked	recording,	a	voice	allegedly	belonging	to	a	Ugandan	official	guffaws	as	she	 and	her	colleagues	appear	to	plot	to	pocket	money	meant	for	alleviating	 suffering	in	the	pandemic. 
+#+BEGIN_QUOTE
+▲ chum 哥们儿、好朋友；
+▲ crumb 面包屑；
+▲ hard-up（临时）缺钱的：the hard-up「临时缺钱的人」；
+▲ tax break 减税；
+▲ money-losing 亏钱的：反义词是money-making「赚钱的」；
+▲ aloft 在空中：有一种常见的建筑格局叫loft，其实就是带阁楼的房间，loft有一个含义就是「阁楼」。loft对应的形容词是lofty，本意是「高耸的」，衍生含义为「崇高的」；
+▲ earmark 指定用途：来自于ear+mark，原意指在牲畜的耳朵上打标记。点我复习；
+▲ probe 调查：近义词investigate；
+▲ fraud 诈骗；
+▲ covid-fighting 抗疫的；
+▲ kit 成套用品：first-aid kit「急救用品」；
+▲ leaked 泄露的；
+▲ allegedly 据说...；
+▲ guffaw 大笑：读音为/gəˈfɔ:/ ，重音在后；
+▲ plot to do sth. 密谋干某事：plot意为「情节」或「阴谋」；
+▲ pocket 中饱私囊：pocket做名词为「口袋」，这里做动词表示「放入口袋」，引申义为「中饱私囊」；
+
+长句解析
+
+① India has poured $7bn down coal mines. South Africa is expected soon to confirm another wasteful effort to keep its money-losing airline aloft. 
+
+这一句话用非常生动的形式描写了两国浪费钱的具体体现。
+
+印度把钱花在挖煤上，而煤矿是一个个的矿井，所以作者生动地说印度把钱pour down「倒进」矿井里。
+
+而南非把钱花在了他们的航空公司上，飞机是飞在天上的，所以南非花了钱keep「保持」飞机aloft「飞在天上」。
+#+END_QUOTE
+* The	best	way	to	help	the	poor	is	to	give	them	money	directly.	The	simplicity	of	 this	policy	makes	it	less	vulnerable	to	corruption.	With	a	little	extra	cash	in	their	 pockets,	recipients	can	feed	their	children	and	send	them	back	to	school.	They	 can	avoid	a	fire-sale	of	assets,	such	as	a	motorbike-taxi	or	a	cow,	that	will	help	 them	make	a	living	in	the	future.	One	country	that	has	done	well	getting	cash	into	 poor	pockets	is	Brazil,	despite	President	Jair	Bolsonaro’s	habit	of	downplaying	 the	effects	of	covid-19.	Various	measures	of	poverty	there	have	actually	fallen,	 largely	because	the	government	has	sent	$110	per	month	for	three	months	to	the	 impecunious,	helping	66m	people.	A	priority	for	governments	should	be	basic	 health	care,	which	the	pandemic	has	disrupted	so	badly	that	vaccination	rates	for	 children	have	been	set	back	about	20	years. 
+#+BEGIN_QUOTE
+▲ be vulnerable to 易受...影响的；
+▲ corruption 贪污腐败；
+▲ recipient 接收者；
+▲ fire-sale 火灾后的大甩卖：火灾后，很多物品可能受损，需要降价出售，因此用于表示「贱卖」；
+▲ motorbike-taxi 摩的；
+▲ downplay v. 对...轻描淡写：来自于同义动词词组play down。反义词是play up，即「夸大...的重要性」，但要注意没有upplay这个词；
+▲ impecunious 不名一文的：读音为 /ˌɪmpɪˈkju:niəs/。可以用the impecunious表示「穷光蛋」；
+▲ disrupt 扰乱、颠覆；
+▲ set back 耽误、延误：合并而成的名词setback意为「挫折」；
+
+段落大意：
+
+帮助穷人最好的方法就是直接打钱，尽可能减少救济款被贪污。政府最该关注的领域应该是基础医疗。
+#+END_QUOTE
+* The	crisis	requires	politicians	to	make	hard	choices	quickly.	Mistakes	are	 inevitable,	given	how	much	remains	unknown	about	the	disease.	But	some	are	 inexcusable.	India’s	sudden	lockdown	threw	millions	of	migrant	workers	out	of	 their	urban	jobs	and	lodgings,	forcing	them	to	head	back	to	their	villages	on	foot	 or	crowded	trains,	spreading	the	virus	far	and	wide.	South	Africa	barred	people	 from	leaving	home	at	night	but	then	evicted	tens	of	thousands	of	squatters	from	 shacks	on	public	land,	with	no	place	to	go.	Politicians	governing	remotely	from	 their	comfortable	home	offices	should	think	harder	about	how	their	decisions	 might	affect	those	whom	covid-19	is	plunging	back	into	dire	poverty.	It	is	 shameful	when	their	responses	to	the	pandemic	add	to	the	suffering	of	the	least	 fortunate. 
+#+BEGIN_QUOTE
+▲ hard choice 困难的决定；
+▲ inexcusable 不可原谅的：由表「否定」的前缀in-加excuse「原谅」和表「能力」的后缀-able组合而成；
+▲ lodging 住宿的房间；
+▲ far and wide 到处：又远又广泛，即为「到处」；
+▲ bar sb. from doing sth. 阻止某人做某事：bar的近义词为forbid/prohibit/prevent；
+▲ evict （依法从房屋里）逐出；
+▲ squatter 擅自占用房屋的人：来自动词squat「擅自占用（房子）」；
+▲ shack 棚屋；
+▲ plunge into 陷入（不好的事）：近义词为descend into「逐渐陷入」；
+▲ dire 极其严重的：dire poverty指「赤贫」；
+▲ the least fortune 最不幸的人；
+
+#+END_QUOTE

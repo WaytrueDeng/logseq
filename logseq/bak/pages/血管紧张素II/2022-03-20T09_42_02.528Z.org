@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       715e5083-69ee-4989-beb2-138526e39c00
-:END:
-#+ALIAS: AngII

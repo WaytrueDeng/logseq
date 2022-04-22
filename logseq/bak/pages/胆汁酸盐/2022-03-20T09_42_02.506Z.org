@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       809dc146-00d5-4412-a2dd-4dfc56105c5f
-:END:
-#+ALIAS: 胆盐

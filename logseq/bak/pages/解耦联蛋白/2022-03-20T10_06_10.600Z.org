@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:	73F0FFB1-77C1-4708-AB59-1AB3223A0BB5
-:END:
-
-* {{embed [[id:6200bc5c-97ad-41cd-acdd-dc526adc93c0]]}}

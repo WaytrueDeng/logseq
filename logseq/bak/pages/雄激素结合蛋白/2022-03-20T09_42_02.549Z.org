@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       74052362-ddef-42e2-bf05-80c761b37f16
-:END:
-#+ALIAS: ABP

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:	550C9316-9385-4D28-8038-6C83627D255B
-:END:
-
-* {{embed [[id:622ded43-8fb5-4dee-b038-ecacf0e58995]]}}
