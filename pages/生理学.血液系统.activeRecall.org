@@ -1,102 +1,227 @@
 #+title: 生理学/血液系统/activeRecall
 
+* 血液生理概述
+:PROPERTIES:
+:collapsed: true
+:END:
+** 白蛋白和大多数球蛋白主要由何合成? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 肝脏
+** 白蛋白在血浆中与哪些激素结合? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 甲状腺激素,肾上腺皮质激素,性激素
+** 红细胞的可塑变形性中有哪些因素,哪种因素最为重要? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 双凹圆盘形的几何形状,红细胞内的黏度,红细胞膜的弹性
+*** 双凹圆盘形的几何形状
+**
 * 红细胞生成的调节
 :PROPERTIES:
 :collapsed: true
 :END:
-** 肾外组织缺氧为何能刺激EPO生成增加?
-** EPO由哪些器官产生?
-** 雄激素能通过哪些途径增加红细胞生成?
-*** EPO
+**
+** 哪些物质能抑制早期红系祖细胞的增殖? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** TGF-β,TNF-α,干扰素-γ
+** 哪些激素可以刺激早期红系祖细胞发育为晚期红系祖细胞 #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 干细胞因子,白介素3,粒-巨细胞集落刺激因子
+** 哪些激素可以通过改变组织氧的要求而促进红细胞生成 #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 甲状腺激素,肾上腺皮质激素,生长激素
+** 肾外组织缺氧为何能刺激EPO生成增加? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 可能与肾外组织产生的去甲肾,肾上腺素与多种前列腺素刺激肾产生EPO有关
+** EPO由哪些器官产生? #card
+** EPO有哪些作用? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 作为存活存活因子抑制晚期红系祖细胞凋亡
+*** 促使红系阻细胞向原红细胞分化及幼红细胞血红蛋白的合成
+*** 促使网织红细胞的成熟与释放
+** 雄激素能通过哪些途径增加红细胞生成? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 刺激EPO的产生
 *** 直接刺激骨髓
 *** 增加血红蛋白
-** 雌激素为何能抑制红细胞生成?
-** 那些物质能抑制早期红系祖细胞的增殖?
-** 哪些激素可改变代谢组织对氧的要求而间接促进红细胞生成?
+** 雌激素为何能抑制红细胞生成? #card
+** 哪些激素可改变代谢组织对氧的要求而间接促进红细胞生成? #card
 * 血小板生理
 :PROPERTIES:
 :collapsed: true
 :END:
-** 生成TXA2与PGI2的酶?
-** 什么酶将花生四烯酸变为PGI₂,PGH₂?
-** 血小板的位足通过膜上活化的什么结合于纤维蛋白索上?
-** NO抑制聚集的效应是通过提高血小板内的什么实现的?
-** PGI₂抑制聚集的效应是通过提高血小板内的什么实现的?
-** PGI有较强的什么作用?
-** TXA₂如何发挥作用?
+** ADP引起的血小板聚集呈现什么特点? #card
 :PROPERTIES:
 :collapsed: true
 :END:
+*** 剂量依赖性两段反应
+** 生成TXA2与PGI2的酶? #card
+** PA2将经磷脂变为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 花生四烯酸
+** 什么酶将花生四烯酸变为PGI₂,PGH₂? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** COX
+** 血小板的位足通过膜上活化的什么结合于纤维蛋白索上? #card
+** NO抑制聚集的效应是通过提高血小板内的什么实现的? #card
+** PGI₂抑制聚集的效应是通过提高血小板内的什么实现的? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** cGMP
+** PGI有较强的什么作用? #card
+** TXA₂具有什么作用? #card
+** TXA₂如何发挥作用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
 *** 可降低血小板内的cAMP浓度,对血小板的聚集有正反馈促进作用
-** TXA₂具有什么作用?
-** 环加氧酶的底物和产物是何?
-** 磷脂酶A₂的底物是何?
-** 血小板表面可吸附哪些凝血因子?
-** 胶原所诱发的血小板单相聚集与何有关?
+** 环加氧酶的底物和产物是何? #card
+** 磷脂酶A₂的底物是何? #card
+** 血小板表面可吸附哪些凝血因子? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 1,5,11,13
+** 胶原引起血小板的什么哪种聚集? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 单相聚集
+** 胶原所诱发的血小板单相聚集与何有关? #card
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 血小板内ADP释放和TXA2
-** 胶原只引起血小板的什么?
-** 病理性致聚剂有哪些?
+** 病理性致聚剂有哪些? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 细菌病毒免疫复合物药物
-** 生理性致聚剂有哪些?
+** 生理性致聚剂有哪些? #card
 :PROPERTIES:
+:background-color: #793e3e
 :collapsed: true
 :END:
 *** 生理性致聚剂主要有ADP、^^肾上腺素^^、^^5-HT^^、组胺、^^胶原^^、^^凝血酶^^
-** 什么是血小板无力症?
-** 血小板的聚集反应需要什么参与?
+** 什么是血小板无力症? #card
+** 血小板的聚集反应需要什么参与? #card
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 要纤维蛋白原、Ca²⁺和血小板膜上GPⅡb/GFⅢa的参与。
-** 从α-颗粒释放的物质主要有?
+** 从α-颗粒释放的物质主要有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
 *** 从a-颗粒释放的物质主要有β-血小板球蛋白、^^血小板因子4(PF₄)^^、^^vWF^^、^^纤维蛋白原^^、^^凝血因子V(FV^^)、^^凝血酶敏感蛋白^^、PDGF等。此外,被释放的物质除来自于血小板颗粒外,也可
 *** 后面三个都与凝血因子有关
-** 从致密体释放的物质有哪些
+** 从致密体释放的物质有哪些? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 *** ADP,ATP,5-HT,Ca²⁺
-** 什么情况下血小板黏附能力降低
+** 什么情况下血小板黏附能力降低? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 ***
 ***
-** 血小板保护内皮的作用体现在哪些?
-** GPⅡb/GFⅢa与什么结合?GPⅠⅤⅨ与谁结合?
+** 血小板保护内皮的作用体现在哪些? #card
+** GPⅡb/GFⅢa与什么结合?GPⅠⅤⅨ与谁结合? #card
 * 生理性止血的基本过程
 :PROPERTIES:
 :collapsed: true
 :END:
-** 受损红细胞释放的什么和凝血过程中产生的 什么可使血小板不断的聚集在已经黏附固定于内皮下胶原的血小板上?
-** 凝血酶对于血小板有何作用?
-** 什么叫表面激活,需要什么做辅因子?
+** 受损红细胞释放的什么和凝血过程中产生的 什么可使血小板不断的聚集在已经黏附固定于内皮下胶原的血小板上? #card
+** 凝血酶对于血小板有何作用? #card
+** 什么叫表面激活,需要什么做辅因子? #card
+** 依赖维生素K的凝血因子与Ca结合后变构暴露出与谁结何的部位而参与凝血? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 磷脂
 **
-** F12a还能激活什么而形成正反馈?
-** 高分子激肽原的作用?
+** 那些因子作为辅因子可使相应的丝氨酸蛋白酶速率增快成千上万倍? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** F3,5,8,高分子量激肽酶
+** F12a还能激活什么而形成正反馈? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 前激肽释放酶原
+** 高分子量激肽原的作用有哪些? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 能促进F12活化
+*** 促进F11的表面活化
+** 高分子激肽原的作用? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 作为辅因子参加F12a激活F11
 *** 作为辅因子参加F12的激活
-** F11a在什么的辅助下激活F9?
-** 血浆中F8与什么因子以非共价结核形成复合物?
-** F9a除了激活F8外还能正反馈激活谁?
-** F10a还能激活谁?
-** F7能被谁激活?
+** F11a在什么的辅助下激活F9? #card
+** 血浆中F8与什么因子以非共价结核形成复合物? #card
+** F9a除了激活F8外还能正反馈激活谁? #card
+** F10a还能激活谁? #card
+** F7能被谁激活? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 *** F9a,F10.F7a自身激活
-** F7能激活谁?
+** F7能激活谁? #card
+** 通过哪种复合物的形成能使内外源凝血途径相互联系? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** F7a-组织因子复合物
+** 病理状态下哪些因子可以刺激血管内皮细胞产生F3而引起DIC? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 细菌内毒素,补体C5a,免疫复合物,肿瘤坏死因子
 **
-** 哪些因素可刺激血管内皮细胞和单核细胞表达组织因子?
+** 哪些因素可刺激血管内皮细胞和单核细胞表达组织因子? #card
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 细菌内毒素,补体C5a,免疫复合物,肿瘤坏死因子
 *** 一个毒素三个与免疫相关
-** 凝血酶的作用?
+** 凝血酶的作用? #card
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -104,13 +229,95 @@
 *** 激活F13
 *** 激活F5,8,11形成正反馈
 *** 激活血小板
-** 凝血酶可被何吸附?
-** 抗凝血酶能抑制哪些?
-*** F2,7,9,10,11,12
-** 蛋白质C灭活什么因子?
+** 凝血酶可被何吸附? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 纤维蛋白
+** 凝血酶与内皮细胞上的什么结合而转化为抗凝因子? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 凝血酶调节蛋白
+** 凝血酶转化为抗凝因子后激活什么起到抗凝作用? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 蛋白质C
+** 蛋白质C由何合成其合成需要什么参与
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 肝,[[维生素K]]
+** 蛋白质C灭活什么因子? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
 *** F5,8
-** 肝素主要由谁产生?
+** 蛋白质C还有什么作用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 促进纤维蛋白溶解
+** 肝素主要由谁产生? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
 *** 肥大细胞和嗜碱性粒细胞
-** 抗凝血酶主要通过与内皮细胞表面的什么结合而增强血管内皮的抗凝功能?
+** 抗凝血酶能抑制哪些? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** F2,7,9,10,11,12
+** 抗凝血酶主要通过与内皮细胞表面的什么结合而增强血管内皮的抗凝功能? #card
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 硫酸乙酰肝素
-** 哪些因子还能激活纤溶酶原
+** 哪些因子还能激活纤溶酶原? #card
+**
+** 尿激酶型纤溶酶原激活物由谁合成分泌
+:PROPERTIES:
+:id: 6264b2e0-446e-41cd-a530-c85bd364f777
+:END:
+*** 肾小管集合管上皮细胞
+** 尿激酶型纤溶酶原激活物的主要作用是溶解哪的纤维蛋白? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 在组织溶解血管外的
+** 尿激酶激活在哪的纤溶酶原? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 结合于细胞表面的
+** 哪些因素可以激活纤溶酶原? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** F12a,[[激肽释放酶]],
+** 血管内皮细胞表面有哪些抗凝因子? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 硫酸乙酰肝素蛋白多糖,凝血酶调节蛋白,合成并分泌组织因子途径抑制物,抗凝血酶等生理性抗凝物质
+** 纤溶酶最敏感的底物是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[纤维蛋白]],[[纤维蛋白原]]
+* 血型
+:PROPERTIES:
+:collapsed: true
+:END:
+** H基因缺损能生成AB抗原吗? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 不能
+*

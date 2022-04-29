@@ -1,0 +1,156 @@
+#+title: 生理学/能量/activeRecall
+
+* 精神紧张状态下产热增加的原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 无意识的肌紧张增加
+** 肾上下素,去甲肾上腺素,甲状腺素等增加
+* 体内还有许多影响能量代谢的蛋白质和肽类物质如?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 解耦联蛋白,瘦素,神经肽Y等
+* 测定基础代谢率时为什么体位?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 卧位
+* 测定基础代谢率前多少小时无运动?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 2
+* 测定基础代谢率前多少小时禁食?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 12-14
+* 什么叫做非蛋白呼吸商?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 由葡萄糖与脂肪氧化时排出的CO₂与吸收的O₂量称为非蛋白呼吸商
+* 哪些因素可以出现BMR降低?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 肾上腺皮质功能低下,垂体性肥胖,肾病综合征,病理性饥饿
+* 生物节律主要由何控制?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 下丘脑视交叉上核
+* 排卵后黄体期体温升高为何所致?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 黄体分泌的孕激素作用于[[下丘脑]]所致
+* 正常腋下体温为多少?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 36.0-37.4
+* 体温高于多少度为蛋白质出现不可逆性变性而致死?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 44-46
+* 体温低于多少度时出现意识障碍?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 34
+* 体温低于多少度时出现神经反射消失?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 30
+* 体温降致多少度时心脏活动停止?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 28度
+* 解耦联蛋白由哪些激素刺激激活?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 甲状腺激素,肾上腺素
+* 战栗中枢位于何处?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 下丘脑后部
+* 控制温热性出汗的中枢位于?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 下丘脑
+* 温热性发汗的神经支配是?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 交感神经胆碱能纤维
+* 精神性发汗的中枢位于?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 大脑皮质的运动区
+* 精神性发汗的支配纤维为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 交感神经肾上腺素能纤维
+* 精神性发汗的部位主要是?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 掌心,足底,前额
+* 外周温度感受器组织学是什么?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 游离神经末梢
+* 中枢温度感受器组织学是什么?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 神经元
+* 中枢温度感受器何处热敏感受器分布最多?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 下丘脑前部与视前区
+* 中枢温度感受器何处冷敏感受器分布最多?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 网状结构与下丘脑弓状核
+* PO/AH的温度敏感神经元还接受多种化学物质刺激包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 致热原,5-HT,NE和一些肽类物质
+* 在皮肤以何种温度感受器为多?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 冷
+* 中暑的机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 并非调定点上移而是机体散热不足或体温调节中枢功能障碍所致
+* 哪些感受器无适应现象?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 温度感受器
+** 痛觉感受器
+** 本体感受器
+*

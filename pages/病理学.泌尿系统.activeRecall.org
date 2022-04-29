@@ -1,0 +1,437 @@
+#+title: 病理学/泌尿系统/activeRecall
+
+* 急性弥漫性增生性肾小球肾炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 病变特点是何增生?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 内皮细胞和系膜细胞?
+** 病变伴何浸润?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 巨噬细胞和中性粒细胞
+** 病变由什么引起?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 免疫复合物
+** 患者血清中何种增高
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抗链球菌溶血素O(ASO)滴度增高
+** 肾间质有何改变?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 充血,水肿,炎细胞浸润
+** 免疫荧光有哪些沉积
+:PROPERTIES:
+:collapsed: true
+:END:
+*** IgG,IgM,C3
+** 电镜检查电子密度较高的沉积物呈什么改变?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 驼峰状
+** 电镜检查电子密度较高的沉积物于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 脏层上皮细胞与肾小球基底膜之间
+*** 也可位于内皮细胞下基膜内或系膜区
+** 急性与急进型肾小球肾炎肾小管上皮细胞何种变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[玻璃样变]]
+**
+**
+* 新月体性肾小球肾炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** Ⅰ型急进性肾炎
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病理何种沉积?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** IgG,C3
+*** 沉积于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 线条状沉积沿毛细血管壁分布
+*** 电镜下有何表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 无电子致密物沉积
+** Ⅱ型免疫复合物型
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病因?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 链球菌感染后性
+**** 过敏性紫癫
+**** 系统性红斑狼疮
+**** IgA肾病
+*** 免疫复合沉积于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 系膜区与毛细血管壁
+** Ⅲ型
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 免疫荧光?
+**** 无
+*** 病因
+**** [[ANCA]]相关性
+**** Wegner肉芽肿病
+**** 显微型结节性多动脉炎.多血管炎
+** 仅有哪型有电镜下电子致密物?沉积于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ⅱ型,系膜区与内皮下
+** 为何会出现壁层上皮细胞的增生而形成新月体?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 新月体性肾小球肾炎又称急进性肾小球肾炎，其主要基础病变是基底膜缺损、断裂（A对），使纤维素从肾小球毛细血管渗出，进入肾小球囊，刺激肾小球囊的壁层细胞大量增生，形成新月体。
+** 新月体是由何构成?可伴何种细胞浸润?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 增生的壁层上皮细胞和渗出的单核细胞构成
+**** 浆细胞和淋巴细胞
+** 原位免疫复合物型肾炎包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[Ⅰ型急进性肾炎]],[[Heymann肾炎]]
+** 免疫复合物型
+** 病理变化基膜改变?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 基膜缺损和断裂
+** Ⅰ型好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 青中年
+** ⅡⅢ型好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 老年
+** {{embed ((6266b430-cd97-4e98-94ac-e4ba259b37cc))}}
+**
+* 膜性肾病
+:PROPERTIES:
+:collapsed: true
+:END:
+** 为何种物质介导?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 慢性免疫复合物
+** 与何种细胞反应?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 肾小球血管内皮细胞
+** 免疫物质沉积于何处?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 上皮细胞与基底膜之间
+*** 首先想到足突消失,然后再想到名字叫膜性→沉积物在膜与足细胞之间
+** 病变部位有无中性粒细胞及单核细胞浸润?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 无
+** 致病机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 免疫复合物致补体激活行成膜攻击复合物,后者使血管内皮细胞与系膜细胞释放氧化物与蛋白酶,导致毛细血管壁损伤而蛋白漏出
+***
+** 膜性肾病的特殊病理改变?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 基膜增厚钉突形成
+** 膜性肾病的免疫荧光表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** （P269-P270）&“膜性肾小球病…免疫荧光检查显示免疫球蛋白和补体沉积，表现为典型的颗粒状荧光”（A错）。
+** 电镜下有何改变?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 上皮细胞肿胀,足突消失,钉状突起基膜增厚,虫蚀样改变
+**
+**
+* 微小病变性肾病
+:PROPERTIES:
+:collapsed: true
+:END:
+** 有无免疫复合物沉积?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 无
+** 其主要机制为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 免疫功能异常导致细胞因子释放和[[脏层上皮细胞]]损伤
+***
+* 膜增生性肾小球肾炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 光镜的表现如何?
+*** 系膜细胞和内皮细胞^^数量^^增多,部分病例有新月体形成
+** 沉积物出现在何处?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 内皮下、致密层和上皮下沉积物（D错）为膜增生性肾炎（P271）的镜下特征（值得注意的是九版病理学教材并未提及有上皮下沉积物，但查阅文献可知，膜增生性肾炎除教材所分类的Ⅰ型和Ⅱ型外，还存在第Ⅲ型，此型可见上皮下沉积物）。
+*** Ⅰ型: 系膜区和内皮下
+*** Ⅱ型: 基底膜致密层内
+*** Ⅲ型: 上皮下
+** 哪种类型不出现IgM,C3的沉积?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ⅱ型
+** Ⅰ型和Ⅱ型的机制有何不同?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ⅰ型为免疫复合物型
+*** Ⅱ型为补体替代途径异常激活
+** 特征性变化为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 基膜增厚,表现为双轨征
+* 局灶性节段性肾小球硬化
+:PROPERTIES:
+:collapsed: true
+:END:
+** 病理特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 顾名思义部分肾小球的部分小叶发生硬化
+** 病因为何?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 脏层上皮细胞损伤和改变引起
+** 发病机制如何?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 局部通透性增高,血浆蛋白与脂质在细胞外基质沉积引起系膜细胞激活导致节段性的[[玻璃样变]]与硬化
+** 免疫荧光何种物质沉积?
+*** IgG与C3
+* 系膜增生性肾小球肾炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 光镜下主要病理变化?
+*** 记忆为三系:系膜细胞增生,系膜基质增多,系膜区可出现沉积物
+* 伴有足突消失的病变?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 膜性肾病
+** 微小病变性肾病
+** 局灶性节段性肾小球硬化
+* 哪种疾病为驼峰状免疫复合物?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急性弥漫增生性肾小球肾炎
+* 哪种疾病为基膜为钉突状起?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 膜性肾病
+**
+* 哪种疾病伴有明显的基膜破损?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急进性肾小球肾病
+* 基底膜正常的疾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 微小病变性肾小球病
+* 哪种疾病只攻击足细胞且还只有肾小管上皮脂肪颗粒?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 脂性肾病
+* 哪些疾病沉积于内皮细胞下与系膜区?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急进性肾小球肾炎Ⅱ型
+** 膜增生性肾小球肾炎Ⅰ型
+* 哪种疾病为肾病但是少数可以表现为肾炎综合征?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 膜增生性肾小球肾炎Ⅰ型
+* 哪些疾病糖皮质激素治疗不佳?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 膜增生性肾小球肾病
+** 局灶性节段性肾小球肾病
+* IgA肾病的IgA沉积于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 系膜区
+* IgA肾病的IgA为何种亚型?
+:PROPERTIES:
+:collapsed: true
+:END:
+** IgA1
+* IgA肾病激活的补体何种途径?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 补体替代途径
+* 哪些肾病通过激活补体替代途径而致病?
+:PROPERTIES:
+:collapsed: true
+:END:
+** IgA肾病于膜增生性肾病Ⅱ型
+* 哪些疾病可以引起继发性IgA肾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 过敏性紫癫,肝脏,肠道疾病
+* IgA肾病可以继发何种疾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+** Ⅱ型急进型肾炎
+* IgA肾病系膜区发生何种改变?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 系膜细胞增生系膜基质增多
+* IgA肾病也可以表现为哪种疾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 局灶性节段性增生或硬化
+* IgA肾病的电镜表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 系膜区电子致密物沉积
+* IgA肾病为何种血尿?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 无症状性血尿
+* 哪种疾病为最常见的肾炎类型?
+:PROPERTIES:
+:collapsed: true
+:END:
+** IgA肾病
+*
+* 哪些疾病表现为慢性进展性且预后不良?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 膜性
+** 膜性增生性
+* 哪些疾病的沉积可出现在基膜的外侧,基膜,基膜内侧及系膜区?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 急性弥漫性增生性
+** 膜性增生性
+* 肾小球毛细血管壁增厚是哪种疾病的主要病理变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 膜性肾小球肾炎
+*
+* 肾盂肾炎的部位包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 肾盂,肾间质,肾小管
+* 家族性肾细胞癌为何种遗传?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 常染色体显性遗传
+* 家族性肾细胞癌好发于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 肾上下极尤其是肾上极
+* 肾细胞癌的症状有哪些?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 血尿(90%),腰痛,肾区肿块
+* 肾母细胞瘤为何种遗传?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 家族性为常染色体显性遗传伴不完全外显性
+* 肾母细胞瘤的细胞成分有哪些?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 间叶组织,上皮样细胞和幼稚细胞
+*
+* 肾细胞的副肿瘤综合征有哪些表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+** EPO→红细胞增多症
+** 甲状旁腺素→高钙血症
+** 肾素→高血压
+** 糖皮质激素→[[库欣综合征]]
+**
+*
+*
+*

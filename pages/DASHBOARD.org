@@ -13,6 +13,7 @@
 *** black 3 days, red 8days orange 20 days green 30 days
 *** 生理学
 :PROPERTIES:
+:collapsed: true
 :END:
 **** 绪论
 :PROPERTIES:
@@ -189,10 +190,14 @@ CLOSED: [2022-03-30 Wed 13:38:16]
 ***** [[生理学/消化系统/activeRecall]]
 **** [[生理学/血液系统]]
 :PROPERTIES:
+:collapsed: true
 :END:
 ***** [[生理学/血液系统/真题]]
 ***** [[生理学/血液系统/activeRecall]]
 **** [[生理学/能量/真题]]
+***** [[生理学/能量/activeRecall]]
+**** [[生理学/泌尿/activeRecall]]
+**** [[生理学/内分泌系统/activeRecall]]
 *** [[内科学]]
 :PROPERTIES:
 :END:
@@ -569,7 +574,6 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 - [[2022-03-05]]
 **** 泌尿系统
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** TODO [[泌尿系统总论]]
 ***** TODO [[原发性肾小球疾病]]
@@ -579,9 +583,13 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 ***** TODO [[肾血管疾病]]
 ***** TODO [[急性肾损伤]]
 ***** TODO [[慢性肾衰竭]]
+***** [[内科学/泌尿系统/activeRecall]]
+***** [[内科学/泌尿系统/真题]]
+**** 血液系统
+***** [[内科学/血液系统/activeRecall]]
+***** [[内科学/血液系统/真题]]
 **** 内分泌系统疾病
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** TODO [[内分泌系统总论]]
 ***** TODO [[甲亢]]
@@ -602,6 +610,7 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 - [[2022-03-11]]
 ***** TODO [[低血糖症]]
 - [[2022-03-11]]
+***** [[内科学/内分泌系统/activeRecall]]
 **** 风湿系统疾病
 :PROPERTIES:
 :collapsed: true
@@ -648,6 +657,7 @@ CLOCK: [2022-03-21 Mon 20:24]--[2022-03-21 Mon 20:50] =>  0:26
 SCHEDULED: <2022-04-19 Thu ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 11:10:10]
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-03-30 Wed 11:10:10] \\92%
@@ -664,6 +674,7 @@ CLOCK: [2022-03-22 Tue 18:11:02]--[2022-03-22 Tue 18:16:48] =>  0:05
 SCHEDULED: <2022-04-20 Wed ++12d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-01 Fri 16:13:34]
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-01 Fri 16:11:02] \\98%
@@ -678,6 +689,7 @@ CLOCK: [2022-04-01 Fri 15:43:48]--[2022-04-01 Fri 16:09:06] =>  00:25:18
 SCHEDULED: <2022-04-12 Tue ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-23 Wed 20:28:56]
+:collapsed: true
 :END:
 :LOGBOOK:
 CLOCK: [2022-03-23 Wed 19:59:39]--[2022-03-23 Wed 20:28:15] =>  0:29
@@ -856,7 +868,6 @@ CLOCK: [2022-03-23 Wed 19:25:31]--[2022-03-23 Wed 19:28:50] =>  0:03
 :END:
 **** TODO [[病理学/泌尿系统]]
 :PROPERTIES:
-:collapsed: true
 :END:
 :LOGBOOK:
 CLOCK: [2022-03-25 Fri 11:22:51]--[2022-03-25 Fri 13:36:10] =>  2:14
@@ -869,6 +880,8 @@ CLOCK: [2022-03-25 Fri 11:15:42]--[2022-03-25 Fri 11:19:07] =>  0:04
 ***** [[file:./慢性肾小球肾炎.org][慢性肾小球肾炎]]
 ***** [[file:./慢性肾盂肾炎.org][慢性肾盂肾炎]]
 ***** [[病理学/泌尿系统/肿瘤]]
+***** [[病理学/泌尿系统/activeRecall]]
+***** [[病理学/泌尿系统/真题]]
 **** TODO [[病理学/血液系统]]
 :LOGBOOK:
 CLOCK: [2022-03-30 Wed 11:15:46]--[2022-03-30 Wed 12:07:05] =>  0:52
@@ -909,6 +922,9 @@ CLOCK: [2022-04-02 Sat 10:58]--[2022-04-02 Sat 11:45] =>  0:47
 ****** [[病理学/内分泌系统/教材/胰岛疾病]]
 ***** 病理学/内分泌系统/真题
 **** DONE 病理学/传染病及寄生虫 :ANKIFIDE:
+:PROPERTIES:
+:collapsed: true
+:END:
 CLOSED: [2022-04-03 Sun 18:09] SCHEDULED: <2022-04-03 Sun>
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-03 Sun 18:09]
@@ -929,7 +945,9 @@ CLOCK: [2022-04-03 Sun 08:00]--[2022-04-03 Sun 12:30] =>  4:30
 ****** [[病理学/传染病及寄生虫/教材/性传播疾病]]
 ****** [[病理学/传染病及寄生虫/教材/艾滋病]]
 ***** [[病理学/传染病及寄生虫/真题]]
-****
+**** :PROPERTIES:
+:collapsed: true
+:END:
 *****
 *** [[外科学]]
 :PROPERTIES:
@@ -1346,6 +1364,7 @@ SCHEDULED: <2022-04-21 Thu>
 SCHEDULED: <2022-04-21 Thu>
 *** 生物化学
 :PROPERTIES:
+:collapsed: true
 :END:
 **** [[生物化学/蛋白质的结构与功能]]
 **** [[生物化学/核酸的结构与功能]]

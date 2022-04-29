@@ -1,0 +1,124 @@
+#+title: 内科学/血液系统/activeRecall
+
+* 造血部位可分为哪三个阶段?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 胚胎期: 卵黄囊
+** 胎儿期: 肝脾
+** 出生后: 骨髓;额外造血需要肝脾,即骨髓外造血
+* 骨髓造血的规律?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 骨髓造血干→多能造血干→定向多能造血干→定向单能干→成熟非增殖
+* 血细胞的生成需要哪些条件?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 需HSC(骨髓造血干细胞)
+** 正常造血微环境和造血调控因子
+* 造血阶段发育规律大多为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 祖细胞→原始细胞→幼稚细胞→成熟细胞
+* 哪系的发育划分的更为严格?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 红系和粒系
+* 粒细胞在哪个发育阶段开始被分为三种粒细胞?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 中幼粒细胞
+* 正常的MCV,MCHC值?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 80-100,32-35
+* 正常男性与女性铁总量?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 男50-55mg/kg
+** 女 35-40mg/kg
+* 贮存铁男性与女性?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 1000mg 女性 300-400mg
+* 贮存铁包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 铁蛋白和含铁血黄素
+* 功能状态铁包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 血红蛋白铁占体内铁的67%
+** 肌红蛋白铁占15%
+** 转铁蛋白铁3-4mg
+** 乳铁蛋白,酶和辅因子结合的铁
+* 每天造血需要的铁主要来自于?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+** 衰老破坏的红细胞
+* 正常人每天需要从食物中摄取多少铁?孕妇?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 1-1.5mg/孕妇2-4mg
+* 食物摄入中动物与植物摄入何种形式的铁?
+:PROPERTIES:
+:collapsed: true
+:END:
+** Fe²⁺,Fe³⁺
+* 铁从大便与乳汁排泄量约为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 1mg/d
+* 铁的吸收部位与吸收形式?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 十二指肠与空肠上段,以Fe²⁺形式被吸收
+* Fe³⁺有哪些吸收形式?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 还原为Fe²⁺后被吸收
+** 与铁螯合物结合后才容易被吸收
+* 铁以何种形式吸收以何种形式转运?
+:PROPERTIES:
+:collapsed: true
+:END:
+** Fe²⁺;Fe³⁺
+* 铁被何种物质氧化为Fe³⁺?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 铜蓝蛋白
+* 铁被何种物质转运?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 转铁蛋白
+* 正常情况下转铁蛋白的饱和度为
+*
+* 血管内溶血血红蛋白与触珠蛋白结合转移至肝脏被分解为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 血红素→铁+胆绿素→胆红素
+* 肾小管上皮将血红蛋白分解为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 卟啉,珠蛋白及铁
+** 铁以铁蛋白或含铁血黄素的形式沉积

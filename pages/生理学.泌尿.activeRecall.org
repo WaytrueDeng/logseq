@@ -1,0 +1,429 @@
+#+title: 生理学/泌尿/activeRecall
+
+* 重吸收
+** 近端小管吸收Na⁺,Cl⁻和H20的部位的类型?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 2/3为前半段为跨细胞途径主动重吸收
+*** 1/3发生在后半段经细胞旁途径重吸收
+** 近端小管前半段Na⁺进入上皮细胞与何相耦联?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 氨基酸,葡萄糖,H⁺
+** 近端H的分泌导致何种结果?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** HCO₃⁻被重吸收而Cl⁻不重吸收
+** 后半段的上皮细胞存在何种转运体?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Na⁺-H⁺交换体
+*** Cl⁻-HCO₃⁻交换体
+** 进入细胞内的Cl⁻如何排出细胞,排往何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 由K⁺-Cl⁻同向转运体转运至细胞间液再吸收溶血
+** 为何后半段的为细胞旁途径多?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** Cl⁻浓度比间质高20-40%导致其顺浓度梯度经紧密连接进入细胞间液
+*** 而Na⁺则由于小管液变为正电位在电荷力的作用下进入细胞间液
+** 近端小管水的重吸收经何途径?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 跨细胞途径AQP1和细胞旁途径
+** 近端小管水重吸收的动力?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 主动被动重吸收后细胞间液渗透压增高
+** 近端小管水的渗透压如何?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 等渗
+** 髓袢为何种水通道?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** AQP-1
+** 髓袢为何种尿素通道?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** UT-A2
+** 髓袢升支粗段K⁺吸收后的去向?
+:PROPERTIES:
+:id: 62678bd9-8e8e-49de-8e7b-df5e22bca977
+:collapsed: true
+:END:
+*** 重新回到小管液中
+** 髓袢升支粗段细胞旁途径的动力来源?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** K⁺重新回到小管液中导致小管液正电位
+** [[file:./Na⁺-K⁺-2Cl⁻同向转运体.org][Na⁺-K⁺-2Cl⁻同向转运体]]的抑制剂有?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[file:./呋塞米.org][呋塞米]] [[file:./依他尼酸.org][依他尼酸]]
+***
+** 集合管吸收Na⁺通过何种机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 继发性通过顶端膜上皮的钠通道ENaC而不适之前的各种交换体
+***
+** 集合管主细胞吸收Cl⁻及分泌K⁺的动力?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 小管液种Na⁺经通道被吸收后小管液呈负性而促进Cl⁻与K⁺经旁途径吸收
+** 主细胞含有何种水通道?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 顶端膜与胞内囊泡为2,基底膜为3-4
+** 集合管上皮细胞对水的通透性取决于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 顶端膜上AQP2的数量
+** 哪种利尿剂可抑制ENaC与Cl⁻通过旁途径吸收?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 阿米洛利
+** HCO3进入细胞内后通过什么方式进入细胞间液?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 与其他离子同向转运
+*** 少部分通过Cl-HCO3交换
+*** 上述两种均为继发性主动转运
+** 哪个部位为泌氢的主要部位?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 近端小管,以Na⁺-H⁺交换为主,还包括H⁺-ATP酶
+***
+** 髓袢对HCO3的吸收部位在哪由何种机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 升支粗段,与近曲小管相似
+** 闰细胞分为哪几种类型?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** A型,B型,非A非B型
+** 哪种闰细胞分泌H?以何种机制分泌?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** A型,通过H泵或H-K⁺泵
+** 一分子谷氨酰胺被代谢时生成几个NH4⁺?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 两个进入小管液
+** 一分子谷氨酰胺被代谢时回收几个HCO₃⁻?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 2个
+** 上述反应过程主要发生在何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 近端小管
+** 远端小管与集合物如何分泌K⁺?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 其上皮细胞内K⁺浓度因Na⁺泵的缘故较高→通过K⁺通道顺浓度梯度进入小管液
+** 肾脏对K⁺的分泌量主要取决于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 远端小管与集合管的泌K⁺量
+** 阿米洛利的保钾利尿机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抑制ENaC导致小管液的负电位减少从而减少K⁺的分泌
+** Na⁺-H与Na⁺-K⁺的竞争发生在?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 近端小管
+** 进入细胞内的葡萄糖以何种形式进入细胞间液?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 经过GLUT2以易化扩散的方式转运至细胞间液
+** Ca²⁺的重吸收呈现什么特点?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 与Na⁺的重吸收平行,70%在近端,20%在髓袢,小于1%髓尿排出
+** Ca²⁺以何机制进入细胞间液?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 溶剂托曳
+** 小管液在升支粗段为何种电位,为何?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 正, ((62678bd9-8e8e-49de-8e7b-df5e22bca977))
+** 小管液在远曲小管与集合管为何种电位?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 负
+**
+** 40%-50%的尿素在哪被吸收?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 近端小管
+** 近端小管尿素通过何种通道被吸收
+:PROPERTIES:
+:collapsed: true
+:END:
+*** UT-A2
+** 尿素在髓袢降支细段以何种通道进入尿液?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** UT-A2
+** 内髓部集合管尿素通过何种通道蛋白进入组织间液?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** UT-A1,UT-A3
+** 尿素的肾内循环除了在何处以外均为尿素通道蛋白介导?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 直小血管升支
+** 正常人尿液渗透压为?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 50-1200mOsm/kgxH2O
+** 在髓袢降支细段渗透压不段升高的原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 水不断通过AQP-1排出至组织间液
+*** 尿素不断由尿素通道蛋白UT-A2进入小管液内
+** 抗利尿激素对尿浓缩的影响?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 增强集合管对尿素的通透性导致,提高髓质间液高渗增加对水的重吸收增强浓缩能力
+*** 使集合管上皮的AQP2表达增加
+** 直小血管对浓缩有何影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 其逆流交换机制对于维持高渗极为重要
+** 血流速度对直小血管功能的影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 血流过快导致太多溶质被吸收带走
+*** 血流不足导致髓袢升支粗段Na-K⁺-2Cl吸收障碍
+** 交感神经对尿液有何调节?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** NE刺激α受体使入出球小动脉收缩但入球更明显导致血流量下降静水压亦下降
+*** NE刺激β受体作用于球旁细胞促使RAAS激活
+*** NE刺激α受体促进近端小管与髓袢的对Na⁺,Cl⁻与水的重吸收.可被 [[file:./哌唑嗪.org][哌唑嗪]] 阻断
+**
+** ADH有几种受体分别位于何处?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** V1受体位于血管平滑肌细胞
+*** V2受体位于集合管主细胞的基底侧
+** ADH的V2受体的作用机制?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 短期调节:主细胞内含有AQP-2的囊泡转移镶嵌到细胞的顶端膜.一旦刺激消失AQP-2重新以囊泡形式反回胞质
+*** 长期调节: 通过调节主细胞AQP2基因的转录与蛋白合成
+** 晶体渗透压感受器位于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 下丘脑前部室周器
+** 循环血量通过哪种途径调节ADH释放?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 心肺感受器
+*** 压力感受器
+** 循环容量对晶体渗透压感受器的影响是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 低血压将低阈值增加敏感度,反之
+** 心肺感受器对下丘脑的作用是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抑制
+** 肾素分泌代肾内调节有何种感受器?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 致密斑,位于入球小动脉的牵张感受器
+** 哪些体液因素促进肾素分泌?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** NE/E,肾内分泌的PGE2,PGI2(肾内因素促进肾素分泌?)
+*** 低盐饮食
+** 哪些体液因素刺激抑制肾素释放?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** AngⅡ,ADH,ANP,内皮素与NO
+** AngⅡ直接促进哪的Na⁺的重吸收?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 作用于近端小管上皮细胞的AR
+** AngⅡ浓度与效应有何关系?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 低浓度时虽然血流量减低但是出球收缩大于入球所以滤过率增高
+*** 较高浓度时入球小动脉强烈收缩则滤过率减小
+*** AngⅡ还能引起系膜细胞收缩Kf值减小
+** AngⅡ能促进入球小动脉产生什么?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** PGI₂与NO
+** [[file:./醛固酮诱导蛋白.org][醛固酮诱导蛋白]]包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 上皮细胞顶端膜的ENaC
+*** 基底侧的Na⁺泵
+*** 线粒体内的合成ATP的酶
+** 心房钠尿肽对平滑肌有何影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 使血管平滑肌舒张:降低胞质中的Ca²⁺
+*** 促进肾脏排钠排水
+** 心房钠尿肽对系膜细胞的影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 使之舒张后增加滤过分数
+** 心房钠尿肽为何能使尿钠增加而排钠排水?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 通过cGMP抑制集合管上皮细胞的ENaC通道
+** 心房钠尿肽能使哪些激素减少?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 肾素,醛固酮,ADH
+** 缓激肽对肾的影响?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 舒张血管平滑肌
+*** 抑制集合管对Na⁺和水的重吸收
+** PGE₂与PGI₂对肾的影响?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 舒张人球小动脉增加肾血流量
+*** 抑制近端小管与髓袢升支粗段对Na⁺的重吸收导致尿钠增加
+*** 对抗抗利尿激素使尿量增加
+*** 刺激球旁细胞分泌肾素
+*** 总结: 增加水增加钠防止水钠被重吸收
+**
+** {{embed ((623fc7be-5795-4d8b-ad25-79a8bd0617ac))}}
+** 血浆磷浓度如何影响甲状旁腺激素?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 刺激其释放
+** 甲状旁腺激素对
+** 膀胱逼尿肌与尿道内扩约肌受何支配?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 交感与副交感的双重支配
+** 副交感神经的传出纤维为何神经?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 盆神经
+** 交感神经的传出纤维为何神经?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 腹下神经
+** 阴部神经为何种神经,支配哪种肌肉?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 躯体运动神经
+*** 尿道外括约肌
+** 排尿反射对阴部神经的影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抑制其作用(所以才有正反馈?)
+** 排尿反射在何种水平即能完成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 脊髓水平
+**
+** 无张力膀胱与尿渚留有何不同?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+*** 无张力膀胱为传入神经受损
+*** 尿潴留为传出神经受损
+**
+**
