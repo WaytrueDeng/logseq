@@ -13,7 +13,6 @@
 *** black 3 days, red 8days orange 20 days green 30 days
 *** 生理学
 :PROPERTIES:
-:collapsed: true
 :END:
 **** 绪论
 :PROPERTIES:
@@ -190,7 +189,6 @@ CLOSED: [2022-03-30 Wed 13:38:16]
 ***** [[生理学/消化系统/activeRecall]]
 **** [[生理学/血液系统]]
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** [[生理学/血液系统/真题]]
 ***** [[生理学/血液系统/activeRecall]]
@@ -200,6 +198,7 @@ CLOSED: [2022-03-30 Wed 13:38:16]
 **** [[生理学/内分泌系统/activeRecall]]
 *** [[内科学]]
 :PROPERTIES:
+:collapsed: true
 :END:
 **** 呼吸系统
 :PROPERTIES:
@@ -286,6 +285,7 @@ CLOSED: [2022-04-09 Sat 23:22] SCHEDULED: <2022-04-09 Sat>
 SCHEDULED: <2022-04-11 Mon>
 - [[2022-02-22]]
 - [[2022-03-12]]  mark
+***** [[抗菌药]]
 **** 消化系统
 :PROPERTIES:
 :collapsed: true
@@ -493,6 +493,7 @@ CLOSED: [2022-03-29 Tue 16:34:45]
 SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:04]
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-05 Tue 23:04] State "CANCELLED" from "TODO"
@@ -537,6 +538,7 @@ CLOCK: [2022-03-21 Mon 15:19:21]--[2022-03-21 Mon 16:10:49] =>  00:51:28
 SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:09]
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-05 Tue 23:09] State "CANCELLED" from "TODO"
@@ -574,6 +576,7 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 - [[2022-03-05]]
 **** 泌尿系统
 :PROPERTIES:
+:collapsed: true
 :END:
 ***** TODO [[泌尿系统总论]]
 ***** TODO [[原发性肾小球疾病]]
@@ -586,10 +589,14 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 ***** [[内科学/泌尿系统/activeRecall]]
 ***** [[内科学/泌尿系统/真题]]
 **** 血液系统
+:PROPERTIES:
+:collapsed: true
+:END:
 ***** [[内科学/血液系统/activeRecall]]
 ***** [[内科学/血液系统/真题]]
 **** 内分泌系统疾病
 :PROPERTIES:
+:collapsed: true
 :END:
 ***** TODO [[内分泌系统总论]]
 ***** TODO [[甲亢]]
@@ -611,6 +618,7 @@ CLOCK: [2022-03-21 Mon 01:25:34]--[2022-03-21 Mon 01:25:37] =>  00:00:03
 ***** TODO [[低血糖症]]
 - [[2022-03-11]]
 ***** [[内科学/内分泌系统/activeRecall]]
+***** [[内科学/内分泌系统/真题]]
 **** 风湿系统疾病
 :PROPERTIES:
 :collapsed: true
@@ -951,7 +959,6 @@ CLOCK: [2022-04-03 Sun 08:00]--[2022-04-03 Sun 12:30] =>  4:30
 *****
 *** [[外科学]]
 :PROPERTIES:
-:collapsed: true
 :END:
 **** [[外科学大纲]]
 **** 外科学总论
@@ -1299,7 +1306,6 @@ CLOCK: [2022-04-14 Thu 16:58]--[2022-04-14 Thu 18:07] =>  1:09
 :END:
 **** 泌尿男生殖系统外科疾病
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统外科检查和诊断]] :NOTANKIFIDE:
 SCHEDULED: <2022-04-15 Fri>
@@ -1317,6 +1323,7 @@ SCHEDULED: <2022-04-16 Sat>
 SCHEDULED: <2022-04-16 Sat>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统肿瘤]] :NOTANKIFIDE:
 SCHEDULED: <2022-04-16 Sat>
+***** [[外科学/泌尿男生殖系统外科疾病/真题]]
 **** 骨科 :NOTANKIFIDE:
 :PROPERTIES:
 :END:

@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f216f7ca34418e48",
+        "id": "0d0b014ec6fd9e65",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "draws/骨科.excalidraw.md"
+          }
         }
       }
     ],
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DNA是主要的",
+                "query": "骨折",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "draws/骨科.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,11 +84,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "draws/骨科.excalidraw.md"
+              }
             }
           },
           {
-            "id": "0a4e3e11abc0996c",
+            "id": "8131be29dd9db22f",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -93,26 +98,10 @@
             }
           },
           {
-            "id": "c1af9023b009412e",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "575e73d0221804d8",
+            "id": "cec97619a57f3702",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "99969e4bd9dfc0cd",
-            "type": "leaf",
-            "state": {
-              "type": "BC-ducks",
               "state": {}
             }
           }
@@ -123,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f216f7ca34418e48",
+  "active": "0d0b014ec6fd9e65",
   "lastOpenFiles": [
-    "pages/DNA的空间结构与功能.md",
-    "draws/核苷酸的结构和功能.excalidraw.md",
-    "draws/2022-04-19.excalidraw.md",
-    "pages/RNA的空间结构与功能.md",
-    "pages/核酸的结构与功能.md",
-    "pages/核酸的化学组成以及一级结构.md",
-    "pages/up of DNA的空间结构与功能.md",
-    "pages/DNA是主要的遗传物质.md",
-    "pages/CONTAINER.md",
-    "logseq/bak/draws/生化.蛋白质的结构与功能.excalidraw/2022-04-18T14_00_16.269Z.md"
+    "draws/骨科.excalidraw.md",
+    "draws/英语语法.excalidraw.md",
+    "draws/呼吸系统.excalidraw.md",
+    "assets/病理_肺炎_天天师兄22考研_1648098841378_0.png",
+    "assets/Pasted Image 20220504203603_559.png",
+    "draws/病理呼吸系.excalidraw.md",
+    "draws/其他泌尿外科疾病.excalidraw.md",
+    "draws/尿三杯.excalidraw.md",
+    "draws/泌尿外科感染.excalidraw.md",
+    "draws/核苷酸的结构和功能.excalidraw.md"
   ]
 }
