@@ -1,0 +1,73 @@
+* #+file-path: file:///Users/waytrue/Zotero/storage/LR42F3RZ/23贺银成辅导讲义下册公众号【考研书籍免费分享】(OCR).pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/LR42F3RZ/23贺银成辅导讲义下册公众号【考研书籍免费分享】(OCR).pdf][23贺银成辅导讲义下册公众号【考研书籍免费分享】(OCR).pdf]]
+#+title: hls__23贺银成辅导讲义下册公众号【考研书籍免费分享】(OCR)
+* 肺炎链球菌、支原体、衣原体、流感嗜血杆菌、呼吸道病毒
+:PROPERTIES:
+:hl-page: 31
+:ls-type: annotation
+:id: 627cdc39-8f61-4406-9419-d2621518b62b
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 627cdf00-a6e9-4203-b181-552a1798b153
+:hl-type: area
+:hl-stamp: 1652350719268
+:END:
+* 成人致病菌多属1~9及12型，以第3型毒力最强，儿童多为6、14、19及23型。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 627ce007-290c-49ff-81fe-0c23dfd684b9
+:END:
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 627ce0d8-e352-4972-ad8b-9caa9291bcb4
+:hl-type: area
+:hl-stamp: 1652351191330
+:END:
+* 累及胸膜，引起渗出性胸膜炎。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 627ce14c-d0c8-49c7-a435-06cde1887754
+:END:
+* 重症感染时可有休克、急性呼吸窘迫综合征及神经精神症状。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 627ce5d7-296d-47ac-85f9-6627b5a7ba46
+:END:
+* 病原菌检测是确诊本病的主要依据。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 627ce88f-d691-4220-9702-a9c8bf4cf6ed
+:END:
+* 肺炎克雷伯杆菌主要为内源性感染，即口咽部定植菌随分泌物误吸
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:id: 627cf33f-3728-464c-b01a-707e2eca475c
+:END:
+* 。早期常见病人全身衰弱等毒血症表现
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:id: 627cf633-f72c-40af-8fbb-8cd5a4a1e1d5
+:END:
+* ①肺炎克雷伯杆菌可产生超广谱β内酰胺酶，而对β内酰胺类抗生素产生耐药性。②铜绿假单胞菌主要通过产生羧苄青霉素酶而耐药。③肺炎链球菌可以改变青霉素作用靶位的青霉素结合蛋白，而对抗生素耐药。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 627cfab4-11e4-4df3-82f9-c3282a6ae752
+:END:
+* 老年人、慢性病、免疫低下者为本病的高危人群
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 627cfbe2-a733-4f15-9bfc-b032d8dde4cf
+:END:

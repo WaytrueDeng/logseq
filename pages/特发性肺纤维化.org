@@ -49,23 +49,23 @@
 **** 对症:治疗,防控感染,并发症b
 * [[难兄难弟]]
 * [[et cetera]]
-** 定义 #card
+** 定义 
 :PROPERTIES:
 :collapsed: true
 :id: 621f6257-76ab-4081-a867-ee1b6e59a2d4
 :END:
 *** {{embed ((621c8551-96db-4318-9f02-0ab18ec32ebe))}}
-** 病理改变 #card
+** 病理改变 
 :PROPERTIES:
 :id: 621f6257-ee49-41c3-a85b-c8aa15d85be4
 :END:
 *** {{embed ((621c873a-5739-4f33-9494-22fa18dd6b85))}}
-** 临床表现 #card
+** 临床表现 
 :PROPERTIES:
 :id: 377a3cd0-e701-4dc7-9193-369a64309078
 :END:
 *** {{embed ((621c8828-b9c1-4aab-8f16-9b3bcc9167b3))}}
-** 辅助检查 #card
+** 辅助检查 
 :PROPERTIES:
 :id: 621f6257-f2b6-4fa1-bc59-5567b93efa08
 :END:
@@ -79,7 +79,7 @@
 **** 明显纤维化结构变形伴或不伴蜂窝肺,胸膜下,间质分布
 **** 斑片肺实质纤维化
 **** 成纤维细胞灶
-** 诊断 #card
+** 诊断 
 :PROPERTIES:
 :id: 621f6257-7b41-4991-bd15-ff610eb4d625
 :card-last-interval: 4
@@ -99,7 +99,7 @@
 **** CT表现为UIP背景下出现新的双侧磨玻璃影伴或不伴实变影
 **** 不能完全由心衰或体液过载解释
 ****
-** 治疗 #card
+** 治疗 
 :PROPERTIES:
 :id: 621f6257-a846-4e1e-8a99-ae9498f0a80f
 :END:

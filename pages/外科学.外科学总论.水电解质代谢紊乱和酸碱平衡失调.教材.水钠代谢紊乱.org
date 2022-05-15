@@ -8,13 +8,13 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 脱水/低渗性脱水/概念 #card
+*** 脱水/低渗性脱水/概念 
 :PROPERTIES:
 :id: 624b9a63-ded8-4b91-b6d3-59178559dc8b
 :collapsed: true
 :END:
 **** (一)低渗性脱水(hypotonic dehydration) <span class="tested"> 即细胞外液减少合并低血钠,特点是Na⁺丢失多于失水,血清Na⁺浓度<135mmol/L,血浆渗透压<280mOsm/L,伴有细胞外液量减少。</span>
-*** 脱水/低渗性脱水/病因 #card
+*** 脱水/低渗性脱水/病因 
 :PROPERTIES:
 :id: 624b9ad8-a987-400e-97ed-8c50da57aa22
 :collapsed: true
@@ -23,7 +23,7 @@
 **** <span class="tested">②液体在第三间隙集聚:如腹膜炎、胰腺炎形成大量腹水、肠梗阻导致大量肠液在肠腔内集聚、胸膜炎形成大量胸水等。</span>
 **** <span class="tested">③长期连续应用排钠利尿剂如味塞米、依他尼酸(利尿酸)、嘘嗉类等。肾上腺功能不全,醛固酮分泌不足,肾小管对Na⁺重吸收减少。此外,肾实质性疾病或肾小管中毒等均可引起Na⁺排出增加。</span>
 **** <span class="tested">④经皮肤丢失:如大量出汗、大面积烧伤等均可导致体液和Na*大量丢失,若只补充水则可造成低渗性脱水。</span>
-*** 脱水/低渗性脱水/临床表现 #card
+*** 脱水/低渗性脱水/临床表现 
 :PROPERTIES:
 :id: 624b9b11-2c51-441e-92be-7dd0441e3b38
 :collapsed: true
@@ -33,7 +33,7 @@
 ***** 轻度缺钠者血钠浓度在 <span class="untestedHL">135mmol/L以下</span>,病人感疲乏、头晕、手足麻木,尿Na*减少。
 ***** 中度缺钠者血钠浓度在 <span class="untestedHL">130mmol/L以下</span>,病人除有上述症状外,尚有恶心、呕吐、脉搏细速,血压不稳定或下降,脉压变小,浅静脉萎陷,视力模糊,站立性晕倒。 <span class="untestedHL">尿量少,尿中几乎不含钠和氯。</span>
 ***** 重度缺钠者血钠浓度在 <span class="untestedHL">120mmol/L以下</span>,病人神志不清,肌疫李性抽痛 <span class="untestedHL">,腱反射减弱或消失;出现木僵、呼吸困难甚至昏迷,常发生低血容量性休克。</span>
-*** 脱水/低渗性脱水/诊断 #card
+*** 脱水/低渗性脱水/诊断 
 :PROPERTIES:
 :id: 624b9c4a-6a3a-4031-814e-1406ac0353d2
 :collapsed: true
@@ -42,7 +42,7 @@
 **** ①尿液检查:尿比重常在 <span class="untestedHL">1.010以下,</span>尿Na*和CI"常明显减少;
 **** ②血钠测定:血钠浓度 <span class="untestedHL"><135mmol/L</span>。血钠浓度越低,病情越重;
 **** <span class="untestedHL">③红细胞计数、血红蛋白量、血细胞比容及血尿素氨值均增高</span>
-*** 脱水/低渗性脱水/治疗 #card
+*** 脱水/低渗性脱水/治疗 
 :PROPERTIES:
 :id: 624b9d71-076c-41ae-b212-5ee0b31201d1
 :collapsed: true
@@ -54,12 +54,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 脱水/高渗性脱水/概念 #card
+*** 脱水/高渗性脱水/概念 
 :PROPERTIES:
 :id: 624b9ecd-0685-42a9-b59c-c046e2962539
 :END:
 **** (二)高渗性脱水(hypertonic dehydration) 即细胞外液减少合并高血钠,其特点是失水多于失钠, <span class="untestedHL">血清Na'>150mmol/L,血浆渗透压>310mOsm/L</span>,细胞外液量和细胞内液量都减少,又称 <span class="untestedHL">低容量性高钠血症</span>
-*** 脱水/高渗性脱水/病因 #card
+*** 脱水/高渗性脱水/病因 
 :PROPERTIES:
 :id: 624b9ece-99b8-4e24-8bea-bd0b0c8416a1
 :END:
@@ -68,7 +68,7 @@
 **** ③呕吐、腹泻及消化道引流等可导致 <span class="untestedHL">等渗或含钠低的消化液丢失。</span>
 **** ④ <span class="untestedHL">中枢性或肾性尿崩症时</span>均可经肾排出大量低渗性尿液,使用 <span class="untestedHL">大量脱水剂如甘露醇、葡萄糖等高渗溶液</span>,以及昏迷病人鼻饲浓缩的高蛋白饮食,均可因为溶质性利尿而导致失水。
 **** ⑤任何原因引起的 <span class="untestedHL">过度通气,可经呼吸道黏膜不显性蒸发加强,</span>丢失不含电解质的水分。
-*** 脱水/高渗性脱水/临床表现 #card
+*** 脱水/高渗性脱水/临床表现 
 :PROPERTIES:
 :id: 624b9ecf-85bf-4769-9046-01de374d22d3
 :END:
@@ -76,7 +76,7 @@
 **** 轻度缺水者除口渴外,无其他症状, <span class="untestedHL">缺水量为体重2%~4%</span>。
 **** <span class="tested">中度缺水者有极度口渴、乏力、尿少、唇舌干燥、皮肤失去弹性、眼窝下陷、烦躁不安、肌张力增高、腱反射亢进等,缺水量为体重4%~6%。</span>
 **** 重度缺水者除上述症状外,出现 <span class="untestedHL">躁狂、幻觉、错乱、诡妄、抽搐、昏迷</span>甚至死亡。缺水严重者有心动过速、体温上升、血压下降等症状。
-*** 脱水/高渗性脱水/治疗 #card
+*** 脱水/高渗性脱水/治疗 
 :PROPERTIES:
 :id: 624b9ecf-914b-4c0c-9dcb-be346e88cc77
 :END:
@@ -89,12 +89,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 脱水/等渗性脱水/概念 #card
+*** 脱水/等渗性脱水/概念 
 :PROPERTIES:
 :id: 624baaac-f438-4779-b264-d8278ffb92a9
 :END:
 **** (三) <span class="tested">等渗性脱水(isotonic dehydration) 即细胞外液减少而血钠正常,其特点是水钠成比例丢失,血容量减少但血清Na*浓度和血浆渗透压仍在正常范围内。</span>
-*** 脱水/等渗性脱水/病因 #card
+*** 脱水/等渗性脱水/病因 
 :PROPERTIES:
 :id: 624baaf2-03af-415e-b5ca-6652978fbeff
 :END:
@@ -104,7 +104,7 @@
 **** <span class="tested">③大量抽放胸水、腹水,大面积烧伤等。</span>
 **** 等渗性脱水如不及时处置,病人 <span class="untestedHL">可以通过不显性蒸发或呼吸等途径不断丢失水分而转变成高渗性脱水</span>。如果 <span class="untestedHL">补充过多低渗液体则可转变为低渗性脱水和低钠血症</span>。
 脱水/等渗性脱水
-*** 脱水/等渗性脱水/临床表现 #card
+*** 脱水/等渗性脱水/临床表现 
 :PROPERTIES:
 :id: 624baaf6-d691-4b94-9e79-0d8b0b07a87c
 :END:
@@ -112,12 +112,12 @@
 **** <span class="tested">若在短期内体液丧失量达到体重5%,即丧失25%细胞外液,病人则会出现脉搏细速、肢端湿冷、血压不稳定或下降等血容量不足之症状。</span>
 **** <span class="untestedHL">当体液继续丧失达体重6%~7%时(相当于丧失细胞外液的30%~35%),则有更严重休克表现。</span>
 脱水/等渗性脱水
-*** 脱水/等渗性脱水/诊断 #card
+*** 脱水/等渗性脱水/诊断 
 :PROPERTIES:
 :id: 624baafc-5fe4-4e4c-9e7a-22e3ece2e251
 :END:
 **** 【诊断】多数病人有消化液或其他体液大量丧失病史,失液量越大、失液持续时间越长则症状越明显。因此,依据病史和临床表现常可确定诊断。实验室检查可发现 <span class="untestedHL">血液浓缩现象,包括红细胞计数、血红蛋白量和血细胞比容均明显增高</span>。 <span class="untestedHL">血清Na,CI等一般无明显降低</span>,尿比重增高,动脉血血气分析可判别是否有酸、碱平衡失调存在。
-*** 脱水/等渗性脱水/治疗 #card
+*** 脱水/等渗性脱水/治疗 
 :PROPERTIES:
 :id: 624baafc-d9b1-4e0c-a399-c26c7fb92488
 :END:
@@ -130,18 +130,18 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 水中毒和水肿/概念 #card
+** 水中毒和水肿/概念 
 :PROPERTIES:
 :id: 624baddf-330b-4567-8d71-0b9ffc734672
 :END:
 *** 水中毒(water intoxication)是指水潴留使 <span class="untestedHL">体液量明显增多,血清Na⁺浓度<130mmol/L,血浆渗透压<280mmol/L,但体钠总量正常或增多</span>,故又称之为 <span class="untestedHL">高容量性低钠血症</span>。 <span class="untestedHL">水肿(edema)是指过多液体在组织间隙或体腔内聚集。</span>
-** 水中毒和水肿/病因 #card
+** 水中毒和水肿/病因 
 :PROPERTIES:
 :id: 624bae25-01b5-48fd-a594-78028b86e880
 :END:
 *** 【病因】① <span class="untestedHL">急性肾衰竭,</span>各种原因所致的 <span class="untestedHL">抗利尿激素分泌过多</span>。肾功能良好病人一般不容易发生水中毒,故水中毒 <span class="untestedHL">最常发生于肾功能不全病人。</span>
 *** ②持续性大量 <span class="untestedHL">饮水或精神性饮水过量,</span>静脉输入不含盐或含盐量少液体过多过快,超过肾脏排水能力。全身性水肿原因多见于 <span class="untestedHL">充血性心力衰竭、肾病综合征和肾炎</span>、肝脏疾病,也见于营养不良和某些内分泌疾病。局限性水肿常见于器官 <span class="untestedHL">组织局部炎症,静脉或淋巴管阻塞</span>等情况。
-** 水中毒和水肿/临床表现 #card
+** 水中毒和水肿/临床表现 
 :PROPERTIES:
 :id: 624baf44-03ec-4aea-a9c4-cd0112fb4b76
 :END:
@@ -149,7 +149,7 @@
 *** 慢性水中毒症状往往 <span class="untestedHL">被原发疾病的症状所掩盖</span>,可有软弱无力、恶心、呕吐、嗜睡等。体重明显增加,皮肤苍白而湿润。
 *** 实验室检查: <span class="untestedHL">红细胞计数、血红蛋白量、血细胞比容和血浆蛋白量均降低;血浆渗透压降低,以及红细胞平均容积增加和红细胞平均血红蛋白浓度降低,提示细胞内、外液量均增加。</span>
 *** 皮下水肿是水肿重要的临床特征,当皮下组织过多液体集聚时,皮肤肿胀、弹性差,用手指按压时可出现凹陷,称为凹陷性水肿。水肿出现的部位因发病原因不同各有不同, <span class="untestedHL">心源性水肿首先出现在低垂部位,肾性水肿先表现为眼脸或面部水肿,肝性水肿则以腹水为多见。</span>
-** 水中毒和水肿/治疗 #card
+** 水中毒和水肿/治疗 
 :PROPERTIES:
 :id: 624baf61-e8df-4275-a217-a905baa6b5ae
 :END:

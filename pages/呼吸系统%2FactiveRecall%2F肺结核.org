@@ -1,0 +1,622 @@
+* #+title: 呼吸系统/activeRecall/肺结核
+* 病因
+** 结核分支杆菌的抗酸染色呈何色? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:37:55.216Z
+:card-last-score: 1
+:END:
+*** 红色
+** 结核分支杆菌的抗酸染色呈何性? #card
+*** 阳性
+** 结核分支杆菌对哪些环境抵抗力强? #card
+*** 干燥,冷,酸,碱
+** 结核分支杆菌对何种刺激特别敏感? #card
+*** 紫外线
+*** 结核分支杆菌被紫外线直射多久被杀死? #card
+**** 2-7小时
+** 结核分支杆菌生长快慢如何? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:38:12.072Z
+:card-last-score: 1
+:END:
+*** 生长缓慢
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]培养时间为? #card
+*** 2-8周
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]菌体最主要的成分是? #card
+*** 类脂质
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]菌体类脂质成分最主要的临床意义是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:39:40.104Z
+:card-last-score: 1
+:END:
+*** 与组织坏死,干酪液化,空洞发生,变态反应有关
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]菌体蛋白质有何作用? #card
+*** 诱发皮肤免疫变态反应
+* 发病机制
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]是否分泌毒素? #card
+*** 否
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]是通过什么免疫对人体组织造成损伤的? #card
+*** 细胞免疫
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]最先使何细胞作出反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:41:10.646Z
+:card-last-score: 1
+:END:
+*** 巨噬细胞
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]形成肉芽肿的作用? #card
+*** 限制结核分支杆菌的扩散并将其杀灭
+** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]主要是何种T细胞? #card
+*** CD4⁺T细胞
+** 免疫反应与变态反应的鉴别
+*** 抗原类型
+**** 免疫反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:47.396Z
+:card-last-score: 1
+:END:
+***** 多糖类
+**** 变态反应? #card
+***** 蜡质参与什么变态反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:35:50.519Z
+:card-last-score: 1
+:END:
+****** 结核变态反应
+***** 菌体蛋白参与什么变态反应? #card
+****** 皮肤变态反应
+*** 抗原量
+**** 免疫反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:37:28.264Z
+:card-last-score: 1
+:END:
+***** 高剂量抗原易引发
+**** 变态反应? #card
+***** 低剂量的抗原易引发
+*** 对机体的影响
+**** 免疫反应? #card
+***** 获得特异性免疫力起保护作用
+**** 变态反应? #card
+***** 对人体组织起破坏作用对细菌也不利
+*** 发病人群
+**** 免疫反应? #card
+***** 常发生于继发性肺结核
+**** 变态反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:38:52.609Z
+:card-last-score: 1
+:END:
+***** 常发生于原发结核感染病人
+*** 临床特点
+**** 免疫反应? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:35:38.213Z
+:card-last-score: 1
+:END:
+***** 局部反应轻微
+**** 变态反应
+***** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]多久出现典型症状? #card
+****** 4-8周
+***** [[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]的典型症状有哪些表现? #card
+****** 皮肤红斑,溃疡,坏死,干酪化,空洞形成,[[id:621b021d-4530-437c-9d7b-f1462a59bb55][结核分枝杆菌]]大量繁殖
+*** 免疫抑制剂
+**** 免疫反应? #card
+***** 可抑制免疫反应
+**** 变态反应? #card
+***** 也可同时抑制变态反应
+** 发病部位
+*** 原发型肺结核的发病部位是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:34:21.864Z
+:card-last-score: 1
+:END:
+**** 上叶下部与下叶上部的近胸处
+*** 继发型肺结核的发病部位? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:37:06.946Z
+:card-last-score: 1
+:END:
+**** 上叶的尖后段,下叶的背段与后基底段
+** 起病情况
+*** 原发型肺结核? #card
+**** 隐匿
+*** 继发型肺结核? #card
+**** 缓慢
+**** 哪一型可急性发病? #card
+***** 干酪型
+** 并发症
+*** 原发型肺结核? #card
+**** 一般无
+*** 继发型肺结核? #card
+**** [[id:66253126-28E7-4A78-9142-881129AD5FBF][干酪样坏死]],空洞形成
+** 并发症
+*** 原发型肺结核? #card
+**** 淋巴道与血道
+*** 继发型肺结核? #card
+**** 支气管
+* 临床表现
+** 全身症状
+*** 最常见的全身症状是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:34:29.885Z
+:card-last-score: 1
+:END:
+**** 发热
+*** 发热特征是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:34:13.042Z
+:card-last-score: 1
+:END:
+**** 长期午后潮热,下午或傍晚开始升高
+**** 翌晨降至正常
+*** 育龄期女性可以有? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:38:58.730Z
+:card-last-score: 1
+:END:
+**** 月经不调
+** 呼吸系统症状
+*** 常见可疑症状是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:54.449Z
+:card-last-score: 1
+:END:
+**** 咳嗽咳痰2周以上或痰中带血
+*** 咯血患者比例? #card
+**** 1/3
+*** 痰中带血为何所致? #card
+**** 炎性病灶毛细血管扩张
+*** 中等量以上咯血为何所致? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:35:22.568Z
+:card-last-score: 1
+:END:
+**** 小血管损伤或来自空洞的动脉瘤破裂所致
+** 喀血后低热因何所致? #card
+*** 残留血块吸收或阻塞支气管感染
+** 若发热持续不退则应考虑? #card
+*** 结核病灶播散
+** 结核病何时能表现为胸痛? #card
+*** 累及胸膜时
+** 胸痛的性质? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:38:06.743Z
+:card-last-score: 1
+:END:
+*** 胸膜性胸痛
+** 呼吸困难见于? #card
+*** 干酪性肺炎,大量胸腔积液病人
+** 哪种情况能出现肺实变的体征? #card
+*** 渗出性病变范围较大或干酪样坏死
+** 哪种情况可以听到支气管呼吸音? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:30.165Z
+:card-last-score: 1
+:END:
+*** 较大的空洞病变
+** 较大的纤维条索形成气管向哪侧移动? #card
+*** 患侧
+** 支气管结核体征为何? #card
+*** 局限性哮鸣音
+* [[id:80968770-4ea9-4778-a13e-f4834dcf43e6][实验室和其他检查]]
+** 常规首选检查是? #card
+*** X线
+** 金标准是? #card
+*** 痰结核分枝杆菌培养
+** 支气管结核与淋巴结支气管瘘诊断靠? #card
+*** 纤维支气管镜
+** PPD仅对何有效? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:36:21.878Z
+:card-last-score: 1
+:END:
+*** 未接种卡介苗的婴幼儿
+** 哪些情况会导致PPD试验阴性? #card
+*** 营养不良,HIV感染,麻疹,水痘,癌症
+** 哪个试验可以区分自然感染和卡介苗,和大部分非结核性分枝杆菌? #card
+*** γ-干扰素释放试验 IGRAs
+* 诊断
+** 对结核病人诊断程序分为哪五步? #card
+*** 可疑症状的筛选
+**** 对可疑症状需要进行什么检查? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:57.912Z
+:card-last-score: 1
+:END:
+***** 痰抗酸杆菌及胸部X线检查
+*** 是否为肺结核
+**** X线检查肺部发现异常阴影者应怎么做? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:33:55.002Z
+:card-last-score: 1
+:END:
+***** 系统检查
+*** 有无活动性
+**** 活动性的肺结核表现为? #card
+***** 边缘模糊不清的斑片状阴影,可有中心溶解和空洞或出现播散病灶
+**** 非活动性病变主要表现为? #card
+***** 钙化,硬结,纤维化,痰检查不排菌,无任何症状
+*** 是否排菌
+**** 确定传染源的唯一方法是? #card
+***** 是否排菌
+*** 是否耐药
+** 结核病分类标准? #card
+*** 原发型肺结核
+*** 血行播散型肺结核
+**** 好发人群
+***** 急性血型播散型肺结核? #card
+****** 婴幼儿青少年,成人少见
+***** 慢性血行播散型肺结核? #card
+****** 成人
+**** 发病情况
+***** 急性血型播散型肺结核? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:41:05.710Z
+:card-last-score: 1
+:END:
+****** 抵抗力低下,大量结核杆菌血行进入肺部
+***** 慢性血行播散型肺结核? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:37:46.339Z
+:card-last-score: 1
+:END:
+****** 人体免疫力较高
+**** 起病情况
+***** 急性血型播散型肺结核? #card
+****** 起病急持续高热全身中毒症状重
+***** 慢性血行播散型肺结核? #card
+****** 起病较缓,症状较缓
+**** X线
+***** 急性血型播散型肺结核? #card
+****** 病变分布为全肺
+****** 三均一
+***** 慢性血行播散型肺结核? #card
+****** 病变分布:双上中肺野
+****** 三不一
+*** 继发型肺结核
+**** 浸润性肺结核
+***** 好发于? #card
+****** 肺尖和锁骨下
+***** 影像学表现为? #card
+****** 小片状或斑点状阴影,可融合形成空洞
+***** 渗出性病变易? #card
+****** 吸收
+***** 纤维干酪增殖病变吸收速度? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:38:40.260Z
+:card-last-score: 1
+:END:
+****** 慢,可长期无改变
+**** 空洞性肺结核
+***** 空洞特点大小? #card
+****** 空洞形态大小不一
+***** 空洞形成原因? #card
+****** 由于干酪渗出病变溶解形成
+***** 洞壁特点是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:34:43.962Z
+:card-last-score: 1
+:END:
+****** 薄壁,不明显
+***** 周围有何病变? #card
+****** 浸润改变
+**** 结核球
+***** 大小? #card
+****** 2-4cm
+***** 由何形成? #card
+****** 干酪样病变吸收和周边纤维包裹
+****** 干酪空洞阻塞性愈合而成
+***** 结核球内有? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:35:28.360Z
+:card-last-score: 1
+:END:
+****** 钙化灶和或液化坏死形成的空洞
+***** 80%以上的结核球有何可作为诊断与鉴别诊断的参考? #card
+****** 卫星灶
+**** 干酪性肺炎
+***** 多发生于哪类病人? #card
+****** 机体免疫力差,体质衰弱.受到大量结核分枝杆菌感染
+****** 淋巴结支气管瘘,大量的干酪样物质经支气管进入肺内而发生
+***** 大叶性干酪性肺炎
+****** 呈现何种阴影? #card
+******* 大叶性密度均匀磨玻璃状阴影,逐渐出现溶解区
+****** 呈现何种类型的空洞? #card
+******* 虫蚀性
+***** 小叶性干酪性肺炎
+****** 症状与体征和大叶性相比? #card
+******* 较轻
+****** X线呈现何种病灶? #card
+******* 小叶斑片播散病灶
+****** 病灶多发生在? #card
+******* 双肺中下部
+**** 纤维空洞性肺结核
+***** 空洞壁的特点? #card
+****** 厚壁空洞
+***** 特征性的表现为? #card
+****** 广泛的纤维增生,肺门抬高和肺纹理呈垂柳样
+***** 肺组织与纵隔的表现为? #card
+****** 患侧肺组织收缩,纵隔偏向患侧
+*** 结核性胸膜炎
+**** 表现为哪些类型? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:04.393Z
+:card-last-score: 1
+:END:
+***** 结核性干性胸膜炎
+***** 结核性渗出性胸膜炎
+***** 结核性脓胸
+*** 其他肺外结核? #card
+**** 按照部位脏器命名,如骨关节结核,肾结核,肠结核
+*** 菌阴肺结核
+**** 定义何为菌阴? #card
+***** 为三次痰涂片及一次痰培养均阴性的肺结核
+**** 诊断标准为? #cardA-F中的3项或,G-H1项
+***** A典型的肺结核临床症状和胸部X线表现
+***** B抗结核治疗有效
+***** C临床可排除其他非结核性肺部疾病
+***** D.PPD强阳性
+***** E痰结核菌PCR和探针均阳性
+***** F肺外组织病理证实结核病变
+***** G.支气管肺泡灌洗液中检出抗酸分支杆菌
+***** H.支气管或肺部组织病理证实结核病
+* 治疗
+* 肺结核相关疾病
+** HIV合并肺结核症状总结为? #card
+*** 所有的都严重,但是就是结核菌素试验查不出来
+* 肺癌相关分期
+** T分期一共分为几期? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** T1-T4
+** T分期的分期规律
+:PROPERTIES:
+:collapsed: true
+:END:
+*** T1几CM? #card
+**** <=3cm
+*** T2几CM? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:40:37.397Z
+:card-last-score: 1
+:END:
+**** <=5cm
+*** T3几CM? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-15T16:00:00.000Z
+:card-last-reviewed: 2022-05-15T12:36:12.570Z
+:card-last-score: 1
+:END:
+**** <=7cm
+*** T4几CM? #card
+**** =7cm
+*** 每个亚分期以几cm为步长? #card
+**** 1cm
+*** T1分期侵及什么未侵及什么? #card
+**** 叶支气管,未侵及主支气管
+*** T2分期侵及什么,未侵及什么? #card
+**** 主支气管,未侵及隆突
+**** 侵犯脏层胸膜
+**** 有阻塞性肺炎或部分或完全肺不张
+*** 哪种情况下虽然能侵犯主支气管但是仅限于支气管壁所以仍为T1? #card
+**** 表浅扩散型肿瘤,无论大小
+*** T3分期肿瘤侵犯以下任一何器官即判定成功? #card
+**** 胸壁,包含肺上沟瘤
+**** 膈神经
+**** 心包
+**** 全肺肺不张肺炎
+**** 同一肺叶出现孤立性癌结节
+*** T4分期肿瘤侵犯以下任一何器官即判定成功? #card
+**** 纵隔
+**** 心脏
+**** 大血管
+**** 隆突
+**** 喉返神经
+**** 主气管
+**** 食管
+**** 椎体
+**** 膈肌
+**** 同侧不同肺叶内出现孤立性癌结节
+*** 侵犯膈神经为T几期肺癌? #card
+**** 3
+*** 侵犯喉返神经为T几期肺癌? #card
+**** 4期
+*** 侵犯心包为T几期肺癌? #card
+**** 3
+*** 侵犯心脏为T几期肺癌? #card
+**** 4
+*** 部分肺不张为T几期肺癌? #card
+**** 2
+*** 全肺肺不张T几期肺癌? #card
+**** 3
+*** 侵犯脏层胸膜为T几期肺癌? #card
+**** 2
+*** 侵犯胸壁为T几期肺癌? #card
+**** 3
+*** 同一肺叶出现孤立性肺癌结节为T几期肺癌? #card
+**** 3
+*** 侵犯叶支气管为T几期肺癌? #card
+**** 1
+*** 侵犯主支气管为T几期肺癌? #card
+**** 2
+*** 侵犯隆突为T几期肺癌? #card
+**** 4
+*** 侵犯大血管,主气管,食管三管为T几期肺癌? #card
+**** 4
+*** 侵犯椎体为T几期肺癌? #card
+**** 4
+*** 侵犯膈肌为T几期肺癌? #card
+**** 4
+** N分期的一般规律
+*** N1分期包括哪些淋巴结? #card
+**** 同侧支气管周围
+**** 同侧肺门淋巴结
+**** 肺内淋巴结
+*** N2分期包括哪些淋巴结? #card
+**** 同侧纵隔内
+**** 隆突下淋巴结
+*** N3分期包括哪些淋巴结? #card
+**** 对侧纵隔
+**** 对侧肺门
+**** 同侧或对侧前斜角肌及锁骨上淋巴结
+** M分期的一般规律
+*** 一共分为哪几个大分期? #card
+**** Mx无法评估
+**** M0无远处转移
+**** M1远处转移
+*** M1分期分为哪几个亚期? #card
+**** M1c期多个或单个器官多处转移
+**** M1b远处器单发转移灶
+**** M1a局限于胸腔内,包括胸膜播散以及对侧肺叶出现癌结节
+** TNM分期与临床分期的关系
+*** 原位癌是几期? #card
+**** 0期
+*** ⅠA期几个亚期分别对应? #card
+**** ⅠA1→T1aN0M0
+**** ⅠA2→T1bN0M0
+**** ⅠA3→T1cN0M0
+*** ⅠB期对应? #card
+**** T2aN0M0
+*** ⅡA期对应? #card
+**** T2bN0M0
+*** ⅡB期对应? #card
+**** T<=2b,N=1
+**** T=3,NM=0
+*** ⅢC期如何对应? #card
+**** T>=3,N=3
+*** ⅢA的对应规律
+**** N为0时需要T至少到达? #card
+***** 4
+**** N为1时需要T至少到达? #card
+***** 3
+**** N为2时需要T到达? #card
+***** 2及以下
+*** ⅢB的对应规律
+**** ⅢB的N分期至少多少以上? #card
+***** 2
+**** 当ⅢB的N分期为2时T分期最少要达到? #card
+***** 3
+**** 当ⅢB的N分期为3时T分期小于等于? #card
+***** 2
+*** Ⅳ期A期如何判定? #card
+**** 只要达到M1a-1b
+*** Ⅳ期B期如何判定? #card
+**** 只要达到M1c
+*
+* {{cards [[呼吸系统/activeRecall/肺结核]]}}

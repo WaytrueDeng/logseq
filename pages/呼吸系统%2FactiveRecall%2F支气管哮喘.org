@@ -1,0 +1,223 @@
+* #+title: 呼吸系统/activeRecall/支气管哮喘
+* 支气管哮喘变态反应的终末环节是?
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[嗜酸性粒细胞]]与[[肥大细胞]]
+* 哮喘的发作与何比值有关?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** cAMP/cGMP
+** 比值增大则舒张减少则收缩
+* 糖尿病酮症表现为何种呼吸?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 深大呼吸Kusssmaul呼吸
+* 充血性心衰表现为何种呼吸?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 潮式呼吸-陈施式呼吸
+* 哮喘急性发作重度的表现?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 端坐呼吸
+** 发单字
+** 大汗淋漓
+** 三凹征
+* 哮喘急性发作时的呼吸性碱中毒如何与代谢性碱中毒鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+** PCO₂27mmHg（正常值为35～45mmHg，大于50mmHg表示有抑制中枢危险）
+* 哮喘严重时的先表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 缺氧和过度通气导致的呼吸性碱中毒
+* 支气管哮喘与心源性哮喘都有的表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 双肺哮鸣音
+** 夜间加重
+** 咳嗽,咳痰
+* SB的正常值为?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 22-27mmol/L
+* AB>SB见于?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 呼吸性酸中毒以及代偿性的代谢性碱中毒
+* PCO₂大于多少时为呼吸性碱中毒?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 45mmHg
+* PCO₂小于多少时为呼吸性酸中毒?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 35mmHg
+* 心源性哮喘与哮喘的X线鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 胸片可见增大的心脏与肺淤血
+* 嗜酸粒细胞性肺炎X线表现
+:PROPERTIES:
+:collapsed: true
+:END:
+** 肺外带的致密肺泡渗出影,中心带清晰,称作肺水肿反转形状
+* 哮喘的首选检查是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 肺功能检查
+* 重度及以上哮喘的首选检查是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 动脉血气分析因为无法配合做肺功能检查
+* 重度哮喘发作时的重要治疗方法是?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 补液纠正失水防止痰液黏稠不易咳出,阻塞气道
+* 哮喘急性发作时病因不明可选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 氨茶碱,或雾化吸入选择性的β2受体激动剂
+* 乙酰胆碱的作用机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 乙酰胆碱兴奋M胆碱受体，可增加鸟苷酸环化酶活性，促进三磷酸鸟苷（GTP）转化为环磷酸鸟苷（cGMP），可增加生物活性物质释放，使支气管收缩，发生哮喘。使用抗胆碱类药物，可抑制乙酰胆碱，使生物活性物质释放减少（A对）。抗胆碱药分为短效抗胆碱药（SAMA）和长效抗胆碱药（LAMA），SAMA主要用于哮喘急性发作的治疗，LAMA主要用于哮喘合并慢阻肺以及慢阻肺患者的长期治疗，不用于哮喘发作的预防（B错）。 ---
+* LAMA&SAMA可否用于哮喘的预防?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 不
+* [[file:./β₂受体激动剂.org][β₂受体激动剂]]治疗哮喘的机制?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 激动支气管上的β₂受体使之扩张
+** 激动肥大细胞等细胞表面的β₂受体减少肥大细胞和嗜碱性粒细胞脱颗粒和介质释放
+* [[file:./β₂受体激动剂.org][β₂受体激动剂]]的缺点?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 在应用两周后常引起β₂-受体下调,使支气管舒张作用减弱
+* 具有保护肥大细胞细胞膜作用的药有?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 色苷酸二钠与酮替芬
+* 可单独应用的药物?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** ICS,白三烯抑制剂
+* 治疗哮喘最有效的药物是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 糖皮质激素
+* 治疗急性哮喘发作的首选药物是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** SABA
+* 糖皮质激素治疗哮喘的机制?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 抑制炎症细胞的迁移和活化
+** 抑制细胞因子如血小板活化因子的生成
+** 抑制炎症介质的生成和释放
+** 促使小血管收缩,减少渗出和炎症细胞的浸润
+** 增强平滑肌细胞β₂受体的反应性
+* 糖皮质激素用于轻度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 200-500ug/d
+* 糖皮质激素用于中度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 500-1000ug/d
+* 糖皮质激素用于重度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 剂量>1000ug/d
+* 糖皮质激素治疗持续性哮喘的剂量不宜超过?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 2000ug/d
+* 哮喘与COPD的可能可能最可能鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 请注意：桶状胸、胸片透亮度增加不是COPD的专利，它们说明的问题是肺内残气量增多了，可见于COPD、支气管哮喘
+** 这两个疾病很好鉴别的：
+可能可能最可能是 COPD 的情况：年龄大、慢性咳痰喘、干湿啰音共存
+可能可能最可能是 支气管哮喘 的情况：过敏因素、发作性咳喘、干啰音
+* 哮喘轻度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+** 正常或轻度下降
+* 哮喘中度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+** PaO₂下降而PaCO₂正常
+* 哮喘重度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+** PaO₂明显下降而PaCO₂超过正常
+* 哮喘急性发作使用呼吸机的指征是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:backgroundcolor: #793e3e
+:END:
+** 呼吸肌疲劳
+** PaCO₂>=45mmHg
+** 身志意识改变
+*
+*
+*
+*

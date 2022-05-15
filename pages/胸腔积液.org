@@ -2,13 +2,13 @@
 :ID: F5277822-3EEF-43DE-A1D6-4E75359F088E
 :END:
 
-* 解剖 #own #card
+* 解剖 #own 
 :PROPERTIES:
 :collapsed: true
 :id: 6239c1ee-2df0-4bad-8c89-72d0333c0292
 :END:
 ** {{embed ((6220804b-4fca-4d21-a73c-a934c8e76bd7))}}
-* 胸腔积液循环机制 #own #card
+* 胸腔积液循环机制 #own 
 :PROPERTIES:
 :collapsed: true
 :id: 6239c1ee-1427-4495-998c-3582777700d2
@@ -21,7 +21,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 渗出液$\xrightarrow[组胺]{炎症介质}$血管通透性增加 #card
+** 渗出液$\xrightarrow[组胺]{炎症介质}$血管通透性增加 
 :PROPERTIES:
 :id: 6239c1ee-0f79-4287-b4dd-ac17823ee944
 :END:
@@ -53,7 +53,7 @@
 :PROPERTIES:
 :id: 6239c1ee-645f-465c-822b-c22c7f87eecf
 :END:
-** 漏出液 #card
+** 漏出液 
 :PROPERTIES:
 :id: 6239c1ee-2353-4ef2-9090-483c426c76cd
 :END:
@@ -71,7 +71,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 症状 #card
+** 症状 
 :PROPERTIES:
 :id: 6239c1ee-97d5-42e7-900a-fc1c216b0e65
 :END:
@@ -93,7 +93,7 @@
 |触|[[语音震颤减弱]]或消失|~|
 |叩|浊音/实音|单侧鼓音/过清音|
 |听|患侧呼吸音减弱或消失|~|
-* 辅助检查 #card
+* 辅助检查 
 :PROPERTIES:
 :collapsed: true
 :id: 6239c1ee-364a-4462-b5bc-b184f5914edc
@@ -113,7 +113,7 @@
 *** $$\begin{rcases}检验科:生化\\病理科:找脱落细胞\\微生物实验室:培养\end{rcases}→\begin{cases}明确积液性质\\明确病因\\改善症状\end{cases}$$
 *** pH和葡萄糖
 **** {{embed ((62208654-f384-4b61-84d9-53be6f262bce))}}
-* [[渗出液]]和[[漏出液]]的鉴别 #card
+* [[渗出液]]和[[漏出液]]的鉴别 
 :PROPERTIES:
 :collapsed: true
 :id: 6239c1ee-42a6-4e61-a523-5e90fe5c8b85
@@ -123,7 +123,7 @@
 |蛋白定量|>30|<30(Rivalta阴性)|
 |细胞|>500x10⁶|<100x10⁶|
 |葡萄糖|低于血糖(因为有消耗)|等于血糖|
-* 胸腔积液的鉴别(渗出液之间) #card
+* 胸腔积液的鉴别(渗出液之间) 
 :PROPERTIES:
 :collapsed: true
 :id: 6239c1ee-9c56-48c9-9456-472e7d3f01d7

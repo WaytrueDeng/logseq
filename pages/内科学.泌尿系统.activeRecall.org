@@ -8,17 +8,20 @@
 ** 24h尿蛋白超过多少/天为蛋白尿? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-de2d-4da8-97b4-661f051fabc1
 :END:
 *** 150mg/d
 ** 24h 尿蛋白多少是大量蛋白尿? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-ed81-4787-b9b5-b60d6ee949e1
 :END:
 *** 3.5g/d
 ** 肾脏常见综合征
 *** 肾病综合征表现为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-1e4c-426d-9352-d28915415045
 :END:
 **** 1.肾病综合征(nephrotic syndrome) 表现为大量蛋白尿(>3.5g/d),
 **** 低白蛋白血症(<30g/L),
@@ -27,6 +30,7 @@
 *** 肾病综合征病因可为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-4395-4a29-867c-5662c71c0492
 :END:
 **** 原发性肾小球疾病(如微小病变肾病、膜性肾病、局灶节段性肾小球硬化等)和继发性肾小球疾病(如糖尿病肾病、狼疮肾炎等)。
 *** 急性肾损伤的判断标准是? #card
@@ -34,22 +38,26 @@
 *** 慢性肾衰竭的定义? #card正常人GFR为多少? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-5e7f-4879-bc55-37e6d7c69273
 :END:
 **** 正常人为120ml,CKD<60持续3个月
 ** 血清肌肝检查的特点是什么? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-a3de-4774-8548-814425ed0e9b
 :END:
 *** 敏感度低只有当肾滤过功能损伤大于50%时才会升高
 ** 糖尿病肾病与狼疮肾炎表现为何种综合征? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-8621-47fe-93a5-8b241094e3c4
 :END:
 *** 肾病综合征
 ***
 ** 急进性肾炎综合征到底有多急? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-20eb-4ec2-8534-d4dfc189c51f
 :END:
 *** 数周至数月
 **
@@ -60,6 +68,7 @@
 ** 肾炎性水肿与肾病性水肿的机制有何不同? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9c1f-4b44-9c8e-9d1ba3923450
 :END:
 *** 肾病性
 **** 主要是通过漏出蛋白质使得血容量通过胶体渗透压的下降而
@@ -69,65 +78,95 @@
 ** 肾炎性水肿与肾病性水肿中RAAS与ADH的兴奋性如何? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-e465-4a4f-b979-f7e615c734ee
 :END:
 *** 肾炎性水肿血容量增多而肾病性水肿的容量是下降地,后者可以刺激RAAS系统(估计是通过容量感受器刺激ADH与兴奋交感神经? #card)
 ** 为什么肾炎有血尿和高血压而肾病无? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-1dcc-4e2f-9bff-aa2ab3da6776
 :END:
 *** 高血压是因为本质上肾病为血容量减少而肾炎为血容量增加
 ** 为什么与β-溶血性链球菌有关的都是2周起病? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-5cdb-4e94-a8ec-d69760ab31e3
 :END:
 *** 因为与抗体生成时间有关
 ** 循环免疫复合物主要沉积于? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-756e-4699-b8fb-f3666a0d8776
 :END:
 *** 系膜区与内皮下
 ** 原位免疫复合物的沉积主要位于? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-09ad-46d2-b5c2-259f63f4071e
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-13T16:00:00.000Z
+:card-last-reviewed: 2022-05-13T03:02:10.269Z
+:card-last-score: 1
 :END:
 *** GBM上皮细胞侧
 ** 微小病变型肾病的大量蛋白尿主要为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-be19-4ae4-9321-64cd714be7da
 :END:
 *** 电荷屏障损伤所致
 ** 肾小球肾炎的血尿特点为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-3192-401c-8916-5464e2a7c30c
 :END:
 *** 无痛,全程性血尿
 ** 何时肾小球疾病也能出现均一形态正常的红细胞尿? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-2290-466c-97fa-1921137cc12e
 :END:
 *** 病变严重时如新月体形成
 ** 肾小球源性的血尿有何检查特点? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-a828-48a1-9f67-f06bb3a2384d
 :END:
 *** 非对称曲线,峰值容积小于正常值
 ** 肾小球源性血尿产生的主要原因为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-eaac-4718-9b6f-92ae3dd13b45
 :END:
 *** GBM断裂
 ** 肾病综合征时为什么RAAS激活,抗利尿分泌增加? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-cba8-4493-a016-46d71feb9bc8
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T03:02:28.776Z
+:card-last-reviewed: 2022-05-13T03:02:28.776Z
+:card-last-score: 5
 :END:
 *** 有效血容量减少
 ** 还有哪些激素能刺激RAAS激活? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d20f-4713-ad6d-bb0e41a2ff72
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T03:01:37.258Z
+:card-last-reviewed: 2022-05-13T03:01:37.259Z
+:card-last-score: 5
 :END:
 *** 肾实质缺血刺激肾素-血管紧张素分泌增加
 :PROPERTIES:
@@ -138,12 +177,14 @@
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-ca10-43f7-869d-dd5ee328cff9
 :END:
 *** 肾炎性水肿因组织间隙蛋白质含量高故从眼睑颜面部开始
 *** 肾病性水肿因组织间隙蛋白质含量低故从下肢开始
 ** 肾炎时表现为高血压的原因? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-cb4b-4c4d-a095-21f79892dd1d
 :END:
 *** 容量依赖性高血压
 *** 肾素依赖性高血压
@@ -152,6 +193,7 @@
 ** 哪些疾病为β溶血性链球菌感染? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-773e-4159-bc8c-a99abe829440
 :END:
 *** 扁桃体炎,腥红热与与脓疱疮
 ** 链球菌的何种抗原引起交叉反应? #card]
@@ -162,21 +204,25 @@
 ** 急性肾小球肾炎的血尿发生率? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-306b-483d-8ccc-2031fd19fb81
 :END:
 *** [[100%]]
 ** 急性肾小球肾炎重症病人发生何种心力衰竭? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-1c21-4b18-ae92-f3f1fd77a7d5
 :END:
 *** 充血性心力衰竭,因水钠渚留所致
 ** 急性肾小球肾炎何时需做活检? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-522d-4489-8e84-c24840fe2611
 :END:
 *** 血肌肝持续升高或两个月病情未见好转
 ** 肾活检的指征? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-8a4c-4753-a873-7f77a75ffc7c
 :END:
 *** 少尿一周以上或进行性尿量减少伴肾功能恶化
 *** 病程超过2个月而无好转者
@@ -184,11 +230,13 @@
 ** 急性肾炎如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-38ea-4e98-9dd4-67f585a1429e
 :END:
 *** 对症治疗为主,卧床休息
 ** 急性肾炎预后? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d4cd-4fdd-87a3-a341c8ca9fc6
 :END:
 *** 为自限性疾病
 ** 急进性肾炎的Ⅰ型和Ⅲ型肾小球为何种病理变化? #card
@@ -200,130 +248,158 @@
 ** 急进性肾炎的Ⅱ型肾小球为何种病理变化? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-ea6d-4309-8e55-91299a740a77
 :END:
 *** 内皮细胞与系膜细胞增生
 ** 急进性肾炎哪一型半数伴有肾病综合征? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-a80c-407b-9369-291e045894b1
 :END:
 *** Ⅱ型
 ** 急进性肾炎Ⅲ型的特征性表现为何? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-01ad-43ae-8fe0-c30395a042d6
 :END:
 *** 发热乏力体重下降等系统性血管炎表现
 ** 急进性肾炎如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-89b5-4b12-9d5c-992a534e8707
 :END:
 *** 血浆置换疗法适用于何种类型? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-5a91-47c8-b13b-09b8c5df1547
 :END:
 **** Ⅰ型和Ⅲ型 清除自身抗体
 *** 哪种病人首选血浆置换? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d849-4989-92ef-98a5b8aad62f
 :END:
 **** 肺出血
 *** 甲泼尼龙冲击用于哪型? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-2d6c-4ef0-86c7-a10f770f494e
 :END:
 **** Ⅱ,Ⅲ型
 *** 上述强化疗法需配合何种药物? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-3eec-4d7e-8c07-86cd4abf9b5d
 :END:
 **** 糖皮质激素:口服泼尼松
 **** 细胞毒药物环磷酰胺:口服或静注,累积量不超过8g
 *** 肾移植需病情静止多久? #cardⅠ型病人需多久? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-08e6-41ec-a2c1-3adcb7206fc9
 :END:
 **** 半年;抗GBM抗体转阴后半年
 *** 为什么不能用环孢素? #card
+:PROPERTIES:
+:id: 6274ee22-d02f-4478-a0f7-f8ba29614880
+:END:
 **** 其作用缓慢
 ** 急进性肾炎的预后何种最好何种最差? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9112-41e7-8ae3-ac2f5e5176fd
 :END:
 *** Ⅲ型最好,Ⅰ型最差
 **
 ** IgA肾病起病如何? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-05e0-4961-a50d-667a6e1a4841
 :END:
 *** 隐匿
 ** IgA肾病常表现为? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-4d2f-4a34-bdc4-4e06b80e8a40
 :END:
 *** 无症状血尿伴获不伴蛋白尿
 ** IgA肾病常在何时被发现? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-1710-4340-ab4a-0a5e4a1dffd5
 :END:
 *** 体检时
 ** IgA肾病可有何前驱症状? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-3c18-496a-9c5b-d1a654a08c8a
 :END:
 *** 上消化道或呼吸道感染,主要表现为肉眼血尿
 ** IgA肾病血尿为何源性? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-0b6d-40f0-9355-a5f0e9056531
 :END:
 *** 肾小球源性
 ** IgA病人血清IgA有何特点? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-3480-4712-83e6-e7c4d70d0727
 :END:
 *** 与疾病的程度和病程不相关
 ** IgA病人血清补体有何特点? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-8de6-4332-bbdb-06b23e01e854
 :END:
 *** 多数正常
 ** 哪种情况应考虑IgA肾病的可能? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-8504-48ee-bdd4-e5fa6fb8973d
 :END:
 *** 年轻病人出现镜下血尿与无症状蛋白尿,尤其与上呼吸道感染有关的蛋白尿
 ** IgA肾病的治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-97d0-4a7f-af25-30a15d36ffa9
 :END:
 *** 单纯镜下血尿如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d440-4132-927a-28cf38bccba8
 :END:
 **** 预后较好无需特殊治疗
 *** 感染后反复发作的肉眼血尿如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-6bfb-44d2-b07e-618716a014f8
 :END:
 **** 积极控制感染,选用无肾毒性的药物:青霉素,头孢菌素,红酶素
 *** 伴蛋白尿又该如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-cdee-4ac6-b8c3-39ef80a714da
 :END:
 **** 用ACEI/ARB将蛋白控制在<0.5g/d
 *** 伴蛋白尿何时需使用糖皮质激素? #card疗程如何? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-1927-465e-a3cc-15c559a279d5
 :END:
 **** 经3-6月优化支持治疗后蛋白仍保持在1g/d && 肾小球滤过率大于50ml
 **** 6-12个月
 *** 是否需要使用免疫抑制剂? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-1c73-4423-beb7-ef5bfefecc2f
 :END:
 **** 获益存在争议
 *** 出现肾病综合征如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-c865-4394-884d-61f31fc0ca96
 :END:
 **** 轻症者可选用糖皮质激素加用细胞毒药物
 **** 重症患者治疗较差
@@ -331,9 +407,13 @@
 *** 急性肾衰竭又该如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-2f5f-4368-83dc-fa71474d6a01
 :END:
 **** 若病理提示为细胞性新月体性肾炎应给予大剂量的糖皮质激素和细胞毒药物
 *** 高血压如何治疗? #card
+:PROPERTIES:
+:id: 6274ee22-8ac0-4bd5-8867-237bd4bbfc2e
+:END:
 **** ACEI/ARB 既可控制血压又能减少蛋白尿
 ** IgA肾病与哪些继发性系膜IgA沉积鉴别? #card(哪些疾病也会IgA沉积系膜)
 :PROPERTIES:
@@ -343,18 +423,21 @@
 ** 肾病综合征的诊断标准中哪项为必要条件? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9137-464e-bbd5-8dfc1ebe23f8
 :END:
 *** 大量蛋白尿>3.5g/d 低蛋白血症白蛋白<30g/L(水肿+高血压)
 ** 中老年人肾病综合征的病因有? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-6c14-43cc-98ad-c5bcc0321364
 :END:
 *** 原发性:膜性肾病
 *** 继发性: 糖尿病肾病,肾淀粉样变性,骨髓瘤性肾病,淋巴瘤或实体肿瘤性肾病
 ** 儿童继发性肾病综合征见于? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-da83-4207-937d-2feb94117826
 :END:
 *** 过敏性紫癫肾炎
 *** 狼疮肾炎
@@ -362,11 +445,13 @@
 ** 青少年继发性肾病综合征见于? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-df14-4eb0-aded-7dea7c07a08a
 :END:
 *** 同儿童
 ** 青少年原发性肾病综合征见于? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-deff-4e44-9d34-510de2ef375c
 :END:
 *** 系膜增生性肾小球肾炎
 *** 系膜毛细血管性肾小球肾炎
@@ -374,6 +459,7 @@
 ** 肾病综合征时低蛋白血症的原因? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-28ab-47b6-9b66-fc1fb9e91d73
 :END:
 *** 肝脏产生的比不上经过尿丢失的
 *** 由于消化道黏膜水肿导致恶心等食欲减退
@@ -381,11 +467,13 @@
 ** 系膜毛细血管性肾小球肾炎的临床表现? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-f403-4ea1-922a-ce52003c15c5
 :END:
 *** 血尿100%
 ** 系膜毛细血管性肾小球肾炎的治疗如何? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-79f0-4691-b33b-c1b3947d96ce
 :END:
 *** 治疗无效,糖毒仅对部分儿童病人有效
 ** 何种肾病易发生肾静脉栓塞
@@ -397,6 +485,7 @@
 ** 肾病综合征好发血栓的原因? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-daab-4072-8e76-72962979ea39
 :END:
 *** 血液浓缩以及高脂血症造成血液黏稠度增加
 *** 某些蛋白质从尿中丢失,肝代偿合成蛋白质增加引起机体凝血抗凝和纤溶系统失衡
@@ -404,18 +493,21 @@
 ** 局灶性节段性肾小球硬化哪型对糖反应好哪型对糖反应差? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-39be-4854-bf92-8afd1a71a7b6
 :END:
 *** 顶端型对糖皮质激素有效
 *** 塌陷型治疗反应差
 ** 肾静脉血栓的常见表现? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-10a6-45fc-a3e6-04a6380a625b
 :END:
 *** 腰痛,血尿,尿蛋白增加,肾功能减退
 ** 糖皮质激素治疗肾病的原理? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-deb7-4198-8f6f-ad7d09271987
 :END:
 *** 首先可以抑制炎症反应
 *** 还能抑制醛固酮与抗利尿激素分泌
@@ -424,11 +516,13 @@
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-eb5f-46f3-82b7-2cfa8b3b0455
 :END:
 *** 起始量要大,作用时间要长,减量速度要慢
 ** 肾病综合征糖皮质激素治疗疗效判断? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-ff76-4486-991e-ee08c80350cb
 :END:
 *** 激素敏感型 使用糖8-12周内缓解
 *** 激素依赖型 减量到一定程度即复发
@@ -437,6 +531,7 @@
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-9528-4561-8586-2d49681cd021
 :END:
 *** 激素依赖型与激素抵抗型
 *** 若无激素禁忌症一般不用作首选
@@ -445,28 +540,33 @@
 ** 环孢素的作用机制? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-38c6-4820-b596-9307cf375625
 :END:
 *** 选择性抑制T辅助细胞及T细胞毒效应细胞
 ** 环孢素的作用对象? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-93ba-4050-9102-a7c32acf93dc
 :END:
 *** 用于激素及细胞毒药物无效的难治性病例
 ** 吗替麦考酚酯的作用机制? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-da04-47a1-8f73-3744b2979cd9
 :END:
 *** 选择性抑制T,B淋巴细胞增殖及抗体形成
 ** 微小病变型肾病的治疗原则? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-2dbc-4d82-9198-ea729dd15afb
 :END:
 *** 对激素敏感,初治者可单用激素
 *** 疗效差或反复发作者可选用激素+细胞毒药物
 ** 膜性肾病的治疗原则? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-775a-4461-8124-ad8e38e5f52a
 :END:
 *** 单用激素无效
 *** 可采用激素联合烷化剂
@@ -474,6 +574,7 @@
 ** 局灶性节段性肾小球硬化的治疗原则? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d23d-4a2e-b55c-46c4edd46dd3
 :END:
 *** 50%病人单用激素有效
 *** 无效者试用环孢素
@@ -481,16 +582,19 @@
 ** 当白蛋白多少时提示存在高凝状态? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9dde-434a-9b3f-9ee93d6bee8d
 :END:
 *** 白蛋白<20g/l
 *** 抗凝药物一般维持多久? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d372-4e40-b041-a03192a47394
 :END:
 **** 半年以上
 *** 肝素钠如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-7460-4b8a-82fe-9164acddfe17
 :END:
 **** 每6小时一次,维持试管法凝血时间于正常值1倍
 ****
@@ -498,44 +602,52 @@
 *** 华法林维持凝血酶原实践国际标准比值多少? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d9ac-46b8-988f-d609bf1d7c2c
 :END:
 **** 1.5-2.5
 *** 溶栓对于已发生栓塞者多小时内溶栓最佳? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-91ee-4403-959b-f88e4e77249a
 :END:
 **** 6
 ** 急性肾损伤如何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-8358-4d53-b415-ff1f753eee96
 :END:
 *** 袢利尿剂,血液透析,治疗原发病,碱化尿液等
 ** 哪种药物以降低胆固醇为主? #card哪种以甘油三酯为主? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d6d3-437b-b650-3d66496ae0b2
 :END:
 *** 他汀类;氯贝丁酯类
 **
 ** 慢性肾炎以何为治疗目标? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-5bcd-4aa1-b3b5-f07b811f64fe
 :END:
 *** 防止或延缓肾功能恶化,改善或缓解临床症状
 *** 不以消除尿红细胞或轻微蛋白尿为目标
 ** 当内生肌肝清除率多少时噻嗪类利尿剂一般无效? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-0559-4325-b3a9-7468a820deaa
 :END:
 *** <30ml/min
 ** 慢性肾炎应控制血压至何水平? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-a1fb-4cf6-b884-63e095d1a23b
 :END:
 *** 130/80
 ** ACEI及ARB禁忌及理由? #card
 :PROPERTIES:
 :background-color: #793e3e
 :collapsed: true
+:id: 6274ee22-cf4b-48e6-b3ba-388613abcea7
 :END:
 *** 更舒张出球小动脉而使滤过率降低→血肌酐>264umol/l
 *** 抑制醛固酮而保钾→血钾>5.5
@@ -543,90 +655,107 @@
 ** 慢性肾盂肾炎轻度水肿的原因? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9e07-4ff3-b046-caba4e0b9e6b
 :END:
 *** 损伤肾功能.受水钠潴留与RAAS的影响
 ** 真性细菌尿的标准? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9ebf-4a65-959f-91bc8fdd42b9
 :END:
 *** 清结中段尿细菌定量培养G⁻>=10⁵,若无尿感症状则需做两次
 *** 真性细菌尿标准包括：①正规清洁中段尿（要求尿停留在膀胱中4～6小时以上）菌定量培养细菌定量培养≥10⁵/ml；②耻骨上膀胱穿刺尿细菌定性培养两次都有细菌（同一菌种）；③如无临床症状，则要求两次细菌培养均为有意义的细菌尿。
 ** 慢性肾盂肾炎的诊断标准? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-41a7-4b3f-9144-1025ebca2bc3
 :END:
 *** 慢性肾盂肾炎的诊断除反复发作尿路感染病史之外（超过半年），尚需结合^^影像学及肾脏功能检测^^：①肾外形凹凸不平，且双肾大小不等；②静脉肾盂造影可见肾盂、肾盏变形，缩窄（A对）；③持续性肾小管功能损害（D对）。具备上述第①、②条的任何一项再加第③条可诊断慢性肾盂肾炎。
 ** 下尿路感染不会有哪些表现? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-d2d8-4086-8b46-b635b7f3f33d
 :END:
 *** 下尿路感染，一般少有高热、腰痛及肾区叩痛，且不会出现白细胞管型
 ** 急性肾盂肾炎临床治愈的标准? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-65d6-4f5e-bb2f-296844e5b400
 :END:
 *** 急性肾盂肾炎只有细菌检查即停药后多次尿细菌培养阴性（E对）才能认为临床治愈。
 *** 治愈 症状消失，尿菌阴性，疗程结束后2周、6周复查尿菌仍阴性”。
 ** 无症状性细菌尿何时应该治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-13f5-4b76-acf1-da798e641faa
 :END:
 *** （P502）&“无症状性菌尿一般认为有下述情况者应予治疗：①妊娠期无症状性菌尿（C错）；②学龄前儿童（B错）；③曾出现有症状感染者 ；④肾移植（D错）、尿路梗阻（E错）及其他尿路有复杂情况者”。
 ** 哪些抗生素对G⁻杆菌效果好故优选于肾盂肾炎? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-c15b-4e4c-8d17-2e0acaa2f54c
 :END:
 *** 喹诺酮类（A对）、头孢菌素类等（B对）、半合成青霉素类（D对）对革兰阴性杆菌效果较好，且在尿液中浓度较高，常作为肾盂肾炎的优选药物。
 ** 3天疗程用于何治疗? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-5eea-4529-b4aa-3e044129e9f5
 :END:
 *** 育龄期女性膀胱炎
 * 肾衰竭
 ** 急性肾衰竭少尿期主要的死亡原因? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-7cc6-41d7-a17b-2c4be4ea65f7
 :END:
 *** 高钾血症
 ** 何为肾衰指数? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-baf1-48e4-8b6a-ab449ea3c087
 :END:
 *** 肾衰指数(RFI)=尿钠/(尿肌酐/血肌酐)=(尿钠*血肌酐)/尿肌酐
 ** 急性肾小管坏死时的尿液诊断标准? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-2b35-4485-a638-e9c34ae3f157
 :END:
 *** 急性肾小管坏死的尿液诊断标准为：尿比重<1.010（A对），尿渗透压<300mOsm/kg H₂O（B对）（但九版P515表5-9-2中已更新至尿渗透压<250mOsm/kg H₂O），尿钠浓度˃20mmol/L（C错），肾衰指数˃1（D错）。
 ** 尿毒症毒素分子的标准? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-9fa7-42ff-afe0-e602ec3c2766
 :END:
 *** 500-5000为中等量 如甲状旁腺激素类
 ** 慢性肾衰时为什么出现低钙血症? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-7325-40c8-b16b-7a9d54263219
 :END:
 *** 钙摄入不足、活性维生素D缺乏、高磷血症、代谢性酸中毒等因素有关。
 ** 慢性肾衰竭治疗时的饮食原则? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-978d-45c8-b53c-fa5f95cc1d48
 :END:
 *** 慢性肾衰竭患者的饮食治疗原则有：①^^低蛋白饮食是营养治疗的核心（A错）^^；②保证足够的热量摄入（D对）；③注意补充其他营养素，如水溶性维生素、叶酸以及钙、铁、锌等（B对）；④控制钾、磷的摄入（C对），除非禁忌症存在，推荐减少钠盐的摄入。
 ** 为什么慢性肾衰竭时推荐低蛋白饮食? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-4197-4845-a0c1-dc015e56d79c
 :END:
 *** 如有条件，在低蛋白饮食的基础上，以必需氨基酸为主，减少非必需氨基酸摄取量，而利用体内非蛋白氮合成蛋白质（C对），既可减少蛋白质摄取量，又可促进体内非蛋白氮的代谢，减少其在体内蓄积产生的危害
 ** 慢性肾衰骨病? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-bce2-40cc-941d-89380a62fc6b
 :END:
 *** 高转化性骨病: 纤维囊性骨炎
 *** 低转化性骨病: 骨软化症,骨再生不良
 ** 肾透析治疗时的指征? #card
 :PROPERTIES:
 :collapsed: true
+:id: 6274ee22-aac5-49a1-8735-f9c92ec5ba7f
 :END:
 *** 肾透析治疗的指征包括：①血钾大于6.5mmol/L（B错）；②血尿素氮˃21.4mmol/L（A对），或血肌酐˃442μmol/L（D对）；③血肌酐每日升高˃176.8μmol/L，或血尿素氮每日升高˃8.9mmol/L；④急性肺水肿；⑤无明显高分解代谢，但无尿2天或少尿4天以上；⑥严重酸中毒：CO₂CP<13mmol/L（C错）、pH<7.25（九版内科学更新数据为pH < 7.2）。
 *

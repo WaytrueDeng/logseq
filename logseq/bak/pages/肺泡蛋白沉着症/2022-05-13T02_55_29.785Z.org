@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: 293F5039-A21D-4A54-A9FA-020F5F567E14
+:END:
+
+* 定义 #card
+:PROPERTIES:
+:id: 621f6259-8201-4890-b36d-deff2300cd61
+:END:
+** ((621eda6b-bad8-4533-b44e-deb2d2eb2d5a))
+* 病因及发病机制 #card
+:PROPERTIES:
+:id: 621f6259-94f8-4f3e-8041-d934ee80aa26
+:END:
+** ((621edaa3-dea7-45fe-9d24-bdd11b033bad))
+* 辅助检查 #card
+:PROPERTIES:
+:id: 621f6259-185e-4108-965f-33a6ea1f8ee2
+:END:
+** ((621eda51-63f4-4a9b-976c-5a86f9108722))

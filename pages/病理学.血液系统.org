@@ -447,6 +447,12 @@
 ***** AML病理变化 #card
 :PROPERTIES:
 :id: 6243ce19-9a24-41bc-9e44-f5dfd814a0b8
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T03:01:41.649Z
+:card-last-reviewed: 2022-05-13T03:01:41.650Z
+:card-last-score: 5
 :END:
 ****** 原始,幼稚细胞在骨髓内弥漫性增生,取代原有骨髓组织
 ****** 脏器浸润特点是肿瘤细胞主要在淋巴结的^^副皮质区和窦内浸润^^,在^^脾脏红髓浸润以及肝窦内浸润^^

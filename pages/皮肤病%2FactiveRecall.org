@@ -1,0 +1,1731 @@
+* #+title: 皮肤病/activeRecall
+* 第二章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 皮肤由哪几层组成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 表皮层,真皮层,皮下组织层
+** 表皮层与真皮层由何连接?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[基底膜带]]
+** 基底膜带由何几层构成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ^^胞膜层^^,透明层,致密层,致密下层
+** 基底膜带的作用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 使表皮与真皮紧密相连
+*** 屏障作用
+*** 渗透作用
+** 皮肤的附属器有?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 毛囊,汗腺,皮脂腺,甲
+** 人体最大的器官是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤
+** 成人皮肤的面积是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 1.5m²
+** 新生儿皮肤的面积是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 0.21m²
+** 表皮主要的组成细胞是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 角质形成细胞,黑色素细胞,朗格汉斯细胞,梅克尔细胞
+** 角质形成细胞的胚胎来源是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 上胚层
+** 角质形成细胞的特征是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 分化过程中可以产生角蛋白
+** 角质细胞之间和其与下层之间的连接是何种结构?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 桥粒.半桥粒
+** 角质形成细胞可以分为几层?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 基,棘,粒,透,角 基底层,棘层,颗粒层,透明层,角质层
+** 毛发包括哪几种?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 长毛,短毛,毫毛,毳毛
+** 毛发由何细胞构成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 同心圆状排列的角化上皮细胞
+** 毛发由内向外可分为哪几层?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 髓质,皮质和毛小皮
+** 毛囊位于何组织中?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 真皮与皮下组织
+** 毛囊由何组成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 内毛根鞘,外毛根鞘,结缔组织鞘
+** 毛囊的生长周期可分为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 生长期,退行期,休止期
+** 毛囊的生长期持续多久?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 三年
+** 毛囊的退行期持续多久?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 三周
+** 毛囊的休止期持续多久?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 三个月
+** 全部毛发中约80%处于什么时期?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 生长期
+** 皮脂腺是一种产生什么的器官?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮脂
+** 皮脂腺分布于何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 除掌跖,足指屈侧以外的全部皮肤
+** 皮脂溢出部位是指?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 头面及胸背上部的皮脂腺较多称为~
+** 汗腺可分为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 小汗腺和顶泌汗腺(大汗腺)
+** 小汗腺受何支配?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 交感神经
+** 大汗腺主要分布在?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 腋窝,乳晕,脐周,肛周,包皮,阴阜,小阴唇
+***
+** 甲是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 坚硬角质
+** 甲由何构成?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 多层紧密的角化细胞
+** 皮肤的功能?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 屏障,呼吸,感觉,分泌,排泄,体温调节,代谢,免疫
+** 皮服的吸收功能受何影响?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤的结构和部位
+*** 角质层的水合程度
+*** 被吸收的物质的理化性质
+*** 外界环境因素
+* 第四章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 原发性皮损
+:PROPERTIES:
+:id: 627c7ca2-9e2f-4780-a90b-a8a37f43361b
+:collapsed: true
+:END:
+*** 班疹是皮肤的何种性质的改变?
+:PROPERTIES:
+:id: 627b2c47-65f2-4b66-b465-59f458dd61de
+:collapsed: true
+:END:
+**** 局限性的颜色改变
+*** 斑疹与周围皮肤的关系?
+:PROPERTIES:
+:id: 627b2c7a-c172-4625-9d66-cf23d12a654a
+:collapsed: true
+:END:
+**** 与周围皮肤平齐,无凹陷或突出,不可触诊
+*** 班疹的大小和形态规律?
+:PROPERTIES:
+:id: 627b2ca2-b039-4118-a0a2-b8907c971265
+:collapsed: true
+:END:
+**** 大小不一.形态不规则,直径一般小于1cm
+*** 何为斑片?
+:PROPERTIES:
+:id: 627b2ccb-66e4-488d-a227-1f40d5fe1b46
+:collapsed: true
+:END:
+**** 直径大于1cm的斑疹
+*** 斑块由何而成?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 丘疹扩大或较多丘疹融合
+*** 斑块大小?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 直径>1cm
+*** 斑块与周围皮肤的关系?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 隆起,中央可有凹陷
+*** 斑块见于何种疾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 银屑病
+*** 丘疹的性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 实质性局限性的表浅皮肤隆起
+*** 丘疹的大小?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** <1cm
+*** 丘疹与周围皮肤的关系?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 表浅隆起
+*** 何为斑丘疹?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 隆起介于斑疹与丘疹之间
+*** 何为丘疱疹?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 丘疹表面有小水泡者
+*** 何为丘脓疱疹?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 丘疹表面有小 脓疱者
+*** 风团由何引起?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 真皮浅层水肿
+*** 风团的性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 暂时性和隆起性的皮损
+*** 风团的形态表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 皮损成红色或苍白色 周围有红晕 一般大小不一形态不规则
+*** 风团的起病特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 发生快,经数小时消退后不留痕迹常伴剧痒\
+*** 风团见于?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 荨麻疹
+*** 水疱的性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 局限性,隆起性,内涵液体的腔隙性皮损
+*** 水疱的大小?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 一般小于1cm
+*** 何为大疱?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 大于1cm的水疱
+*** 何为血疱?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 内含血液的水疱
+*** 脓疱的性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 类比水疱
+*** 结节的性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 局限性,实质性,深在性皮损
+*** 结节于周围皮肤的关系?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 可隆起或不隆起
+*** 结节的形状特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 圆形椭圆形或不规则形
+** 继发性皮损
+:PROPERTIES:
+:id: 627c7ccb-39d3-4c87-b9cb-d3cd11307e50
+:collapsed: true
+:END:
+*** 糜烂
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 糜烂的损伤部位?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 局限性表皮或黏膜上皮部分或全部缺损
+**** 糜烂的创面特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 红色湿润
+**** 糜烂常见病因?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 水疱或脓疱浸渍→表皮脱落
+**** 糜烂的预后?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 由于损害表浅一般不留瘢痕
+*** 溃疡
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 损害部位?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 深达真皮层或更深的局限性皮肤或黏膜缺损
+**** 常见病因?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 感染,损伤,肿瘤,血管炎引起
+**** 预后?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 因为损害基底层细胞故愈合较慢而且可有瘢痕
+*** 鳞屑
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 鳞屑的本质?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 肉眼可见的角质堆积
+**** 鳞屑的形态?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 大小厚薄形态不一可呈糠秕状,蛎壳状或大片状
+*** 浸渍
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 皮肤角质层吸收较多水分而导致表皮变软变白
+**** 常见于长时间浸水或处于潮湿状态下
+**** 由于摩擦后表皮脱落易露出糜烂面
+*** 裂隙
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 线状的皮肤裂口可深达?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 真皮
+**** 好发于
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 掌跖,指趾及口角
+*** 瘢痕
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 瘢痕受损部位?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 真皮及皮下组织
+**** 病变或受损后由何修复?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 新生结缔组织增生修复而成
+**** 可分为哪几种?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 增生性见于烧伤和萎缩性见于红斑狼疮
+*** 萎缩
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 萎缩的本质?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 退行性变由于组织成分及细胞 的减少
+**** 萎缩可发生于?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 表皮真皮及皮下组织
+**** 表皮萎缩表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 皮肤变薄,正常皮沟变浅或消失
+***** 有时呈半透明状与羊皮纸样
+**** 真皮萎缩表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 局部皮肤凹陷,皮肤纹理正常,毛发变细或消失
+**** 皮下组织萎缩表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 明显的皮肤凹陷
+*** 痂
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 由何组成?
+***** 液体(浆液,脓液与血液)与脱落组织或药物混合
+**** 痂的质地?
+***** 可薄可厚柔软或坚硬
+**** 痂的部位?
+***** 附着于疮面
+*** 抓痕
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 形状?
+***** 线状或点状
+**** 损伤部位?
+***** 表皮或真皮浅层的剥脱性缺损
+**** 预后?
+***** 若损伤较深可留有瘢痕
+*** 苔藓样变
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 病因?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 反复搔抓摩擦
+**** 病理?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 皮肤局限性增厚
+**** 表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 表现为皮嵴隆起,皮沟加深,皮损界限清楚,常伴剧痒
+**** 见于?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 慢性单纯性苔藓,慢性湿疹
+* 第七章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急性皮炎仅有红斑丘疹无渗液时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 粉剂或洗剂
+** 急性皮炎糜烂渗出较多时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 溶液湿敷
+** 急性皮炎有糜烂但渗出不多时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 糊剂
+** 亚急性皮炎渗出不多者选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 糊剂或油剂
+** 慢性皮炎选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 乳膏软膏硬膏
+**
+* 第九章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 单纯疱疹以何为特征?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 簇集性水疱
+** 单纯疱疹有何性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 自限性单易复发
+** 单纯疱疹HSV-Ⅰ型初发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 儿童
+** 单纯疱疹HSV-Ⅱ型初发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 青年人和成年
+** 单纯疱疹HSV-Ⅰ型主要通过何传播?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 接吻或公用餐具
+** 单纯疱疹HSV-Ⅱ型主要通过何传播?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 密切性接触
+** 单纯疱疹HSV-Ⅰ型主要发生在何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 除生殖器以外的皮肤黏膜及脑部感染
+** 单纯疱疹HSV-Ⅱ型主要发生在何处?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 生殖器部位及新生儿腰部感染
+** 带状疱疹主要由何种病毒引起?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 水痘-带状疱疹病毒 VZV
+** 带状疱疹为何特征?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 沿单侧周围神经分布的簇集性小水疱为特征.常伴明显的神经痛
+** 带状疱疹的诊断要点?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 簇集的水泡,基底红,簇与簇之间有正常的皮肤,单侧分布带状排列,伴有神经痛
+** 耳带状疱疹由病毒侵犯何所致?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 面神经与听神经
+** 耳带状疱疹表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 鼓膜与耳道疱疹
+** 何为Ramsay-hunt综合征?
+:PROPERTIES:
+:id: 627b6a13-07b7-4fe3-ac89-bc45958da7a3
+:END:
+*** 膝状神经节受累时同时侵犯面神经的运动与感觉神经元,出现面瘫,耳痛与外耳道疱疹三联征
+** 疣由何种病原体导致?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** HPV
+** 疣具有何种性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 传染性,自限性
+** 传染性软疣是由何种病毒所致的?
+*** 传染性软疣病毒
+** 传染性软疣具由何种病毒所致?
+*** 传染性软疣病毒
+** 传染性药物如何治疗?
+*** 以外用药物为主可在无菌条件下挤出内容物然后用碘酊等以防细菌感染
+* 第十一章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 真菌的基本形态是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 单细胞个体(孢子)和多细胞丝状体(菌丝)
+** 临床上把真菌分为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 浅部真菌和深部真菌
+** 浅部真菌主要是指?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤癣菌
+** 浅部真菌的共同特点是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 亲角质蛋白
+** 深部真菌多侵犯?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 为条件致病菌多侵犯免疫力低下者
+** 何为头癣?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 累及头皮及头发的皮肤真菌感染
+** 头癣主要分为哪几型?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 黄癣,白癣,黑点癣,脓癣
+** 手足癣可分为哪几型?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 水疱鳞屑型,角化过度型,浸渍糜烂型
+** 何为甲真菌病?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 真菌引起的甲板及甲下组织的感染
+** 何为甲癣?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 特指由皮肤癣菌引起的甲感染
+* 第十二章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 疥疮是由何引起?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 疥螨寄生皮肤引起传染性皮肤病
+** 疥疮的典型表现为?
+:PROPERTIES:
+:id: 627b6cca-f629-433e-8285-5abba69edf09
+:collapsed: true
+:END:
+*** 角层内掘出隧道
+** 疥疮主要通过什么传播?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 接触传播且传染性较强
+** 疥疮临床表现好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤薄嫩部位
+** 疥疮临床表现皮疹的形态为?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 丘疹与丘疱疹,线状隧道,疥疮结节
+** 疥疮临床表现自觉症状?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 瘙痒,夜间为甚
+** 疥疮的诊断?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 接触传染史.典型临床表现,疥螨检查
+* 第十四章 皮炎与湿疹
+:PROPERTIES:
+:collapsed: true
+:END:
+** 接触性皮炎的发生原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 与外源物质接触后在接触部位发生强烈刺激或过敏
+** 接触性皮炎的发病机制包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 刺激性和变应性接触性皮炎
+** 刺激性接触性皮炎的原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 刺激物本身具有强烈的刺激性,任何接触的人均可发病
+** 刺激性接触性皮炎的共同特点是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 任何人接触都可获病
+*** 无潜伏期
+*** 皮损限于直接接触部位,境界清楚
+*** 停止接触后可皮损可消退
+** 变应性接触性皮炎为几型超敏反应?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ⅳ型
+** 变应性接触性皮炎具有何特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 有一定的潜伏期,经过1-2周后接触相同的致敏物才发病
+*** 皮损是广泛性的对称性分布
+*** 易反复发作
+*** 皮肤斑贴试验阳性
+** 接触性皮炎的临床表现皮损形态?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 较单一:红斑,丘疹,水疱,坏死,溃疡
+** 接触性皮炎的临床表现皮损部位
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 局限在接触部位境界清楚
+** 若接触无为气体粉尘皮损如何分布 ?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 弥漫分布于暴露区
+** 若搔刮后皮损如何分布?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 可将致病物带到远端产生相应的皮损
+** 若机体处于高敏状态可能会如何分布?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 将致敏物质吸收后使皮疹泛发全身
+** 接触性皮炎的临床表现的自觉症状?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 痒,烧灼感胀痛感
+** 接触性皮炎的临床表现的病程?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 有自限性
+** 湿疹的病变发生部位在?
+:PROPERTIES:
+:id: 627b7433-539f-4b6a-a9fd-f7b384ecdb7c
+:collapsed: true
+:END:
+*** 真皮浅层与表皮炎症
+** 湿疹急性期皮损以何为主?
+:PROPERTIES:
+:id: 627b744d-4b0f-43c2-8df1-7c87e5fd5bd2
+:collapsed: true
+:END:
+*** 丘疱疹,有渗出倾向
+** 湿疹慢性期皮损以何为主?
+:PROPERTIES:
+:id: 627b7475-e7f6-4ce0-aa17-fc2be26021c2
+:collapsed: true
+:END:
+*** 苔藓样变
+** 湿疹病程具有何种特点?
+:PROPERTIES:
+:id: 627b74ab-cb10-4ed8-94de-9fa8c38bee21
+:collapsed: true
+:END:
+*** 易反复发作
+** 湿疹的发病机理为几型变态反应?
+:PROPERTIES:
+:id: 627b74c3-3f48-4056-b463-feba57071a56
+:collapsed: true
+:END:
+*** Ⅳ型
+** 急性湿疹的皮损形态如何?
+:PROPERTIES:
+:id: 627b74ef-8146-4364-8c19-7d7cf439d267
+:collapsed: true
+:END:
+*** 形态相对单一,红斑丘疹丘疱疹水疱坏死溃疡
+** 急性湿疹好发部位?
+:PROPERTIES:
+:id: 627b75ae-a806-45f9-b19a-37fe3cf3c6e8
+:collapsed: true
+:END:
+*** 任何部位,好发于手足面等皮肤表面部位,^^多对称分布^^
+** 急性湿疹的自觉症状?
+:PROPERTIES:
+:id: 627b75d7-7b55-4b23-ba00-02f6223655f4
+:collapsed: true
+:END:
+*** 瘙痒
+** 亚急性湿疹皮肤病变以何为主?
+:PROPERTIES:
+:id: 627b7615-3638-4d33-af90-3a0644124a7e
+:collapsed: true
+:END:
+*** 小丘疹,鳞屑,结痂
+** 亚急性湿疹自觉症状?
+:PROPERTIES:
+:id: 627b7657-c707-4426-900f-54f9c2c93b4a
+:collapsed: true
+:END:
+*** 瘙痒剧烈
+** 慢性湿疹的皮损形态?
+:PROPERTIES:
+:id: 627b76b1-bed2-409d-a0ad-9f96a9c11099
+:collapsed: true
+:END:
+*** 皮肤粗糙,抓痕,浸润肥厚 部分苔藓样变
+** 慢性湿疹的发生部位?1
+:PROPERTIES:
+:id: 627b7720-0ffe-491a-9546-a09fd24f6ab4
+:collapsed: true
+:END:
+*** 常见于手足小腿部位较局限
+** 乳房湿疹好发人群?
+:PROPERTIES:
+:id: 627b7764-514d-4c6b-9070-f2dd3a2ed7c8
+:collapsed: true
+:END:
+*** 哺乳期妇女
+** 若乳房湿疹发生于老年人需要做?
+:PROPERTIES:
+:id: 627b7782-75db-497d-865e-7d90362c80f1
+:collapsed: true
+:END:
+*** 病理以排除Paget病(湿疹样癌)
+** 慢性湿疹与慢性单纯性苔藓样变的鉴别?
+:PROPERTIES:
+:id: 627b898c-83b2-4a53-8ad4-71999b14e80c
+:collapsed: true
+:END:
+*** 病史
+**** 慢性湿疹先有?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 皮损
+**** 慢性湿疹后有?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 痒感
+**** 慢性单纯性苔藓样变先有?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 痒感
+**** 慢性单纯性苔藓样变后有?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 皮损
+*** 病因?
+**** 慢性湿疹因何起病?
+***** 各种因素
+**** 慢性单纯性苔藓样变病因?
+***** 多为精神性因素
+*** 好发部位
+**** 慢性湿疹好发于?
+***** 各种部位
+**** 慢性单纯性苔藓样变好发于?
+***** 颈项,肘膝关节伸侧,腰骶部
+*** 皮损特点
+**** 慢性湿疹的丘疹特点?
+***** 圆椎状米粒大小灰褐色,融合成片,浸润肥厚,有色素沉着
+**** 慢性单纯性苔藓的丘疹特点?
+***** 多角形扁平丘疹,密集成片,呈苔藓样变
+*** 演变
+**** 慢性湿疹可?
+***** 急性发作 有渗出倾向
+**** 慢性单纯性苔藓
+***** 慢性干燥
+* 第十五章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 荨麻疹的机制是?
+:PROPERTIES:
+:id: 627b783a-0467-4280-918b-2890011bae9b
+:collapsed: true
+:END:
+*** 皮肤,黏膜的小血管反应性扩张及通透性增加
+** 荨麻疹的本质是?
+:PROPERTIES:
+:id: 627b7878-795b-457c-a379-3d5de53d7ae8
+:collapsed: true
+:END:
+*** 局限性的水肿反应
+** 荨麻疹的临床表现是?
+:PROPERTIES:
+:id: 627b798d-9aad-46a9-80f3-cf89cdc5faa7
+:collapsed: true
+:END:
+*** 大小不等的风团伴瘙痒
+*** 有时可伴有腹痛腹泄和气促等症状
+** 荨麻疹的特点
+:PROPERTIES:
+:id: 627b79fb-4780-468c-9a7b-5258f5f0cc25
+:collapsed: true
+:END:
+*** 皮损形态成?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 风团,融合成片,此起彼伏,消退后不留痕迹
+*** 皮损部位位于?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 任何部位
+*** 皮损严重者可累及
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 胃肠道,呼吸道黏膜甚至发生过敏性休克
+*** 自觉症状?
+**** 瘙痒
+** 荨麻疹临床表现的详细特点
+:PROPERTIES:
+:id: 627b7b8b-23ec-469c-ae8e-d80a01ff4258
+:collapsed: true
+:END:
+*** 起病?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 较急,突然发痒
+*** 皮损性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 大小不等的风团融合成片状,数小时内水肿减轻变为红斑而逐渐消失新的风团不断生成
+*** 皮肤外观?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 凹凸不平呈橘皮样
+*** 慢性荨麻疹指超过多久?
+**** 6周
+***
+***
+***
+** 何为人工荨麻疹?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 用手搔抓或用钝器划过皮肤后出现条状隆起伴瘙痒不久后自行消退
+** 皮肤划痕试验的三联反应
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 3-15秒出现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 红色线条,真皮细胞释放组胺引起毛细血管扩张所致
+*** 15-45s出现?
+**** 两侧红晕,神经轴索反应引起小动脉扩张所致
+*** 麻风皮损处不发生?
+**** 两侧红晕
+*** 划后1-3分钟出现?
+**** 隆起,苍白色风团状线条 由组胺激肽引起水肿所致
+***
+** 荨麻疹的诊断?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤反复出现来去迅速的风团
+*** 剧痒
+*** 风团退后不留痕迹
+** 荨麻疹与荨麻疹性血管炎鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 损害常伴疼痛
+*** 损害持续时间大于24小时且固定
+*** 愈合后留有炎症性紫癫或色素沉着
+** 巨大荨麻疹又称?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 血管性水肿
+** 巨大荨麻疹发生于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮下疏松组织或黏膜
+** 巨大荨麻疹的病程性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 自限性
+* 第十六章
+:PROPERTIES:
+:collapsed: true
+:END:
+** 药疹发生部位?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤与黏膜严重者可累及其他系统
+** 变态反应性药疹的特点
+:PROPERTIES:
+:id: 627b83a8-efd1-42fa-8da4-d0eb2fe66c41
+:collapsed: true
+:END:
+*** 潜伏期初次用药多久发病?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 4-20天
+*** 再次用药多久发病?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 数分钟到24h内
+*** 发生人群?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 只发生在少数过敏体质者,多数人不发病
+*** 病情与药物的相关性?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 与药物的药理毒理与剂量关系不大
+**** 在高敏状态下小剂量诱发严重药疹
+*** 临床表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 复杂
+*** 皮损形态?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 各种各样?
+*** 高敏状态下可发生?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 交叉过敏与多价过敏
+*** 停止使用致敏药物后?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 病情好转
+*** 糖皮质激素治疗效果?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 有效
+** 固定红斑药疹特点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 常由哪些药物引起?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 磺胺类,解热镇痛类,巴比妥类四环素类
+*** 皮损多好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 口腔或生殖器 皮肤-黏膜交界处
+*** 红斑形状?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 圆形或类圆形
+*** 红斑性质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 水肿性暗紫红色斑疹
+*** 红斑境界?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 清楚
+*** 红斑消退后可出现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 灰暗色素沉着斑
+** 药疹中最常见的类型是?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 猩红热型药疹,麻疹型药疹
+** 猩红热型药疹,麻疹型药疹与麻疹与猩红相比更加?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 瘙痒
+** 药疹的诊断要点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 需要有明确的?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 服药史
+*** 有一定的?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 潜伏期
+*** 皮疹发生及分布?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 突然发生很快遍布全身,对称分布
+*** 皮损形态与何相关?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 药物
+*** 需要排除?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 具有皮损的其他皮肤病及发疹性传染病
+*** 药物过敏试验?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 阳性
+** 药疹的治疗原则
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 停用?
+**** 一切可致敏的药物及结构相似的药物
+*** 促进?
+**** 体内致病药物排出
+*** 应用哪种药物?
+**** 抗过敏药和解毒药
+*** 支持疗法
+***
+***
+***
+***
+***
+***
+* 期末考试
+** 皮肤和表皮的组织学分层及细胞
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 皮肤由?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 表皮,真皮与皮下组织组成
+*** 表皮:分为?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 基底层,棘层,颗粒层,透明层与角质层5层构成
+*** 表皮由:?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 角质细胞,黑素细胞,郎格汉斯细胞与梅克尔细胞组成
+*** 表皮角质层细胞之间由?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 桥粒相连接
+*** 表皮角质层细胞与基底膜带之间由:
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 半桥粒连接
+*** 表皮与真皮之间由?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 基底膜带相连
+*** 基底膜带由?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 胞膜层
+**** 透明层
+**** 致密层
+**** 致密下层
+*** 真皮分为?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 乳头层
+**** 网状层
+*** 真皮含有细胞?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 成纤维细胞,肥大细胞 常驻细胞
+**** 巨噬细胞,朗格汉斯细胞和噬色素细胞
+***
+** 表皮通过时间
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 正常情况下30%的基底细胞处于核分裂期
+*** 新生的角质形成细胞逐渐有序上移其中从基底层移动到颗粒层需要14天,从颗粒层移动到角质层需要14天,共约28天称为表皮通过时间
+** 桥粒和基底膜带
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 桥粒:
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 角质层细胞之间的主要连接结构,由相邻细胞的细胞膜之间发生卵圆形致密增厚所形成
+**** 中间有透明间隙,其中央有致密的中央层,相邻细胞之间各有盘状附着物
+*** 基底膜带:
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 位于表皮与真皮之间,PAS染色为紫红色,银浸染色可染成黑色
+**** 分为胞膜层,透明层,致密层,致密下层
+**** 具有连接作用,屏障作用,渗透作用
+** 皮肤损害的种类、定义(各种原发皮疹和继发皮疹)
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((627c7ca2-9e2f-4780-a90b-a8a37f43361b))}}
+*** {{embed ((627c7ccb-39d3-4c87-b9cb-d3cd11307e50))}}
+** 湿疹、荨麻疹的概念
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((627b7433-539f-4b6a-a9fd-f7b384ecdb7c))}}
+*** {{embed ((627b744d-4b0f-43c2-8df1-7c87e5fd5bd2))}}
+*** {{embed ((627b7475-e7f6-4ce0-aa17-fc2be26021c2))}}
+*** {{embed ((627b74ab-cb10-4ed8-94de-9fa8c38bee21))}}
+*** {{embed ((627b74c3-3f48-4056-b463-feba57071a56))}}
+*** {{embed ((627b74ef-8146-4364-8c19-7d7cf439d267))}}
+*** {{embed ((627b75ae-a806-45f9-b19a-37fe3cf3c6e8))}}
+*** {{embed ((627b75d7-7b55-4b23-ba00-02f6223655f4))}}
+*** {{embed ((627b7615-3638-4d33-af90-3a0644124a7e))}}
+*** {{embed ((627b7657-c707-4426-900f-54f9c2c93b4a))}}
+*** {{embed ((627b76b1-bed2-409d-a0ad-9f96a9c11099))}}
+*** {{embed ((627b7720-0ffe-491a-9546-a09fd24f6ab4))}}
+*** {{embed ((627b7764-514d-4c6b-9070-f2dd3a2ed7c8))}}
+*** {{embed ((627b7782-75db-497d-865e-7d90362c80f1))}}
+*** {{embed ((627b898c-83b2-4a53-8ad4-71999b14e80c))}}
+*** {{embed ((627b783a-0467-4280-918b-2890011bae9b))}}
+*** {{embed ((627b7878-795b-457c-a379-3d5de53d7ae8))}}
+*** {{embed ((627b798d-9aad-46a9-80f3-cf89cdc5faa7))}}
+*** {{embed ((627b79fb-4780-468c-9a7b-5258f5f0cc25))}}
+*** {{embed ((627b7b8b-23ec-469c-ae8e-d80a01ff4258))}}
+** 棘层松解征?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 表皮或上皮细胞间失去粘连,呈松解状态,致密表皮内裂隙或水疱
+*** 见于天疱疮,毛囊角化病等
+** 脓疱疮的临床分型
+*** 接触传染性脓胞疮
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 传染性强常在托儿所幼儿园流行
+**** 皮损起初为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 斑点或小丘疹
+**** 皮损迅速转变为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 脓疱
+**** 皮损特点为?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+***** 周围有明显红晕,疱壁薄易破溃糜烂.干燥后形成黄色 厚痂
+*** 深脓疱疮
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 病原体为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 溶血性链球菌
+**** 皮损起初为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 脓疱,渐向皮肤深层发展
+**** 皮损特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 表面有坏死和蛎壳状黑色厚痂
+***** 周围红肿明显
+***** 去除痂后可见边缘陡峭的碟状溃疡
+*** 大疱性脓疱疮
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 病原体?
+***** 噬菌体Ⅱ组71型金黄色葡萄球菌
+**** 好发人群?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 多见儿童,成人也可特别是HIV感染者
+**** 皮损起初为?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 米粒大小小水疱或脓疱
+**** 皮损特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 迅速转变为大疱
+***** 先清澈后浑浊,先紧张后松驰
+***** 疱周红晕不明显,疱壁薄易形成糜烂结痂
+*** 新生儿脓疱疮
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 4.新生儿脓疱疮(impetigo neonatorum) 是发生于新生儿的大疱性脓疱疮,起病急,传染性强。皮损为广泛分布的多发性大脓疱,尼氏征阳性,疱周有红晕,破溃后形成红色糜烂面。可伴高热等全身中毒症状,易并发败血症、肺炎、脑膜炎而危及生命。
+*** 葡萄球菌性烫伤样皮肤综合征
+**** 病因?
+***** 噬菌体Ⅱ组71型金黄色葡萄球菌所产生的表皮剥脱素导致
+**** 受累人群?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 5岁
+**** 皮损特点
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 大片红斑基础上出现松驰性水疱,尼氏征阳性.皮肤大面积剥脱后留有潮红的糜烂面似烫伤样外观
+** 手足癣的临床分型和各型的特点
+*** 手足癣最常见的疾病是?
+**** 浅部真菌病
+*** ||水疱型|鳞屑角化型|浸渍糜烂型|
+|好发部位|手指趾间,掌心,足趾及足侧缘| 掌跖部与足根|指缝|
+|皮损特点|初为针尖大小的水疱,疱液清壁厚而发亮不易破溃,可融合形成多房性大疱,蜂窝状基底与鲜红色糜烂面干燥后脱屑|皮肤弥漫性增粗增厚脱屑干燥,皲裂,可有疼痛无瘙痒|皮肤浸渍发白,表面松软易脱落,潮红糜烂面及渗液常有间隙|
+** 外用药的治疗原则
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 正确的选用药物的种类
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 细菌性皮肤病应选用抗菌药物
+**** 真菌性皮肤病选用抗真菌药
+**** 超敏反应选择糖皮质激素或钙调磷酸酶抑制剂
+**** 瘙痒者选用止痒剂
+**** 角化不全者选用角质促成剂过度者选用角质剥脱剂
+*** 正确选用外用药物的剂型
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 急性皮炎
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 仅有红斑丘疹而无渗液时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 粉剂或洗剂
+***** 炎症较重糜烂渗出较多时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 溶液湿敷
+***** 有糜烂渗出不多时选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 糊剂
+**** 亚急性皮炎
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 渗出不多者选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 糊剂或油剂
+***** 如无糜烂选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 乳剂或糊剂
+**** 慢性皮炎?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 乳剂,软膏,硬膏,酊剂
+**** 单纯瘙痒无皮损者用?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 乳剂酊剂
+** 病毒性皮肤病的病因学
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病毒性皮肤病是指?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 人类由于病毒感染出现皮肤、黏膜损害的一类疾病。
+*** 病毒分为DNA病毒和RNA病毒两大类。DNA病毒包括?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 疱疹病毒(如单纯疱疹病毒、水痘-带状疱疹病毒等)、
+**** 痘病毒(如传染性软疣病毒等)、
+**** 乳多空病毒(如人乳头瘤病毒等)、
+**** 腺病毒和微小病毒。
+*** RNA病毒包括
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 小核糖核酸病毒、
+**** 披膜病毒、
+**** 呼吸道肠道病毒、
+**** 冠状病毒、
+**** 正黏病毒、
+**** 反转录病毒、
+**** 沙粒样病毒、
+**** 杆状病毒和副黏病毒。
+*** 不同病毒对组织的亲嗜性有差别,人乳头瘤病毒具有
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 嗜表皮性,
+*** 疱疹病毒具有
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 嗜神经及表皮性
+*** 更多的病毒呈
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 泛嗜性,导致包括皮肤在内的全身广泛组织损伤(如麻疹病毒、肠道病毒等)。
+*** 不同病毒感染后的皮损表现可分为3型:水疱型(如单纯疱疹、带状疱疹等)、新生物型(如各种疣等)和发疹型(如麻疹、风疹等)。
+** 头癖的分型
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 黄癣
+*** 白癣
+*** 黑点癣
+*** 脓癣
+** STD, Ramsay-Hunt综合征,吉-赫氏反应
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((627b6a13-07b7-4fe3-ac89-bc45958da7a3))}}
+*** STD
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 性传播疾病:指主要通过性接触,类似性行为及间接性接触传染的一组疾病
+**** 不仅引起泌尿生殖器官病变,而且还可以通过淋巴系统侵犯泌尿生殖器官所属的淋巴结,甚至还可以由血行播散到全身各重要组织器官
+*** 吉-赫氏反应
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 梅毒患者接受高效的抗梅毒药物后,由于梅毒螺旋体被杀死后释放大量异种蛋白引起机体发生的急性变态反应
+**** 表现为用药后数小时内出现,表现为发热寒颤头痛呼吸困难心率过快,严重时可引起主动脉破裂
+**** 可以用糖皮质激素预防
+****
+** 经常引起药疹的药物种类
+*** 抗生素
+*** 解热镇痛药
+*** 镇静催眠药以及抗癫痫药
+*** 异种血清制剂及疫苗
+*** 各种生物制剂
+** 变态反应性药疹的特点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((627b83a8-efd1-42fa-8da4-d0eb2fe66c41))}}
+** 重症药疹的分型和治疗原则
+*** 分型
+**** 重症多型红斑型药疹
+**** 大疱性表皮松解型药疹
+**** 剥脱性皮炎型药疹
+**** 药物超敏反应综合征
+*** 治疗原则
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 及早尽量使用?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 糖皮质激素
+***** 糖皮质激素的使用方式?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 静脉注射
+***** 糖皮质何时开始减量的标准?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 病情稳定后,无新发皮损,体温下降
+**** 防治?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 继发感染
+***** 治疗和护理过程中如何防治继发感染?
+****** 保护好创面,无菌操作
+***** 避免选用何种抗生素?
+****** 易过敏
+**** 加强?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 支持疗法
+***** 由于高热进食困难大面渗出或皮肤大片剥脱易导致?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 低蛋白质血症
+****** 水电解质紊乱
+**** 静脉注射何种药物可以以中和过敏抗体
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 人血丙种免疫球蛋白
+***** 使用时间?
+****** 连用3-5天
+**** 清除致敏药物代谢毒物及炎症介质采用?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 血浆置换
+**** 加强药护理及外用药治疗
+****
+****
+** 急性湿疹和接触性皮炎的鉴别诊断
+*** ||急性湿疹|接触性皮炎|
+|---|
+|病因|不明|常有明确的致病因素|
+|病变特点|原发性多形疹境界不清|较单一,境界清晰|
+|发病部位|对称泛发|局限于接触部位|
+|主要症状|瘙痒剧烈|痒或烧灼感|
+|病程|常迁延反复|去除病因后很快恢复|
+|斑贴试验|常阴性|常阳性|
+**
+** 大疱性表皮松解坏死性药疹和SSSS的鉴别诊断
+*** ||大疱性表皮松解坏死性药疹|SSSS|
+|---|
+|病因|磺胺类药物,解热镇痛药物等引起的超敏反应|凝固酶阳性噬菌体Ⅱ型71型金葡菌产生的表皮剥脱素|
+|好发人群|高敏人群|三个月以内的婴儿|
+|皮损开始于|面颈胸部|口周和眼周|
+|皮损迅速发展为|累及全身|躯干和四肢|
+|皮损特点|由多型药疹发展为弥漫的紫红暗红黑色斑片|大片红斑基础上出现松懈型水疱,尼氏征阳性,大片剥脱后留有潮红的糜烂面似烫伤|
+** 梅毒的病因及传播途径
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病因?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 钩端螺旋体
+*** 传播途径?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 性接触和血液传播
+** 银屑病的临床分型
+*** 寻常型99%以上,关节病型,脓疱型,红皮病型
+** 脓疱性银屑病的特点
+*** 分为哪两型?
+**** 泛发型和局限型
+*** 泛发型
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 发病部位?
+***** 寻常型银屑病的皮损或无皮损的正常 皮肤
+**** 发展特点?
+***** 迅速出现针尖至粟粒大小浅黄色或黄白色无痛的浅在性小脓胞
+***** 常迅速发展至全身
+**** 伴随症状?
+***** 肿胀和疼痛感,寒战高热张驰热型
+**** 预后
+***** 1-2周结痂自然缓,也可反复发作周期性
+*** 局限型可分为?
+**** 掌跖脓疱病
+***** 好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 掌部:鱼际,小鱼际,可扩展到手背和手心
+****** 跖部好发于跖中部及内侧
+***** 皮损特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 成批发生在红斑基础上的小脓疱
+***** 预后?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 1-2周结痂,时轻时重,经久不愈
+******
+**** 连续性肢端皮炎:罕见类型
+***** 好发于?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 指端有时在脚趾
+***** 预后?
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 消退后有鳞屑和痂,甲床有脓疱,甲板可能脱落
+*****
+***
+** 尖锐湿疣、 扁平湿疣、假性湿疣的病因学和鉴别
+*** ||尖锐湿疣|扁平湿疣|假性湿疣|
+|---|
+|病因学|HPV-6,11|HPV|
+|好发人群|性活跃的中青年|儿童和青少年|女性小阴唇内侧和阴道前庭|
+|好发部位|龟头,包皮,冠状沟..女性:大小阴唇阴道口阴蒂|颜面,手背,前臂|
+|皮损特点|起初为淡红色小丘疹逐渐发展增大成无柄型或有柄型:后者呈乳头,菜花,鸡冠状等|米粒黄豆大小的扁平隆起性丘疹,搔抓后呈串珠排列,为自体接种反应或koebner现象|群集白色或淡血红色的鱼子大小的光滑丘疹,无自觉症状|
+|预后|部分可癌变|发展慢,自行消退少数可复发|
+|醋酸白试验|阳性|阴性|阴性|
+** 座疮的病因及发病机制
+*** 病因?
+**** 尚未完成阐明
+**** 遗传,雄激素诱导的皮脂大量分泌,毛囊皮脂腺导管角化
+*** 机制
+**** 皮脂腺受何调控?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 性激素
+**** 皮脂为何分泌增多?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 青春期体内雄激素水平过高或雌雄激素分泌失调
+**** 角质形成细胞为何过度角化?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 皮脂为痤疮丙酸杆菌水解为游离脂肪酸刺激角质形成细胞
+**** 粉刺如何形成?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 角化过度使皮脂腺排出受阻,皮质和角质酸在毛囊口堆积
+**** 炎症反应由谁激活?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 痤疮丙酸杆菌产生多肽使中性粒细胞产生水解酶
+***** 痤疮丙酸杆菌直接激活角质形成细胞和皮质腺引起级联反应
+**** 炎症反应的后果为何?
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 毛囊壁损伤内容物溢入真皮引起周围炎症
+*
+*

@@ -1,0 +1,1578 @@
+#+title: 呼吸系统/activeRecall/肺部感染性疾病
+#+deck:呼吸系统/activeRecall/肺部感染性疾病
+
+* 医院获得性肺炎的常见病原体是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-5c64-4419-bed9-5e1d2e04e73b
+:END:
+** [[G⁻杆菌]]与金黄色葡萄球菌
+* 常见的[[G⁻杆菌]]有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-89f5-4920-9d9e-1f59e745d7db
+:END:
+** 大肠杆菌,鲍曼不动杆菌,克雷伯杆菌,铜绿假单胞菌
+** [[file:./口诀.org][口诀]]打波波绿
+* [[肺实变]]的典型体征是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-68d9-40bf-a7b7-543e1b94f02d
+:END:
+** ((627cdf00-a6e9-4203-b181-552a1798b153))
+** 怎么记? #card 按触扣听的顺序
+:PROPERTIES:
+:id: 627dc8c9-ea3a-4b47-abcd-baaddd122124
+:END:
+*** 触诊语颤增强,叩诊浊音,听诊为支气管呼吸音与湿啰音
+**
+* 各种细菌产生耐药性的机制? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-8404-4ae1-974b-d0c264cbb111
+:END:
+** ((627cfab4-11e4-4df3-82f9-c3282a6ae752))
+* 肺炎链球菌
+:PROPERTIES:
+:collapsed: true
+:END:
+** 肺炎链球菌哪型致病力最强? #card
+:PROPERTIES:
+:id: 627dc8c9-1c34-409b-bff2-a1aafc515749
+:END:
+*** ((627ce007-290c-49ff-81fe-0c23dfd684b9))
+*** 第3型
+** 肺炎链球菌的致病特点
+*** 肺炎链球菌是否产生毒素? #card
+:PROPERTIES:
+:background-color: #793e3e
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T02:42:27.245Z
+:card-last-reviewed: 2022-05-13T02:42:27.245Z
+:card-last-score: 5
+:id: 627dc8c9-aeea-47b5-a41e-20941d4a18ec
+:END:
+**** 否
+*** 肺炎链球菌是否形成空洞? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-f6fa-4146-86a9-92e20dace426
+:END:
+**** 否
+*** 肺炎链球菌首先在哪引起病变? #card
+:PROPERTIES:
+:id: 627dc8c9-63f8-4445-8d5c-c1a5fd0cc7d6
+:END:
+**** 肺泡 肺的外周
+*** 肺炎链球菌是否累及支气管? #card
+:PROPERTIES:
+:id: 627dc8c9-1bbe-4a18-80e3-61b648d833c2
+:END:
+**** 不累及
+**** ((627ce0d8-e352-4972-ad8b-9caa9291bcb4))
+*** 肺炎链球菌是否累及胸膜? #card
+:PROPERTIES:
+:id: 627dc8c9-6a16-4d31-9702-18eb4c4c1aa6
+:END:
+**** 始于外周易累及胸膜
+**** 肺炎链球菌引起何种累型的胸膜炎? #card
+:PROPERTIES:
+:id: 627dc8c9-b0d3-4dfa-a452-61f9499435a1
+:END:
+***** ((627ce14c-d0c8-49c7-a435-06cde1887754))
+** 肺炎链球菌肺炎诱因题眼? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-d3ef-4e5e-bc7e-0290f7810ee2
+:END:
+*** 受凉,淋雨,疲劳,醉酒
+** 肺炎链球菌起病急缓? #card
+:PROPERTIES:
+:id: 627dc8c9-b2a1-4c73-939c-0f6ab6511902
+:END:
+*** 急性起病
+** 肺炎链球菌临床症状题眼? #card
+:PROPERTIES:
+:id: 627dc8c9-44b5-40e4-8f1b-07df42d57310
+:END:
+*** 高热,寒战(+ 咳嗽 咳痰)
+** 肺炎链球菌肺炎的痰液特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-6017-43e5-817d-f715b7bc75fd
+:END:
+*** 可痰中带血或特征性[[铁锈色痰]]
+** 肺炎链球菌胸痛特点,题眼? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-0d30-4854-8469-b9d5ae1761ef
+:END:
+*** 患侧胸痛,可放射到^^肩部或腹部^^
+*** 咳嗽或深呼吸时加剧
+** 体征题眼
+*** 何种面容? #card
+:PROPERTIES:
+:id: 627dc8c9-7ce0-4060-8c4c-b8ca4b7e3213
+:END:
+**** 急性热面容,鼻翼扇动
+*** 典型特点是口角和鼻周口有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-5c7c-4cf7-b216-215b0ac37344
+:END:
+**** [[单纯疱疹]]
+*** 何时会出现发绀? #card
+:PROPERTIES:
+:id: 627dc8c9-2ab7-459b-8e47-422d696f40f9
+:END:
+**** 病变广泛时
+*** 伴脓毒症的表现? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-8173-4839-ae22-24d3eb0470c0
+:END:
+**** 皮肤,黏膜出血点
+**** [[巩膜黄染]]
+** 重症感染可发生? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-09aa-4171-a2e2-dc766b23c19f
+:END:
+*** [[休克]],[[ARDS]]与神经精神症状
+*** ((627ce5d7-296d-47ac-85f9-6627b5a7ba46))
+** 并发症
+*** 并发感染性休克
+**** 好发于? #card
+:PROPERTIES:
+:id: 627dc8c9-1029-4ba4-bdea-bfb9ba5f7031
+:END:
+***** 老年人
+**** 症状特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-e7a1-4358-8267-15fa460f655e
+:END:
+***** 高热胸痛咳嗽等症状不突出
+*****
+*** 其他并发症: 胸膜炎,脓胸,心包炎,[[脑膜炎]],关节炎
+** 外周血象改变? #card
+:PROPERTIES:
+:id: 627dc8c9-c727-470d-9a05-b39a8e76a2df
+:END:
+*** 白细胞升高中性粒细胞80%以上
+** X线胸片可表现为典型的? #card
+:PROPERTIES:
+:id: 627dc8c9-8893-4add-b054-c8b2afdcd1f3
+:END:
+*** 支气管充气征
+** 肋膈角可见? #card
+:PROPERTIES:
+:id: 627dc8c9-cbb1-44c9-9198-5ea994d3341f
+:END:
+*** 少量胸腔积液
+** 在炎症消散期X线可表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-0f5c-4da5-8a66-9231af68ef7b
+:END:
+*** [[假空洞征]] 少数病例于吸收消散期，X线显示炎性浸润逐渐吸收，可有片状区域吸收较快，呈现所谓的“假空洞”征。
+** 主要诊断依据是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-13T16:00:00.000Z
+:card-last-reviewed: 2022-05-13T02:42:47.364Z
+:card-last-score: 1
+:id: 627dc8c9-37dc-42b6-a8cc-cf1966024ddc
+:END:
+*** 病原菌检测
+** 治疗
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抗菌治疗选择何种抗生素? #card
+:PROPERTIES:
+:id: 627dc8c9-3e97-421b-906a-5ea781aff0b8
+:END:
+**** 青霉素
+*** 轻症患者如何治疗? #card
+:PROPERTIES:
+:id: 627dc8c9-c88f-48e6-aa64-5ffadf39bfbe
+:END:
+**** 240万U/d,分3次^^肌内注射^^
+*** 重症患者如何治疗? #card
+:PROPERTIES:
+:id: 627dc8c9-6c1a-4090-9463-2d57c1c113c5
+:END:
+**** 青霉素240-480 ^^静脉注射^^
+*** 若对青霉素过敏可选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-100d-41ea-9a7b-45fd3efb851e
+:END:
+**** [[呼吸氟喹诺酮]],[[头孢噻喹]]或[[头孢曲松]]
+*** 多重耐药菌可选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 83439d1e-672e-4b49-bc0b-0483c8c02f0a
+:END:
+**** [[万古霉素]],[[替考拉宁]],[[利奈唑胺]]
+*** 支持疗法时能否有阿司匹林或其他药? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-a021-4e63-b679-fa65dcca09a0
+:END:
+**** 不能 避免过度出汗和干扰热型
+*** 支持疗法时不能使用何种镇静剂? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-4ed7-4ef6-bb1f-9329764f9a6a
+:END:
+**** 抑制呼吸的镇静药
+*** 若体温降而复升或三天后仍然不退应考虑? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-e22c-45d0-8670-72619d7ce54d
+:END:
+**** 肺外感染 如脓胸 心包炎 关节炎
+* 葡萄球菌肺炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 葡萄球菌致病物质主要是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4935-4ba0-8d2d-551c72cf4a6a
+:END:
+*** 毒素与酶
+** 葡萄球菌肺炎症状题眼? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-3515-49ea-8e33-02e8180cdd47
+:END:
+*** 起病急骤,寒战,高热,胸痛
+*** 痰液性质? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-2fb8-4a27-bd57-549cd5a524b6
+:END:
+**** 咳^^脓性^^痰,量多,^^带血丝或呈脓血性^^
+*** 有明显的? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-0138-41bd-ab9d-872b2997e75d
+:END:
+**** 毒血症
+** 葡萄球菌肺炎体征的特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-636a-4a4d-8cb7-f5b7d9677da5
+:END:
+*** 早期无体征与严重的中毒症状与呼吸道症状不平行
+** X线典型特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-048a-4481-88f3-a262d7148042
+:END:
+*** 早期形成空洞,有单发或多发的液气囊腔
+** X线阴影的特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-5b18-4ebd-9408-d1c3f0f7c8f7
+:END:
+*** 具有易变性,即一处消失另一处出现新的或很小单发变为大片阴影
+** 治疗强调? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-d5bf-4003-9d5e-dc538af48f62
+:END:
+*** 早期清除和引流原发病灶,选用敏感的抗菌药物
+** 由于对青霉素的耐药性高达90%故应选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-dc09-4335-b223-527cf914f5fd
+:END:
+*** [[耐青霉素酶的半合成青霉素]]或头孢菌素
+*** 联合应用哪类药物? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-7352-4c82-a57f-dbf109f8a081
+:END:
+**** 氨基糖苷类
+** [[耐青霉素酶的半合成青霉素]]包括? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-c5a6-42b4-93d4-6dcd60876d4a
+:END:
+*** {{embed [[耐青霉素酶的半合成青霉素]]}}
+** 对于耐甲氧西林的金葡菌选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-f974-48ec-bf8a-99070f0cc2b2
+:END:
+*** {{embed ((83439d1e-672e-4b49-bc0b-0483c8c02f0a))}}
+* 肺炎克雷伯杆菌肺炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 感染途径主要为? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-7aba-4b70-9236-98ae2186822e
+:END:
+*** ((627cf33f-3728-464c-b01a-707e2eca475c))
+** 病理变化分布特点是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-5fa1-4727-9f77-5e3daf7963d5
+:END:
+*** 大叶性或小叶性或两者皆有
+** 为何会有空洞和多发性脓肿? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-6c29-4eef-b3ae-054637ba0ae4
+:END:
+*** 首先的渗出和实变导致血管栓塞致组织坏死 致空洞和多发性脓肿形成
+** 并发症有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-1b4c-496e-8a61-4431fc7a8489
+:END:
+*** 脓胸,少数心包炎与脑膜炎
+** 与肺炎球菌肺炎最大的不同是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-62ae-47a9-bddc-fc2f7ee83846
+:END:
+*** 治愈后遗留纤维增生
+*** 残余小化脓灶
+*** 支气管扩张与肺气肿
+** 症状题眼
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 起病缓慢还是突然? #card
+:PROPERTIES:
+:id: 627dc8c9-676a-4b6f-adb6-a5e463545a73
+:END:
+**** 突然
+*** 部分患者有何前驱症状? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-1018-406c-9f09-0e319b18d3f6
+:END:
+**** 上呼吸道感染
+*** 最重要的诱因是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-0988-40ab-8e74-5d24ca81676c
+:END:
+**** 酗酒
+*** 早期点常见的典型特点是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-6268-4c0b-ac49-4c59e4bbe40a
+:END:
+**** ((627cf633-f72c-40af-8fbb-8cd5a4a1e1d5))
+*** 本病的特征痰液典型特点是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-af0d-4654-84a6-d40430059c0a
+:END:
+**** 为何为砖红色? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-7b5f-407e-8ade-f9eb494d56f4
+:END:
+***** 血液与黏液混合而成
+**** 无臭
+**** 黏稠
+** 体征题眼
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病变严重有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-5e37-4875-b30d-60c441621ef3
+:END:
+**** 全身衰竭,休克,黄疸
+** 诊断胸片
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 可以表现为? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-380f-4bd1-aba7-6f375be53990
+:END:
+**** 大叶实变或小叶浸润脓肿形成
+*** 最典型的表现是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-74a2-4a79-b949-a7115b2d95a7
+:END:
+**** 水平叶间裂呈弧形下坠
+**** 弧形下坠原因? #card
+:PROPERTIES:
+:id: 627dc8c9-87b4-4079-ba3c-dda783685c7c
+:END:
+***** 病灶在右上叶实变由于分泌物稠厚和且比重高
+** 确诊依据
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 因为为内源性感染所以标准应从何处取得? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-6ffb-4d19-8d74-6b97fd4b832d
+:END:
+**** 下呼吸道防污染标本,血液或胸液标本培养出克雷伯杆菌
+** 治疗
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 抗感染治疗选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-b3fa-494b-9d71-fa4e63aa6014
+:END:
+**** β-内酰胺类:半合成青霉素
+*** 重症病人联合应用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-70ea-4ca2-a249-2e53d31cc68e
+:END:
+**** 氨基糖苷类或喹诺酮类
+*** 耐药菌株流行需要应用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-812b-462a-932e-db6d715f64b5
+:END:
+**** [[碳青霉烯类]]
+***
+* 军团菌肺炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 军团菌为? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-18cc-4bc8-9064-1b67b43bfd38
+:END:
+*** G⁻杆菌
+** 军团菌高危人群? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f998-49ea-bd28-6318c12da89d
+:END:
+*** {{embed ((627cfbe2-a733-4f15-9bfc-b032d8dde4cf))}}
+** 军团菌的起初症状? #card
+:PROPERTIES:
+:collapsed: true
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-13T16:00:00.000Z
+:card-last-reviewed: 2022-05-13T02:42:53.408Z
+:card-last-score: 1
+:id: 627dc8c9-8939-4d3f-b2d0-3b18f80b0e18
+:END:
+*** ^^肌痛^^,乏力,头痛
+** 军团菌症状热型? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-b551-44ec-9a0d-39fb46c42530
+:END:
+*** 24-48小时后体温升高到39-40度,呈[[稽留热]],伴反复寒颤
+** 军团菌的痰液特点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 少量黏痰,有时脓痰或血痰
+** 部分病人可有? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-4463-4985-82e4-351e387d4331
+:END:
+*** 胸痛呼吸困难,恶心呕吐
+*** ^^水样腹泻和消化道出血^^
+** X线胸片表现为? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-c9d9-4b3a-9559-c9d65a00c6a7
+:END:
+*** 无空洞形成
+** 何种病人应该警惕此病? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-e9c3-4cb3-bab6-473914076dbe
+:END:
+*** 肺外症状明显,相对缓脉,低钠血症,对β-内酰胺类无效者
+** 传统治疗? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-c498-4735-bbf0-1a5ab2da0690
+:END:
+*** 传统首选红霉素,重症者加用利副平
+** 目前推荐的治疗? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-5ed9-4fb6-bb59-58c0970c8cd8
+:END:
+*** 大环内酯类和喹诺酮类
+**
+* 支原体肺炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 症状题眼
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 最典型的表现是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-47a4-4d2f-a15f-cc86ec8c2768
+:END:
+**** 持久的阵发性剧咳
+*** 最具有特点热型是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-f261-4bc1-92c8-409e2f60d724
+:END:
+**** 一般为中等度发热也可以不发热
+** 体征题眼
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 因为常同时有咽炎所以可表现为? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-661b-4929-9871-4cec428ef1d7
+:END:
+**** 咽部和鼓膜充血颈部淋巴结肿大
+*** 其胸部体征最典型的特点是? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-e2c4-4671-8084-31260d7080ae
+:END:
+**** 与肺部病变程度不相符很少出现肺实变体征
+** 实验室检查
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 起病两周后2/3的病人何试验呈阳性? #card
+:PROPERTIES:
+:id: 627dc8c9-c1e0-4104-840d-fff5a2845ce8
+:END:
+**** 冷凝集试验
+*** 早期快速诊断可选用? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-c813-4bb7-be19-ac504a3b65b5
+:END:
+**** 直接检查呼吸道标本中支原体抗体
+*** X线表现
+:PROPERTIES:
+:collapsed: true
+:END:
+**** X线呈何分布? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-38a8-4b42-a540-51cb1bec1f0c
+:END:
+***** 多种浸润影呈节段分布
+**** 多见于哪一肺野? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-8aba-4375-b8e5-2bc1c8ed86c1
+:END:
+***** 肺下野
+**** 何为肺上野? #card
+:PROPERTIES:
+:id: 627dc8c9-faa2-42f9-b7b5-f7616200d552
+:END:
+***** 第二肋骨以上
+**** 何为肺下野? #card
+:PROPERTIES:
+:id: 627dc8c9-92fd-473b-9ad7-f103cbce3f43
+:END:
+***** 第四肋骨以下
+****
+** 为什么培养分离支原体不作为诊断的检查? #card
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:id: 627dc8c9-0ae8-4447-b165-d24d8c6021dd
+:END:
+*** 检出率低而且支原体生长缓慢所需时间较长
+** 治疗
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 首选什么药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-3772-4b9a-8ef3-5233b88c0fdb
+:END:
+**** 大环内酯类
+*** 次选药物为? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-b0f3-47bb-bbd1-ee058720b5ea
+:END:
+**** 不敏感者选用呼吸氟喹诺酮类,四环素类
+***
+* 病毒性肺炎
+:PROPERTIES:
+:collapsed: true
+:END:
+** 临床表现
+*** 与支原体相比具有什么症状特点? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-57ef-44d6-917d-4b097d0358c5
+:END:
+**** 起病较急发热头痛全身酸痛等症状突出
+** 实验室检查
+*** 胸片有何特点? #card
+:PROPERTIES:
+:id: 627dc8c9-f4d6-4975-8359-e18f4dd5ec6d
+:END:
+**** 磨玻璃状阴影
+* 病毒性肺炎与支原体肺炎的鉴别
+:PROPERTIES:
+:collapsed: true
+:END:
+** 支原体发病部位? #card
+:PROPERTIES:
+:id: 627dc8c9-708c-4f78-a282-9454f536aaf3
+:END:
+*** 支原体存在于纤毛上皮之间不侵入肺实质
+** 病毒发病部位? #card
+:PROPERTIES:
+:id: 627dc8c9-ec91-4603-98a9-243fac67cded
+:END:
+*** 侵入细支气管上皮引起细支气管炎
+** 二者都表现为何种肺炎? #card
+:PROPERTIES:
+:background-color: #793e3e
+:id: 627dc8c9-f71d-4bf2-804d-a9051836b32a
+:END:
+*** 间质性
+** 支原体肺炎
+***
+* 几种肺炎的鉴别
+:PROPERTIES:
+:id: 627dc8c9-477b-4513-b238-17a1f63f3c2f
+:END:
+** 支原体的起病如何? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-b387-459c-bf6e-b7df5ce6abf7
+:END:
+*** 缓慢
+** 肺炎链球菌的前驱症状? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4109-4daa-a689-2d14dd0f27a3
+:END:
+*** 病前数日上感史
+** 肺炎克雷伯杆菌肺炎前驱症状? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-3445-4a33-9e4c-ab883817984b
+:END:
+*** 病前上感症状
+** 肺炎支原体肺炎前驱症状? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-1b46-40b2-86e1-53b0b2f2d57d
+:END:
+*** 咽痛,头痛,肌肉痛
+** 肺炎链球菌的热型? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6529-445b-98e9-421cbf765b38
+:END:
+*** 39-40 稽留热
+** 肺炎克雷伯杆菌肺炎热型? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f7d5-4dd2-a4b3-434dbea99272
+:END:
+*** 39
+** 肺炎支原体肺炎热型? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-c72a-4a34-a150-5a11f02d235d
+:END:
+*** 38度
+** 肺炎链球菌肺炎咳嗽特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-fd9c-4d6c-9a6a-864430ff4d19
+:END:
+*** 铁锈色痰
+** 克雷伯杆菌肺炎咳嗽特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-d488-448b-af72-71a3c9358b92
+:END:
+*** 砖红色胶冻痰
+** 肺炎支原体肺炎咳嗽特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-cb32-4dbe-8c74-8c8bf84822ed
+:END:
+*** 少量黏痰阵发性咳嗽
+** 肺炎链球菌肺炎疾病特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-3e06-4c0f-891e-d31b535255cf
+:END:
+*** 不易形成空洞
+** 克雷伯杆菌肺炎疾病特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-bf93-4745-890a-6c85490b55a8
+:END:
+*** 砖红色胶冻痰是特征性病变
+** 肺炎支原体肺炎疾病特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-dd94-4d94-841c-d6b090a979fd
+:END:
+*** 咳嗽为突出症状
+** 肺炎链球菌肺炎首选药物? #card
+:PROPERTIES:
+:id: 627d0da7-3e9b-4b9e-9884-7b73e8d3e317
+:END:
+** 克雷伯杆菌肺炎首选药物? #card
+** 肺炎支原体肺炎首选药物? #card
+** 肺炎链球菌肺炎X线表现? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-a9ff-424f-8a86-84d64349fa6d
+:END:
+*** 大片炎症浸润影或实变影
+*** 支气管充气征,假空洞征
+** 克雷伯杆菌肺炎X线表现? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6009-42f7-b22c-e844d274ef7a
+:END:
+*** 肺大叶实变或小叶浸润
+*** 蜂窝状肺脓肿,水平叶间裂弧形下坠
+** 肺炎支原体肺炎X线表现? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-2c0e-4151-b30d-2dfa1545e24e
+:END:
+*** 肺部多种形态浸润影
+*** 节段分布多见于肺下野
+** 肺炎链球菌肺炎首选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-20a9-4c62-ba03-8651553ddb9d
+:END:
+*** 青霉素
+** 克雷伯杆菌肺炎首选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4874-478e-a5e4-bb0cb6faf1b2
+:END:
+*** Β-内酰胺类,重症患者联合^^氨基糖苷类或喹诺酮类^^
+** 肺炎支原体肺炎首选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-d27a-4564-a0d3-2c09a98244b4
+:END:
+*** 大环内酯类:红霉素,罗红霉素,阿奇霉素
+** 肺炎链球菌肺炎次选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-2cb6-46f6-a922-58f00001559f
+:END:
+*** 呼吸氟喹诺酮,头孢,万古霉素
+** 克雷伯杆菌肺炎次选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-754f-41bf-83fd-01154001e862
+:END:
+*** 头孢菌素或广普青霉素
+** 肺炎支原体肺炎次选药物? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-582c-4f85-acc0-fc026c599e82
+:END:
+*** 氟喹诺酮类,四环素类
+** 军团菌起病缓急? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-5cdb-44cd-868f-6543f178c073
+:END:
+*** 压急性
+** 前驱症状
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 铜绿假单胞菌肺炎前驱症状? #card
+** 发热
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 病毒性肺炎发热? #card
+:PROPERTIES:
+:id: 627dc8c9-9d73-4b59-928d-7c51312dd652
+:END:
+**** 中低热
+** 咳嗽咳痰
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 铜绿假单胞菌肺炎痰液? #card
+:PROPERTIES:
+:id: 627dc8c9-f0e1-4e74-8773-df3359cb06ef
+:END:
+**** 绿色脓痰
+** X线特点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 铜绿假单胞菌肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-8822-4ec4-b462-dc684d5f301f
+:END:
+**** 弥漫性支气管肺炎,早期肺脓肿
+*** 军团菌肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-ccf1-417d-9cbd-33543d629904
+:END:
+**** 肺下叶斑片状浸润无空洞
+*** 病毒性肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-8c76-48f5-b551-f0876fbb8edc
+:END:
+**** 双肺弥漫性结节性浸润
+** 首选药物
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 铜绿假单胞菌肺炎? #card
+:PROPERTIES:
+:id: 627dc8c9-e0a1-4da8-b25b-591baf07d0df
+:END:
+**** 氨基糖苷类+半合成青霉素(和克雷伯一样? #card )
+*** 军团菌肺炎? #card
+:PROPERTIES:
+:id: 627dc8c9-fb24-491d-84b3-23b2aada1a1e
+:END:
+**** 红霉素
+*** 病毒性肺炎? #card
+:PROPERTIES:
+:id: 627dc8c9-5333-4122-8c7e-79b746ac441f
+:END:
+**** 利巴韦林,阿昔洛韦(无首选)
+** 次选药物
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 铜绿假单胞菌肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-62fd-4e45-b8f4-74add5d73e1b
+:END:
+**** 头孢,氟喹诺酮类
+*** 军团菌肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-ed5b-4d41-8ac4-8bd07ba77477
+:END:
+**** 利福平,四环素
+*** 病毒性肺炎? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-bd47-4020-8167-a131880d5094
+:END:
+**** 阿糖腺苷,金刚烷胺
+** [[总结]]
+*** 起病唯一不是急性的疾病? #card
+:PROPERTIES:
+:id: 627dc8c9-7ee1-4747-a996-2f957ec9bfc7
+:END:
+**** 支原体肺炎
+**** 军团菌肺炎
+*** 表现为稽留热的肺炎? #card
+:PROPERTIES:
+:id: 627dc8c9-2c70-4df4-8cdb-1c075989f5ba
+:END:
+**** 大叶性肺炎
+**** 军团菌肺炎
+*** β-内酰胺类首选见于? #card
+:PROPERTIES:
+:id: 627dc8c9-43b0-4cf8-ab36-441998048da5
+:END:
+**** 肺炎链球菌肺炎
+**** 克雷伯杆菌肺炎
+**** 铜绿假单胞菌肺炎
+*** β-内酰胺类次选见于? #card
+:PROPERTIES:
+:id: 627dc8c9-0fa3-4f00-aa68-02623517a510
+:END:
+**** 克雷伯
+**** 铜绿假单胞菌
+*** 氨基糖苷类首选见于? #card
+:PROPERTIES:
+:id: 627dc8c9-0efa-4546-bb95-ae504c3b50f7
+:END:
+**** 克雷伯杆菌肺炎重症
+**** 铜绿假单胞菌肺炎
+*** 青霉素联合氨基糖苷类见于?
+**** 克雷伯杆菌
+**** 铜绿假单胞菌
+**** 金黄色葡萄球菌
+*** 喹诺酮类首选见于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-e1d2-4166-99c0-28e93de5353f
+:END:
+**** 克雷伯重症
+*** 氟喹诺酮类次选见于? #card
+:PROPERTIES:
+:id: 627dc8c9-962c-42f2-aa11-8d01fe66ccfe
+:END:
+**** 链球菌肺炎
+**** 支原体肺炎
+**** 铜绿假单孢菌肺炎
+***
+* 肺脓肿
+:PROPERTIES:
+:collapsed: true
+:END:
+** 肺脓肿早期为? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-eb32-400e-85f8-b017fc4d1c44
+:END:
+*** 化脓性肺炎
+** 肺脓肿后期为? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-dcb4-471d-b8f7-b03e23988b7d
+:END:
+*** 坏死,液化,脓肿形成
+** 肺脓肿的典型临床特征是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4104-4bb5-805c-cc45fd608c45
+:END:
+*** 高热,咳嗽,咳大量脓臭痰
+** 肺脓肿的典型X线与CT表现是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-a14f-46f0-8344-f072b0345df3
+:END:
+*** 肺实质内厚壁空洞或伴液平
+** 吸入性肺脓肿的由何所致? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f0f7-4a9e-bacf-d83d93938b24
+:END:
+*** 误吸
+** 占脓肿最多的类型是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6e9e-4c0a-bc2b-8a61f124da2e
+:END:
+*** 吸入性肺脓肿60%
+** 吸入性肺脓肿最多的病原菌是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6b65-4d32-8579-94adfa898ee1
+:END:
+*** 厌氧菌混合感染
+** 血源性肺脓肿最多见的类型是? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-40ad-413f-b809-ec53a6304eb3
+:END:
+*** 金黄色葡萄球菌
+** 血源性肺脓肿也可以是何菌? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-b2b5-43c8-b387-39b9b8464fe1
+:END:
+*** 链球菌,表皮葡萄球菌
+** 继发性肺脓肿可继发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-0043-4028-91a5-3644e2e8894f
+:END:
+*** 金黄色葡萄球菌
+*** 铜绿假单胞菌
+*** 肺炎克雷伯杆菌
+** 吸入性肺脓肿好发于? #card
+:PROPERTIES:
+:collapsed: true
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T02:43:24.933Z
+:card-last-reviewed: 2022-05-13T02:43:24.933Z
+:card-last-score: 5
+:id: 627dc8c9-7e7c-4a3f-a748-3191f3d19d18
+:END:
+*** 右肺
+** 吸入性肺脓肿单发还是多发? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-0515-4bb7-a097-958fd7dccd6d
+:END:
+*** 单发
+** 吸入性肺脓肿仰卧位好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-916b-49bf-bb3b-b07cf9a7c77f
+:END:
+*** 上叶后段与下叶背段
+** 吸入性肺脓肿坐位好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-3412-4bc4-a613-c98838bcce17
+:END:
+*** 下叶后基底段
+** 吸入性肺脓肿右侧卧位好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-c2d0-41f5-9fc0-583170b30cb6
+:END:
+*** 右上叶前段或后段
+** 血源性肺脓肿好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-122a-465a-8581-bf0b13834563
+:END:
+*** 两肺外野
+** 血源性肺脓肿单发还是多发? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f8ae-49d6-8724-d3de48efe10d
+:END:
+*** 多发
+** 原发性肺结核好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6346-481b-8e50-d0210f03f554
+:END:
+*** 上叶下部或下叶上部近胸膜处
+** 继发性肺结核好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-d435-499f-b22b-5f6cab9bd28c
+:END:
+*** 上叶尖后段,下叶背段,后基底段
+** 支气管扩张症好发于? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-965d-4cac-a18f-5d8462a24c34
+:END:
+*** 左下叶,左舌叶支气管
+** 肺脓肿与支气管扩张症的鉴别诊断
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 发病年龄
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-dd14-4864-8a3e-c0fce4f4bfc4
+:END:
+***** 壮年,男多于女
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-8d8b-4929-b661-ffe8b469852b
+:END:
+***** 儿童和青年
+*** 起病缓急
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-5042-4896-852d-1fda3c428f23
+:END:
+***** 急性起病
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-9791-4948-99ae-fd4a6f10c147
+:END:
+***** 慢性经过
+*** 典型表现
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-5e0e-4dc8-8282-b03db974fbbc
+:END:
+***** 高热,咳嗽,咳大量脓臭痰
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-50f4-48d0-a0be-5a42eb71aeaa
+:END:
+***** 慢性咳嗽,咳大量脓痰,反复咯血
+*** 痰液特性
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-b3cf-4adc-b18d-32ad672959cf
+:END:
+***** 脓性臭味痰
+***** 静置分为三层
+**** 支气管扩张症? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-6f90-4e60-81b9-9abd8777116c
+:END:
+***** 分为四层,上层为泡沫,中层为黏液,下层为脓液,最下层为坏死细胞
+*** 咯血
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-dddf-4241-84b1-f110d807e454
+:END:
+***** 1/3病例
+***** 哪一类型的肺脓肿极少咯血? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-e846-42f5-a357-1bb6b6de489a
+:END:
+****** 血源性肺脓肿
+**** 支气管扩张症? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-1868-42d9-8be4-9256fa5a6a19
+:END:
+***** 50%-70%病人可有不同程度的咯血,量不等
+*** 体征
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-0816-40c7-aade-43651a9e66ae
+:END:
+***** 慢性肺脓肿常有
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-4144-42dd-bbc7-bcf7a1e5140a
+:END:
+***** 早期无异常
+***** 慢性支扩可有杵状指
+*** 致病菌
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-1eba-4f30-a3aa-b1290818c485
+:END:
+***** 吸入性为厌氧菌
+***** 血源性为金黄色葡萄球菌
+**** 支气管扩张症? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4edb-4d81-b327-ac24951b6d0d
+:END:
+***** 铜绿假单胞菌,流感嗜血杆菌,卡他莫拉菌,肺炎克雷伯,金葡萄,百日咳
+*****
+*** X线
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-88fa-4cd7-8516-6c7ca85b354c
+:END:
+***** 浓密的炎性阴影中有空腔气液平面
+***** 血源性肺脓肿表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-415f-4c95-b59b-ee5077dc1727
+:END:
+****** 两肺多发性肺脓肿
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-dd35-44f1-97c3-d5aab7b3cc1f
+:END:
+***** 支气管柱状扩张表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-c1d3-4651-a532-6ed103f0f849
+:END:
+****** 双轨征
+***** 支气管囊状扩张表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-e176-4fb6-a1f1-a559222f1fb9
+:END:
+****** 卷发样阴影
+*****
+*** 确诊方法
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:id: 627dc8c9-45b7-40f8-a1a5-6d2bd55abc12
+:END:
+***** 胸腔积液和血培养病原菌价值很大
+**** 支气管扩张症? #card
+:PROPERTIES:
+:id: 627dc8c9-1006-440f-95ad-65ff913a8d06
+:END:
+***** 现在是HRCT过去是碘油造影
+*** 抗感染治疗
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺脓肿? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4f6a-41a5-9acf-e9bf7a4c0636
+:END:
+***** 吸入性肺脓肿首选? #card
+:PROPERTIES:
+:id: 627dc8c9-ec31-4efa-bfd4-21f9210b0474
+:END:
+****** 青霉素
+***** 血源性肺脓肿首选? #card
+:PROPERTIES:
+:id: 627dc8c9-1345-4083-9b8c-a7e5e1563a50
+:END:
+****** 耐β内酰胺酶青霉素类,头孢
+***** 阿米巴性肺脓肿首选? #card
+:PROPERTIES:
+:id: 627dc8c9-79c2-4ec3-8690-57c9012b5404
+:END:
+****** 甲硝唑
+**** 支气管扩张症? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-7848-44b6-bcfc-ec17ac8f29e7
+:END:
+***** 开始时给予? #card
+:PROPERTIES:
+:id: 627dc8c9-b2b4-4ab8-a56c-c3560ea50208
+:END:
+****** 氨苄西林,阿莫西林,头孢克洛
+***** 铜绿假单胞菌感染? #card
+:PROPERTIES:
+:id: 627dc8c9-469f-43de-aa02-4b190a8fb29e
+:END:
+****** 喹诺酮,第三代头孢菌素
+***** 慢性咳脓痰者给予? #card
+:PROPERTIES:
+:id: 627dc8c9-e4b4-40e0-aadf-fa60568ba11d
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-13T16:00:00.000Z
+:card-last-reviewed: 2022-05-13T03:03:18.299Z
+:card-last-score: 1
+:END:
+****** 长疗程抗生素
+** 急性肺脓肿的血常规特点? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-ff8d-42a3-91bf-a11bfcbeb846
+:END:
+*** 白细胞总数达20-30x10⁹/L
+*** 中性粒细胞90%以上
+** 如何确定病原菌? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-5b09-40be-bc59-b29f04fe68ac
+:END:
+*** 痰,胸腔积液,血培养可确定致病菌
+*** 血培养需要培养哪些种类的细菌? #card
+:PROPERTIES:
+:id: 627dc8c9-e85a-489c-ab0f-d38a206e0b34
+:END:
+**** 需氧菌与厌氧菌培养
+** 胸片
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 胸片早期表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-fd18-48d6-8e32-65acd47a283a
+:END:
+**** 大片浓密模糊炎症浸润影
+*** 脓腔形成后胸片可表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-a24c-4585-82d6-8d63afef34d8
+:END:
+**** 脓腔中出现圆形透亮区及液平面,四周被浓密的炎症浸润所环绕
+*** 慢性肺脓肿
+**** 慢性肺脓肿脓腔壁胸片表现为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T02:43:04.119Z
+:card-last-reviewed: 2022-05-13T02:43:04.119Z
+:card-last-score: 5
+:id: 627dc8c9-11a6-49bc-98ca-a490e52dd5d3
+:END:
+***** 增厚
+**** 慢性肺脓肿脓腔内壁胸片表现为? #card
+:PROPERTIES:
+:id: 627dc8c9-01ab-41ae-b05a-80370b86b2c0
+:END:
+***** 不规则
+**** 慢性肺脓肿脓腔壁周围有? #card
+:PROPERTIES:
+:id: 627dc8c9-c19d-4e38-8a96-87f39024fe19
+:END:
+***** 模糊炎性阴影
+** 纤维支气管镜有何作用? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-dc8b-46c0-b3af-5d767689248a
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T03:03:26.388Z
+:card-last-reviewed: 2022-05-13T03:03:26.389Z
+:card-last-score: 5
+:END:
+*** 可以明确病因和病原学诊断,并可用于治疗
+** 急性肺脓肿的诊断
+*** 需要有哪些说明有误吸风险的病史? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-7f83-437e-bf58-7df4b285fc16
+:END:
+**** 口腔手术,昏迷呕吐,异物吸入
+*** 需要有哪些症状的病史? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-0c7d-4991-a82a-3e1789203048
+:END:
+**** 急性发作的畏寒,高热,咳嗽,咳大量臭脓痰
+*** 还需要结合有哪些辅助检查? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-1d17-4c69-b735-e3f70610c8ff
+:END:
+**** 白细胞记数增高
+**** 浓密的炎性阴影中有脓腔,液平面的X线征象
+** 肺脓肿的鉴别诊断
+*** 空洞肺结核的空洞表现
+**** 空洞肺结核的空洞大小? #card
+:PROPERTIES:
+:id: 627dc8c9-3fb3-4cc7-b8b5-5469b0e210bc
+:END:
+***** 大小不一
+**** 空洞肺结核空洞的形成原因? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-8fd8-4c13-8789-9b9b0e3a57e8
+:END:
+***** 由干酪渗出病变溶解形成
+**** 空洞肺结核的洞壁表现为何? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-319d-4466-bb44-e63da0dd5891
+:END:
+***** 不明显
+**** 空洞肺结核的空洞形态特征? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f78d-4db7-bdc9-84b9552ab86d
+:END:
+***** 空腔的虫蚀样空洞
+*** 肺鳞癌空洞
+**** 形成原因? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-b660-41d0-a41e-9b109ada063c
+:END:
+***** 坏死液化形成空洞
+**** 洞壁表现? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-323c-4ce7-b909-24f401888e88
+:END:
+***** 较厚,呈偏心性
+**** 内壁表现? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-88ff-4dc2-9a66-e1b988e63084
+:END:
+***** 残留的肺组织使内壁凹陷不平
+**** 空洞四周? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-9168-4671-a242-2cde0e76be37
+:END:
+***** 炎症病变少
+**** 肺门淋巴结? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-2787-490f-b8a5-34047c3b1f98
+:END:
+***** 可肿大
+**** 是否存在中毒性或急性感染性症状? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-ea69-472f-bb36-9f66020a5ebc
+:END:
+***** 一般无
+*** 肺炎链球菌肺炎
+**** 假空洞征因何所致? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-621e-4f77-b131-e9fcc6e5d4b3
+:END:
+***** 肺部炎症浸润吸收速度过快所致
+** 治疗
+*** 抗生素疗程为? #card
+:PROPERTIES:
+:id: 627dc8c9-140c-4c28-8994-b271947d18dc
+:END:
+**** 6-8周
+*** 或者何时可停止使用抗生素? #card
+:PROPERTIES:
+:id: 627dc8c9-a15b-4d2d-b012-eaf47d7530f5
+:END:
+**** 脓腔和炎症消失仅有少量的残留纤维化
+*** 吸入性肺脓肿首选使用何治疗? #card
+:PROPERTIES:
+:id: 627dc8c9-87a6-47c3-b84b-5c18bce2b466
+:END:
+**** 青霉素
+*** 吸入性肺脓肿治疗不佳时选用? #card
+:PROPERTIES:
+:id: 627dc8c9-cd94-48a8-ab3b-4f7cfece1ef9
+:END:
+**** 林可霉素或甲硝唑
+*** 血源性肺脓肿选用? #card
+:PROPERTIES:
+:id: 627dc8c9-980e-416f-bd84-82ad368226f2
+:END:
+**** 耐青霉素霉的青霉素或头孢菌素
+*** 阿米巴脓肿选用何种药物? #card
+:PROPERTIES:
+:id: 627dc8c9-b6fe-4f48-a68c-1225f16d59ad
+:END:
+**** 甲硝唑
+*** 脓液引流不畅者可用? #card
+:PROPERTIES:
+:id: 627dc8c9-96be-444b-a28c-d24fcba91597
+:END:
+**** 祛痰药雾化吸入
+*** 脓肿引流的体位为? #card
+:PROPERTIES:
+:id: 627dc8c9-b33e-4d1c-b308-3d3326027257
+:END:
+**** 脓肿位于最高位
+*** 手术治疗适应症
+**** 脓肿病程超过多久,经过内科治疗不缩小? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-4fad-483f-a858-89bafe9f039d
+:END:
+***** 3个月
+**** 脓腔大于多少不易闭合者? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-cf62-4dfa-88e1-a7fd42ff868f
+:END:
+***** 5cm
+**** 出现何种症状? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-c536-42ab-82f7-3048cc7652c9
+:END:
+***** 大咯血经内科治疗无效或者危及生命
+**** 出现哪些并发症? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-f6bb-41d5-aa4f-f39ae71697df
+:END:
+***** 支气管胸膜瘘或脓胸抽吸引流不佳
+**** 或者支气管出现何种情况? #card
+:PROPERTIES:
+:collapsed: true
+:id: 627dc8c9-c3a3-40af-93bc-715725cf6ca6
+:END:
+***** 支气管阻塞限制气道引流,如肺癌
+*** 尽管吸入性肺脓肿多为厌氧菌感染但是首选抗生素为? #card
+:PROPERTIES:
+:id: 627dc8c9-05cb-43e9-902b-dd11e12151f5
+:END:
+**** 青霉素而非甲硝唑
+*** 脆弱拟杆菌对何种激素敏感? #card
+:PROPERTIES:
+:id: 627dc8c9-0efa-4757-98a3-0e387483dbbe
+:END:
+**** 林可霉素克林霉素甲硝唑,而非青酶素
+****
+** {{cards [[呼吸系统/activeRecall/肺部感染性疾病]] }}
+**

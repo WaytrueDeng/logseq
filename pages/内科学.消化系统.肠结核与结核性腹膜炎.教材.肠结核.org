@@ -2,7 +2,7 @@
 #+deck:内科学::消化系统::肠结核与结核性腹膜炎::教材::肠结核
 
 * 肠结核的临床表现、实验室和其他检查、诊断、鉴别诊断和治疗
-* 肠结核/病理分类 #card
+* 肠结核/病理分类 
 :PROPERTIES:
 :id: 624da865-5a58-4df7-aadf-0a99ac35eca5
 :END:
@@ -16,7 +16,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 肠结核/临床表现/梗概 #card
+** 肠结核/临床表现/梗概 
 :PROPERTIES:
 :id: 624daa30-6a40-4cac-8d04-b94284441f59
 :collapsed: true
@@ -25,26 +25,26 @@
 *** 大便习惯改变
 *** 腹部肿块
 *** 全身症状和肠外结核表现
-** 肠结核/临床表现/腹痛 #card
+** 肠结核/临床表现/腹痛 
 :PROPERTIES:
 :id: 624daa53-2d68-4e30-ae77-dc40700877d9
 :END:
 *** 1.腹痛  <span class="tested">多位于右下腹或脐周,间歇发作,餐后加重,常伴腹鸣,排便或肛门排气后缓解。</span>其发生可能与进餐引起 <span class="untestedHL">胃肠反射</span>或肠内容物 <span class="untestedHL">通过炎性狭窄肠段,引起局部肠痉挛或加重肠梗阻有关</span>。
 *** <span class="untestedHL">腹部可有压痛,多位于右下腹。</span>
-** 肠结核/临床表现/大便习惯改变 #card
+** 肠结核/临床表现/大便习惯改变 
 :PROPERTIES:
 :id: 624dab1c-c345-486f-8113-b3ee4c0d9f2d
 :collapsed: true
 :END:
 *** <span class="tested">溃疡型肠结核常伴腹泻,大便呈糊样,多无脓血,不伴里急后重。有时腹泻与便秘交替。</span>
 *** <span class="tested">增生型肠结核以便秘为主。</span>
-** 肠结核/临床表现/腹部肿块 #card
+** 肠结核/临床表现/腹部肿块 
 :PROPERTIES:
 :id: 624dab64-cdd7-433d-a944-bb6f1216ad03
 :END:
 *** <span class="tested">多位于右下腹,质中、较固定、轻至中度压痛。多见于增生型肠结核;</span>
 *** <span class="untestedHL">而溃病型者亦可因病变肠段可和周围肠段、肠系膜淋巴结粘连形成腹块。</span>
-** 肠结核/临床表现/全身症状和肠外结核表现 #card
+** 肠结核/临床表现/全身症状和肠外结核表现 
 :PROPERTIES:
 :id: 624dabc4-6fde-4847-a9c4-82dda7e3165d
 :END:
@@ -54,7 +54,7 @@
 #+BEGIN_QUOTE
  <span class="tested">ASTY: 见于晚期患者,肠梗阻是肠结核最常见并发症</span>
 #+END_QUOTE
-** 肠结核/临床表现/增生性和溃疡性对比表 #card
+** 肠结核/临床表现/增生性和溃疡性对比表 
 :PROPERTIES:
 :id: 624dab67-f78f-435d-9e48-6efdcf29baae
 :END:
@@ -62,7 +62,7 @@
 *** ![](../assets/image_1649257659099_0.png)
 *** ![](../assets/image_1649257679098_0.png)
 ***
-* 肠结核/辅助检查/梗概 #card
+* 肠结核/辅助检查/梗概 
 :PROPERTIES:
 :id: 624dad7e-0cb6-4ae5-9ad1-a06d988cf239
 :END:
@@ -71,7 +71,7 @@
 ** X线钡剂灌肠
 ** 结肠镜
 * 肠结核/辅助检查/
-** 肠结核/辅助检查/实验室检查 #card
+** 肠结核/辅助检查/实验室检查 
 :PROPERTIES:
 :id: 49ada867-0330-4970-956d-53267d4c1b89
 :END:
@@ -81,26 +81,26 @@
 *** #+BEGIN_QUOTE
 ASTY: 结核感染T细胞斑点试验T-SPOT 阳性有助于本病诊断
 #+END_QUOTE
-** 肠结核/辅助检查/CT肠道显像 #card
+** 肠结核/辅助检查/CT肠道显像 
 :PROPERTIES:
 :id: 0ea89a67-fa2e-4437-a605-56d3ab2fa768
 :END:
 *** CT 肠道显像(CT enterography, CTE) <span class="untestedHL"> 肠结核病变部位通常在回盲部附近,很少累及空肠,节段性改变不如克罗恩病明显</span>,可见腹腔淋巴结中央坏死或钙化等改变。
-** 肠结核/辅助检查/X线钡剂灌肠 #card
+** 肠结核/辅助检查/X线钡剂灌肠 
 :PROPERTIES:
 :id: 98efc4c3-2388-4cc6-823d-9ba7349f5b4e
 :END:
 *** 次选确诊手段
 *** <span class="tested">溃疡型肠结核,钡剂于病变肠段呈现激惹征象,排空很快,充盈不佳,而在病变的上、下肠段则钡剂充盈良好,称为X线钡剂激惹征。</span>
 *** 增生型者 <span class="untestedHL">肠黏膜呈结节状改变,肠腔变窄、肠段缩短变形、回肠盲肠正常角度消失。</span>(无特征性)
-** 肠结核/辅助检查/结肠镜 #card
+** 肠结核/辅助检查/结肠镜 
 :PROPERTIES:
 :id: 70553f12-8467-439c-8ed0-2f52b32e9fcc
 :END:
 *** 首选确诊手段
 *** 4.结肠镜 内 <span class="tested">镜下见回盲部等处黏膜充血、水肿,溃疡形成,大小及形态各异的炎症息肉,肠腔变窄等</span>。
 *** <span class="untestedHL">病灶处活检,发现肉芽肿、干酪坏死或抗酸杆菌时,可以确诊。</span>
-* 肠结核诊断 #card 
+* 肠结核诊断  
 :PROPERTIES:
 :id: 624dadd9-7de2-472c-b3c2-c893099816ae
 :END:
@@ -116,7 +116,7 @@ ASTY: 结核感染T细胞斑点试验T-SPOT 阳性有助于本病诊断
 #+BEGIN_QUOTE
 ![](../assets/image_1649258781511_0.png)
 #+END_QUOTE
-* 肠结核与克罗恩病的鉴别诊断  #card
+* 肠结核与克罗恩病的鉴别诊断  
 :PROPERTIES:
 :id: 624db0ea-8a3f-46ae-bf92-d648870a9408
 :END:
@@ -132,7 +132,7 @@ ASTY: 结核感染T细胞斑点试验T-SPOT 阳性有助于本病诊断
 干酪性肉芽肿
 #+END_QUOTE
 ** ![](../assets/image_1649258855693_0.png){:height 277, :width 550}
-* 肠结核治疗/梗概 #card
+* 肠结核治疗/梗概 
 :PROPERTIES:
 :id: 624db1b8-ef3c-40a7-acf9-e134074563f8
 :END:
@@ -142,19 +142,19 @@ ASTY: 结核感染T细胞斑点试验T-SPOT 阳性有助于本病诊断
 ** 手术治疗
 ** 病人教育
 * 肠结核治疗/梗概
-** 肠结核治疗/梗概/抗结核化学药物治疗 #card
+** 肠结核治疗/梗概/抗结核化学药物治疗 
 :PROPERTIES:
 :id: a8a4b419-994a-4d40-a40c-777eb5e761d9
 :END:
 *** <span class="untestedHL">.抗结核化学药物治疗 是本病治疗的关键</span>
-** 肠结核治疗/梗概/对症治疗 #card
+** 肠结核治疗/梗概/对症治疗 
 :PROPERTIES:
 :id: 9db44749-f08d-4b4d-8447-2ece4249af08
 :END:
 *** <span class="tested">腹痛可用抗胆碱能药物;</span>
 *** <span class="untestedHL">摄人不足或腹泻严重者应注意纠正水、电解质与酸碱平衡紊 乱;</span>
 *** <span class="untestedHL">对不完全性肠梗阻患者，需进行胃肠减压。</span>
-** 肠结核治疗/梗概/手术治疗 #card
+** 肠结核治疗/梗概/手术治疗 
 :PROPERTIES:
 :id: 6ccd6590-e1a1-46b2-9ec3-bbf1efd2ea9f
 :END:

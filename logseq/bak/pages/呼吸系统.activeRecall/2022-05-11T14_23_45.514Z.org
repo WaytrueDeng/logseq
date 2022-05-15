@@ -1,0 +1,618 @@
+* 内科学
+** COPD
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 慢支后期的病变特点是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺组织弹性减推,肺泡腔扩大,回缩障碍.肺活量减少 残气量增加,肺总量增加
+*** 慢支并发肺气肿主要是什么障碍?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 通气功能障碍
+*** 慢支并发肺气肿主要是什么特征?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 持续气流受限为特征
+*** 慢支并发肺气肿早期病变累及?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 小气道
+*** 慢支并发肺气肿早期病变累及小气道的表现为 ?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 小气道炎症
+**** 小气道纤维组织形成
+**** 小气道黏液栓
+*** 慢支并发肺气肿早期病变表现 1999N57A ?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 仅闭合容积增大,动态顺应性降低
+*** [[动态顺应性]]反映?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+****
+*** 慢支并发肺气肿早期病变检查主要改变是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 流速降低,时间肺活量降低
+*** 时间肺活量是什么指标?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 一定程度上反应流速,小气道的开放情况?
+*** 肺小叶包括?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 终末细支气管→呼吸性细支气管3-8级→肺泡囊和肺泡
+*** 肺气肿是指哪的远端?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 终末细支气管
+*** 肺气肿哪的纤维组织增生?
+:PROPERTIES:
+:id: 62792c64-fea7-4ef5-aab6-c203e0df9393
+:collapsed: true
+:END:
+**** 黏膜下与支气管壁周围(意思是已经出支气管了)
+*** 肺气肿是哪的破坏?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺泡壁和细支气管
+*** 肺气肿肺泡壁的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 变薄
+*** 肺气肿肺泡腔的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 扩大
+*** 肺气肿时肺组织的弹性如何变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 变小: 因为肺泡壁变薄腔变大
+*** 肺气肿泡血液供应?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 减少
+*** 肺气肿可分为哪三型?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 中央型,混合型,全小叶型
+*** 肺气肿哪型最多见?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 中央型
+*** [[中央型肺气肿]]的特点是狭窄部位是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 终末细支气管或一级呼吸细支气管
+*** [[中央型肺气肿]]的特点是扩张部位是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 二级呼吸细支气管
+*** 肺气肿全小叶型的特点是狭窄部位是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 呼吸性细支气管狭窄
+****
+*** 肺气肿小叶型的特点是扩张部位是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 其所属的终末肺组织的全部:肺泡管,肺泡囊,肺泡
+*** 肺气肿有无纤维化:即破坏肺间质?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 无
+*** 肺气肿时呼吸音如何变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 呼气音延长
+*** COPD肺功能检查标准是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ^^吸入支气管扩张剂^^后FEV₁/FVC<0.7
+*** 慢阻肺发生肺换气障碍的机制是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 肺泡及毛细血管大量丧失,弥散面积减少
+**** 通气血流比值失调
+*** COPD可表现为何种呼衰?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** Ⅰ型多见
+**** Ⅱ型少见
+*** COPD表现为Ⅱ型呼衰的机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** V/Q比值失调,弥散障碍
+*** 阻塞性肺气肿时最大通气量和时间肺活量降低的原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 累及大气道
+*** COPD时V/Q比值失调的表现形式?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 部分肺泡由于毛细血管受压血供不足
+**** 部分肺泡由于通气不足导致[[无效腔样增大]]
+*** COPD发展为慢性肺心病的机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 缺氧,高碳酸血症,呼吸性酸中毒等可引起肺血管收缩痉挛
+**** 肺气肿压迫毛细血管使毛细血管床大量减少使肺循环阻力增加
+*** COPD出现低氧血症最主要的机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 通气功能障碍
+*** COPD 的疾病发展过程?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 按照小气道功能→通气功能→肺组织弹性降低→通气血流比失调，最后低氧，高碳酸
+**** COPD的变化历程：
+1.首先是持续气流受限表现为小气道功能有障碍，（检查方法有闭合容积，最大呼气流速容量曲线，频率依赖性肺顺应性）问早期的病变就选它。
+2.然后持续气流受限导致肺通气功能障碍。（通气检查有：肺通气量，时间肺活量，最大呼气中段流量，肺泡通气量。）
+3.然后肺组织弹性下降，肺泡持续扩大，回缩障碍，残气量以及残气量比肺总量增加。
+4.再进一步，毛细血管受压减少。此时肺泡有 气但没有血流，即为无效腔样气量增加；或者有血流但无通气，功能性分流增加。以上通气血流比例失调。
+5.肺泡和毛细血管大量丧失，弥散面积减小，通气血流比例调＋弥散障碍等于换气障碍。（检查方法有气体分布，通气血流比例，弥散功能）
+6.最后，缺氧和二氧化碳储留。导致低氧血症和高碳酸血症。
+*** 肺心病人呼衰氧疗会否增加肺泡通气量?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 不会
+*** COPD稳定期的治疗?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 支气管扩张剂
+**** 糖皮质激素
+**** 祛痰药
+**** 其他药物
+**** 长期家庭氧疗
+*****
+*** COPD急性加重期的治疗?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 支气管扩张剂:沙丁胺醇 异丙托溴铵
+**** 低流量吸氧: 28-30%
+**** 抗生素
+**** 糖皮质激素
+**** 严重呼吸衰竭病人使用机械通气
+****
+****
+*** COPD呼吸酸中毒[[补碱指征]]?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** pH<7.2
+*** COPD意识障碍时禁用?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 镇静药
+*** 糖皮质激素在COPD急性发作期的应用?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 可考虑口服也可静脉甲泼尼龙
+*** 糖皮质激素在稳定期的应用?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 高风险病人用ICS
+*** COPD与哮喘的鉴别可以考虑?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 夜间及凌晨有无发作性的伴有哮鸣音的呼吸困难
+*** COPD与支气管扩张的鉴别可以考虑?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 有无反复的咳脓痰咯血病史
+*** COPD与左心衰致肺水肿可以考虑?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 有无夜间的阵发性呼吸困难以端坐呼吸和等左心衰症状与体征
+*** COPD与ILD的鉴别可以考虑?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ILD病人FEV1/FVC正常或增加
+*** 胸部HRCT是哪些疾病的主要检查方法?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 支气管扩张与肺纤维化
+*** 阻塞性呼吸困难的常见疾病?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[COPD]], [[file:./哮喘.org][哮喘]], [[file:./支扩.org][支扩]],[[细支气管炎]]
+*** 阻塞性呼吸困难的特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 气流流速下降为主
+*** 限制性呼吸困难的特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺容积下降为主,所以RV,TLC,FVC下降
+*** COPD三大并发症?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 肺心病
+**** 呼吸衰竭
+**** 自发性气胸
+*** 低流量吸氧的流量为?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 1-2L/min
+*** COPD支气管扩张剂β2受体兴奋剂长效制剂命名特点?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 沙美特罗 特罗特罗记忆为too long
+*** [[乙酰半胱氨酸]]是什么药?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 祛痰药
+*** 短效和长效的M受体阻断药可是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 异丙托溴铵和噻托溴铵
+*** 气短是什么意思?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 呼气性呼吸困难
+***
+***
+***
+** [[file:./支气管哮喘.org][支气管哮喘]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 支气管哮喘变态反应的始发环节是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** T淋巴细胞
+*** 支气管哮喘变态反应的终末环节是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[嗜酸性粒细胞]]与[[肥大细胞]]
+*** 哮喘的发作与何比值有关?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** cAMP/cGMP
+**** 比值增大则舒张减少则收缩
+*** 糖尿病酮症表现为何种呼吸?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 深大呼吸Kusssmaul呼吸
+*** 充血性心衰表现为何种呼吸?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 潮式呼吸-陈施式呼吸
+*** 哮喘急性发作重度的表现?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 端坐呼吸
+**** 发单字
+**** 大汗淋漓
+**** 三凹征
+*** 哮喘急性发作时的呼吸性碱中毒如何与代谢性碱中毒鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** PCO₂27mmHg（正常值为35～45mmHg，大于50mmHg表示有抑制中枢危险）
+*** 哮喘严重时的先表现为?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 缺氧和过度通气导致的呼吸性碱中毒
+*** 支气管哮喘与心源性哮喘都有的表现?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 双肺哮鸣音
+**** 夜间加重
+**** 咳嗽,咳痰
+*** SB的正常值为?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 22-27mmol/L
+*** AB>SB见于?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 呼吸性酸中毒以及代偿性的代谢性碱中毒
+*** PCO₂大于多少时为呼吸性碱中毒?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 45mmHg
+*** PCO₂小于多少时为呼吸性酸中毒?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 35mmHg
+*** 心源性哮喘与哮喘的X线鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 胸片可见增大的心脏与肺淤血
+*** 嗜酸粒细胞性肺炎X线表现
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肺外带的致密肺泡渗出影,中心带清晰,称作肺水肿反转形状
+*** 哮喘的首选检查是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 肺功能检查
+*** 重度及以上哮喘的首选检查是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 动脉血气分析因为无法配合做肺功能检查
+*** 重度哮喘发作时的重要治疗方法是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 补液纠正失水防止痰液黏稠不易咳出,阻塞气道
+*** 哮喘急性发作时病因不明可选用?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 氨茶碱,或雾化吸入选择性的β2受体激动剂
+*** 乙酰胆碱的作用机制?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 乙酰胆碱兴奋M胆碱受体，可增加鸟苷酸环化酶活性，促进三磷酸鸟苷（GTP）转化为环磷酸鸟苷（cGMP），可增加生物活性物质释放，使支气管收缩，发生哮喘。使用抗胆碱类药物，可抑制乙酰胆碱，使生物活性物质释放减少（A对）。抗胆碱药分为短效抗胆碱药（SAMA）和长效抗胆碱药（LAMA），SAMA主要用于哮喘急性发作的治疗，LAMA主要用于哮喘合并慢阻肺以及慢阻肺患者的长期治疗，不用于哮喘发作的预防（B错）。 ---
+*** LAMA&SAMA可否用于哮喘的预防?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 不
+*** [[file:./β₂受体激动剂.org][β₂受体激动剂]]治疗哮喘的机制?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 激动支气管上的β₂受体使之扩张
+**** 激动肥大细胞等细胞表面的β₂受体减少肥大细胞和嗜碱性粒细胞脱颗粒和介质释放
+*** [[file:./β₂受体激动剂.org][β₂受体激动剂]]的缺点?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 在应用两周后常引起β₂-受体下调,使支气管舒张作用减弱
+*** 具有保护肥大细胞细胞膜作用的药有?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 色苷酸二钠与酮替芬
+*** 可单独应用的药物?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** ICS,白三烯抑制剂
+*** 治疗哮喘最有效的药物是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 糖皮质激素
+*** 治疗急性哮喘发作的首选药物是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** SABA
+*** 糖皮质激素治疗哮喘的机制?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 抑制炎症细胞的迁移和活化
+**** 抑制细胞因子如血小板活化因子的生成
+**** 抑制炎症介质的生成和释放
+**** 促使小血管收缩,减少渗出和炎症细胞的浸润
+**** 增强平滑肌细胞β₂受体的反应性
+*** 糖皮质激素用于轻度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 200-500ug/d
+*** 糖皮质激素用于中度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 500-1000ug/d
+*** 糖皮质激素用于重度持续性哮喘的剂量?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 剂量>1000ug/d
+*** 糖皮质激素治疗持续性哮喘的剂量不宜超过?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 2000ug/d
+*** 哮喘与COPD的可能可能最可能鉴别?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 请注意：桶状胸、胸片透亮度增加不是COPD的专利，它们说明的问题是肺内残气量增多了，可见于COPD、支气管哮喘
+**** 这两个疾病很好鉴别的：
+可能可能最可能是 COPD 的情况：年龄大、慢性咳痰喘、干湿啰音共存
+可能可能最可能是 支气管哮喘 的情况：过敏因素、发作性咳喘、干啰音
+*** 哮喘轻度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 正常或轻度下降
+*** 哮喘中度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** PaO₂下降而PaCO₂正常
+*** 哮喘重度发作时PaO₂和PaCO₂的变化?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** PaO₂明显下降而PaCO₂超过正常
+*** 哮喘急性发作使用呼吸机的指征是?
+:PROPERTIES:
+:background-color: #793e3e
+:collapsed: true
+:END:
+**** 呼吸肌疲劳
+**** PaCO₂>=45mmHg
+**** 身志意识改变
+***
+***
+***
+***
+** [[file:./支气管扩张.org][支气管扩张]]
+*** 支气管扩张痰液分哪四层?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 上层为泡沫
+**** 中间为浑浊黏液
+**** 下层为脓性成分
+**** 最下层为坏死组织
+*** 干性支气管扩张的唯一症状是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 咯血
+*** 支气管扩张X线片有何异常改变?
+**** 可见囊状支气管扩张的气道
+**** 表现为显著的囊腔
+**** 腔内有气液平
+*** 支气管扩张病人有多少比例咯血?
+**** 50%-70%
+*** 支气管扩张的咯血是由于?
+**** 小动脉被侵蚀或增生的血管被破坏
+*** 支气管扩张何时可无异常肺部体征?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 病变早期或干性支气管扩张
+*** 容易发生杵状指的疾病的口诀?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 杵状指:
+阔农爱搂钱（支扩、脓肿、脓胸、肺癌、肺纤、动静脉瘘）
+干咳先吃哑巴亏（肝硬化、克罗恩、先心、亚心、溃结）
+     注意:
+1.杵状指不常见于慢性阻塞性肺病或慢性肺结核的病人，如果这类病人出现杵状指,应怀疑肿瘤。
+2.杵状指也可能是是由于梅毒引起。
+3.杵状指为法洛四联症的典型症状。
+4.杵状指也可由特发性肺纤维化引起。
+*** 支扩引起阻塞性通气障碍的机制?
+**** 感染引起痰液增多阻塞支气管
+**** 病变累及周围肺实质
+*** [[id:14C4FD52-D299-4CCB-B21D-6E4A10F9EB92][慢性支气管炎]]引起阻塞性肺疾病的机制?
+**** 支气管分泌大量黏液阻塞气道
+*** [[id:B46B148D-2569-45E7-B247-35A43578114E][类风关]]引起的肺病变主要累及?
+**** 肺间质表现为肺换气障碍
+*** 肺水肿的发病机制?
+**** 肺内组织液的生成与回流障碍导致液体在肺泡肺间质与细小支气管内积聚造成通气与换气功能障碍
+*** 肺水肿主要表现为何种呼吸障碍?
+**** 换气和限制性通气障碍,不表现为阻塞性通气障碍
+*** 咯血的标准?
+**** 100以内小咯血
+100-500中量咯血
+500以上大量咯血或者一次100-500ml
+*** 支气管扩张引起的咯血如何与二狭引起的咖血鉴别?
+**** 支气管扩张咯血是由于何破裂?
+***** 小动脉
+**** 二狭咯血是由于何破裂?
+***** 支气管静脉
+**** 支气管扩张与二狭咯血颜色区别?
+***** 支气管扩张为鲜红色而二狭为暗红色
+**** 二狭大咯血见于二狭的何期?
+***** 早期
+***** 为何二狭咯血不见于晚期?
+****** 晚期由于支气管静脉壁加厚
+*** 舒张期杂音都是何性质?
+**** 器质性的
+*** 为何支气管扩张痰量多的患者不能尽快排出痰?
+**** 防止痰液聚集在支气管阻塞气道导致患者窒息
+*** 铜绿假单孢菌的感染高危因素有?
+**** ①近期住院；②每年4次以上或近3个月以内应用抗生素；③重度气流阻塞（FEV₁＜30%预计值）；④最近2周每日口服泼尼松＜10mg]
+*** 哪些药物有抗铜绿假单孢菌活性?
+**** β内酰胺类:[[id:12BC9168-0B85-4DB3-8638-4991C4DBBDF0][头孢他啶]],[[id:50E957C4-422F-4CD4-99EA-428ED2F61035][头孢吡肟]],头孢哌酮,哌拉西林/他唑巴坦
+**** 碳青霉烯类: 培南
+**** [[id:7FB42501-6DE8-4DF5-BDF3-ADAE30E36E72][氨基糖苷类]]
+**** 喹诺酮类: 沙星

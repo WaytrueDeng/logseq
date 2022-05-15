@@ -4,7 +4,7 @@
 
 #+ALIAS: 钙离子通道阻断剂
 
-* 分类 #card
+* 分类 
 :PROPERTIES:
 :id: 6239c1e2-7827-42c5-a737-b63220976da4
 :END:

@@ -24,7 +24,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 形成(4大条件) #card
+** 形成(4大条件) 
 :PROPERTIES:
 :id: 6239c1ee-48fd-4d84-bbab-17b74e2a1a05
 :END:

@@ -1,0 +1,12 @@
+* 空格上下文逻辑最重要
+* 相反的关系: 对立 转折 让步
+** [[../assets/image_1652338829127_0.png]]
+** [[../assets/image_1652339065267_0.png]]
+*** Other than #绿叶词
+*** as well as 并列
+*** instead of 反
+*** more than 简单的比较结构
+** [[../assets/image_1652340380929_0.png]]
+** [[../assets/image_1652341913824_0.png]]
+* [[../assets/image_1652342597184_0.png]]
+** such as 不能作为插入状语

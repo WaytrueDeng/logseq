@@ -58,12 +58,12 @@ $$
 *** 溶栓: [[rt-PA]],[[尿激酶]],[[链激酶]]溶栓 激活纤溶酶原→纤溶酶→纤维蛋白原→纤维蛋白降解产物([[FDPs]])
 **** 时间窗$$\leq$$14天
 * [[et cetera]]
-** 定义 #card
+** 定义 
 :PROPERTIES:
 :id: 621f6259-c123-41cc-afd3-db7903201ff5
 :END:
 *** ((621edfa6-2d19-4b9e-b29b-edcd84b3b8c4))
-** 危险因素 #card
+** 危险因素 
 :PROPERTIES:
 :id: 621f6259-bc87-4759-b143-16bf5638ea1e
 :END:
@@ -73,7 +73,7 @@ $$
 :collapsed: true
 :END:
 *** {{embed ((621ee0c4-5a2a-4cfa-a9c4-9f89a0ab9716))}}
-*** 血流动力学改变 #card
+*** 血流动力学改变 
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -86,7 +86,7 @@ $$
 **** $\begin{rcases}机械阻塞作用\\神经体液因素\\低氧\end{rcases}$肺动脉收缩→肺动脉压力升高
 **** 右心室扩大$\begin{rcases}\begin{cases}后负荷增加,右心功能不全\\室间隔左移→心输出量↓→低血压甚至休克\\冠状动脉灌注压不足心肌缺血→心绞痛\end{cases}\end{rcases}$耗氧量增加和灌注不足相互作用导致右心室缺血和功能障碍最终产生恶性循环
 ****
-*** 气体交换障碍 #card
+*** 气体交换障碍 
 :PROPERTIES:
 :id: 621f6259-d4ea-4341-bd8b-b41919b3c22e
 :END:
@@ -103,7 +103,7 @@ $$
 :PROPERTIES:
 :id: 621efbff-a409-4ed2-8498-30a2090cb1b7
 :END:
-*** 症状 #card
+*** 症状 
 :PROPERTIES:
 :id: 621f6259-be0c-4ee3-ba2c-500718c1926f
 :card-last-interval: 4
@@ -120,7 +120,7 @@ $$
 **** ⑤咯血，常为小量咯血，大咯血少见；
 **** ⑥咳嗽、心悸等。各病例可出现以上症状的不同组合。
 **** 临床上有时出现所谓“三联征”，即同时出现呼吸困难、胸痛及咯血，但仅见于约20%的病人。
-*** 体征 #card
+*** 体征 
 :PROPERTIES:
 :id: 621f6259-26ff-437e-8c71-28aa3e255f40
 :END:
@@ -132,7 +132,7 @@ $$
 ** 诊断
 *** 诊断PTE的关键是提高意识，诊断一般按疑诊、确诊、求因三个步骤进行。
 *** 首选CTA 确诊肺动脉造影
-*** 疑诊 #card
+*** 疑诊 
 :PROPERTIES:
 :id: 621f6259-bb0c-4d82-abe1-1293e70cbf58
 :END:
@@ -141,7 +141,7 @@ $$
 ***** {{embed ((621f048d-ddff-4d95-951d-5dbb3a2adbc3))}}
 ***** {{embed ((621ec3a2-c9f8-4095-8c0d-2fd72bbd5d98))}}
 ****
-*** 确诊 #card
+*** 确诊 
 :PROPERTIES:
 :id: 621f6259-d2f7-4083-8eac-028caa69114f
 :card-last-interval: 4
@@ -166,7 +166,7 @@ $$
 **** {{embed ((621ec3a2-f74e-445b-aa8a-8c2939bb4dc5))}}
 ** 治疗: 急性肺栓塞的处理原则是早期诊断，早期干预，根据病人的危险度分层选择合适的治疗方案和治疗疗程
 *** 一般处理与呼吸循环支持治疗
-*** 抗凝治疗 #card
+*** 抗凝治疗 
 :PROPERTIES:
 :id: 621f6259-6f9d-40b2-a8d9-553c2c4e9a4f
 :END:
@@ -183,7 +183,7 @@ $$
 #+BEGIN_QUOTE
 {{embed ((621f1130-d36a-4c81-9f82-19b039eda76a))}}
 #+END_QUOTE
-*** 溶栓治疗 #card
+*** 溶栓治疗 
 :PROPERTIES:
 :id: 621f6259-e67b-469f-9a6b-4a712ba12e6a
 :END:

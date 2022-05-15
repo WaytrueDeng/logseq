@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "draws/骨科.excalidraw.md"
+            "file": "draws/2022-05-14.excalidraw.md"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "骨折",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draws/骨科.excalidraw.md",
+                "file": "draws/2022-05-14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draws/骨科.excalidraw.md"
+                "file": "draws/2022-05-14.excalidraw.md"
               }
             }
           },
@@ -93,12 +93,28 @@
             "id": "8131be29dd9db22f",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {}
             }
           },
           {
             "id": "cec97619a57f3702",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b431e924768f2900",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "eecfb11d4bc52842",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -114,15 +130,15 @@
   },
   "active": "0d0b014ec6fd9e65",
   "lastOpenFiles": [
-    "draws/骨科.excalidraw.md",
-    "draws/英语语法.excalidraw.md",
+    "draws/2022-05-14.excalidraw.md",
     "draws/呼吸系统.excalidraw.md",
-    "assets/病理_肺炎_天天师兄22考研_1648098841378_0.png",
-    "assets/Pasted Image 20220504203603_559.png",
+    "draws/骨科.excalidraw.md",
+    "assets/外科 运动系统慢性损伤 天天师兄22考研.png",
     "draws/病理呼吸系.excalidraw.md",
-    "draws/其他泌尿外科疾病.excalidraw.md",
-    "draws/尿三杯.excalidraw.md",
+    "draws/英语语法.excalidraw.md",
+    "assets/外科 骨与关节感染 天天师兄22考研.png",
     "draws/泌尿外科感染.excalidraw.md",
+    "assets/08.内科 肺炎 思维导图 天天师兄23考研.png",
     "draws/核苷酸的结构和功能.excalidraw.md"
   ]
 }

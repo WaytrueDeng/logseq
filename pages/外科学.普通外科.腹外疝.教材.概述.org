@@ -1,12 +1,12 @@
 #+title: 外科学/普通外科/腹外疝/教材/概述
 #+deck: 外科学::普通外科::腹外疝::教材::概述
 
-* 疝的基本概念 #card
+* 疝的基本概念 
 :PROPERTIES:
 :id: 625268e0-eb0a-48ad-a714-858fbc530b1d
 :END:
 ** 体内脏器或组织 <span class="untestedHL">离开其正常解剖部位</span>, <span class="untestedHL">通过先天或后天形成的薄弱点、缺损或孔隙进入另一部位,称为疝(hemia)。</span>疝多发生于腹部, <span class="untestedHL">以腹外疝为多见</span>。腹外疝是由 <span class="untestedHL">腹腔内的脏器或组织连同腹膜壁层,经腹壁薄弱点或孔隙,向体表突出而致。</span> <span class="untestedHL">腹内疝是由脏器或组织进入腹腔内的间隙囊内而形成,如网膜孔疝。</span>
-* 疝的临床类型 #card
+* 疝的临床类型 
 :PROPERTIES:
 :id: 6252689c-ba36-421e-b7eb-195f52f7699a
 :END:

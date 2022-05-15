@@ -1,7 +1,7 @@
 #+title: 病理学/生殖系统/教材/卵巢肿瘤
 #+deck:病理学::生殖系统::教材::卵巢肿瘤
 
-* 卵巢浆液性肿瘤的病理变化 #card
+* 卵巢浆液性肿瘤的病理变化 
 :PROPERTIES:
 :id: 9caf37e3-31aa-43a6-ac66-6d856a01b3c3
 :collapsed: true
@@ -21,7 +21,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 卵巢黏液性肿瘤的病理变化 #card
+** 卵巢黏液性肿瘤的病理变化 
 :PROPERTIES:
 :id: ba01f82e-e0d2-4398-9bf1-95fcfff7de44
 :END:
@@ -40,12 +40,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 颗粒细胞瘤的定义 #card
+*** 颗粒细胞瘤的定义 
 :PROPERTIES:
 :id: dcd2d6e3-3ec6-45fc-8dac-546376f405b7
 :END:
 **** 伴有雌激素分泌的功能性肿瘤很少发生转移但可发生局部扩散,应被视为低度恶性肿瘤
-*** 颗粒细胞瘤的病理表现 #card
+*** 颗粒细胞瘤的病理表现 
 :PROPERTIES:
 :id: b61107f4-7533-4a1d-bc8a-3b18cacef718
 :END:
@@ -59,12 +59,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 卵泡膜细胞瘤的定义 #card
+*** 卵泡膜细胞瘤的定义 
 :PROPERTIES:
 :id: 0e7c7754-72cc-4468-bb5e-c118e1892bbe
 :END:
 **** 为良性功能性肿瘤可产生雌激素
-*** 卵泡膜细胞瘤的病理表现 #card
+*** 卵泡膜细胞瘤的病理表现 
 :PROPERTIES:
 :id: 277bbbbe-3aff-4ce3-bad7-2ac0ab6326ab
 :END:
@@ -78,7 +78,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 支持-间质细胞瘤定义与病理表现 #card
+*** 支持-间质细胞瘤定义与病理表现 
 :PROPERTIES:
 :id: 54a77c2b-5c36-42b2-aef5-b3af8ee3ee09
 :END:
@@ -96,13 +96,13 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 畸胎瘤定义 #card
+*** 畸胎瘤定义 
 :PROPERTIES:
 :id: a2416c88-9ffa-4e7f-88a7-fac734407e0b
 :END:
 **** 是来源于生殖细胞肿瘤具有向体细胞分化的浅能大多数含有至少2-3个胚层组织成分
 **** 原始生殖细胞向胚胎的体壁细胞分化称为畸胎瘤
-*** 成熟性畸胎瘤的病理表现 #card
+*** 成熟性畸胎瘤的病理表现 
 :PROPERTIES:
 :id: 46c9d9fe-4c35-4e3a-ae8e-71fe12f74da7
 :END:
@@ -114,7 +114,7 @@
 ***** 以表皮和附件组成的单胚层畸胎瘤被称为皮样囊肿
 ***** 以甲状腺组织为主的单胚层畸胎瘤称为卵巢甲状腺肿
 **** 3/4为鳞癌其他包括类癌基底细胞癌等
-*** 未成熟性畸胎瘤的临床表现 #card
+*** 未成熟性畸胎瘤的临床表现 
 :PROPERTIES:
 :id: 9b0d1e0c-22e8-4e80-81de-5cc7f17ffd1a
 :END:
@@ -128,12 +128,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 无性细胞瘤定义 #card
+*** 无性细胞瘤定义 
 :PROPERTIES:
 :id: b351323e-917b-47e2-8dd0-8eda0b5a480e
 :END:
 **** 由未分化,多潜能原始生殖细胞组成的恶性肿瘤,同一肿瘤发生在睾丸则称为精原细胞瘤
-*** 无性细胞瘤病理表现 #card
+*** 无性细胞瘤病理表现 
 :PROPERTIES:
 :id: e9203a70-b03e-4b43-9ff1-f91b53194975
 :END:
@@ -150,12 +150,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 胚胎性瘤定义 #card
+*** 胚胎性瘤定义 
 :PROPERTIES:
 :id: 9a590d63-a02a-45af-9bb0-4d56cbe35e6d
 :END:
 **** 比无形细胞瘤更有浸润性是高度恶性的肿瘤
-*** 胚胎性瘤病理表现 #card
+*** 胚胎性瘤病理表现 
 :PROPERTIES:
 :id: fc29a255-6ada-4647-8ff3-41a5ae5d942c
 :END:
@@ -168,12 +168,12 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 卵黄囊瘤定义 #card
+*** 卵黄囊瘤定义 
 :PROPERTIES:
 :id: 1b1dc8b7-d317-47fa-b936-a269ae884d9e
 :END:
 **** 又称内胚窦瘤,是婴幼儿生殖细胞最常见类型生物学行为高度恶性
-*** 卵黄囊瘤病理表现 #card
+*** 卵黄囊瘤病理表现 
 :PROPERTIES:
 :id: f2b5c631-a7e8-40b5-a88d-3a7d75ac9832
 :END:

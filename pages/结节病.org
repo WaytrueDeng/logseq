@@ -26,19 +26,19 @@
 ** 全身使用糖皮质激素:疗程:6~24月
 * [[et cetera]]
 ** 定义: ((621ec667-72e9-4540-9036-0e732c5a2ad7))
-** 病因和发病机制 #card
+** 病因和发病机制 
 :PROPERTIES:
 :id: 621f6258-3cde-4b38-bced-79faa2c9de44
 :END:
 *** {{embed ((621ec8bc-440a-42e7-929f-916325cc8f8a))}}
-** 病理 #card
+** 病理 
 :PROPERTIES:
 :id: 621f6258-38e6-4d3f-93b6-a1c1b20ce9d4
 :END:
 *** {{embed ((621ec9ba-cae1-4135-8312-c1ac0cf54115))}}
 *** {{embed ((621ecac7-959e-4332-87da-234c7133adbf))}}
 ** 临床表现
-*** 亚急性慢性结节病 #card
+*** 亚急性慢性结节病 
 :PROPERTIES:
 :id: 621f6258-823c-44f2-bb18-0beb98370dd2
 :END:
@@ -50,23 +50,23 @@
 ***** {{embed ((621ecc3d-5c15-4b92-802f-3fb8affe8921))}}
 *****
 ** 辅助检查
-*** 胸部X线检查 #card
+*** 胸部X线检查 
 :PROPERTIES:
 :id: 621f6258-2dd2-407f-bcee-90c53488d5f2
 :END:
 **** {{embed ((621ec3a1-efa6-4841-8674-0adb6b8364f2))}}
-*** 胸部HRCT #card
+*** 胸部HRCT 
 :PROPERTIES:
 :id: 621f6258-cee3-4781-8b0d-14a47e3bdc77
 :END:
 **** ((621ecdcf-d272-4db2-9201-ce3af5174204))
-*** 纤维支气管镜与支气管肺泡灌洗 #card
+*** 纤维支气管镜与支气管肺泡灌洗 
 :PROPERTIES:
 :id: 621f6258-ec72-43b7-a980-34776dd58677
 :END:
 **** BALF检查主要显示淋巴细胞增加,CD4/CD8的比值增加>3.5
 **** 结节病可以通过支气管黏膜活检(呈铺路石样改变),TBLB,经支气管淋巴结针吸和支气管内超声引导活检得到证实,一般不需要纵隔镜和外科肺活检
-** 治疗 #card
+** 治疗 
 :PROPERTIES:
 :id: 621f6258-cd98-46b0-baf6-fae8f0283bdf
 :END:

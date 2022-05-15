@@ -13,6 +13,7 @@
 *** black 3 days, red 8days orange 20 days green 30 days
 *** 生理学
 :PROPERTIES:
+:collapsed: true
 :END:
 **** 绪论
 :PROPERTIES:
@@ -202,12 +203,12 @@ CLOSED: [2022-03-30 Wed 13:38:16]
 :END:
 **** 呼吸系统
 :PROPERTIES:
-:collapsed: true
 :END:
 ***** TODO [#A] [[慢性支气管炎]]与 [[COPD]]
 SCHEDULED: <2022-04-12 Tue ++3d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:21]
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-09 Sat 23:21] State "CANCELLED" from "TODO"
@@ -222,7 +223,8 @@ SCHEDULED: <2022-04-12 Tue ++3d>
 ***** DONE [[支气管哮喘]]
 CLOSED: [2022-04-03 Sun 15:36] SCHEDULED: <2022-04-01 Fri>
 :PROPERTIES:
-:Effort:   2:00
+:Effort: 2:00
+:collapsed: true
 :END:
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-03 Sun 15:36] \\Anki教材制卡
@@ -959,6 +961,7 @@ CLOCK: [2022-04-03 Sun 08:00]--[2022-04-03 Sun 12:30] =>  4:30
 *****
 *** [[外科学]]
 :PROPERTIES:
+:collapsed: true
 :END:
 **** [[外科学大纲]]
 **** 外科学总论
@@ -1306,6 +1309,7 @@ CLOCK: [2022-04-14 Thu 16:58]--[2022-04-14 Thu 18:07] =>  1:09
 :END:
 **** 泌尿男生殖系统外科疾病
 :PROPERTIES:
+:collapsed: true
 :END:
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统外科检查和诊断]] :NOTANKIFIDE:
 SCHEDULED: <2022-04-15 Fri>
@@ -1326,6 +1330,7 @@ SCHEDULED: <2022-04-16 Sat>
 ***** [[外科学/泌尿男生殖系统外科疾病/真题]]
 **** 骨科 :NOTANKIFIDE:
 :PROPERTIES:
+:collapsed: true
 :END:
 :LOGBOOK:
 CLOCK: [2022-04-18 Mon 11:39]--[2022-04-18 Mon 12:17] =>  0:38
@@ -1369,6 +1374,7 @@ SCHEDULED: <2022-04-21 Thu>
 SCHEDULED: <2022-04-21 Thu>
 ***** [[外科学/骨科/骨肿瘤]] :NOTANKIFIDE:
 SCHEDULED: <2022-04-21 Thu>
+***** [[外科学/骨科/真题]]
 *** 生物化学
 :PROPERTIES:
 :collapsed: true
@@ -1399,6 +1405,7 @@ SCHEDULED: <2022-04-21 Thu>
 **** [[生物化学/常用分子生物学技术的原理及其应用]]
 **** [[生物化学/基因结构功能分析和疾病相关基因鉴定克隆]]
 *** [[activeRecall]]
+**** [[呼吸系统/activeRecall]]
 ** 英语
 :PROPERTIES:
 :END:
@@ -1422,12 +1429,18 @@ CLOCK: [2022-03-19 Sat 22:04:35]--[2022-03-19 Sat 23:34:18] =>  01:29:43
 **** [[file:../../../../../../pages/2002年/ⅱ.org][2002年/Ⅱ]]
 **** [[2002年/Ⅱ/Text2]]
 **** [[2002年/Ⅱ/Text3]]
-*** TODO 单词复习 [0%]
+*** TODO 单词复习 [100%]
 SCHEDULED: <2022-04-13 Wed ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-12 Tue 15:16]
 :END:
 :LOGBOOK:
+CLOCK: [2022-05-15 Sun 17:41]--[2022-05-15 Sun 18:06] =>  0:25
+CLOCK: [2022-05-15 Sun 16:56]--[2022-05-15 Sun 17:21] =>  0:25
+CLOCK: [2022-05-15 Sun 16:26]--[2022-05-15 Sun 16:51] =>  0:25
+CLOCK: [2022-05-15 Sun 15:56]--[2022-05-15 Sun 16:21] =>  0:25
+CLOCK: [2022-05-15 Sun 14:45]--[2022-05-15 Sun 15:10] =>  0:25
+CLOCK: [2022-05-15 Sun 14:10]--[2022-05-15 Sun 14:35] =>  0:25
 CLOCK: [2022-04-12 Tue 14:30]--[2022-04-12 Tue 15:16] =>  0:46
 CLOCK: [2022-04-07 Thu 15:30]--[2022-04-07 Thu 15:52] =>  0:22
 CLOCK: [2022-04-06 Wed 10:45]--[2022-04-06 Wed 11:40] =>  0:55
@@ -1454,6 +1467,15 @@ CLOCK: [2022-04-16 Sat 15:25]--[2022-04-16 Sat 16:35] =>  1:10
 :END:
 **** [[经济学人]]
 *** [[颉斌斌66句]]
+*** [[完型]]
+*** [[听力]]
+** 期末考试
+*** [[眼科学/activeRecall]]
+*** [[皮肤病/activeRecall]]
+*** 传染病学
+:LOGBOOK:
+CLOCK: [2022-05-15 Sun 11:56]--[2022-05-15 Sun 12:21] =>  0:25
+:END:
 ** NO YouKnow
 CLOSED: [2022-04-02 Sat 22:20]
 :PROPERTIES:
