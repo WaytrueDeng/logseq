@@ -1,0 +1,248 @@
+:PROPERTIES:
+:ID:       a683a622-bc82-4730-99bd-b6c127d06742
+:END:
+#+title: 词根词缀
+* abl.abili
+** = ?
+*** able
+** 表示?
+*** 能
+** 相关单词
+*** able?
+**** 能够的,有能力的
+*** ability?
+**** 能力才能
+*** debilitate?
+**** 使衰弱
+*** debility?
+**** 衰弱
+*** habilitate?
+**** 装备,使具备能力
+*** rehabilitate
+**** 使康复,改造
+* abol
+** = ?
+*** to do away with
+** 表示?
+*** 是废除的意思,含有此类词根的词通常表示消除取消废除
+** 相关单词
+*** abolish?
+**** 废除
+*** Abolisher?
+**** 废除者
+*** abolition?
+**** 废除
+*** abolitionist?
+**** 废除论者
+* act
+** = ?
+*** to do,to drive
+** 表示?
+*** 做,驱使
+** 相关单词
+*** actualize?
+**** 实现
+*** transact?
+**** 做交易办理
+* ag
+** = ?
+*** to do,to act, to lead
+** 表示?
+*** 做,代理,引导
+** 相关单词
+*** agency?
+**** 代理处.行销处
+*** agitate?
+**** 搅动鼓动使激动
+*** counteragent?
+**** 反作用剂,反抗力
+* agon
+** = ?
+*** to struggle
+** 表示?
+*** 挣扎,斗争
+** 相关单词
+*** agnoize?
+**** 感到苦恼
+**** 极度担心,忧虑
+*** agnoy?
+**** 痛苦
+*** antagonist?
+**** 对手
+*** antagonize?
+**** 反对,对抗
+* al,alter,altern
+** = ?
+*** other,to change
+** 表示?
+*** 改变的意思
+** 相关单词
+*** alias?
+**** 化名
+*** alien?
+**** 外国的
+*** alter?
+**** 变更,改变
+*** alterable?
+**** 可改变的
+*** alteration?
+**** 改造改变
+*** alternate?
+**** 交替,轮流
+*** alternative?
+**** 两者择一的
+* am,amor,amat
+** = ?
+*** love
+** 表示?
+*** 爱,情爱
+** 相关单词
+*** amateur?
+**** 业余爱好的
+*** amatory?
+**** 恋爱的,色情的
+*** amiable?
+**** 和蔼的亲切的友善的
+*** amicable?
+**** 友好的温和的
+*** amity?
+**** 友好,和睦
+*** amorours?
+**** 色情的恋爱的
+*** amour?
+**** 偷情
+*** enamored?
+**** 迷恋的,倾心的,珍爱的
+* apt,ept
+** = ?
+*** to fit,ability
+** 表示?
+*** 适应能力
+** 相关单词
+*** adapt?
+**** 使适应
+*** adaptable?
+**** 有适应能力的
+*** adept?
+**** 熟练的老练的
+*** apt?
+**** 易于,适当的
+*** aptitude?
+**** 适应能力,才能
+*** inapt?
+**** 不适当的,无能的
+*** inept?
+**** 不适当的,无能的
+* art(i)
+** = ?
+*** skill
+** 表示?
+*** 技巧,手艺,职业
+** 相关单词
+*** artful?
+**** 有技巧的
+*** artifact?
+**** 工艺品
+*** artifice?
+**** 技巧
+*** artificial?
+**** 人造的
+*** artless?
+**** 拙劣的
+
+* aut,auto
+** = ?
+*** self,来自希腊语
+** 表示?
+*** 自己
+** 相关单词
+*** autism?
+**** 自我中心主义
+*** autoalarm?
+**** 自动报警器
+*** autocriticism?
+**** 自我反省
+*** automatic?
+**** 机械的
+*** autonomy?
+**** 自治
+*** autopilot?
+**** 自动驾驶仪
+* ban
+** = ?
+*** to prohibit
+** 表示?
+*** 禁止
+** 相关单词
+*** abandon?
+**** 丢弃遗弃
+*** ban?
+**** 禁令
+*** banister?
+**** (楼梯的)栏杆
+* bas
+** = ?
+*** low,foundation
+** 表示?
+*** 低,下,基础
+** 相关单词
+*** abase?
+**** 贬低
+*** base?
+**** 低下的,以...为基础,根据地
+*** baseborn?
+**** 出生卑微的
+*** basement?
+**** 地下室
+*** baseness?
+**** 低下,卑微
+*** basic?
+**** 基础的
+*** basis?
+**** 基础
+*** bass?
+**** 低音的,低音
+*** debase?
+**** 降低,使卑下
+*** subbase
+**** 基层,基地
+* bat
+** = ?
+*** to beat
+** 表示?
+*** 打,击
+** 相关单词
+*** abate?
+**** 打折
+*** battalion?
+**** 营部
+*** battle?
+**** 战役,战斗
+*** combat?
+**** 格斗,搏斗
+*** debate?
+**** 讨论,辩论
+*** embattled?
+**** 严阵以待的
+*** rebate?
+**** 减少,打折扣,回扣折扣
+* art(i)
+** = ?
+** 表示?
+* art(i)
+** = ?
+** 表示?
+** 相关单词
+** 相关单词
+* art(i)
+** = ?
+** 表示?
+* art(i)
+** = ?
+** 表示?
+** 相关单词
+** 相关单词
+* art(i)
+** = ?
+** 表示?
+** 相关单词

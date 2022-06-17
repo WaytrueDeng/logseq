@@ -1,0 +1,179 @@
+{
+  "excalibrainFilepath": "excalibrain.md",
+  "hierarchy": {
+    "parents": [
+      "Parent",
+      "Parents",
+      "up",
+      "u"
+    ],
+    "children": [
+      "Children",
+      "Child",
+      "down",
+      "d"
+    ],
+    "friends": [
+      "Friends",
+      "Friend",
+      "Jump",
+      "Jumps",
+      "j"
+    ]
+  },
+  "renderAlias": true,
+  "backgroundColor": "#0c3e6aff",
+  "excludeFilepaths": [],
+  "showInferredNodes": true,
+  "showAttachments": true,
+  "showVirtualNodes": true,
+  "showFolderNodes": false,
+  "showTagNodes": false,
+  "showPageNodes": true,
+  "maxItemCount": 150,
+  "renderSiblings": true,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#00000000",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 30,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#C49A13FF",
+    "textColor": "#000000ff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "prefix": "📎 "
+  },
+  "folderNodeStyle": {
+    "prefix": "📂 ",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "prefix": "#",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "baseLinkStyle": {
+    "strokeColor": "#696969FF",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {
+    "Parent": {},
+    "Parents": {},
+    "up": {},
+    "u": {},
+    "Children": {},
+    "Child": {},
+    "down": {},
+    "d": {
+      "strokeColor": "#00ff04ff",
+      "strokeStyle": "solid"
+    },
+    "Friends": {},
+    "Friend": {
+      "strokeColor": "#9f5ac4ff"
+    },
+    "Jump": {},
+    "Jumps": {},
+    "j": {}
+  },
+  "navigationHistory": [
+    "claim.md",
+    "maintain.md",
+    "pages/assert.md",
+    "pages/massify.md",
+    "pages/mass.md",
+    "pages/[civic.md",
+    "pages/civility.md",
+    "pages/civics.md",
+    "pages/civil.md",
+    "pages/act.md",
+    "pages/theorem.md",
+    "pages/principle.md",
+    "pages/law.md",
+    "pages/defect.md",
+    "pages/fault.md",
+    "pages/shortcoming.md",
+    "pages/error.md",
+    "pages/blunder.md",
+    "pages/slip.md",
+    "pages/flaw.md",
+    "pages/attorney.md",
+    "pages/counsel.md",
+    "pages/advocate.md",
+    "pages/lawyer.md",
+    "pages/by no means.md",
+    "pages/means.md",
+    "mean.md",
+    "pages/indicate.md",
+    "pages/implication.md",
+    "pages/implicit.md",
+    "pages/imply.md",
+    "pages/alive.md",
+    "pages/deliverer.md",
+    "pages/deliver.md",
+    "pages/2022-05-20.md",
+    "pages/outlive.md",
+    "pages/livelihood.md",
+    "pages/live off.md",
+    "pages/reside.md",
+    "pages/live.md",
+    "assets/Pasted image 20220520162346.png",
+    "pages/learn to learn.md",
+    "draws/2022-05-20.excalidraw.md",
+    "pages/ascertain.md",
+    "pages/Untitled 1.md",
+    "pages/reliant.md",
+    "pages/tumble to.md",
+    "pages/tumble.md",
+    "pages/Untitled 2.md",
+    "pages/code.md",
+    "pages/2022-05-22.md"
+  ]
+}

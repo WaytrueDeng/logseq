@@ -1,0 +1,344 @@
+* #+file-path: file:///Users/waytrue/Zotero/storage/HQP6U8LP/2005年考研英语真题.pdf
+#+file: [[file:///Users/waytrue/Zotero/storage/HQP6U8LP/2005年考研英语真题.pdf][2005年考研英语真题.pdf]]
+#+title: hls__2005年考研英语真题
+* In the opening paragraph, the author introduces his topic by
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8c18-f1d1-4f70-bc48-14ba34a5d797
+:END:
+* Dr. Brosnan and Dr. de Waal have eventually found in their study that the monkey
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8c76-8887-45e8-aa89-54665d454c6a
+:END:
+* [A] posing a contrast.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8cdf-fb37-423f-a4ed-4b7edb31bf4a
+:END:
+* [ C] making a comparison.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8ce7-daa9-44bd-893a-c84862e2c9bb
+:END:
+* ^^But^^ a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which  has  just been  published in Nature, suggests that it is all too monkey. as well.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 628c8e4a-1405-4c53-abb0-874fbcbbb654
+:END:
+* Such behaviour is regarded as "all too human",
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 628c8ec5-201f-45a8-a2b1-c4e49f78b629
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8ef9-5621-4a57-9d11-34161ab3fc2f
+:END:
+22. The statement "it is all too monkey" (Last line, Paragraph 1) implies that
+* [A] monkeys are also outraged by [[slack]] rivals.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8f67-7b54-4b04-9516-e4e6f76c2303
+:END:
+* [B] resenting unfairness is also monkeys' nature.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8f6a-50cd-48ed-8926-ea64d9c7806f
+:END:
+* [C] monkeys, like humans, tend to be jealous of each other.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8f6d-e029-4a95-a679-7290672acc9b
+:END:
+* [D] no animals other than monkeys can develop such emotions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c8fbb-46ad-47f1-a8dc-031339c43fde
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c931b-88ab-45a2-bf30-abbaf7888aa3
+:END:
+23. Female capuchin monkeys were chosen for the research most probably because
+* [A] more inclined to weigh what they get.
+:PROPERTIES:
+:hl-page: 5
+:ls-type: annotation
+:id: 628c93a3-a86a-4796-a09a-315df7283185
+:END:
+- ((628c93e1-2211-4446-b45a-3405a9b64b68)) #精准定位 
+- ((628c8f6a-50cd-48ed-8926-ea64d9c7806f)) 不公平 #选择题固有缺陷/前后题的一致性
+[B] attentive to researchers' instructions.
+[C] nice in both appearance and temperament.
+[D] more generous than their male companions.
+* Above all, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 628c93e1-2211-4446-b45a-3405a9b64b68
+:END:
+* [A] prefer grapes to cucumbers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c94ec-e274-4199-8155-2c210aae1b21
+:END:
+* [B] can be taught to exchange things.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c94ee-14b2-4db0-bb6d-07578c98c060
+:END:
+* [C] will not be co-operative if feeling cheated.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c94f3-6b14-4ccf-9634-c061effc0b28
+:END:
+* [D] are unhappy when separated from others.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c94f6-3d74-4d60-ad18-5eb9916573b8
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c95a6-fa1e-4d78-8dad-e7ccd946b68e
+:END:
+25. What can we infer from the last paragraph?
+* as yet
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 628c9659-1c01-4d31-8f08-c81166853f79
+:END:
+* However,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 628c9660-caeb-470d-a414-5fd5a5aedfbf
+:END:
+* [A] Monkeys can be trained to develop social emotions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c9685-866d-47dc-9d89-786bef6699e4
+:END:
+* [B] Human indignation evolved from an uncertain source
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c9688-9d90-456a-a1e4-381ba97a41bb
+:END:
+* [D] Cooperation among monkeys remains stable only in the wild.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c9699-f135-448c-9505-aba40182bd1d
+:END:
+* [C] Animals usually show their feelings openly as humans do.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c96be-21db-4b0f-8611-b989b307fe64
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd2f5-d526-439a-b17b-060ad8cc12ff
+:END:
+26.  An argument made by supporters of ^^smoking^^ was that
+* [A] there was no scientific evidence of the correlation between smoking and death. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd2fe-e50a-4143-9b9b-eda9dd127f03
+:END:
+* [B] the number of early deaths of smokers in the past decades was insignificant. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd308-57f6-4f83-8419-a79e2ce7d357
+:END:
+* [C] people had the freedom to choose their own way oflife. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd30f-ae80-4d2c-989c-ac957d702069
+:END:
+* [D] antismoking people were usually talking nonsense. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd315-eeb6-4c27-9e3b-0a8b4964eb9e
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd326-e4dc-4e0f-b52b-d46be17312a5
+:END:
+27. According to Bruce Alberts, science can serve as
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd32c-f1dd-4a8f-adab-5d70a4f921c6
+:END:
+28. What does the author mean by "paralysis by analysis" (Last line, Paragraph 4 )?
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd336-2c4e-457d-b264-303afc71ba83
+:END:
+29.  According to the author, what should the Administration do about global warming?
+* :PROPERTIES:
+:hl-page: 7
+:ls-type: annotation
+:id: 628dd33e-f458-407c-9a52-b7b20758872a
+:END:
+30. The author ^^associates^^ the issue of ^^global warming^^ with that of ^^smoking^^ because
+* [A] a protector. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd7f0-f10e-4651-ade4-460457106460
+:END:
+* [B] ajudge. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd7f4-4bd3-4008-b4d7-fa052baa9385
+:END:
+* [C] a critic. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd814-a1f8-4e68-85ea-5d095f866b02
+:END:
+* [D] a guide. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd81c-75f3-45f7-aad5-8496341612d4
+:END:
+* [A] Endless ^^studies^^ kill ^^action^^
+:PROPERTIES:
+:hl-page: 7
+:ls-type: annotation
+:id: 628dd94d-6882-4699-bd0f-a386a80c9884
+:END:
+* [B] Careful investigation reveals truth. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd95a-11db-4265-a104-dca9f745dcbb
+:END:
+* [C] Prudent ^^planning^^ hinders progress.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd960-b83d-4d7b-a623-05d93e62bc78
+:END:
+* [D] Extensive ^^research^^ helps decision-making.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628dd968-9c3f-4839-98e9-c0141cc93537
+:END:
+* [A] Off er aid to build cleaner power plants. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628ddac0-2eb6-4188-8d62-d806f139fa85
+:END:
+* [B] Raise public awareness of conservation.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628ddacd-26a1-4c4f-a751-2818fb21daa8
+:END:
+* [C] Press for further scientific research. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628ddad3-5594-488c-a787-6974be72fcc3
+:END:
+* [D] Take some legislative measures. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 628ddadc-fb92-4c87-9a57-fee9937010be
+:END:
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628dde97-67b1-44b8-ad05-f8d8bdc46806
+:END:
+31. Researchers have come to believe that dreams
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628dde9f-a29a-4952-b2c0-fe6cf7c70697
+:END:
+32. By referring to the limbic system, the author intends to show
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddeac-191e-4479-b268-dc6b31aee072
+:END:
+33. The negative feelings generated during the day tend to
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddeba-22e3-498f-89b1-345038cca420
+:END:
+34. Cartwright seems to suggest that
+* 3 5. What advice might Cartwright give to those who sometimes have bad dreams? 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddec2-7648-4628-87fc-d446e16222f0
+:END:
+* [A] can be modified in their courses. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddfb4-7de5-4c99-9fcd-d3f39804d8db
+:END:
+* [B] are susceptible to emotional changes. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddfb9-e0d8-455a-9e10-9c6fc43555dd
+:END:
+* [C] reflect our innermost desires and fears. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddfc6-0464-4215-b06c-cd6443ab6be2
+:END:
+* [D] are a random outcome of neural repairs. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 628ddfcc-f307-4f54-b183-9da5ae50c28e
+:END:
+* Now
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 628de027-c359-4b78-9f88-de896f269c71
+:END:

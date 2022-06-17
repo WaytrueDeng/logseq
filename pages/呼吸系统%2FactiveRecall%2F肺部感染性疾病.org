@@ -30,7 +30,6 @@
 * 各种细菌产生耐药性的机制? #card
 :PROPERTIES:
 :background-color: #793e3e
-:collapsed: true
 :id: 627dc8c9-8404-4ae1-974b-d0c264cbb111
 :END:
 ** ((627cfab4-11e4-4df3-82f9-c3282a6ae752))
@@ -994,9 +993,6 @@
 **** 铜绿假单孢菌肺炎
 ***
 * 肺脓肿
-:PROPERTIES:
-:collapsed: true
-:END:
 ** 肺脓肿早期为? #card
 :PROPERTIES:
 :collapsed: true

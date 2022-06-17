@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       15910b24-c547-4fb9-8380-0ec61dfc4cb8
+:END:
+#+title: #+title: 哪些激素具有升高血糖的作用?
+[[id:4BD0215D-ADF6-4CCA-AE4E-0DE3C5C74497][肾上腺素]],[[id:9767528C-8E7B-44D1-AFFD-11ECC1C35FF7][皮质醇]],[[id:A288C0E9-C39D-4B13-8DA9-6C99D6E8D46A][胰高血糖素]],[[生长激素]]

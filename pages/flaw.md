@@ -1,0 +1,1 @@
+j:: [[mistake]], [[flaw]], [[shortcoming]], [[error]], [[defect]], [[slip]], [[fault]], [[blunder]]

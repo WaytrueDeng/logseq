@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "de9b193ec692137e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5c2bbc12d6a33f",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "draws/自身免疫.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8dc1c4f54963974",
+    "type": "split",
+    "children": [
+      {
+        "id": "cede62283c69faae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7540b86b1d318a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe42b9b4d9c32d92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "内分泌",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a615c0f491e0737d",
+    "type": "split",
+    "children": [
+      {
+        "id": "62537502a992206e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c6248df7e77f6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "draws/自身免疫.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcaebecaa544d07e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "draws/自身免疫.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0f57f33df25746d5",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a046b9cf35535d2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca5c2bbc12d6a33f",
+  "lastOpenFiles": [
+    "draws/自身免疫.excalidraw.md",
+    "assets/Pasted Image 20220602214450_510.png",
+    "draws/内分泌系统.excalidraw.md",
+    "pages/2022-06-01.md",
+    "draws/酪氨酸激酶受体配体.md",
+    "draws/细胞信号转导的分子开关是.md",
+    "draws/招募型受体效应主要是调控什么功能.md",
+    "draws/配体.md",
+    "draws/TNF的通路.md",
+    "draws/胰高血糖素升糖走哪条途径.md"
+  ]
+}

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f8eecae7-b298-472b-87e1-cea51ca8eb24
+:END:
+#+title: 哪些激素具有抑制TRH神经元的作用?
+两个生长:生长激素,[[id:C9DB27C9-3BCC-410D-93B8-8E701DE65CE3][生长抑素]]
+两个胺: 多巴胺,5-HT
+一个肽: [[id:BE7F0AC3-989F-45AC-A337-0CDE5B712D7A][阿片肽]]

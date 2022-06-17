@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ee6de634-db3f-4b61-bf79-f03ab3577dc7
+:END:
+#+title: commute
+通勤

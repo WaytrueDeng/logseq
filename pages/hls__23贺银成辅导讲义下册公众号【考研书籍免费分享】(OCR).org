@@ -71,3 +71,27 @@
 :hl-page: 35
 :id: 627cfbe2-a733-4f15-9bfc-b032d8dde4cf
 :END:
+* 3.临床表现
+:PROPERTIES:
+:hl-page: 128
+:ls-type: annotation
+:id: 628b4e57-af79-4894-8281-5f21fa3dacc1
+:END:
+* 4.实验室和其他检查
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:id: 628b5e88-1fd5-4d84-8a65-c726d1bcc702
+:END:
+* 6.临床表现及并发症
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 628c9863-1ff6-4569-9de0-5f83dc28b641
+:END:
+* 8.诊断与鉴别诊断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 138
+:id: 628c9b48-e671-424e-83cf-090188447770
+:END:

@@ -1,0 +1,3 @@
+A formative period of time or [experience](https://www.collinsdictionary.com/dictionary/english/experience "Definition of experience") is one that has an [important](https://www.collinsdictionary.com/dictionary/english/important "Definition of important") and [lasting](https://www.collinsdictionary.com/dictionary/english/lasting "Definition of lasting") [influence](https://www.collinsdictionary.com/dictionary/english/influence "Definition of influence") on a person's [character](https://www.collinsdictionary.com/dictionary/english/character "Definition of character") and [attitudes](https://www.collinsdictionary.com/dictionary/english/attitude "Definition of attitudes").
+
+She was born in Barbados but spent her formative years in east London.

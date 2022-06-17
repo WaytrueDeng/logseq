@@ -1,0 +1,10 @@
+* #+title: 推断题/段落
+* 第一句
+* 大写转折句
+* 最后一句出现转折词
+* :PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 628c95a6-fa1e-4d78-8dad-e7ccd946b68e
+:END:
+25. What can we infer from the last paragraph?

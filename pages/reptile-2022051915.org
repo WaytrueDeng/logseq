@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f6b981a5-44f6-4122-a2a8-39cf8cbbd66f
+:END:
+#+title: reptile
+adj 爬行动物
+n 爬行动物

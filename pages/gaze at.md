@@ -1,0 +1,1 @@
+j:: [[glare at]],[[stare at]],[[gaze at]],[[peer at]]

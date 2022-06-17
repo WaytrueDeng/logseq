@@ -1,0 +1,1 @@
+Patients with end stage or terminal HCC are those presenting with tumors leading to a very poor Performance Status (ECOG 3–4) or Child–Pugh C patients with tumors beyond the transplantation threshold.

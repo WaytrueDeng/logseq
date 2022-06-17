@@ -8,3 +8,6 @@ background-color: red;
   color:black;
   border-radius: 0.5em;
 }
+table {
+      white-space:nowrap;
+}

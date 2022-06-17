@@ -1,0 +1,54 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+# Embedded files
+31d4cb028aaa54e0176e883f993ac4fad7d4191b: [[assets/Pasted Image 20220520162437_217.png]]
+
+%%
+# Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
+
+ZMzYBXUtiRoIACyhQ4zZAHoFWPETKUAdNjYBbGnQT4EOhByjNuAbXBhQYexBLcIA
+
+fQCOAeQDmXgDJQASR0AMQBRLwAlLygAcQB1AA04gGkY/XtIWERnQh1cLyR+B0xuA
+
+FoAFgA2AAYNAGYATkaADmrm8uaARgBWOr4bSBgyuu7KjW6iyAoSKEluZsryjQB2Z
+
+uWGys7KjbrqxcmpBEIvaW5yxoPcDi8jbmqD5ihSNgBrBABhNnw2Umcnq+YcFwpFM
+
+UHSDgARrhsC8vM8hBxiJ9vr8JP8OIDgaDwZAAGaEfD4ADKsFuEkk0MkIkKAwgj2e
+
+bziMzmaE6DyerwQJJgZPQgjUOIg8JOHAQzAsrIObCB2EIsG4nWq91pcOEcACxAlq
+
+EsAF12QyuRTSHBReLnPDEYLmAgEMQFd1yjw+msmgdGCx2Fw0OU3UxWJwAHKcMQKu
+
+p1SqrR09A6EZgAEUMCCgtu4uII1oOEOEiNCRhMZi1HCEhIOQjgxFwybtrMqvWqI2
+
+qy2WPWaByIHBe3CLJdp3xhKbQafwGdpj0rQi1EEQiMI10F+KMGucdU6xHK2Ah1R4
+
+zVwu4dCGqnWWlQQzWadVxDSa0PKaeIyzXnQanQhVtU4m1AzAbK/nQGOpsABfcA9T
+
+oXA4DgElKw/OxMkkYwPwgIgTjBIoGEIBAKAAIWhWELSRL4fmcABiXEyIaYhXzQ7A
+
+RBBMwAmTHQSQNZEiIkYilU46pwQgGjSDowJGJwmFVQRAiUT+cgMSBASeL4gSGOMY
+
+ICWJUlEIpbAqRBOTaNBRSmI5RlmQVajdPoxjmM5bleTpL4nFM/i9MYiJhBFMUtR/
+
+Bx5Kc4wPBlOUhlZJUHIUxjgk4KBglwHQCUC1BPMgbzzKUiKiUIAAvD8eGVLyzME4
+
+wABUsCgABBZCvXQIxcVQmxeLy/TLLeIkjRNdznGYFqdMc5KDOBUr+LYCh4NwatUG
+
+7fAQp8nRQkREqBqGhARucYFnioSaet8WdFtIRrDWBVqzQkfCeLhEg0syrtiwm2rt
+
+BRAAFAgk2TbhgGAsBAP4CAFzFF7gMAoA
+```
+%%

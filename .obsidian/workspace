@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0d0b014ec6fd9e65",
+        "id": "31e9e3a0e541ba21",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "draws/2022-05-14.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1c0c32ca3daf173a",
+    "id": "362f57cf0ea15900",
     "type": "split",
     "children": [
       {
-        "id": "77d1297cfde0c71b",
+        "id": "7557c1f418cf3efb",
         "type": "tabs",
         "children": [
           {
-            "id": "35eea992a3901d3b",
+            "id": "106d61088d207abe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -33,13 +31,13 @@
             }
           },
           {
-            "id": "6760a75309a7c8d9",
+            "id": "773d9f946dde4d5c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "生化",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -47,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -55,20 +54,19 @@
     "collapsed": true
   },
   "right": {
-    "id": "72f34502f5461d25",
+    "id": "b6ab22a4d03a975f",
     "type": "split",
     "children": [
       {
-        "id": "d5ab14358d9e6f21",
+        "id": "be8856b61474352c",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fb9741b3ad7ec3",
+            "id": "5c2f0851accc00f6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draws/2022-05-14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,33 +78,15 @@
             }
           },
           {
-            "id": "7862be1ada298790",
+            "id": "fe283564661037d2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "draws/2022-05-14.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8131be29dd9db22f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "cec97619a57f3702",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b431e924768f2900",
+            "id": "fa333731afb8bd54",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -114,7 +94,7 @@
             }
           },
           {
-            "id": "eecfb11d4bc52842",
+            "id": "012396b10d3f171f",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -128,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d0b014ec6fd9e65",
+  "active": "31e9e3a0e541ba21",
   "lastOpenFiles": [
-    "draws/2022-05-14.excalidraw.md",
-    "draws/呼吸系统.excalidraw.md",
-    "draws/骨科.excalidraw.md",
-    "assets/外科 运动系统慢性损伤 天天师兄22考研.png",
-    "draws/病理呼吸系.excalidraw.md",
-    "draws/英语语法.excalidraw.md",
-    "assets/外科 骨与关节感染 天天师兄22考研.png",
-    "draws/泌尿外科感染.excalidraw.md",
-    "assets/08.内科 肺炎 思维导图 天天师兄23考研.png",
-    "draws/核苷酸的结构和功能.excalidraw.md"
+    "draws/生物化学.excalidraw.md",
+    "draws/生糖兼生酮氨基酸.md",
+    "draws/消化系统.excalidraw.md",
+    "draws/急性重症肝炎的病理变化.md",
+    "draws/中度慢性肝炎的病理变化是特征性变化是.md",
+    "draws/急性普通型肝炎的病理变化是.md",
+    "draws/丙型肝炎的特有特点包括.md",
+    "draws/黏膜固有层.md",
+    "draws/血液病其他重要的试验.md",
+    "draws/氰化物与CO中毒静脉氧分压如何改变.md"
   ]
 }

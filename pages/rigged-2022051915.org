@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7499638d-f82d-4816-b3a2-24b5f5dc59a2
+:END:
+#+title: rigged
+adj: 作弊的,非法操作的
+v: 配备索具:操纵,舞弊
