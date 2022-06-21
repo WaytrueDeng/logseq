@@ -8,6 +8,7 @@
 ** 西综
 :PROPERTIES:
 :ID: bf9c9d1c-e610-4b47-9f89-88e7b2fe229f
+:collapsed: true
 :END:
 *** {{embed ((62300ca7-df45-4b22-8b74-f9fedfc215b9))}}
 *** black 3 days, red 8days orange 20 days green 30 days
@@ -20,7 +21,6 @@
 :collapsed: true
 :LAST_REPEAT: [2022-03-23 Wed 19:59:00]
 :END:
-SCHEDULED: <2022-04-23 Sat +1m>
 - CLOSING NOTE [2022-03-23 Wed 19:59:00] \\0/27
 [[Feb 23rd, 2022]]  0/27
 ***** [[机体的内环境,稳态和生物节律]]
@@ -38,7 +38,6 @@ SCHEDULED: <2022-04-23 Sat +1m>
 ***** TODO [#A] [[细胞的信号转导]]
 - [[Mar 9th, 2022]]  2/9
 ***** TODO [[细胞的电活动]]
-SCHEDULED: <2022-04-21 Thu ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-02 Sat 20:03]
 :END:
@@ -65,7 +64,6 @@ CLOSED: [2022-04-02 Sat 20:09]
 CLOCK: [2022-04-02 Sat 19:27]--[2022-04-02 Sat 20:02] =>  0:35
 :END:
 ***** TODO [[肌细胞的收缩]]
-SCHEDULED: <2022-04-12 Tue>
 - 寒假  3/26
 - [[2022-03-11 Friday]]- [[2022-03-12 Saturday]]    100
 **** 血液循环
@@ -74,15 +72,12 @@ SCHEDULED: <2022-04-12 Tue>
 :END:
 16/182
 ***** TODO [[心脏的泵血功能]]
-SCHEDULED: <2022-04-10 Sun>
 - 寒假  mark
 - [[2022-03-12 Saturday]]  mark
 ***** TODO [[心脏的电生理学及生理特性]]
-SCHEDULED: <2022-04-10 Sun>
 - 寒假   mark
 - [[2022-03-13 Sunday]]  3/33
 ***** TODO [[血管生理]] [[冠脉循环]] [[2022-03-18]]
-SCHEDULED: <2022-04-11 Mon>
 - 寒假  mark
 - [[2022-3-13]]  5/65
 ***** CANCELLED [[心脏活动的调节]] [[2022-03-18]]
@@ -107,8 +102,6 @@ CLOSED: [2022-04-04 Mon 23:26] SCHEDULED: <2022-04-04 Mon>
 - [[2022-2-21]]
 - [[2022-2-22]]
 **** [[生理学/消化系统]]
-SCHEDULED: <2022-04-19 Tue ++20d>
-SCHEDULED: <2022-04-15 Fri ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 13:37:36]
 :collapsed: true
@@ -132,7 +125,6 @@ CLOCK: [2022-03-30 Wed 12:15:36]--[2022-03-30 Wed 13:34:08] =>  1:19
 ***** [[消化道的神经支配及其作用]]
 ***** [[消化系统的内分泌功能]]
 ***** [[口腔内消化和吞咽]]
-SCHEDULED: <2022-04-30 Sat +1m>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 13:51:39]
 :END:
@@ -140,7 +132,6 @@ SCHEDULED: <2022-04-30 Sat +1m>
 - CLOSING_NOTE [2022-03-30 Wed 13:51:39] \\8-13 6/6 100%
 :END:
 ***** [#C] [[胃内消化]]
-SCHEDULED: <2022-04-19 Tue ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 13:55:53]
 :END:
@@ -149,7 +140,6 @@ SCHEDULED: <2022-04-19 Tue ++20d>
   14-58,4/45,91%
 :END:
 ***** [#C] [[小肠内消化]]
-SCHEDULED: <2022-04-19 Tue ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 13:59:02]
 :END:
@@ -161,7 +151,6 @@ CLOCK: [2022-03-26 Sat 16:48:17]--[2022-03-26 Sat 17:17:00] =>  0:29
 - CLOSING_NOTE [2022-03-30 Wed 13:59:02] \\59-98,4/40,90%
 :END:
 ***** [[大肠]]
-SCHEDULED: <2022-04-30 Sat +1m>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 14:00:55]
 :END:
@@ -172,7 +161,6 @@ CLOCK: [2022-03-26 Sat 19:28:31]--[2022-03-26 Sat 19:58:28] =>  0:30
 - CLOSING_NOTE [2022-03-30 Wed 14:00:55] \\99-100,2/2,100%
 :END:
 ***** [#B] [[物质的吸收]]
-SCHEDULED: <2022-04-23 Sat ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:23]
 :END:
@@ -208,7 +196,6 @@ CLOCK: [2022-05-28 Sat 17:07]
 :PROPERTIES:
 :END:
 ***** TODO [#A] [[慢性支气管炎]]与 [[COPD]]
-SCHEDULED: <2022-04-12 Tue ++3d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:21]
 :collapsed: true
@@ -338,7 +325,6 @@ CLOCK: [2022-05-17 Tue 22:25]--[2022-05-17 Tue 23:00] =>  0:35
 :END:
 ***** TODO 内科学消化系统总论
 ***** TODO [#B] [[内科学/消化系统/胃食管反流病]]
-SCHEDULED: <2022-04-08 Fri ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-31 Thu 17:07:07]
 :collapsed: true
@@ -353,7 +339,6 @@ CLOCK: [2022-03-31 Thu 18:41:00]--[2022-03-31 Thu 19:27:44] =>  0:46
 ****** TODO  [[内科学/消化系统/胃食管反流病/教材]]
 ****** [[内科学/消化系统/胃食管反流病/真题]]
 ***** TODO [#A] [[内科学/消化系统/胃炎]] :ANKIFIDE:
-SCHEDULED: <2022-04-12 Tue ++3d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:21]
 :END:
@@ -461,7 +446,6 @@ CLOSED: [2022-04-02 Sat 20:40]
 CLOCK: [2022-04-01 Fri 18:43:39]--[2022-04-01 Fri 20:01:58] =>  01:18:19
 :END:
 ***** TODO [#A] [[心律失常]]
-SCHEDULED: <2022-04-10 Sun>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:21]
 :collapsed: true
@@ -490,7 +474,6 @@ CLOSED: [2022-03-31 Thu 22:18:44]
 - CLOSING_NOTE [2022-03-31 Thu 21:29:29]
 :END:
 ***** TODO [#B] [[动脉粥样硬化]]和[[冠状动脉粥样硬化]] [[id:0B6F217E-D5C5-42F9-8F17-07F0CC501E48][冠心病]]
-SCHEDULED: <2022-04-11 Mon ++5d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-06 Wed 22:21]
 :collapsed: true
@@ -521,7 +504,6 @@ CLOSED: [2022-03-29 Tue 22:40:49]
 :END:
 ****** DONE 冠心病Anki
 ***** TODO [[高血压]]
-SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:04]
 :collapsed: true
@@ -545,7 +527,6 @@ CLOSED: [2022-03-29 Tue 16:34:40]
 ****** DONE 高血压Anki
 CLOSED: [2022-03-29 Tue 16:34:45]
 ***** TODO [#B] [[心肌病]]
-SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:04]
 :collapsed: true
@@ -567,7 +548,6 @@ CLOCK: [2022-03-21 Mon 18:19:41]--[2022-03-21 Mon 18:57:45] =>  00:38:04
 :END:
 ****** DONE 心肌病Anki
 ***** TODO [#B] [[id:3A5AA010-9B1A-482F-9095-E1643B82129E][心脏瓣膜病]]
-SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:09]
 :collapsed: true
@@ -590,7 +570,6 @@ CLOCK: [2022-03-21 Mon 15:19:21]--[2022-03-21 Mon 16:10:49] =>  00:51:28
 :END:
 ****** DONE 心脏瓣膜病Anki
 ***** TODO [#B] [[心包疾病]]
-SCHEDULED: <2022-04-13 Wed ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-05 Tue 23:09]
 :collapsed: true
@@ -687,7 +666,6 @@ CLOSED: [2022-03-29 Tue 20:23:20]
 **** {{embed ((622d3b98-2b4b-4b3d-b043-15706781c989))}}
 [[病理学医考帮真题]]
 **** TODO 细胞和组织的[[适应]]和[[损伤]]
-SCHEDULED: <2022-04-25 Mon ++30d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-27 Sun 08:37:51]
 :END:
@@ -701,7 +679,6 @@ CLOCK: [2022-03-21 Mon 20:24]--[2022-03-21 Mon 20:50] =>  0:26
 :END:
 ****
 **** TODO [#C] [[损伤的修复]]
-SCHEDULED: <2022-04-19 Thu ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-30 Wed 11:10:10]
 :collapsed: true
@@ -718,7 +695,6 @@ CLOCK: [2022-03-22 Tue 18:11:02]--[2022-03-22 Tue 18:16:48] =>  0:05
 ***** TODO [[id:7EE27110-8795-4EFE-AE6E-7C1B85F9E279][损伤的修复]]医考帮
 ***** TODO [[id:7EE27110-8795-4EFE-AE6E-7C1B85F9E279][损伤的修复]]Anki
 **** TODO [#C] [[局部血液循环障碍]]
-SCHEDULED: <2022-04-20 Wed ++12d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-01 Fri 16:13:34]
 :collapsed: true
@@ -733,7 +709,6 @@ CLOCK: [2022-04-01 Fri 15:43:48]--[2022-04-01 Fri 16:09:06] =>  00:25:18
 :END:
 ***** [[病理学/局部血液循环障碍/真题]]
 **** TODO [[炎症]]
-SCHEDULED: <2022-04-12 Tue ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-23 Wed 20:28:56]
 :collapsed: true
@@ -745,7 +720,6 @@ CLOCK: [2022-03-23 Wed 19:59:39]--[2022-03-23 Wed 20:28:15] =>  0:29
    94.3%
 ***** [[2022-03-16]]   81.4%
 **** TODO [[免疫性疾病]]
-SCHEDULED:<2022-04-11 Mon ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-04 Mon 23:26]
 :END:
@@ -763,7 +737,6 @@ CLOCK: [2022-03-18 Fri 16:00:43]--[2022-03-18 Fri 16:06:43] =>  00:06:00
 CLOCK: [2022-03-18 Fri 16:40:40]--[2022-03-18 Fri 17:15:59] =>  00:35:19
 :END:
 **** TODO [[file:./肿瘤.org][肿瘤]]
-SCHEDULED: <2022-04-16 Sat ++20d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-03-27 Sun 11:04:33]
 :END:
@@ -776,7 +749,6 @@ CLOCK: [2022-03-19 Sat 16:37:28]--[2022-03-19 Sat 17:17:31] =>  00:40:03
 - CLOSING NOTE [2022-03-27 Sun 11:04:33] 90%
 - [[file:../journals/2022_03_19.org][2022-03-19]]  80%
 **** TODO [[id:d1c91c4f-5ec0-4d28-a688-7c34d4414dee][病理学/呼吸系统]]
-SCHEDULED: <2022-04-12 Tue ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-04 Mon 23:26]
 :collapsed: true
@@ -800,7 +772,6 @@ CLOCK: [2022-03-23 Wed 21:04:32]--[2022-03-23 Wed 21:48:00] =>  0:44
 ***** [[id:0ebe7d38-f99c-4b2e-a6ad-3383047ca3ba][呼吸系统肿瘤]]
 ***** [[id:f9352341-befa-46fb-9a35-9640f4d3a209][硅肺]]
 **** TODO [#A] 病理学/循环系统
-SCHEDULED: <2022-04-10 Sun ++3d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-09 Sat 23:21]
 :collapsed: true
@@ -872,7 +843,6 @@ CLOSED: [2022-04-02 Sat 20:14]
 - CLOSING_NOTE [2022-04-01 Fri 18:18:09]
 :END:
 **** TODO [[病理学消化系统疾病]]
-SCHEDULED: <2022-04-12 Tue ++8d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-04-04 Mon 23:26]
 :collapsed: true
@@ -1228,7 +1198,6 @@ CLOCK: [2022-04-10 Sun 12:17]--[2022-04-10 Sun 12:30] =>  0:13
 :collapsed: true
 :END:
 ***** [[外科学/普通外科/颈部疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-10 Sun>
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -1240,7 +1209,6 @@ CLOCK: [2022-04-09 Sat 09:43]--[2022-04-09 Sat 12:45] =>  3:02
 ****** [[外科学/普通外科/颈部疾病/教材/甲状旁腺功能亢进的外科治疗]]
 ****** [[外科学/普通外科/颈部疾病/教材/颈部肿块]]
 ***** [[外科学/普通外科/乳房疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-10 Sun>
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -1252,13 +1220,11 @@ CLOCK: [2022-04-09 Sat 19:15]--[2022-04-09 Sat 22:15] =>  3:00
 ****** [[外科学/普通外科/乳房疾病/教材/乳腺囊性增生病]]
 ****** [[外科学/普通外科/乳房疾病/教材/乳房检查/乳房肿瘤]]
 ***** [[外科学/普通外科/腹外疝]] :ANKIFIDE:
-SCHEDULED: <2022-04-10 Sun>
 :LOGBOOK:
 CLOCK: [2022-04-10 Sun 17:20]--[2022-04-10 Sun 18:38] =>  1:18
 CLOCK: [2022-04-10 Sun 13:16]--[2022-04-10 Sun 14:27] =>  1:11
 :END:
 ***** [[外科学/普通外科/腹部损伤]] :ANKIFIDE:
-SCHEDULED: <2022-04-11 Mon>
 :LOGBOOK:
 CLOCK: [2022-04-11 Mon 13:30]--[2022-04-11 Mon 16:04] =>  2:34
 CLOCK: [2022-04-11 Mon 09:23]--[2022-04-11 Mon 10:18] =>  0:55
@@ -1269,24 +1235,20 @@ CLOCK: [2022-04-11 Mon 21:40]--[2022-04-11 Mon 22:02] =>  0:22
 CLOCK: [2022-04-11 Mon 19:30]--[2022-04-11 Mon 21:32] =>  2:02
 :END:
 ***** [[外科学/普通外科/胃十二指肠疾病]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-11 Mon>
 :LOGBOOK:
 CLOCK: [2022-04-12 Tue 12:41]--[2022-04-12 Tue 13:30] =>  0:49
 CLOCK: [2022-04-12 Tue 10:23]--[2022-04-12 Tue 11:31] =>  1:08
 CLOCK: [2022-04-11 Mon 22:13]--[2022-04-11 Mon 23:22] =>  1:09
 :END:
 ***** [[外科学/普通外科/小肠疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-11 Mon  >
 :LOGBOOK:
 CLOCK: [2022-04-12 Tue 13:35]--[2022-04-12 Tue 14:15] =>  0:40
 :END:
 ***** [[外科学/普通外科/阑尾疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-12 Tue>
 :LOGBOOK:
 CLOCK: [2022-04-12 Tue 16:00]--[2022-04-12 Tue 18:00] =>  2:00
 :END:
 ***** [[外科学/普通外科/结直肠与肛管疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-12 Tue>
 :LOGBOOK:
 CLOCK: [2022-04-13 Wed 10:54]--[2022-04-13 Wed 14:09] =>  3:15
 CLOCK: [2022-04-12 Tue 19:21]--[2022-04-12 Tue 22:59] =>  3:38
@@ -1297,7 +1259,6 @@ CLOCK: [2022-04-12 Tue 19:21]--[2022-04-12 Tue 22:59] =>  3:38
 ****** [[外科学/普通外科/结直肠与肛管疾病/教材/直肠癌]]
 ******
 ***** [[外科学/普通外科/肝疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-12 Tue>
 :LOGBOOK:
 CLOCK: [2022-04-13 Wed 16:28]--[2022-04-13 Wed 17:50] =>  1:22
 CLOCK: [2022-04-13 Wed 14:41]--[2022-04-13 Wed 15:10] =>  0:29
@@ -1306,14 +1267,12 @@ CLOCK: [2022-04-13 Wed 14:41]--[2022-04-13 Wed 15:10] =>  0:29
 ****** [[外科学/普通外科/肝疾病/教材/肝脓肿]]
 ****** [[外科学/普通外科/肝疾病/教材/继发性肝癌,肝海绵状瘤,肝囊肿]]
 ***** [[外科学/普通外科/门静脉高压症]] :ANKIFIDE:
-SCHEDULED: <2022-04-13 Wed      >
 :LOGBOOK:
 CLOCK: [2022-04-13 Wed 20:29]--[2022-04-13 Wed 21:50] =>  1:21
 CLOCK: [2022-04-13 Wed 18:05]--[2022-04-13 Wed 18:53] =>  0:48
 :END:
 ****** [[外科学/普通外科/门静脉高压症/教材]]
 ***** [[外科学/普通外科/胆道疾病]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-13 Wed  >
 :LOGBOOK:
 CLOCK: [2022-04-14 Thu 13:05]--[2022-04-14 Thu 14:12] =>  1:07
 CLOCK: [2022-04-14 Thu 09:15]--[2022-04-14 Thu 12:27] =>  3:12
@@ -1325,22 +1284,17 @@ CLOCK: [2022-04-14 Thu 09:15]--[2022-04-14 Thu 12:27] =>  3:12
 ****** [[外科学/普通外科/胆道疾病/教材/胆道疾病常见并发症]]
 ****** [[外科学/普通外科/胆道疾病/教材/胆囊息肉与胆囊肿瘤]]
 ***** [[外科学/普通外科/胰腺疾病]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-13 Wed>
 :LOGBOOK:
 CLOCK: [2022-04-14 Thu 14:56]--[2022-04-14 Thu 16:15] =>  1:19
 :END:
 ****** [[外科学/普通外科/胰腺疾病/教材/胰腺炎]]
 ***** [[外科学/普通外科/脾疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-14 Thu>
 ***** [[外科学/普通外科/消化道出血]] :ANKIFIDE:
-SCHEDULED: <2022-04-14 Thu>
 :LOGBOOK:
 CLOCK: [2022-04-14 Thu 16:24]--[2022-04-14 Thu 16:57] =>  0:33
 :END:
 ***** [[外科学/普通外科/急腹症]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-14 Thu  >
 ***** [[外科学/普通外科/周围血管与淋巴管疾病]] :ANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 :LOGBOOK:
 CLOCK: [2022-04-14 Thu 16:58]--[2022-04-14 Thu 18:07] =>  1:09
 :END:
@@ -1349,21 +1303,13 @@ CLOCK: [2022-04-14 Thu 16:58]--[2022-04-14 Thu 18:07] =>  1:09
 :collapsed: true
 :END:
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统外科检查和诊断]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统先天性畸形]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿系统外伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统感染]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统结核]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-15 Fri>
 ***** [[外科学/泌尿男生殖系统外科疾病/尿路梗阻]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-16 Sat>
 ***** [[外科学/泌尿男生殖系统外科疾病/尿路结石]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-16 Sat>
 ***** [[外科学/泌尿男生殖系统外科疾病/泌尿男生殖系统肿瘤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-16 Sat>
 ***** [[外科学/泌尿男生殖系统外科疾病/真题]]
 **** 骨科 :NOTANKIFIDE:
 :PROPERTIES:
@@ -1373,44 +1319,29 @@ SCHEDULED: <2022-04-16 Sat>
 CLOCK: [2022-04-18 Mon 11:39]--[2022-04-18 Mon 12:17] =>  0:38
 :END:
 ***** [[外科学/骨科/运动系统畸形]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-17 Sun>
 ***** [[外科学/骨科/骨折概论]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-17 Sun>
 ***** [[外科学/骨科/上肢骨、关节损伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-17 Sun>
 :LOGBOOK:
 CLOCK: [2022-04-16 Sat 08:50]--[2022-04-16 Sat 10:44] =>  1:54
 :END:
 ****** [[外科学/骨科/上肢骨、关节损伤/教材]]
 ****** [[外科学/骨科/上肢骨、关节损伤/activeRecall]]
 ***** [[外科学/骨科/手外伤及断肢（指）再植]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-18 Mon>
 ***** [[外科学/骨科/下肢骨、关节损伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-18 Mon>
 :LOGBOOK:
 CLOCK: [2022-04-16 Sat 10:45]--[2022-04-16 Sat 12:05] =>  1:20
 :END:
 ****** [[外科学/骨科/下肢骨、关节损伤/activeRecall]]
 ***** [[外科学/骨科/脊柱、脊髓损伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-18 Mon>
 ***** [[外科学/骨科/骨盆、髋臼骨折]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-19 Tue>
 ***** [[外科学/骨科/周围神经损伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-19 Tue>
 ***** [[外科学/骨科/运动系统慢性损伤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-19 Tue>
 ***** [[外科学/骨科/股骨头坏死]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-20 Wed>
 ***** [[外科学/骨科/颈、腰椎退行性疾病]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-20 Wed>
 ***** [[外科学/骨科/骨与关节化脓性感染]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-20 Wed>
 ***** [[外科学/骨科/骨与关节结核]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-21 Thu>
 ***** [[外科学/骨科/非化脓性关节炎]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-21 Thu>
 ***** [[外科学/骨科/骨肿瘤]] :NOTANKIFIDE:
-SCHEDULED: <2022-04-21 Thu>
 ***** [[外科学/骨科/真题]]
 *** 生物化学
 :PROPERTIES:
@@ -1426,43 +1357,28 @@ SCHEDULED: <2022-04-21 Thu>
 :END:
 **** [[生物化学/蛋白质消化吸收和氨基酸代谢]]
 **** [[生物化学/核苷酸代谢]]
-SCHEDULED: <2022-06-14 Tue>
 **** [[生物化学/代谢的整合与调节]]
-SCHEDULED: <2022-06-14 Tue>
 **** [[生物化学/真核基因与基因组]]
-SCHEDULED: <2022-06-15 Wed>
 **** [[生物化学/DNA的合成]]
-SCHEDULED: <2022-06-15 Wed>
 **** [[生物化学/DNA损伤和损伤修复]]
-SCHEDULED: <2022-06-16 Thu>
 **** [[生物化学/RNA的合成]]
-SCHEDULED: <2022-06-16 Thu>
 **** [[生物化学/蛋白质的合成]]
-SCHEDULED: <2022-06-17 Fri>
 **** [[生物化学/基因表达调控]]
-SCHEDULED: <2022-06-17 Fri>
 **** [[生物化学/细胞信号转导的分子机制]]
-SCHEDULED: <2022-06-18 Sat>
 **** [[生物化学/血液的生物化学]]
-SCHEDULED: <2022-06-18 Sat>
 **** [[生物化学/肝的生物化学]]
-SCHEDULED: <2022-06-19 Sun>
 **** [[生物化学/维生素]]
-SCHEDULED: <2022-06-19 Sun>
 **** [[生物化学/癌基因和抑癌基因]]
-SCHEDULED: <2022-06-20 Mon>
 **** [[生物化学/DNA重组和重组DNA 技术]]
-SCHEDULED: <2022-06-20 Mon>
 **** [[生物化学/常用分子生物学技术的原理及其应用]]
-SCHEDULED: <2022-06-21 Tue>
 **** [[生物化学/基因结构功能分析和疾病相关基因鉴定克隆]]
-SCHEDULED: <2022-06-21 Tue>
 *** [[activeRecall]]
 **** [[呼吸系统/activeRecall]]
 **** [[循环系统/activeRecall]]
 **** [[生物化学/activeRecall]]
 ** 英语
 :PROPERTIES:
+:collapsed: true
 :END:
 *** 逐句翻译
 :PROPERTIES:
@@ -1485,7 +1401,6 @@ CLOCK: [2022-03-19 Sat 22:04:35]--[2022-03-19 Sat 23:34:18] =>  01:29:43
 **** [[2002年/Ⅱ/Text2]]
 **** [[2002年/Ⅱ/Text3]]
 *** TODO [[id:9538bb2e-6fc9-47b2-931f-ed7efbbada8d][单词复习]] [0%]
-SCHEDULED: <2022-05-20 Fri ++1d>
 :PROPERTIES:
 :LAST_REPEAT: [2022-05-18 Wed 15:02]
 :END:
@@ -1523,7 +1438,11 @@ CLOCK: [2022-04-16 Sat 15:25]--[2022-04-16 Sat 16:35] =>  1:10
 *** [[颉斌斌阅读]]
 *** [[完型]]
 *** [[听力]]
+*** [[KaimingEnglishGrammar]]
 ** 期末考试
+:PROPERTIES:
+:collapsed: true
+:END:
 *** [[眼科学/activeRecall]]
 *** [[皮肤病/activeRecall]]
 *** 传染病学
@@ -1554,14 +1473,35 @@ CLOCK: [2022-05-17 Tue 09:29]--[2022-05-17 Tue 10:04] =>  0:35
 CLOCK: [2022-05-17 Tue 08:44]--[2022-05-17 Tue 09:19] =>  0:35
 :END:
 ** NO YouKnow
-CLOSED: [2022-04-02 Sat 22:20]
 :PROPERTIES:
 :id: 62484452-9ada-47a8-8e5a-97689259276c
 :END:
+CLOSED: [2022-04-02 Sat 22:20]
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-02 Sat 22:20]
 - CLOSING_NOTE [2022-04-05 Sat 22:20]
-:END:
+** Buddist
+*** [[摩诃止观]]
+** DailyPlanner
+*** TODO 复习昨天内容
+SCHEDULED: <2022-06-22 Wed 09:00-12:00 ++1d>
+*** TODO 午饭午觉
+SCHEDULED: <2022-06-22 Wed 12:00-13:40 ++1d>
+*** TODO 冥想预热
+SCHEDULED: <2022-06-22 Wed 13:40-14:00 ++1d>
+*** TODO 英语
+SCHEDULED: <2022-06-22 Wed 14:00-16:00 ++1d>
+*** TODO 学习新内容
+SCHEDULED: <2022-06-22 Wed 16:00-18:00 ++1d>
+*** TODO 晚饭
+SCHEDULED: <2022-06-22 Wed 18:00-19:00 ++1d>
+*** TODO 冥想预热
+SCHEDULED: <2022-06-22 Wed 19:00-19:20 ++1d>
+*** TODO 学习新内容
+SCHEDULED: <2022-06-22 Wed 19:20-23:20 ++1d>
+*** TODO 玩
+SCHEDULED: <2022-06-22 Wed 23:20-24:00 ++1d>
+
 * Summary
 #+BEGIN: clocktable :file subtree :maxlevel 10
 #+CAPTION: Clock summary at [2022-04-18 Mon 21:07]

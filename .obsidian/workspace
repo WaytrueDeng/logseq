@@ -7,8 +7,12 @@
         "id": "31e9e3a0e541ba21",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/2022-06-21.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/2022-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/2022-06-21.md"
+              }
             }
           },
           {
@@ -110,6 +117,7 @@
   },
   "active": "31e9e3a0e541ba21",
   "lastOpenFiles": [
+    "pages/2022-06-21.md",
     "draws/生物化学.excalidraw.md",
     "draws/生糖兼生酮氨基酸.md",
     "draws/消化系统.excalidraw.md",
@@ -118,7 +126,6 @@
     "draws/急性普通型肝炎的病理变化是.md",
     "draws/丙型肝炎的特有特点包括.md",
     "draws/黏膜固有层.md",
-    "draws/血液病其他重要的试验.md",
-    "draws/氰化物与CO中毒静脉氧分压如何改变.md"
+    "draws/血液病其他重要的试验.md"
   ]
 }

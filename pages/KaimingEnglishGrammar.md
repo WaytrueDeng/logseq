@@ -1,0 +1,5 @@
+- What is the only sensible way to teach gramma and make it effective?
+- what is the meaning of contemptuously?
+- conning, paradigm
+- rigmarole
+- bugaboo

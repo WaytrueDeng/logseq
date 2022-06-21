@@ -8,6 +8,7 @@
 ** 西综
 :PROPERTIES:
 :ID: bf9c9d1c-e610-4b47-9f89-88e7b2fe229f
+:collapsed: true
 :END:
 *** {{embed ((62300ca7-df45-4b22-8b74-f9fedfc215b9))}}
 *** black 3 days, red 8days orange 20 days green 30 days
@@ -20,7 +21,6 @@
 :collapsed: true
 :LAST_REPEAT: [2022-03-23 Wed 19:59:00]
 :END:
-SCHEDULED: <2022-04-23 Sat +1m>
 - CLOSING NOTE [2022-03-23 Wed 19:59:00] \\0/27
 [[Feb 23rd, 2022]]  0/27
 ***** [[机体的内环境,稳态和生物节律]]
@@ -1378,6 +1378,7 @@ CLOCK: [2022-04-16 Sat 10:45]--[2022-04-16 Sat 12:05] =>  1:20
 **** [[生物化学/activeRecall]]
 ** 英语
 :PROPERTIES:
+:collapsed: true
 :END:
 *** 逐句翻译
 :PROPERTIES:
@@ -1437,7 +1438,11 @@ CLOCK: [2022-04-16 Sat 15:25]--[2022-04-16 Sat 16:35] =>  1:10
 *** [[颉斌斌阅读]]
 *** [[完型]]
 *** [[听力]]
+*** [[KaimingEnglishGrammar]]
 ** 期末考试
+:PROPERTIES:
+:collapsed: true
+:END:
 *** [[眼科学/activeRecall]]
 *** [[皮肤病/activeRecall]]
 *** 传染病学
@@ -1468,14 +1473,35 @@ CLOCK: [2022-05-17 Tue 09:29]--[2022-05-17 Tue 10:04] =>  0:35
 CLOCK: [2022-05-17 Tue 08:44]--[2022-05-17 Tue 09:19] =>  0:35
 :END:
 ** NO YouKnow
-CLOSED: [2022-04-02 Sat 22:20]
 :PROPERTIES:
 :id: 62484452-9ada-47a8-8e5a-97689259276c
 :END:
+CLOSED: [2022-04-02 Sat 22:20]
 :LOGNOTE:
 - CLOSING_NOTE [2022-04-02 Sat 22:20]
 - CLOSING_NOTE [2022-04-05 Sat 22:20]
-:END:
+** Buddist
+*** [[摩诃止观]]
+** DailyPlanner
+*** TODO 复习昨天生化
+SCHEDULED: <2022-06-22 Wed 09:00-12:00 ++1d>
+*** TODO 午饭午觉
+SCHEDULED: <2022-06-22 Wed 12:00-13:40 ++1d>
+*** TODO 冥想预热
+SCHEDULED: <2022-06-22 Wed 13:40-14:00 ++1d>
+*** TODO 英语
+SCHEDULED: <2022-06-22 Wed 14:00-16:00 ++1d>
+*** TODO 复习生理生殖
+SCHEDULED: <2022-06-22 Wed 16:00-18:00 ++1d>
+*** TODO 晚饭
+SCHEDULED: <2022-06-22 Wed 18:00-19:00 ++1d>
+*** TODO 冥想预热
+SCHEDULED: <2022-06-22 Wed 19:00-19:20 ++1d>
+*** TODO 复习生理生殖
+SCHEDULED: <2022-06-22 Wed 19:20-23:20 ++1d>
+*** TODO 玩
+SCHEDULED: <2022-06-22 Wed 23:20-24:00 ++1d>
+
 * Summary
 #+BEGIN: clocktable :file subtree :maxlevel 10
 #+CAPTION: Clock summary at [2022-04-18 Mon 21:07]
